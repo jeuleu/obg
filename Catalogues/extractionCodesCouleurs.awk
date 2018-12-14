@@ -1,12 +1,15 @@
 BEGIN{
+#		print "Code couleur;Couleur it;Couleur en;"
 }
+
+# Recherche des codes couleur
 
 chercheCol == "en" {
 	gsub(/ $/, "", $0)
 	couleurEN = $0
 	chercheCol = ""
 	
-	print codeCouleur     ";"      couleurIT ";" couleurEN ";"
+	print codeCouleur ";" ";" couleurIT ";" couleurEN ";"
 }
 
 chercheCol == "it" {
@@ -16,7 +19,7 @@ chercheCol == "it" {
 }
 
 	
-$0 ~ "col. " {
+/^col. / {
 	codeCouleur = $2
 	chercheCol = "it"
 }

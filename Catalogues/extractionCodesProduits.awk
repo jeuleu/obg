@@ -1,7 +1,9 @@
 BEGIN{
+	print "Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Code barre;Couleur it;Couleur en;"
 }
 
-# Page et nom catalogue
+
+# Page paire et nom catalogue
 /^0?[0-9]*\. / {
 	gsub(/\./, "", $1)
 	page = $1
@@ -13,6 +15,16 @@ BEGIN{
 	}
 }
 
+
+# Libellé du produit
+/^descrizione/ {
+	libelleProduit = ""
+	for (i= 2; i <= NF; i++) {
+		libelleProduit = libelleProduit " " $i
+	}
+}
+
+# Page impaire
 / [0-9]*\. / {
 	gsub(/\./, "", $NF)
 	page = $NF
@@ -31,7 +43,7 @@ chercheCol == "en" {
 	couleurEN = $0
 	chercheCol = ""
 	
-	print nomCatalogue ";" page ";" codeProduit ";" codeCouleur ";" couleurIT ";" couleurEN ";"
+	print nomCatalogue ";" page ";" libelleProduit ";" codeProduit ";" codeCouleur ";" ";" couleurIT ";" couleurEN ";"
 }
 
 chercheCol == "it" {
@@ -41,7 +53,8 @@ chercheCol == "it" {
 }
 
 	
-$0 ~ "col. " {
+	
+/^col. / {
 	codeCouleur = $2
 	chercheCol = "it"
 }
