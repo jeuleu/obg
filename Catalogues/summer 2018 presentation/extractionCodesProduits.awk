@@ -1,10 +1,16 @@
 BEGIN{
 }
 
-
+# Page et nom catalogue
 /^0?[0-9]*\. / {
 	gsub(/\./, "", $1)
 	page = $1
+	
+	if (nomCatalogue == "") {
+		for (i= 2; i <= NF; i++) {
+			nomCatalogue = nomCatalogue " " $i
+		}
+	}
 }
 
 / [0-9]*\. / {
@@ -13,6 +19,7 @@ BEGIN{
 }
 
 
+# Code Produit
 $0 ~ "code" {
 	codeProduit = $2 ";" $3
 }
@@ -24,7 +31,7 @@ chercheCol == "en" {
 	couleurEN = $0
 	chercheCol = ""
 	
-	print page ";" codeProduit ";" codeCouleur     ";"      couleurIT ";" couleurEN ";"
+	print nomCatalogue ";" page ";" codeProduit ";" codeCouleur ";" couleurIT ";" couleurEN ";"
 }
 
 chercheCol == "it" {
