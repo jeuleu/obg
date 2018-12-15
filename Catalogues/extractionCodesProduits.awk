@@ -42,7 +42,7 @@ chercheCol == "en" {
 	couleurEN = corrigeCouleur($0)
 	chercheCol = ""
 	
-	print nomCatalogue ";" page ";" libelleProduit ";" codeProduit ";" codeCouleur ";" ";" couleurIT ";" couleurEN ";"
+	printf("%s;%d;%s;%s;%03d;;%s;%s;\n", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN)
 }
 
 chercheCol == "it" {
