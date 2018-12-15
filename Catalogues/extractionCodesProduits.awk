@@ -2,20 +2,26 @@ BEGIN{
 }
 
 input != FILENAME {
+	print " "
+
+	print "Source : " FILENAME
 	input = FILENAME
 	
 	# fichier sortie
 	output = FILENAME
 	gsub(/txt$/, "csv", output)
-
-	print "Source : " FILENAME
 	print "Sortie : " output
+
+	outputCouleur = FILENAME
+	gsub(/txt$/, "couleur.txt", outputCouleur)
+	print "Couleurs : " outputCouleur
+
+	print "Code barre;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > output
 	
 	# reinitialisation
 	nomCatalogue = ""
 	chercheCol = ""
-	
-	print "Code barre;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > output
+
 }
 
 
@@ -29,6 +35,8 @@ input != FILENAME {
 			nomCatalogue = nomCatalogue " " $i
 		}
 		
+		nomCatalogue = corrigeCaracteresSpeciaux(nomCatalogue)
+
 		print "Catalogue : " nomCatalogue
 	}
 }
@@ -57,14 +65,16 @@ $0 ~ "code" {
 # Recherche des codes couleur
 
 chercheCol == "en" {
-	couleurEN = corrigeCouleur($0)
+	couleurEN = corrigeCaracteresSpeciaux($0)
 	chercheCol = ""
 	
 	printf("%s;%s;%d;%s;%s;%03d;%s;%s;\n", "CodeBarre", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > output
+	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > outputCouleur
+	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > "ToutesCouleurs.txt"
 }
 
 chercheCol == "it" {
-	couleurIT = corrigeCouleur($0)
+	couleurIT = corrigeCaracteresSpeciaux($0)
 	chercheCol = "en"
 }
 
@@ -74,11 +84,12 @@ chercheCol == "it" {
 	chercheCol = "it"
 }
 
-function corrigeCouleur(ligne) {
+function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/ $/, "", ligne)
 
 	gsub(/\222/, "'", ligne)
 	gsub(/\371/, "<u>", ligne)
+	gsub(/‘/, "XX", ligne)
 	
 	return ligne
 }
