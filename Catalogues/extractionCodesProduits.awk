@@ -1,5 +1,21 @@
 BEGIN{
-	print "Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Code barre;Couleur it;Couleur en;"
+}
+
+input != FILENAME {
+	input = FILENAME
+	
+	# fichier sortie
+	output = FILENAME
+	gsub(/txt$/, "csv", output)
+
+	print "Source : " FILENAME
+	print "Sortie : " output
+	
+	# reinitialisation
+	nomCatalogue = ""
+	chercheCol = ""
+	
+	print "Code barre;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > output
 }
 
 
@@ -12,6 +28,8 @@ BEGIN{
 		for (i= 2; i <= NF; i++) {
 			nomCatalogue = nomCatalogue " " $i
 		}
+		
+		print "Catalogue : " nomCatalogue
 	}
 }
 
@@ -42,7 +60,7 @@ chercheCol == "en" {
 	couleurEN = corrigeCouleur($0)
 	chercheCol = ""
 	
-	printf("%s;%d;%s;%s;%03d;;%s;%s;\n", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN)
+	printf("%s;%s;%d;%s;%s;%03d;%s;%s;\n", "CodeBarre", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > output
 }
 
 chercheCol == "it" {
