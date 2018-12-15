@@ -1,0 +1,8414 @@
+.borse bags 
+03 scocche body 
+04 scocche body O bag 
+05 scocche body O bag mini 
+06 scocche body O bag‘50 
+07 scocche body O city 
+08 scocche body O moon 
+09 scocche body O moon light 
+10 scocche body O swing 
+11 scocche body O pocket 
+12 scocche body O pocket micro 
+13 scocche body O bag beach 
+14 scocche body O bag beach mini 
+15 scocche body O bag beach micro 
+17 manici e tracolle 
+handles and shoulder straps 
+18 manici lunghi long handles 
+33 manici corti short handles 
+49 tracolle shoulder straps 
+63 clip clip 
+67 fascia bracciale bracelet foulard 
+69 bordi trims 
+70 bordi trims O bag 
+75 bordi trims O bag mini 
+81 chiusura street street fastening 
+82 chiusura street street fastening O bag 
+83 chiusura street street fastening O bag mini 
+85 sacche interne inserts 
+86 sacche interne inner bags O bag 
+92 sacche interne inner bags O bag mini 
+97 sacche interne inner bags O bag '50 
+99 sacche interne inner bags O city 
+103 sacche interne inner bags O moon 
+107 sacche interne inner bags O moon light 
+110 sacche interne inner bags O swing 
+113 sacche interne inner bags O bag beach 
+114 sacche interne inner bags O bag beach mini 
+116 sacche interne inner bags O bag beach micro 
+119 patte flaps 
+120 patte flaps O pocket 
+122 patte flaps O pocket micro 
+123 patte flaps O city 
+125 zaini backpacks 
+126 O square 
+129 One 
+130 O bag tote 
+131 O bag soft 
+132 secchiello 
+133 kit zaino backpack kit O bag '50 
+137 accessori accessories 
+138 pochette forata pierced pochette 
+139 pochette pochette 
+140 collana necklace 
+140 charm charm 
+.orologi clocks 
+144 O clock 
+165 O clock great 
+183 O clock shift 
+.occhiali sunglasses 
+188 O sun 
+208 O sun bump 
+209 O sun aviator 
+217 O sun shine 
+221 O sun flat 
+.bracciali bracelets 
+226 O bracelet flower slim 
+228 O bracelet flower big 
+230 O bracelet daisy big 
+.portafogli wallets 
+234 O hug donna woman 
+.scarpe shoes 
+240 O shoes donna high women high 
+243 O shoes donna low women low 
+246 O shoes uomo low men low 
+248 O shoes accessori accessories
+.scocche bodies
+04. O bag summer 2018 
+code OBAGB001 EVS00 
+descrizione scocca O bag EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - bordi - 
+chiusure street - sacche interne 
+description EVA compound O bag body 
+material EVA compound 
+components handles and shoulder 
+straps - trims - street fastening - inner 
+bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+O bag .scocca body 
+.cote d’azur 
+col. 075 
+rosa smoke 
+rose smoke 
+.manila 
+col. 076 
+rosso 
+red 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+col. 479 
+skyway 
+skyway 
+col. 422 
+sangria 
+sangria 
+.manila .cote d’azur 
+.cote d’azur .cote d’azur 
+.cote d’azur 
+.cote d’azur 
+col. 483 
+champagne 
+champagne 
+col. 485 
+atlantic 
+atlantic 
+.manila .manila 
+.crossing 
+col. 084 
+testa di moro 
+dark brown 
+col. 038 
+grafite 
+graphite 
+col. 486 
+pink 
+pink 
+col. 347 
+cedro 
+cedro
+scocche bodies 05. 
+.cote d’azur .cote d’azur 
+.cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+.manila 
+col. 076 
+rosso 
+red 
+.cote d’azur 
+code OBAGB002 EVS00 
+descrizione scocca O bag mini EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - bordi - 
+chiusure street - sacche interne 
+description EVA compound O bag mini 
+body 
+material EVA compound 
+components handles and shoulder 
+straps - trims - street fastening - inner 
+bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+O bag mini .scocca body 
+col. 075 
+rosa smoke 
+rose smoke 
+.manila .cote d’azur 
+col. 422 
+sangria 
+sangria 
+col. 479 
+skyway 
+skyway 
+col. 483 
+champagne 
+champagne 
+.manila 
+col. 484 
+coral 
+coral 
+.cote d’azur .cote d’azur 
+.manila 
+col. 084 
+testa di moro 
+dark brown 
+.crossing 
+col. 038 
+grafite 
+graphite 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+06. O bag summer 2018 
+code OBAGB009 EVS00 
+descrizione scocca O bag ‘50 EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - bordi - 
+sacche interne 
+description EVA compound O bag ‘50 
+body 
+material EVA compound 
+components handles and shoulder 
+straps - trims - inner bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 484 
+coral 
+coral 
+O bag ‘50 .scocca body 
+col. 076 
+rosso 
+red 
+.cote d’azur .cote d’azur .manila 
+.cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+col. 422 
+sangria 
+sangria 
+col. 479 
+skyway 
+skyway 
+.manila 
+.manila .cote d’azur 
+.cote d’azur 
+col. 084 
+testa di moro 
+dark brown 
+.crossing 
+col. 347 
+cedro 
+cedro
+scocche bodies 07. 
+code OBAGB010 EVS00 
+descrizione scocca O city EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - bordi - 
+patte - sacche interne 
+description EVA compound O city body 
+material EVA compound 
+components straps - trims - flaps - inner 
+bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 484 
+coral 
+coral 
+O city .scocca body 
+col. 076 
+rosso 
+red 
+.cote d’azur .cote d’azur .manila 
+.cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+col. 422 
+sangria 
+sangria 
+col. 479 
+skyway 
+skyway 
+.manila 
+.manila .cote d’azur 
+.cote d’azur 
+col. 347 
+cedro 
+cedro 
+col. 084 
+testa di moro 
+dark brown 
+.crossing
+08. O bag summer 2018 
+code OBAGB016 EVS00 
+descrizione scocca O bag moon EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - sacche 
+interne 
+description EVA compound O bag moon 
+body 
+material EVA compound 
+components handles and shoulder 
+straps - inner bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+col. 075 
+rosa smoke 
+rose smoke 
+O bag moon .scocca body 
+.cote d’azur 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+.cote d’azur .manila 
+col. 422 
+sangria 
+sangria 
+col. 479 
+skyway 
+skyway 
+col. 485 
+atlantic 
+atlantic 
+.manila .cote d’azur 
+.cote d’azur 
+.manila 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+scocche bodies 09. 
+code OBAGB017 EVS00 
+descrizione scocca O bag moon light 
+EVA compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - sacche 
+interne 
+description EVA compound O bag moon 
+light body 
+material EVA compound 
+components handles and shoulder 
+straps - inner bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+col. 075 
+rosa smoke 
+rose smoke 
+O bag moon light .scocca body 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+.manila 
+col. 422 
+sangria 
+sangria 
+col. 479 
+skyway 
+skyway 
+col. 485 
+atlantic 
+atlantic 
+.manila .cote d’azur .manila 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+10. O bag summer 2018 
+code OBAGB021 EVS03 
+descrizione scocca O swing EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - sacche 
+interne 
+description EVA compound O swing 
+body 
+material EVA compound 
+components handles and shoulder 
+straps - inner bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+O swing .scocca body 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+col. 422 
+sangria 
+sangria 
+.manila 
+col. 485 
+atlantic 
+atlantic 
+.manila 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+scocche bodies 11. 
+code OBAGB206 EVS00 
+descrizione scocca sotto O pocket EVA 
+compound 
+materiale EVA compound 
+abbinamenti tracolle - pattine 
+description EVA compound O pocket 
+lower body 
+material EVA compound 
+components shoulder straps - flaps 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 484 
+coral 
+coral 
+O pocket .scocca sotto lower body 
+col. 076 
+rosso 
+red 
+.cote d’azur 
+.cote d’azur .manila 
+.cote d’azur 
+col. 483 
+champagne 
+champagne 
+col. 485 
+atlantic 
+atlantic 
+col. 479 
+skyway 
+skyway 
+.manila 
+.manila 
+.cote d’azur .cote d’azur 
+.cote d’azur 
+col. 422 
+sangria 
+sangria 
+.manila 
+col. 084 
+testa di moro 
+dark brown 
+.crossing 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+12. O bag summer 2018 
+code OBAGB024 EVS00 
+descrizione scocca O pocket micro EVA 
+compound 
+materiale EVA compound 
+abbinamenti tracolle - pattine 
+description EVA compound O pocket 
+micro body 
+material EVA compound 
+components shoulder straps - flaps 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 422 
+sangria 
+sangria 
+O pocket micro .scocca body 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur .manila 
+.manila 
+col. 485 
+atlantic 
+atlantic 
+.manila 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+scocche bodies 13. 
+code OBAGB012 EVS03 
+descrizione scocca O bag beach EVA 
+compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - sacche 
+interne 
+description EVA compound O bag beach 
+body 
+material EVA compound 
+components handles and shoulder 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+straps - inner bags 
+col. 026 
+cobalto 
+cobalt blue 
+O bag beach .scocca body 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+.manila 
+col. 485 
+atlantic 
+atlantic 
+.manila 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+14. O bag summer 2018 
+code OBAGB018 EVS03 
+descrizione scocca O bag beach mini 
+EVA compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - sacche 
+interne 
+description EVA compound O bag beach 
+mini body 
+material EVA compound 
+components handles and shoulder 
+straps - inner bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 026 
+cobalto 
+cobalt blue 
+O bag beach mini .scocca body 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+.manila 
+col. 485 
+atlantic 
+atlantic 
+.manila 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+scocche bodies 15. 
+code OBAGB028 EVS03 
+descrizione scocca O bag beach micro 
+EVA compound 
+materiale EVA compound 
+abbinamenti manici e tracolle - sacche 
+interne 
+description EVA compound O bag beach 
+micro body 
+material EVA compound 
+components handles and shoulder 
+straps - inner bags 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+O bag beach micro .scocca body 
+.cote d’azur .manila 
+col. 479 
+skyway 
+skyway 
+.cote d’azur 
+col. 347 
+cedro 
+cedro
+.manici e tracolle 
+handles and shoulder straps
+18. O bag summer 2018 
+code HLESU200 TESO4 
+descrizione manico foulard tessuto 
+cannes 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+description cannes fabric foulard handle 
+material fabric 
+components O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+col. 017 
+blu navy 
+navy blue 
+tessuto cannes .manico lungo long handle 
+.cote d’azur 
+code HLESU200 TESL5 
+descrizione manico foulard tessuto vichy 
++ fiore 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+description vichy fabric + flower foulard 
+handle 
+material fabric 
+components O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy + fiore .manico lungo long handle 
+.cote d’azur .cote d’azur
+manici e tracolle handles and shoulder straps 19. 
+code HLESD000 ECS35 
+descrizione manico lungo componibile 
+ecopelle basic 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+description basic faux leather long 
+handle with round snap-hooks and tear 
+drop 
+material faux leather 
+components O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+col. 422 
+sangria 
+sangria 
+col. 017 
+blu navy 
+navy blue 
+col. 371 
+latte 
+milk 
+col. 485 
+atlantic 
+atlantic 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+coral 
+coral 
+ecopelle basic .manico lungo long handle 
+.manila 
+.cote d’azur 
+.cote d’azur 
+.manila 
+.cote d’azur .cote d’azur 
+.cote d’azur 
+col. 055 
+nero 
+black
+20. O bag summer 2018 
+code HLESD000 TES20 
+descrizione manico lungo componibile 
+tessuto gommato 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+description rubber-coated fabric long 
+handle with round snap-hooks and tear 
+drop 
+material fabric 
+components O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+col. 078 
+sabbia 
+sand 
+col. 139 
+mela 
+apple 
+tessuto gommato .manico lungo long handle 
+.manila .manila 
+.cote d’azur .cote d’azur .cote d’azur 
+code HLESG000 ROS08 
+descrizione manico lungo corda treccina 
+cotone + tessuto gommato 
+materiale corda + tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description cotton braid rope + rubber-coated 
+fabric long handle 
+material rope + fabric 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 484 
+coral 
+coral 
+col. 026 
+cobalto 
+cobalt blue 
+col. 055 
+nero 
+black 
+corda treccina cotone + tessuto gommato .manico lungo long handle 
+manici e tracolle handles and shoulder straps 21. 
+code HLESG000 ECS04 
+descrizione manico lungo ecopelle 
+nappina 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+description faux leather tassel long 
+handle 
+material faux leather 
+components O bag - O bag mini - O city 
+- O bag beach mini - O bag beach micro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 128 
+salmone 
+salmon 
+col. 046 
+mare 
+sea blue 
+col. 137 
+bluette 
+bright blue 
+col. 051 
+mostarda 
+mustard 
+col. 139 
+mela 
+apple 
+ecopelle nappina .manico lungo long handle 
+.cote d’azur 
+.cote d’azur 
+.manila 
+.cote d’azur 
+.cote d’azur 
+.manila 
+col. 183 
+viola 
+violet 
+.manila
+22. O bag summer 2018 
+code HLESC200 ECS05 
+descrizione manico catena goccia lungo 
+ecopelle patch 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 084 
+testa di moro 
+dark brown 
+patch .manico lungo long handle 
+.crossing 
+code HLESC100 TES12 
+descrizione manico catena angular lungo 
+tessuto denim - sughero 
+materiale tessuto - sughero 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material fabric - cork 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 028 
+ecru 
+ecru 
+col. 103 
+denim 
+denim 
+angular sughero denim .manico lungo long handle 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 23. 
+code HLESC200 TES29 
+descrizione manico catena goccia lungo 
+velluto 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material fabric 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 018 
+bordeaux 
+burgundy 
+col. 055 
+nero 
+black 
+velluto .manico lungo long handle 
+.crossing .crossing 
+code HLESF000 PES03 
+descrizione manico con fibbia lungo 
+pelle intrecciato 
+materiale pelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 069 
+porpora 
+purple 
+col. 108 
+terracotta 
+terracotta 
+intrecciato .manico lungo long handle 
+.crossing .crossing
+24. O bag summer 2018 
+code HLESF200 ECS00 
+descrizione manico con fibbia goccia 
+lungo ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 010 
+blu - grigio 
+blue - grey 
+col. 106 
+kiwi - polvere 
+kiwi - dusty blue 
+col. 104 
+terracotta - phard 
+terracotta - blush pink 
+col. 105 
+grigio - avorio 
+grey - ivory 
+fibbia .manico lungo long handle 
+.crossing 
+.crossing 
+.crossing .crossing 
+code HLESM200 TES03 
+descrizione micromanico goccia tessuto 
+occhio di pernice 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+description 
+material fabric 
+components O bag - O bag mini - O city 
+col. 098 
+blu-blu 
+blue - blue 
+col. 107 
+salmone - terracotta 
+salmon - terracotta 
+col. 099 
+grigio-tortora 
+grey - dove-grey 
+col. 100 
+kiwi-verde 
+kiwi - green 
+occhio di pernice .manico lungo long handle 
+.crossing 
+.crossing 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 25. 
+code HLESG000 ECS04 
+descrizione manico lungo ecopelle 
+nappina 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 038 
+grafite 
+graphite 
+col. 135 
+peltro 
+pewter 
+nappina .manico lungo long handle 
+.crossing .crossing 
+code HLESG000 FES00 
+descrizione manico lungo feltro 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material fabric 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 005 
+avio 
+air force blue 
+col. 154 
+ciliegia 
+cherry 
+col. 063 
+ottanio 
+teal 
+col. 079 
+senape 
+mustard 
+feltro .manico lungo long handle 
+.crossing 
+.crossing 
+.crossing .crossing
+26. O bag summer 2018 
+code HLESG100 ECS00 
+descrizione manico angular lungo 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 009 
+blu 
+blue 
+col. 039 
+grigio 
+grey 
+col. 108 
+terracotta 
+terracotta 
+angular .manico lungo long handle 
+.crossing .crossing .crossing 
+code HLESG100 ECS13 
+descrizione manico angular lungo 
+ecopelle basic nature 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 006 
+avorio 
+ivory 
+col. 087 
+taupe 
+taupe 
+angular basic nature .manico lungo long handle 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 27. 
+code HLESG200 ECS12 
+descrizione manico goccia lungo 
+ecopelle slide 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 122 
+salmone - blu 
+salmon - blue 
+col. 123 
+blu - polvere 
+blue - dust blue 
+col. 124 
+glicine - grigio 
+wisteria - grey 
+slide .manico lungo long handle 
+.crossing .crossing .crossing 
+code HLESM000 TES06 
+descrizione micromanico lungo tessuto 
+denim - eco 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material fabric 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 102 
+denim - cuoio 
+denim - leather 
+denim .manico lungo long handle 
+.crossing
+28. O bag summer 2018 
+code HLESNB00 ECS00 
+descrizione manico nottolino allungabile 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 054 
+naturale 
+natural 
+col. 086 
+tortora 
+dove-grey 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+allungabile .manico lungo long handle 
+.crossing 
+.crossing 
+.crossing .crossing 
+code HLESP000 ECS06 
+descrizione manico piatti lungo ecopelle 
+vintage 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 039 
+grigio 
+grey 
+col. 048 
+mattone 
+brick 
+col. 089 
+verde 
+green 
+piatto vintage .manico lungo long handle 
+.crossing .crossing .crossing
+manici e tracolle handles and shoulder straps 29. 
+code HLESX100 ECS00 
+descrizione manico extra slim angular 
+lungo ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 009 
+blu 
+blue 
+col. 036 
+giallo 
+yellow 
+col. 076 
+rosso 
+red 
+extra slim angular .manico lungo long handle 
+.crossing .crossing .crossing 
+code HLESX110 ECS00 
+descrizione manico extra slim angular 
+lungo O city ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+extra slim angular .manico lungo long handle O city 
+.crossing .crossing .crossing
+30. O bag summer 2018 
+code HLESX110 ECS07 
+descrizione manico extra slim angular 
+lungo O city ecopelle saffiano 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 063 
+ottanio 
+teal 
+col. 089 
+verde 
+green 
+col. 183 
+viola 
+violet 
+extra slim angular saffiano .manico lungo long handle O city 
+.crossing .crossing .crossing 
+code HLESX200 ECS08 
+descrizione manico extra slim goccia 
+lungo ecopelle vernice 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 055 
+nero 
+black 
+extra slim vernice .manico lungo long handle 
+.crossing
+manici e tracolle handles and shoulder straps 31. 
+code HLESX200 ECS27 
+descrizione manico extra slim goccia 
+lungo ecopelle vernice geometrica 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 018 
+bordeaux 
+burgundy 
+extra slim vernice geometrica .manico lungo long handle 
+.crossing 
+code HLESX200 ECS13 
+descrizione manico extra slim goccia 
+lungo ecopelle basic nature 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 006 
+avorio 
+ivory 
+col. 087 
+taupe 
+taupe 
+col. 039 
+grigio 
+grey 
+col. 084 
+testa di moro 
+dark brown 
+extra slim basic nature .manico lungo long handle 
+.crossing 
+.crossing 
+.crossing .crossing
+32. O bag summer 2018 
+code HLESF300 PES00 
+descrizione manico con fibbia rombo 
+lungo pelle 
+materiale pelle 
+abbinamenti O bag - O bag mini - O city 
+- O beach mini 
+description 
+material leather 
+components O bag - O bag mini - O city 
+- O beach mini 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+col. 093 
+vino 
+wine 
+fibbia rombo .manico lungo long handle 
+.crossing .crossing .crossing
+manici e tracolle handles and shoulder straps 33. 
+code HLESAD00 TES20 
+descrizione manichetto tubolare tessuto 
+gommato 
+materiale tessuto 
+abbinamenti O pocket (+ clip) - O pocket 
+micro (+ clip) - O bag bucket - O bag tote 
+- O bag beach micro 
+description rubber-coated fabric short 
+tubular handle with round snap-hooks 
+material fabric 
+components O pocket (+ clip) - O pocket 
+micro (+ clip) - O bag bucket - O bag tote 
+- O bag beach micro 
+col. 078 
+sabbia - argento 
+sand - silver 
+col. 139 
+mela - argento 
+apple - silver 
+tessuto gommato .manico corto short handle 
+.manila .manila 
+col. 078 
+sabbia 
+sand 
+col. 139 
+mela 
+apple 
+.manila .manila 
+code HLESMD00 TES20 
+descrizione micromanico tubolare 
+tessuto gommato 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+description rubber-coated fabric micro 
+handle 
+material fabric 
+components O bag - O bag mini - O city 
+tessuto gommato .micro manico micro handle 
+34. O bag summer 2018 
+code HLESAD00 ECS00 
+descrizione manichetto tubolare ecopelle 
+materiale ecopelle 
+abbinamenti O pocket (+ clip) - O pocket 
+micro (+ clip) - O bag bucket - O bag tote 
+- O bag beach micro 
+description faux leather short tubular 
+handle with round snap-hooks 
+material faux leather 
+components O pocket (+ clip) - O pocket 
+micro (+ clip) - O bag bucket - O bag tote 
+- O bag beach micro 
+col. 484 
+coral - argento 
+coral - silver 
+col. 485 
+atlantic - argento 
+atlantic - silver 
+col. 017 
+blu navy - argento 
+navy blue - silver 
+ecopelle .manico corto short handle 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+.cote d’azur .manila 
+.cote d’azur 
+.manila .cote d’azur 
+col. 055 
+nero - argento 
+black - silver 
+col. 371 
+latte - argento 
+milk - silver 
+col. 026 
+cobalto - argento 
+cobalt blue - silver 
+col. 422 
+sangria - argento 
+sangria - silver 
+col. 076 
+rosso - argento 
+red - silver
+manici e tracolle handles and shoulder straps 35. 
+code HLESMD00 ECS46 
+descrizione micromanico tubolare 
+ecopelle liscia 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach micro 
+description smooth faux leather micro 
+handle 
+material faux leather 
+components O bag - O bag mini - O city 
+- O bag beach micro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 017 
+blu navy 
+navy blue 
+col. 484 
+coral 
+coral 
+col. 479 
+skyway 
+skyway 
+col. 485 
+atlantic 
+atlantic 
+ecopelle liscia .manico corto short handle 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.manila 
+.cote d’azur 
+.cote d’azur .manila 
+col. 055 
+nero 
+black 
+col. 371 
+latte 
+milk 
+col. 422 
+sangria 
+sangria 
+col. 221 
+cognac 
+cognac 
+.crossing
+col. 183 
+viola 
+violet 
+.manila 
+code HLESGC00 ECS04 
+descrizione manico corto ecopelle 
+nappina 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+- O bag beach micro 
+description faux leather tassel short 
+handle 
+material faux leather 
+components O bag - O bag mini - O city 
+- O bag beach micro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 128 
+salmone 
+salmon 
+col. 046 
+mare 
+sea blue 
+col. 137 
+bluette 
+bright blue 
+col. 051 
+mostarda 
+mustard 
+col. 139 
+mela 
+apple 
+ecopelle nappina .manico corto short handle 
+.cote d’azur 
+.cote d’azur 
+.manila 
+.cote d’azur 
+.cote d’azur 
+.manila
+manici e tracolle handles and shoulder straps 37. 
+code HLESAG00 TESL5 
+descrizione manichetto piatto tessuto 
+vichy + fiore 
+materiale tessuto 
+abbinamenti O pocket (+ clip) - O pocket 
+micro (+ clip) - O bag bucket - O bag tote 
+- O bag beach micro 
+description short flat handle vichy fabric 
++ flower 
+material fabric 
+components O pocket (+ clip) - O pocket 
+micro (+ clip) - O bag bucket - O bag tote 
+- O bag beach micro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy + fiore .manico corto short handle 
+.cote d’azur .cote d’azur 
+.
+38. O bag summer 2018 
+code HLESF800 ECS00 
+descrizione manico con fibbia goccia 
+corto ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 010 
+blu - grigio 
+blue - grey 
+col. 106 
+kiwi - polvere 
+kiwi - dusty blue 
+col. 104 
+terracotta - phard 
+terracotta - blush pink 
+col. 105 
+grigio - avorio 
+grey - ivory 
+fibbia .manico corto short handle 
+.crossing 
+.crossing 
+.crossing .crossing 
+code HLESFC00 PES03 
+descrizione manico con fibbia corto pelle 
+intrecciato 
+materiale pelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 088 
+turchese 
+turquoise 
+fibbia intrecciato .manico corto short handle 
+.crossing
+manici e tracolle handles and shoulder straps 39. 
+code HLESGC00 ECS04 
+descrizione manico corto ecopelle 
+nappina 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 038 
+grafite 
+graphite 
+col. 135 
+peltro 
+pewter 
+nappina .manico corto short handle 
+.crossing .crossing 
+code HLESX800 ECS13 
+descrizione manico extra slim goccia 
+corto ecopelle basic nature 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 006 
+avorio 
+ivory 
+col. 087 
+taupe 
+taupe 
+col. 039 
+grigio 
+grey 
+col. 084 
+testa di moro 
+dark brown 
+extra slim basic nature .manico corto short handle 
+.crossing 
+.crossing 
+.crossing .crossing
+40. O bag summer 2018 
+code HLESM800 TES19 
+descrizione manico micromanico goccia 
+corto tessuto chanel 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O city 
+description 
+material fabric 
+components O bag - O bag mini - O city 
+col. 341 
+dark multicolor 
+dark multicolor 
+chanel .manico corto short handle 
+.crossing 
+code HLESMC00 FES06 
+descrizione micromanico corto feltro più 
+ecopelle verniciata 
+materiale ecopelle - tessuto 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather - fabric 
+components O bag - O bag mini - O city 
+col. 010 
+blu - grigio 
+blue - grey 
+col. 321 
+bordeaux - blu 
+burgundy - blue 
+col. 037 
+giallo - verde 
+yellow - green 
+col. 049 
+mattone - beige 
+brick - beige 
+feltro + vernice .manico corto short handle 
+.crossing 
+.crossing 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 41. 
+code HLESP809 ECS00 
+descrizione manico piatti goccia corto O 
+bag ‘50 ecopelle 
+materiale ecopelle 
+abbinamenti O bag ‘50 
+description 
+material faux leather 
+components O bag ‘50 
+col. 084 
+testa di moro 
+dark brown 
+piatto .manico corto short handle O bag ‘50 
+.crossing 
+code HLESPC00 ECS05 
+descrizione manico piatti corto ecopelle 
+patch 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 035 
+ghiaccio 
+ice 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+piatto patch .manico corto short handle 
+.crossing .crossing .crossing
+42. O bag summer 2018 
+code HLESPC00 ECS06 
+descrizione manico piatti corto ecopelle 
+vintage 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 035 
+ghiaccio 
+ice 
+col. 089 
+verde 
+green 
+col. 039 
+grigio 
+grey 
+col. 048 
+mattone 
+brick 
+piatto vintage .manico corto short handle 
+.crossing 
+.crossing 
+.crossing .crossing 
+code HLESPC09 ECS00 
+descrizione manico piatti corto O bag ‘50 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag ‘50 
+description 
+material faux leather 
+components O bag ‘50 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+piatto .manico corto short handle O bag ‘50 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 43. 
+code HLESPC09 ECS04 
+descrizione manico piatti corto O bag ‘50 
+ecopelle nappina 
+materiale ecopelle 
+abbinamenti O bag ‘50 
+description 
+material faux leather 
+components O bag ‘50 
+col. 008 
+bianco 
+white 
+col. 347 
+cedro 
+cedro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+corallo 
+coral 
+piatto nappina .manico corto short handle O bag ‘50 
+.crossing 
+.crossing 
+.crossing .crossing 
+code HLESX700 ECS00 
+descrizione manico extra slim angular 
+corto ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 009 
+blu 
+blue 
+col. 036 
+giallo 
+yellow 
+col. 076 
+rosso 
+red 
+extra slim angular .manico corto short handle 
+.crossing .crossing .crossing
+44. O bag summer 2018 
+code HLESX700 ECS14 
+descrizione manico extra slim angular 
+corto ecopelle doppia treccia 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 126 
+cielo-rosa 
+sky blue - pink 
+col. 127 
+glicine-tortora 
+wisteria - dove-grey 
+extra slim angular doppia treccia .manico corto short handle 
+.crossing .crossing 
+code HLESX710 ECS00 
+descrizione manico extra slim angular 
+corto O city ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+extra slim angular .manico corto short handle O city 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 45. 
+code HLESX710 ECS03 
+descrizione manico extra slim angular 
+corto O city ecopelle suede 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 054 
+naturale 
+natural 
+extra slim angular suede .manico corto short handle O city 
+.crossing 
+code HLESX710 ECS07 
+descrizione manico extra slim angular 
+corto O city ecopelle saffiano 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 063 
+ottanio 
+teal 
+col. 183 
+viola 
+violet 
+col. 084 
+testa di moro 
+dark brown 
+col. 089 
+verde 
+green 
+extra slim angular saffiano .manico corto short handle O city 
+.crossing 
+.crossing 
+.crossing .crossing
+46. O bag summer 2018 
+code HLESX800 ECS00 
+descrizione manico extra slim goccia 
+corto ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 005 
+avio 
+air force blue 
+col. 067 
+phard 
+blush pink 
+col. 052 
+muschio 
+moss green 
+col. 054 
+naturale 
+natural 
+extra slim .manico corto short handle 
+.crossing 
+.crossing 
+.crossing .crossing 
+code HLESX800 ECS08 
+descrizione manico extra slim goccia 
+corto ecopelle vernice 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 009 
+blu 
+blue 
+col. 055 
+nero 
+black 
+extra slim vernice .manico corto short handle 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 47. 
+code OBAGAM16 MAS00 
+descrizione accessorio maniglie O moon 
+materiale plastico 
+materiale plastica 
+abbinamenti O moon 
+description O moon plastic material 
+handles accessory 
+material plastic 
+components O moon 
+col. 003 
+arancione 
+orange 
+col. 018 
+bordeaux 
+burgundy 
+119 
+fragola 
+strawberry 
+col. 006 
+avorio 
+ivory 
+col. 055 
+nero 
+black 
+col. 017 
+blu navy 
+navy blue 
+col. 071 
+roccia 
+rock 
+maniglie .O moon 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+48. O bag summer 2018 
+code OBAGAB17 MAS00 
+descrizione accessorio borchiette O 
+moon light materiale plastico 
+materiale plastica 
+abbinamenti O moon light 
+description O moon light plastic material 
+studs accessory 
+material plastic 
+components O moon light 
+col. 006 
+avorio 
+ivory 
+col. 067 
+phard 
+blush pink 
+131 
+verde antico 
+antique green 
+col. 017 
+blu navy 
+navy blue 
+col. 078 
+sabbia 
+sand 
+139 
+mela 
+apple 
+col. 055 
+nero 
+black 
+col. 108 
+terracotta 
+terracotta 
+borchiette .O moon light 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+manici e tracolle handles and shoulder straps 49. 
+code SHOUD900 ECS43 
+descrizione doppia tracollina ecopelle 
+intrecciata 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description woven faux leather double 
+shoulder straps 
+material faux leather 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 017 
+blu navy 
+navy blue 
+ecopelle intrecciata .tracolla shoulder strap 
+.cote d’azur 
+code SHOUG800 TESL3 
+descrizione tracolla 80 tessuto vichy 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description vichy fabric 80 cm shoulder 
+strap 
+material fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy .tracolla shoulder strap 
+.cote d’azur .cote d’azur 
+col. 054 
+naturale 
+natural 
+col. 230 
+terra bruciata 
+burnt umber 
+.manila .manila
+50. O bag summer 2018 
+code SHOUGB00 ECS74 
+descrizione tracolla 80/120 ecopelle + 
+tessuto nastro effetto bouclè 
+materiale ecopelle + tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description faux leather 80/120 shoulder 
+strap + bouclè band fabric 
+material faux leather + fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 026 
+cobalto 
+cobalt blue 
+col. 479 
+skyway 
+skyway 
+col. 484 
+coral 
+coral 
+ecopelle + tessuto nastro effetto bouclè .tracolla shoulder strap 
+.cote d’azur .cote d’azur .cote d’azur 
+code SHOUGB00 TESJ9 
+descrizione tracolla 80/120 tessuto 
+nastro etnik manila 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description etnik manila band fabric 
+80/120 shoulder strap 
+material fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 001 
+acqua 
+aqua 
+col. 422 
+sangria 
+sangria 
+tessuto nastro etnik manila .tracolla shoulder strap 
+.manila .manila
+manici e tracolle handles and shoulder straps 51. 
+col. 510 
+naturale bianco 
+natural white 
+.manila 
+code SHOUGB00 TESK1 
+descrizione tracolla 80/120 tessuto 
+nastro manila 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description manila band fabric 80/120 
+shoulder strap 
+material fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+tessuto nastro manila .tracolla shoulder strap 
+.manila 
+code SHOUD900 ROS07 
+descrizione tracollina swing corda 
+treccina cotone 
+materiale corda 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description cotton braid rope swing 
+shoulder strap 
+material rope 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 054 
+naturale 
+natural 
+corda treccina cotone .tracolla shoulder strap 
+.manila
+52. O bag summer 2018 
+code SHOUG000 ECS26 
+descrizione tracolla lunga ecopelle 
+cowboy 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro - 
+O moon - O moon light 
+description 
+material faux leather 
+components O pocket - O pocket micro - 
+O moon - O moon light 
+col. 017 
+blu navy 
+navy blue 
+col. 054 
+naturale 
+natural 
+cowboy .tracolla shoulder strap 
+.crossing .crossing 
+code SHOUG000 ECS28 
+descrizione tracolla lunga ecopelle 
+invecchiata 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro - 
+O moon - O moon light 
+description 
+material faux leather 
+components O pocket - O pocket micro - 
+O moon - O moon light 
+col. 009 
+blu 
+blue 
+col. 072 
+rosa 
+pink 
+col. 080 
+salvia 
+sage 
+ecopelle invecchiata .tracolla shoulder strap 
+.crossing .crossing .crossing
+manici e tracolle handles and shoulder straps 53. 
+code SHOUG000 TES20 
+descrizione tracolla lunga tessuto 
+gommato 
+materiale tessuto 
+abbinamenti O pocket - O pocket micro - 
+O moon - O moon light 
+description rubber-coated fabric long 
+shoulder strap 
+material fabric 
+components O pocket - O pocket micro - 
+O moon - O moon light 
+col. 001 
+acqua 
+aqua 
+col. 015 
+blu iris 
+iris blue 
+col. 035 
+ghiaccio 
+ice 
+col. 045 
+magenta 
+magenta 
+tessuto gommato .tracolla shoulder strap 
+.crossing 
+.crossing 
+.crossing .crossing 
+code SHOUG400 ECS00 
+descrizione tracolla goccia forata lunga 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description faux leather pierced 
+tear drop long shoulder strap 
+material faux leather 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 086 
+tortora 
+dove-grey 
+col. 118 
+cielo 
+sky blue 
+ecopelle goccia forata .tracolla shoulder strap 
+.crossing .crossing
+54. O bag summer 2018 
+code SHOUG400 TES02 
+descrizione tracolla goccia forata lunga 
+tessuto tweed 
+materiale tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description tweed fabric pierced 
+tear drop long shoulder strap 
+material fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 039 
+grigio 
+grey 
+col. 055 
+nero 
+black 
+tweed .tracolla shoulder strap 
+.crossing .crossing 
+code SHOUG800 ECS00 
+descrizione tracolla corta ecopelle 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro 
+- O bag - O bag mini 
+description 
+material faux leather 
+components O pocket - O pocket micro - 
+O bag - O bag mini 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+corta ecopelle .tracolla shoulder strap 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 55. 
+code SHOUG800 ECS28 
+descrizione tracolla corta ecopelle 
+invecchiata 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro - 
+O bag - O bag mini 
+description 
+material faux leather 
+components O pocket - O pocket micro 
+- O bag - O bag mini 
+col. 080 
+salvia 
+sage 
+corta ecopelle invecchiata .tracolla shoulder strap 
+.crossing 
+code SHOUG900 ECS08 
+descrizione tracolla corta ecopelle 
+vernice 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro - 
+O bag - O bag mini 
+description 
+material faux leather 
+components O pocket - O pocket micro - 
+O bag - O bag mini 
+col. 337 
+carne 
+nude 
+corta ecopelle vernice .tracolla shoulder strap 
+.crossing
+56. O bag summer 2018 
+code SHOUW318 ECS36 
+descrizione tracolla new clip lunga moon 
+light ecopelle + tessuto righe 
+materiale ecopelle - tessuto 
+abbinamenti O moon light 
+description 
+material faux leather - fabric 
+components O moon light 
+col. 248 
+ecrù - blu 
+ecru - blue 
+col. 439 
+bluette/arancione 
+bright blue - orange 
+righe .tracolla shoulder strap O moon light 
+.crossing .crossing 
+code SHOUG900 ECS00 
+descrizione tracolla corta ecopelle 
+materiale ecopelle 
+abbinamenti O pocket 
+description 
+material faux leather 
+components O pocket 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+corta ecopelle .tracolla shoulder strap 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 57. 
+code SHOUWA00 ECS36 
+descrizione tracolla new goccia forata 
+corta ecopelle + tessuto righe 
+materiale ecopelle - tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description new shoulder strap pierced 
+tear drop faux leather + stripes fabric 
+material faux leather - fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 248 
+ecù - blu 
+ecru - blue 
+col. 439 
+bluette - arancione 
+bright blue - orange 
+corta righe .tracolla shoulder strap 
+.crossing .crossing 
+code SHOUWC00 ECS23 
+descrizione tracolla new clip corta 
+ecopelle etnico 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description new shoulder strap pierced 
+tear drop faux leather + stripes fabric 
+material faux leather 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 009 
+blu 
+blue 
+col. 371 
+latte 
+milk 
+corta etnico .tracolla shoulder strap 
+.crossing .crossing
+58. O bag summer 2018 
+code SHOUWC00 ECS48 
+descrizione tracolla new clip corta 
+ecopelle + fantasia etnica 
+materiale ecopelle - tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description new shoulder strap pierced 
+tear drop O swing faux leather + optical 
+fabric 
+material faux leather - fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 093 
+vino 
+wine 
+corta fantasia etnica .tracolla shoulder strap 
+.crossing 
+code SHOUWC00 ECS49 
+descrizione tracolla new clip corta 
+ecopelle + fantasia effetto perline 
+materiale ecopelle - tessuto 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description new maxi shoulder strap 
+pierced tear drop O swing faux leather + 
+faux leather pearls texture 
+material faux leather - fabric 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 227 
+bianco/nero 
+white - black 
+col. 444 
+smeraldo/giallo 
+emerald - yellow 
+corta effetto perline .tracolla shoulder strap 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 59. 
+code SHOUC106 TES04 
+descrizione tracolla catena con fascia 
+lunga O pocket tessuto chicco di caffè 
+materiale tessuto 
+abbinamenti O pocket 
+description coffee texture band O pocket 
+shoulder strap with chain 
+material fabric 
+components O pocket 
+col. 098 
+blu-blu 
+blue - blue 
+col. 100 
+kiwi-verde 
+kiwi - green 
+chicco di caffè .tracolla shoulder strap O pocket 
+.crossing .crossing 
+code SHOUC306 ECS00 
+descrizione tracolla catena clip lunga O 
+pocket ecopelle 
+materiale ecopelle 
+abbinamenti O pocket 
+description faux leather 
+material faux leather 
+components O pocket 
+col. 003 
+arancione 
+orange 
+col. 039 
+grigio 
+grey 
+col. 137 
+bluette 
+bright blue 
+catena clip .tracolla shoulder strap O pocket 
+.crossing .crossing .crossing
+60. O bag summer 2018 
+code SHOUC706 MTS01 
+descrizione tracolla catena estensione O 
+pocket metallo galvanizzato 
+materiale metallo 
+abbinamenti O pocket 
+description 
+material metal 
+components O pocket 
+col. 004 
+argento 
+silver 
+col. 061 
+oro 
+gold 
+col. 348 
+ottone invecchiato 
+aged brass 
+catena .tracolla shoulder strap O pocket 
+.crossing .crossing .crossing 
+code SHOUD006 ECS10 
+descrizione tracolla doppio filo lunga O 
+pocket ecopelle treccina 
+materiale ecopelle 
+abbinamenti O pocket 
+description 
+material faux leather 
+components O pocket 
+col. 115 
+salvia - glicine 
+sage - wisteria 
+col. 117 
+rosa - cielo 
+pink - sky blue 
+doppio filo treccina .tracolla shoulder strap O pocket 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 61. 
+code SHOUC106 FES06 
+descrizione tracolla catena con fascia 
+lunga O pocket feltro più ecopelle 
+verniciata 
+materiale ecopelle - tessuto 
+abbinamenti O pocket 
+description 
+material faux leather - fabric 
+components O pocket 
+col. 010 
+blu - grigio 
+blue - grey 
+catena feltro + vernice .tracolla shoulder strap O pocket 
+.crossing 
+code SHOUC317 ECS00 
+descrizione tracolla catena clip lunga O 
+moon ecopelle 
+materiale ecopelle 
+abbinamenti O moon 
+description 
+material faux leather 
+components O moon 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+catena clip .tracolla shoulder strap O moon 
+.crossing .crossing 
+col. 084 
+testa di moro 
+dark brown 
+.crossing
+62. O bag summer 2018 
+code SHOUG617 ECS00 
+descrizione tracolla con fibbia lunga O 
+moon ecopelle 
+materiale ecopelle 
+abbinamenti O moon 
+description 
+material faux leather 
+components O moon 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+fibbia .tracolla shoulder strap O moon 
+.crossing .crossing .crossing 
+code SHOUD018 ECS00 
+descrizione tracolla doppio filo lunga O 
+moon light ecopelle 
+materiale ecopelle 
+abbinamenti O moon light 
+description 
+material faux leather 
+components O moon light 
+col. 055 
+nero 
+black 
+col. 054 
+naturale 
+natural 
+col. 084 
+testa di moro 
+dark brown 
+doppia filo .tracolla shoulder strap O moon light 
+.crossing .crossing .crossing
+manici e tracolle handles and shoulder straps 63. 
+col. 371 
+latte - argento 
+milk - silver 
+code OBAGA000 ECS42 
+descrizione accessorio clip ecopelle 
+opaca + argento 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro 
+- O moon light 
+description basic faux leather 
+accessories 
+material faux leather 
+components O pocket - O pocket micro 
+- O moon light 
+col. 484 
+coral - argento 
+coral - silver 
+col. 026 
+cobalto - argento 
+cobalt blue - silver 
+col. 485 
+atlantic - argento 
+atlantic - silver 
+col. 422 
+sangria - argento 
+sangria - silver 
+col. 076 
+rosso - argento 
+red - silver 
+col. 479 
+skyway - argento 
+skyway - silver 
+col. 017 
+blu navy - argento 
+navy blue - silver 
+ecopelle basic .accessori accessories 
+.cote d’azur 
+.cote d’azur 
+.manila 
+.manila 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur
+64. O bag summer 2018 
+code OBAGA000 TES20 
+descrizione accessorio clip tessuto 
+gommato 
+materiale tessuto 
+abbinamenti O pocket - O pocket micro 
+- O moon light 
+description rubber-coated fabric 
+accessories 
+material fabric 
+components O pocket - O pocket micro 
+- O moon light 
+col. 078 
+sabbia 
+sand 
+col. 139 
+mela 
+apple 
+tessuto gommato .accessori accessories 
+.manila .manila 
+code OBAGA000 ECS00 
+descrizione accessorio clip ecopelle 
+materiale ecopelle 
+abbinamenti O pocket - O pocket micro 
+- O moon light 
+description faux leather clip accessory 
+material faux leather 
+components O pocket - O pocket micro 
+- O moon light 
+col. 118 
+cielo 
+sky blue 
+col. 039 
+grigio 
+grey 
+col. 108 
+terracotta 
+terracotta 
+ecopelle .clip clip 
+.crossing .crossing .crossing
+manici e tracolle handles and shoulder straps 65. 
+code OBAGA100 ECS00 
+descrizione accessorio gocce ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 004 
+argento 
+silver 
+col. 039 
+grigio 
+grey 
+col. 009 
+blu 
+blue 
+col. 108 
+terracotta 
+terracotta 
+col. 118 
+cielo 
+sky blue 
+.crossing 
+col. 020 
+bronzo 
+bronze 
+.crossing 
+.crossing 
+.crossing 
+.crossing .crossing 
+code OBAGA100 ECS05 
+descrizione accessorio gocce ecopelle 
+patch 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+patch .gocce gocce 
+.crossing .crossing 
+ecopelle .gocce gocce 
+66. O bag summer 2018 
+code SHOUA203 ECS00 
+descrizione accessorio goccia ecopelle 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O bag 
+‘50 - O city 
+description 
+material faux leather 
+components O bag - O bag mini - O bag 
+‘50 - O city 
+col. 135 
+peltro 
+pewter 
+ecopelle .gocce gocce 
+.crossing
+manici e tracolle handles and shoulder straps 67. 
+code ACCEF001 TESJ6 
+descrizione accessori fascia bracciale 
+foulard tessuto cocos palma 
+materiale tessuto 
+abbinamenti O pocket - O pocket micro 
+- O hug 
+description cocos palma fabric 
+accessories 
+material fabric 
+components O pocket - O pocket micro 
+- O hug 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .accessori accessories 
+.manila .manila
+.bordi trims
+70. O bag summer 2018 
+code OBAGT001 TESJ6 
+descrizione bordo O bag tessuto cocos 
+palma 
+materiale tessuto 
+abbinamenti O bag 
+description cocos palma fabric O bag 
+trim 
+material fabric 
+components O bag 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .bordo trim O bag 
+.manila .manila 
+code OBAGT001 TESK8 
+descrizione bordo O bag tessuto denim 
+traforato 
+materiale tessuto 
+abbinamenti O bag 
+description perfored denim fabric O bag 
+trim 
+material fabric 
+components O bag 
+col. 484 
+coral 
+coral 
+denim traforato .bordo trim O bag 
+.cote d’azur 
+col. 026 
+cobalto 
+cobalt blue 
+.cote d’azur
+bordi trims 71. 
+code OBAGT001 TESJ8 
+descrizione bordo O bag tessuto flower 
+manila bay 
+materiale tessuto 
+abbinamenti O bag 
+description flower manila bay fabric O 
+bag trim 
+material fabric 
+components O bag 
+col. 028 
+ecru 
+ecru 
+col. 485 
+atlantic 
+atlantic 
+tessuto flower manila bay .bordo trim O bag 
+.manila .manila 
+code OBAGT001 TESK2 
+descrizione bordo O bag tessuto paille 
+d’etè 
+materiale tessuto 
+abbinamenti O bag 
+description paille d’etè fabric O bag trim 
+material fabric 
+components O bag 
+col. 003 
+arancione 
+orange 
+col. 089 
+verde 
+green 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+paille d’etè fabric .bordo trim O bag 
+.cote d’azur 
+.manila 
+.cote d’azur .manila
+72. O bag summer 2018 
+code OBAGT001 TESL2 
+descrizione bordo O bag tessuto righe 
+saint tropez 
+materiale tessuto 
+abbinamenti O bag 
+description saint tropez stripes fabric O 
+bag trim 
+material fabric 
+components O bag 
+col. 408 
+blu/bianco 
+blue - white 
+tessuto righe saint tropez .bordo trim O bag 
+.cote d’azur 
+code OBAGT001 TESK4 
+descrizione bordo O bag tessuto 
+santiago 
+materiale tessuto 
+abbinamenti O bag 
+description santiago fabric O bag trim 
+material fabric 
+components O bag 
+col. 508 
+naturale/verde 
+natural/green 
+tessuto santiago .bordo trim O bag 
+.manila
+bordi trims 73. 
+code OBAGT001 TES03 
+descrizione bordo O bag tessuto occhio 
+di pernice 
+materiale tessuto 
+abbinamenti O bag 
+description partridge eye fabric O bag 
+trim 
+material fabric 
+components O bag 
+col. 009 
+blu 
+blue 
+col. 074 
+rosa - salmone 
+pink - salmon 
+col. 086 
+tortora 
+dove-grey 
+occhio di pernice .bordo trim O bag 
+.crossing .crossing .crossing 
+code OBAGT001 TES08 
+descrizione bordo O bag tessuto lino 
+delavè 
+materiale tessuto 
+abbinamenti O bag 
+description linen fabric O bag trim 
+material fabric 
+components O bag 
+col. 005 
+avio 
+air force blue 
+col. 067 
+phard 
+blush pink 
+lino delavè .bordo trim O bag 
+.crossing .crossing
+74. O bag summer 2018 
+code OBAGT001 TES14 
+descrizione bordo O bag tessuto denim 
+ricamato 
+materiale tessuto 
+abbinamenti O bag 
+description embroidered denim O bag 
+trim 
+material fabric 
+components O bag 
+col. 103 
+denim 
+denim 
+denim ricamato .bordo trim O bag 
+.crossing
+bordi trims 75. 
+code OBAGT002 TESJ6 
+descrizione bordo O bag mini tessuto 
+cocos palma 
+materiale tessuto 
+abbinamenti O bag mini 
+description cocos palma fabric O bag 
+mini trim 
+material fabric 
+components O bag mini 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .bordo trim O bag mini 
+.manila .manila 
+code OBAGT002 TESK8 
+descrizione bordo O bag mini tessuto 
+denim traforato 
+materiale tessuto 
+abbinamenti O bag mini 
+description perforated denim fabric O 
+bag mini trim 
+material fabric 
+components O bag mini 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+coral 
+coral 
+denim traforato .bordo trim O bag mini 
+.cote d’azur .cote d’azur
+76. O bag summer 2018 
+code OBAGT002 TESJ8 
+descrizione bordo O bag mini tessuto 
+flower manila bay 
+materiale tessuto 
+abbinamenti O bag mini 
+description flower manila bay fabric O 
+bag mini trim 
+material fabric 
+components O bag mini 
+col. 028 
+ecru 
+ecru 
+col. 485 
+atlantic 
+atlantic 
+tessuto flower manila bay .bordo trim O bag mini 
+.manila .manila 
+code OBAGT002 TESK2 
+descrizione bordo O bag mini tessuto 
+paille d’etè 
+materiale tessuto 
+abbinamenti O bag mini 
+description paille d’etè fabric O bag mini 
+trim 
+material fabric 
+components O bag mini 
+col. 003 
+arancione 
+orange 
+col. 089 
+verde 
+green 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+paille d’etè fabric .bordo trim O bag mini 
+.cote d’azur 
+.manila 
+.cote d’azur .manila
+bordi trims 77. 
+code OBAGT002 TESL2 
+descrizione bordo O bag mini tessuto 
+righe saint tropez 
+materiale tessuto 
+abbinamenti O bag mini 
+description saint tropez stripes fabric O 
+bag mini trim 
+material fabric 
+components O bag mini 
+col. 408 
+blu/bianco 
+blue - white 
+tessuto righe saint tropez .bordo trim O bag mini 
+.cote d’azur 
+code OBAGT002 TESK4 
+descrizione bordo O bag mini tessuto 
+santiago 
+materiale tessuto 
+abbinamenti O bag mini 
+description santiago fabric O bag mini 
+trim 
+material fabric 
+components O bag mini 
+col. 508 
+naturale/verde 
+natural/green 
+tessuto santiago .bordo trim O bag mini 
+.manila
+78. O bag summer 2018 
+code OBAGT002 TES04 
+descrizione bordo O bag mini tessuto 
+chicco di caffè 
+materiale tessuto 
+abbinamenti O bag mini 
+description coffee fabric O bag trim 
+material fabric 
+components O bag mini 
+col. 009 
+blu 
+blue 
+col. 074 
+rosa - salmone 
+pink - salmon 
+col. 089 
+verde 
+green 
+chicco di caffè .bordo trim O bag mini 
+.crossing .crossing .crossing 
+code OBAGT002 TES08 
+descrizione bordo O bag mini tessuto 
+lino delavè 
+materiale tessuto 
+abbinamenti O bag mini 
+description faded linen O bag mini fabric 
+material fabric 
+components O bag mini 
+col. 067 
+phard 
+blush pink 
+col. 086 
+tortora 
+dove-grey 
+lino delavè .bordo trim O bag mini 
+.crossing .crossing
+bordi trims 79.
+.chiusure street street fastening
+82. O bag summer 2018 
+code OBAGC001 ECS00 
+descrizione chiusura street O bag 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag 
+description faux leather O bag street 
+fastening 
+material faux leather 
+components O bag 
+col. 055 
+nero 
+black 
+ecopelle .chiusura street street fastening O bag 
+.crossing 
+code OBAGC001 TES49 
+descrizione chiusura street O bag 
+tessuto traforato 
+materiale tessuto 
+abbinamenti O bag 
+description perforated O bag street 
+fastening 
+material fabric 
+components O bag 
+col. 008 
+bianco 
+white 
+col. 221 
+cognac 
+cognac 
+tessuto traforato .chiusura street street fastening O bag 
+.crossing .crossing
+bordi trims 83. 
+code OBAGC002 ECS05 
+descrizione chiusura street O bag mini 
+ecopelle patch 
+materiale ecopelle 
+abbinamenti O bag mini 
+description patch faux leather O bag 
+street fastening 
+material faux leather 
+components O bag mini 
+col. 084 
+testa di moro 
+dark brown 
+patch .chiusura street street fastening O bag mini 
+.crossing 
+code OBAGC002 TES49 
+descrizione chiusura street O bag mini 
+tessuto traforato 
+materiale tessuto 
+abbinamenti O bag mini 
+description perforated O bag mini street 
+fastening 
+material fabric 
+components O bag mini 
+col. 008 
+bianco 
+white 
+col. 054 
+naturale 
+natural 
+tessuto traforato .chiusura street street fastening O bag mini 
+.crossing .crossing
+.sacche interne inner bags
+86. O bag summer 2018 
+code OBAGS001 TESJ8 
+descrizione sacca interna zip O bag 
+tessuto flower manila bay 
+materiale tessuto 
+abbinamenti O bag 
+description flower manila bay fabric O 
+bag inner zip up bag 
+material fabric 
+components O bag 
+col. 028 
+ecru 
+ecru 
+col. 485 
+atlantic 
+atlantic 
+tessuto flower manila bay .sacca interna inner bag O bag 
+.manila .manila 
+code OBAGS001 TESK3 
+descrizione sacca interna zip O bag 
+tessuto pasig river 
+materiale tessuto 
+abbinamenti O bag 
+description pasig river fabric O bag inner 
+zip up bag 
+material fabric 
+components O bag 
+col. 078 
+sabbia 
+sand 
+col. 089 
+verde 
+green 
+tessuto pasig river .sacca interna inner bag O bag 
+.manila .manila
+sacche interne inner bags 87. 
+code OBAGS001 TESK4 
+descrizione sacca interna zip O bag 
+tessuto santiago 
+materiale tessuto 
+abbinamenti O bag 
+description santiago fabric O bag inner 
+zip up bag 
+material fabric 
+components O bag 
+col. 508 
+naturale/verde 
+natural/green 
+tessuto santiago .sacca interna inner bag O bag 
+.manila 
+code OBAGS001 TESL3 
+descrizione sacca interna zip O bag 
+tessuto vichy 
+materiale tessuto 
+abbinamenti O bag 
+description vichy fabric O bag inner zip 
+up bag 
+material fabric 
+components O bag 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy .sacca interna inner bag O bag 
+.cote d’azur .cote d’azur
+88. O bag summer 2018 
+.manila 
+.manila .manila 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+code OBAGS001 TES01 
+descrizione sacca interna zip O bag 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O bag 
+description canvas fabric O bag inner zip 
+up bag 
+material fabric 
+components O bag 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 026 
+cobalto 
+cobalt blue 
+tessuto canvas .sacca interna inner bag O bag 
+col. 130 
+azzurro 
+light blue 
+col. 347 
+cedro 
+cedro 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+col. 039 
+grigio 
+grey 
+.crossing
+sacche interne inner bags 89. 
+.cote d’azur 
+code OBAGS001 TESK7 
+descrizione sacca interna zip O bag 
+tessuto canvas delavè 
+materiale tessuto 
+abbinamenti O bag 
+description faded canvas fabric O bag 
+inner zip up bag 
+material fabric 
+components O bag 
+col. 484 
+coral 
+coral 
+tessuto canvas delavè .sacca interna inner bag O bag 
+col. 026 
+cobalto 
+cobalt blue 
+.cote d’azur 
+code OBAGS001 TESN6 
+descrizione sacca interna zip O bag 
+tessuto righe haiti 
+materiale tessuto 
+abbinamenti O bag 
+description haiti stripes fabric O bag 
+inner zip up bag 
+material fabric 
+components O bag 
+col. 054 
+naturale 
+natural 
+tessuto righe haiti .sacca interna inner bag O bag 
+.manila
+90. O bag summer 2018 
+code OBAGS001 TES04 
+descrizione sacca interna zip O bag 
+tessuto chicco di caffè 
+materiale tessuto 
+abbinamenti O bag 
+description coffee fabric O bag inner zip 
+up bag 
+material fabric 
+components O bag 
+col. 009 
+blu 
+blue 
+col. 074 
+rosa - salmone 
+pink - salmon 
+col. 086 
+tortora 
+dove-grey 
+chicco di caffè .sacca interna inner bag O bag 
+.crossing .crossing .crossing 
+code OBAGS001 TES01 
+descrizione sacca interna zip O bag 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O bag 
+description canvas fabric O bag inner zip 
+up bag 
+material fabric 
+components O bag 
+col. 039 
+grigio 
+grey 
+canvas .sacca interna inner bag O bag 
+.crossing
+sacche interne inner bags 91. 
+code OBAGS001 TES08 
+descrizione sacca interna zip O bag 
+tessuto lino delavè 
+materiale tessuto 
+abbinamenti O bag 
+description faded linen fabric O bag inner 
+zip up bag 
+material fabric 
+components O bag 
+col. 005 
+avio 
+air force blue 
+col. 067 
+phard 
+blush pink 
+col. 086 
+tortora 
+dove-grey 
+lino delavè .sacca interna inner bag O bag 
+.crossing .crossing .crossing 
+code OBAGS001 TES14 
+descrizione sacca interna zip O bag 
+tessuto denim ricamato 
+materiale tessuto 
+abbinamenti O bag 
+description embroidered denim fabric O 
+bag inner zip up bag 
+material fabric 
+components O bag 
+col. 103 
+denim 
+denim 
+denim ricamato .sacca interna inner bag O bag 
+.crossing
+92. O bag summer 2018 
+code OBAGS002 TES01 
+descrizione sacca interna zip O bag mini 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O bag mini 
+description canvas fabric O bag mini 
+inner zip up bag 
+material fabric 
+components O bag mini 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 026 
+cobalto 
+cobalt blue 
+tessuto canvas .sacca interna inner bag O bag mini 
+.manila 
+.manila 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+col. 130 
+azzurro 
+light blue 
+col. 347 
+cedro 
+cedro 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+.manila 
+.cote d’azur .cote d’azur
+sacche interne inner bags 93. 
+code OBAGS002 TESL3 
+descrizione sacca interna zip O bag mini 
+tessuto vichy 
+materiale tessuto 
+abbinamenti O bag mini 
+description vichy fabric O bag mini inner 
+zip up bag 
+material fabric 
+components O bag mini 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy .sacca interna inner bag O bag mini 
+.cote d’azur .cote d’azur 
+code OBAGS002 TESK7 
+descrizione sacca interna zip O bag mini 
+tessuto canvas delave 
+materiale tessuto 
+abbinamenti O bag mini 
+description faded canvas fabric O bag 
+mini inner zip up bag 
+material fabric 
+components O bag mini 
+col. 026 
+cobalto 
+cobalt blue 
+tessuto canvas delavè .sacca interna inner bag O bag mini 
+.cote d’azur .cote d’azur 
+col. 484 
+coral 
+coral
+94. O bag summer 2018 
+code OBAGS002 TESJ8 
+descrizione sacca interna zip O bag mini 
+tessuto flower manila bay 
+materiale tessuto 
+abbinamenti O bag mini 
+description flower manila bay fabric O 
+bag mini inner zip up bag 
+material fabric 
+components O bag mini 
+col. 028 
+ecru 
+ecru 
+col. 485 
+atlantic 
+atlantic 
+tessuto flower manila bay .sacca interna inner bag O bag mini 
+.manila .manila 
+code OBAGS002 TESK4 
+descrizione sacca interna zip O bag mini 
+tessuto santiago 
+materiale tessuto 
+abbinamenti O bag mini 
+description santiago fabric O bag mini 
+inner zip up bag 
+material fabric 
+components O bag mini 
+col. 508 
+naturale/verde 
+natural/green 
+tessuto santiago .sacca interna inner bag O bag mini 
+.manila
+sacche interne inner bags 95. 
+code OBAGS002 TESN6 
+descrizione sacca interna zip O bag mini 
+tessuto righe haiti 
+materiale tessuto 
+abbinamenti O bag mini 
+description haiti stripes fabric O bag mini 
+inner zip up bag 
+material fabric 
+components O bag mini 
+col. 054 
+naturale 
+natural 
+tessuto righe haiti .sacca interna inner bag O bag mini 
+code OBAGS002 TES03 
+descrizione sacca interna zip O bag mini 
+tessuto occhio di pernice 
+materiale tessuto 
+abbinamenti O bag mini 
+description partridge eye O bag mini 
+inner zip up bag 
+material fabric 
+components O bag mini 
+col. 009 
+blu 
+blue 
+col. 074 
+rosa - salmone 
+pink - salmon 
+col. 089 
+verde 
+green 
+occhio di pernice .sacca interna inner bag O bag mini 
+.crossing .crossing .crossing 
+.manila
+96. O bag summer 2018 
+code OBAGS002 TES08 
+descrizione sacca interna zip O bag mini 
+tessuto lino delavè 
+materiale tessuto 
+abbinamenti O bag mini 
+description faded linen O bag mini inner 
+zip up bag 
+material fabric 
+components O bag mini 
+col. 067 
+phard 
+blush pink 
+col. 086 
+tortora 
+dove-grey 
+lino delavè .sacca interna inner bag O bag mini 
+.crossing .crossing
+sacche interne inner bags 97. 
+code OBAGS009 TES01 
+descrizione sacca interna zip O bag ‘50 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O bag ‘50 
+description canvas fabric O bag ‘50 inner 
+zip up bag 
+material fabric 
+components O bag ‘50 
+col. 484 
+coral 
+coral 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 485 
+atlantic 
+atlantic 
+tessuto canvas .sacca interna inner bag O bag ‘50 
+.manila 
+.manila .manila 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+.cote d’azur 
+col. 130 
+azzurro 
+light blue 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+98. O bag summer 2018 
+code OBAGS009 TES04 
+descrizione sacca interna zip O bag ‘50 
+tessuto chicco di caffè 
+materiale tessuto 
+abbinamenti O bag ‘50 
+description coffee fabric O bag ‘50 inner 
+zip up bag 
+material fabric 
+components O bag ‘50 
+col. 009 
+blu 
+blue 
+col. 086 
+tortora 
+dove-grey 
+col. 089 
+verde 
+green 
+chicco di caffè .sacca interna inner bag O bag ‘50 
+.crossing .crossing .crossing
+sacche interne inner bags 99. 
+.cote d’azur 
+code OBAGS010 TES01 
+descrizione sacca interna zip O city 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O city 
+description canvas fabric O city inner zip 
+up bag 
+material fabric 
+components O city 
+col. 484 
+coral 
+coral 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 422 
+sangria 
+sangria 
+col. 485 
+atlantic 
+atlantic 
+tessuto canvas .sacca interna inner bag O city 
+.manila .manila 
+.manila .cote d’azur 
+col. 026 
+cobalto 
+cobalt blue 
+.cote d’azur 
+col. 130 
+azzurro 
+light blue 
+col. 347 
+cedro 
+cedro 
+.cote d’azur
+100. O bag summer 2018 
+code OBAGS010 TESL5 
+descrizione sacca interna zip O city 
+tessuto vichy + fiore 
+materiale tessuto 
+abbinamenti O city 
+description vichy fabric + flower O city 
+inner zip up bag 
+material fabric 
+components O city 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy + fiore .sacca interna inner bag O city 
+.cote d’azur .cote d’azur
+sacche interne inner bags 101. 
+code OBAGS010 TES08 
+descrizione sacca interna zip O city 
+tessuto lino delavè 
+materiale tessuto 
+abbinamenti O city 
+description faded linen O city inner zip 
+up bag 
+material fabric 
+components O city 
+col. 067 
+phard 
+blush pink 
+col. 086 
+tortora 
+dove-grey 
+lino delavè .sacca interna inner bag O city 
+.crossing .crossing 
+code OBAGS210 TES05 
+descrizione sacca interna bauletto O city 
+tessuto intreccio 
+materiale tessuto 
+abbinamenti O city 
+description weave fabric O city inner zip 
+up bag 
+material fabric 
+components O city 
+col. 009 
+blu 
+blue 
+col. 074 
+rosa - salmone 
+pink - salmon 
+col. 086 
+tortora 
+dove-grey 
+intreccio .sacca interna inner bag O city 
+.crossing .crossing .crossing
+102. O bag summer 2018 
+code OBAGS210 TES14 
+descrizione sacca interna bauletto O city 
+tessuto denim ricamato 
+materiale tessuto 
+abbinamenti O city 
+description embroidered denim fabric O 
+city inner zip up bag 
+material fabric 
+components O city 
+col. 103 
+denim 
+denim 
+denim ricamato .sacca interna inner bag O city 
+.crossing 
+code OBAGS210 TES18 
+descrizione sacca interna bauletto O city 
+tessuto cotone 
+materiale tessuto 
+abbinamenti O city 
+description cotton fabric O city inner zip 
+up bag 
+material fabric 
+components O city 
+col. 028 
+ecru 
+ecru 
+cotone .sacca interna inner bag O city 
+.crossing
+sacche interne inner bags 103. 
+code OBAGS016 TESK7 
+descrizione sacca interna zip O bag 
+moon tessuto canvas delave 
+materiale tessuto 
+abbinamenti O bag moon 
+description faded canvas fabric O bag 
+moon inner zip up bag 
+material fabric 
+components O bag moon 
+col. 026 
+cobalto 
+cobalt blue 
+tessuto canvas delavè .sacca interna inner bag O bag moon 
+.cote d’azur .cote d’azur 
+code OBAGS016 TESK3 
+descrizione sacca interna zip O bag 
+moon tessuto pasig river 
+materiale tessuto 
+abbinamenti O bag moon 
+description pasig river fabric O bag 
+moon inner zip up bag 
+material fabric 
+components O bag moon 
+col. 078 
+sabbia 
+sand 
+col. 089 
+verde 
+green 
+tessuto pasig river .sacca interna inner bag O bag moon 
+.manila .manila 
+col. 484 
+coral 
+coral
+104. O bag summer 2018 
+code OBAGS016 TESL3 
+descrizione sacca interna zip O bag 
+moon tessuto vichy 
+materiale tessuto 
+abbinamenti O bag moon 
+description vichy fabric O bag moon 
+inner zip up bag 
+material fabric 
+components O bag moon 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy .sacca interna inner bag O bag moon 
+.cote d’azur .cote d’azur 
+.manila 
+code OBAGS016 TESN6 
+descrizione sacca interna zip O bag 
+moon tessuto righe haiti 
+materiale tessuto 
+abbinamenti O bag moon 
+description haiti stripes fabric O bag 
+moon inner zip up bag 
+material fabric 
+components O bag moon 
+col. 054 
+naturale 
+natural 
+tessuto righe haiti .sacca interna inner bag O bag moon
+sacche interne inner bags 105. 
+.manila 
+.manila 
+.manila .cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+code OBAGS016 TES01 
+descrizione sacca interna zip O bag 
+moon tessuto canvas 
+materiale tessuto 
+abbinamenti O bag moon 
+description canvas fabric O bag moon 
+inner zip up bag 
+material fabric 
+components O bag moon 
+col. 484 
+coral 
+coral 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 422 
+sangria 
+sangria 
+tessuto canvas .sacca interna inner bag O bag moon 
+col. 026 
+cobalto 
+cobalt blue 
+col. 485 
+atlantic 
+atlantic 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink
+106. O bag summer 2018 
+code OBAGS016 TES43 
+descrizione sacca interna zip O moon 
+tessuto seta 
+materiale tessuto 
+abbinamenti O moon 
+description slik fabric O moon inner zip 
+up bag 
+material fabric 
+components O moon 
+col. 004 
+argento 
+silver 
+col. 008 
+bianco 
+white 
+seta .sacca interna inner bag O moon 
+.crossing .crossing
+sacche interne inner bags 107. 
+code OBAGS017 TESK7 
+descrizione sacca interna zip O bag 
+moon light tessuto canvas delave 
+materiale tessuto 
+abbinamenti O bag moon light 
+description faded canvas fabric O bag 
+moon light inner zip up bag 
+material fabric 
+components O bag moon light 
+col. 026 
+cobalto 
+cobalt blue 
+tessuto canvas delavè .sacca interna inner bag O bag moon light 
+.cote d’azur .cote d’azur 
+code OBAGS017 TESJ6 
+descrizione sacca interna zip O bag 
+moon light tessuto cocos palma 
+materiale tessuto 
+abbinamenti O bag moon light 
+description cocos palma fabric O bag 
+moon light inner zip up bag 
+material fabric 
+components O bag moon light 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .sacca interna inner bag O bag moon light 
+.manila .manila 
+col. 484 
+coral 
+coral
+108. O bag summer 2018 
+code OBAGS017 TESK3 
+descrizione sacca interna zip O bag 
+moon light tessuto pasig river 
+materiale tessuto 
+abbinamenti O bag moon light 
+description pasig river fabric O bag 
+moon light inner zip up bag 
+material fabric 
+components O bag moon light 
+col. 078 
+sabbia 
+sand 
+col. 089 
+verde 
+green 
+tessuto pasig river .sacca interna inner bag O bag moon light 
+.manila .manila 
+code OBAGS017 TESL3 
+descrizione sacca interna zip O bag 
+moon light tessuto vichy 
+materiale tessuto 
+abbinamenti O bag moon light 
+description vichy fabric O bag moon light 
+inner zip up bag 
+material fabric 
+components O bag moon light 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy .sacca interna inner bag O bag moon light 
+.cote d’azur .cote d’azur
+sacche interne inner bags 109. 
+.manila 
+code OBAGS017 TESN6 
+descrizione sacca interna zip O bag 
+moon light tessuto righe haiti 
+materiale tessuto 
+abbinamenti O bag moon light 
+description haiti stripes fabric O bag 
+moon light inner zip up bag 
+material fabric 
+components O bag moon light 
+col. 054 
+naturale 
+natural 
+tessuto righe haiti .sacca interna inner bag O bag moon light 
+code OBAGS017 TES26 
+descrizione sacca interna zip O moon 
+light tessuto cordura 
+materiale tessuto 
+abbinamenti O moon 
+description technical fabric O moon light 
+inner zip up bag 
+material fabric 
+components O moon 
+col. 039 
+grigio 
+grey 
+cordura .sacca interna inner bag O moon light 
+.crossing
+110. O bag summer 2018 
+code OBAGS121 TESJ6 
+descrizione sacca interna coulisse O 
+swing tessuto cocos palma 
+materiale tessuto 
+abbinamenti O swing 
+description cocos palma fabric O swing 
+drawstring inner bag 
+material fabric 
+components O swing 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .sacca interna inner bag O swing 
+.manila .manila 
+code OBAGS121 TESK8 
+descrizione sacca interna coulisse O 
+swing tessuto denim traforato 
+materiale tessuto 
+abbinamenti O swing 
+description perforated denim fabric O 
+swing drawstring inner bag 
+material fabric 
+components O swing 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+coral 
+coral 
+denim traforato .sacca interna inner bag O swing 
+.cote d’azur .cote d’azur
+sacche interne inner bags 111. 
+code OBAGS121 TESJ8 
+descrizione sacca interna coulisse O 
+swing tessuto flower manila bay 
+materiale tessuto 
+abbinamenti O swing 
+description flower manila bay fabric O 
+swing drawstring inner bag 
+material fabric 
+components O swing 
+col. 028 
+ecru 
+ecru 
+col. 485 
+atlantic 
+atlantic 
+tessuto flower manila bay .sacca interna inner bag O swing 
+.manila .manila 
+code OBAGS121 TESK3 
+descrizione sacca interna coulisse O 
+swing tessuto pasig river 
+materiale tessuto 
+abbinamenti O swing 
+description pasig river fabric O swing 
+drawstring inner bag 
+material fabric 
+components O swing 
+col. 078 
+sabbia 
+sand 
+col. 089 
+verde 
+green 
+tessuto pasig river .sacca interna inner bag O swing 
+.manila .manila
+112. O bag summer 2018 
+code OBAGS121 TESL5 
+descrizione sacca interna coulisse O 
+swing tessuto vichy + fiore 
+materiale tessuto 
+abbinamenti O swing 
+description vichy fabric + flower O swing 
+drawstring inner bag 
+material fabric 
+components O swing 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy + fiore .sacca interna inner bag O swing 
+.cote d’azur .cote d’azur 
+code OBAGS121 TES01 
+descrizione sacca interna coulisse O 
+swing tessuto canvas 
+materiale tessuto 
+abbinamenti O swing 
+description canvas fabric O swing 
+drawstring inner bag 
+material fabric 
+components O swing 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+canvas .sacca interna inner bag O swing 
+.crossing .crossing
+sacche interne inner bags 113. 
+code OBAGS112 TESL5 
+descrizione sacca interna coulisse O bag 
+beach tessuto vichy + fiore 
+materiale tessuto 
+abbinamenti O bag beach 
+description vichy fabric + flower O bag 
+beach drawstring inner bag 
+material fabric 
+components O bag beach 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+tessuto vichy + fiore .sacca interna inner bag O bag beach 
+.cote d’azur .cote d’azur 
+code OBAGS112 TESN6 
+descrizione sacca interna coulisse O bag 
+beach tessuto righe haiti 
+materiale tessuto 
+abbinamenti O bag beach 
+description haiti stripes fabric O bag 
+beach drawstring inner bag 
+material fabric 
+components O bag beach 
+tessuto righe haiti .sacca interna inner bag O bag beach 
+col. 054 
+naturale 
+natural
+114. O bag summer 2018 
+code OBAGS018 TESK2 
+descrizione sacca interna zip O bag 
+beach mini tessuto paille d’etè 
+materiale tessuto 
+abbinamenti O bag beach mini 
+description paille d’etè fabric O bag 
+beach mini inner zip up bag 
+material fabric 
+components O bag beach mini 
+col. 484 
+coral 
+coral 
+col. 089 
+verde 
+green 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+paille d’etè fabric .sacca interna inner bag O bag beach mini 
+.cote d’azur 
+.manila 
+.manila 
+.cote d’azur .manila 
+code OBAGS018 TESN6 
+descrizione sacca interna zip O bag 
+beach mini tessuto righe haiti 
+materiale tessuto 
+abbinamenti O bag beach mini 
+description haiti stripes fabric O bag 
+beach mini inner zip up bag 
+material fabric 
+components O bag beach mini 
+col. 054 
+naturale 
+natural 
+tessuto righe haiti .sacca interna inner bag O bag beach mini
+sacche interne inner bags 115. 
+code OBAGS118 TESL2 
+descrizione sacca interna coulisse O bag 
+beach mini tessuto righe saint tropez 
+materiale tessuto 
+abbinamenti O bag beach mini 
+description saint tropez stripes fabric O 
+bag beach mini drawstring inner bag 
+material fabric 
+components O bag beach mini 
+col. 408 
+blu/bianco 
+blue - white 
+tessuto righe saint tropez .sacca interna inner bag O bag beach mini 
+.cote d’azur
+116. O bag summer 2018 
+code OBAGS028 TESK7 
+descrizione sacca interna zip O bag 
+beach micro tessuto canvas delavè 
+materiale tessuto 
+abbinamenti O bag beach micro 
+description faded canvas fabric O bag 
+beach micro inner zip up bag 
+material fabric 
+components O bag beach micro 
+col. 026 
+cobalto 
+cobalt blue 
+tessuto canvas delavè .sacca interna inner bag O bag beach micro 
+.cote d’azur 
+code OBAGS028 TESJ8 
+descrizione sacca interna zip O bag 
+beach micro tessuto flower manila bay 
+materiale tessuto 
+abbinamenti O bag beach micro 
+description flower manila bay fabric O 
+bag beach micro inner zip up bag 
+material fabric 
+components O bag beach micro 
+col. 028 
+ecru 
+ecru 
+col. 485 
+atlantic 
+atlantic 
+tessuto flower manila bay . sacca interna inner bag O bag beach micro 
+.manila .manila 
+col. 484 
+coral 
+coral
+sacche interne inner bags 117.
+.patte flaps
+120. O bag summer 2018 
+code OBAGPA06 TESO3 
+descrizione pattina girello O pocket 
+tessuto + gommato santiago 
+materiale tessuto + gommato 
+abbinamenti O pocket 
+description santiago fabric + rubbered 
+fabric O pocket flap with turn-lock 
+material fabric + rubber 
+components O pocket 
+col. 139 
+mela 
+apple 
+tessuto + gommato santiago .pattina flap O pocket 
+.manila 
+code OBAGPA06 TESJ6 
+descrizione pattina girello O pocket 
+tessuto cocos palma 
+materiale tessuto 
+abbinamenti O pocket 
+description cocos palma fabric O pocket 
+material fabric 
+components O pocket 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .pattina flap O pocket 
+.manila .manila
+patte flaps 121. 
+code OBAGP006 TESL1 
+descrizione pattina O pocket tessuto 
+paglia rigata + fiore 
+materiale tessuto 
+abbinamenti O pocket 
+description striped straw + flower fabric 
+O pocket flap 
+material fabric 
+components O pocket 
+col. 076 
+rosso 
+red 
+col. 347 
+cedro 
+cedro 
+tessuto paglia rigata + fiore .pattina flap O pocket 
+.cote d’azur .cote d’azur 
+code OBAGP006 TESK8 
+descrizione pattina O pocket tessuto 
+denim traforato 
+materiale tessuto 
+abbinamenti O pocket 
+description perforated denim fabric O 
+pocket flap 
+material fabric 
+components O pocket 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+coral 
+coral 
+denim traforato .pattina flap O pocket 
+.cote d’azur .cote d’azur
+122. O bag summer 2018 
+code OBAGPA24 TESJ6 
+descrizione pattina girello O pocket 
+micro tessuto cocos palma 
+materiale tessuto 
+abbinamenti O pocket micro 
+description cocos palma fabric O pocket 
+micro flap with turn-lock 
+material fabric 
+components O pocket micro 
+col. 089 
+verde 
+green 
+col. 422 
+sangria 
+sangria 
+tessuto cocos palma .pattina flap O pocket micro 
+.manila .manila 
+code OBAGP024 TES77 
+descrizione pattina O pocket 
+microecopelle + tessuto vichy + fiore 
+materiale ecopelle + tessuto 
+abbinamenti O pocket micro 
+description faux leather + vichy fabric + 
+flower O pocket micro flap 
+material faux leather + fabric 
+components O pocket micro 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+ecopelle + tessuto vichy + fiore .pattina flap O pocket micro 
+.cote d’azur .cote d’azur
+patte flaps 123. 
+code OBAGPA10 ECS35 
+descrizione pattina girello O city ecopelle 
+materiale ecopelle 
+abbinamenti O city 
+description faux leather O city flap with 
+turn-lock 
+material faux leather 
+components O city 
+col. 017 
+blu navy 
+navy blue 
+col. 479 
+skyway 
+skyway 
+ecopelle .pattina flap O city 
+.cote d’azur .cote d’azur 
+code OBAGC110 ECS07 
+descrizione chiusura cover O city 
+ecopelle saffiano 
+materiale ecopelle 
+abbinamenti O city 
+description saffiano print faux leather O 
+city flap 
+material faux leather 
+components O city 
+saffiano .pattina flap O city 
+col. 072 
+rosa 
+pink 
+col. 076 
+rosso 
+red 
+.crossing .crossing
+.zaini backpack
+126. O bag summer 2018 
+code OBAGB019 EVS00 
+descrizione scocca O square EVA 
+compound 
+materiale EVA compound 
+abbinamenti O square 
+description EVA compound O square 
+body 
+material EVA compound 
+components O square 
+col. 026 
+cobalto 
+cobalt blue 
+O square .scocca body 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+.manila 
+.crossing 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+col. 422 
+sangria 
+sangria 
+.manila 
+col. 084 
+testa di moro 
+dark brown
+zaini backpack 127. 
+.cote d’azur .cote d’azur 
+code OBAGS019 TES01 
+descrizione sacca interna zip O square 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O square 
+description canvas fabric O square inner 
+zip up bag 
+material fabric 
+components O square 
+col. 484 
+coral 
+coral 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+col. 485 
+atlantic 
+atlantic 
+tessuto canvas .sacca interna zip inner zip up bag O square 
+.cote d’azur .cote d’azur .manila 
+.manila 
+code OBAGS019 TES01 
+descrizione sacca interna O square 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O square 
+description canvas fabric O square inner 
+bag 
+material fabric 
+components O square 
+tessuto canvas .sacca interna inner bag O square 
+col. 347 
+cedro 
+cedro 
+col. 486 
+pink 
+pink 
+col. 017 
+blu navy 
+navy blue 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+.crossing .crossing .crossing
+128. O bag summer 2018 
+.cote d’azur 
+code HLESZ817 TES20 
+descrizione manici e tracolle manico 
+sporty + spallaccio O square tessuto 
+gommato + nastro naturale 
+materiale tessuto 
+abbinamenti O square 
+description O square rubber-coated 
+fabric + nastro naturale handles and 
+shoulder straps 
+material fabric 
+components O square 
+col. 078 
+sabbia 
+sand 
+col. 139 
+mela 
+apple 
+tessuto gommato + nastro naturale .O square 
+.manila .manila 
+col. 484 
+coral 
+coral 
+code OBAGS019 TES26 
+descrizione sacca interna O square 
+tessuto cordura 
+materiale tessuto 
+abbinamenti O square 
+description technical fabric O square 
+inner bag 
+material fabric 
+components O square 
+col. 054 
+naturale 
+natural 
+col. 092 
+verde scuro 
+dark green 
+col. 137 
+bluette 
+bright blue 
+cordura .sacca interna inner bag O square 
+.crossing .crossing .crossing
+zaini backpack 129. 
+code OBAGB015 EVS00 
+descrizione scocca One EVA compound 
+materiale EVA compound 
+abbinamenti cover One - spallacci One 
+description One body EVA compound 
+material EVA compound 
+components One cover - One shoulder 
+straps 
+L’immagine della scocca bianca sopra ha 
+esclusivamente scopo illustrativo. 
+The white body image above is for 
+illustrative purposes only. 
+One .scocca body 
+code OBAGC115 TES26 
+descrizione chiusura cover One tessuto 
+cordura 
+materiale tessuto 
+abbinamenti One 
+description technical fabric One cover 
+material fabric 
+components One 
+col. 017 
+blu navy 
+navy blue 
+col. 076 
+rosso 
+red 
+col. 119 
+fragola 
+strawberry 
+col. 036 
+giallo 
+yellow 
+col. 044 
+lime 
+lime 
+col. 133 
+grigio chiaro 
+light grey 
+col. 005 
+avio 
+air-force blue 
+col. 055 
+nero 
+black 
+col. 055 
+nero 
+black 
+col. 017 
+blu navy 
+navy blue 
+col. 134 
+antracite 
+anthracite 
+col. 038 
+grafite 
+graphite 
+cordura .chiusura cover cover One 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+130. O bag summer 2018 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+code OBAGB426 TESK2 
+descrizione scocca completo O bag tote 
+tessuto paille d’etè 
+materiale tessuto 
+abbinamenti tracolla/spallaccio slim 140 
+description paille d’etè fabric O bag tote 
+complete body 
+material fabric 
+components 140 slim shoulder strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 485 
+atlantic 
+atlantic 
+paille d’etè fabric .scocca completo complete body O bag tote 
+.cote d’azur .manila 
+.manila 
+code SHOUBG00 ECS00 
+descrizione tracolla/spallaccio slim 140 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag tote 
+description slim 140 faux leather 
+shoulder strap 
+material faux leather 
+components O bag tote 
+col. 026 
+cobalto 
+cobalt blue 
+ecopelle .tracolla shoulder strap 
+.cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+col. 422 
+sangria 
+sangria 
+col. 422 
+sangria 
+sangria 
+.manila 
+.manila
+zaini backpack 131. 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+code OBAGB413 TES20 
+descrizione scocca completo O bag soft 
+tessuto gommato 
+materiale tessuto 
+abbinamenti tracolla/spallaccio slim 140 
+description rubber-coated fabric O bag 
+soft complete body 
+material fabric 
+components 140 slim shoulder strap 
+col. 484 
+coral 
+coral 
+col. 055 
+nero 
+black 
+col. 485 
+atlantic 
+atlantic 
+col. 008 
+bianco 
+white 
+col. 078 
+sabbia 
+sand 
+col. 041 
+grigio scuro 
+dark grey 
+tessuto gommato .scocca body O bag soft 
+col. 026 
+cobalto 
+cobalt blue 
+col. 347 
+cedro 
+cedro
+132. O bag summer 2018 
+code OBAGB429 TESL6 
+descrizione scocca completo secchiello 
+tessuto gommato + fiore 
+materiale tessuto 
+abbinamenti tracollina swing corda 
+treccina cotone 
+description rubber-coated + flower fabric 
+handbag complete body 
+material fabric 
+components cotton braid rope swing 
+shoulder strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 371 
+latte 
+milk 
+tessuto gomma + fiore .scocca completo complete body 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+code SHOUBG00 ROS00 
+descrizione tracolla/spallaccio slim 140 
+corda 
+materiale corda 
+abbinamenti O bag tote - scocca 
+completo secchiello 
+description rope 140 slim shoulder strap 
+material rope 
+components O bag tote - handbag 
+complete body 
+col. 054 
+naturale 
+natural 
+corda .tracolla shoulder strap
+zaini backpack 133. 
+code HLESOC00 ECS00 
+descrizione manico oblò corto O bag ‘50 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag ‘50 
+description faux leather short porthole 
+handle O bag ‘50 
+material faux leather 
+components O bag ‘50 
+col. 009 
+blu 
+blue 
+col. 089 
+verde 
+green 
+oblò ecopelle .manico corto short handle O bag ‘50 
+.crossing .crossing 
+code HLESOC01 ECS13 
+descrizione manico oblò corto O bag 
+ecopelle basic nature 
+materiale ecopelle 
+abbinamenti O bag - O bag mini - O city 
+description basic nature short porthole 
+handle O bag ‘50 
+material faux leather 
+components O bag - O bag mini - O city 
+col. 039 
+grigio 
+grey 
+col. 087 
+taupe 
+taupe 
+oblò basic nature .manico corto short handle 
+.crossing .crossing
+134. O bag summer 2018 
+code HLESOC09 ECS00 
+descrizione manico oblò corto O bag ‘50 
+ecopelle 
+materiale ecopelle 
+abbinamenti O bag ‘50 - tracolla 
+spallacci kit lunga O bag ‘50 
+description faux leather short porthole 
+handle O bag ‘50 
+material faux leather 
+components O bag ‘50 
+code SHOUS509 ECS00 
+descrizione tracolla spallacci kit lunga O 
+bag ‘50 ecopelle 
+materiale ecopelle 
+abbinamenti O bag ‘50 - manico oblò 
+corto O bag ‘50 
+description faux leather long shoulder 
+strap kit O bag ‘50 
+material faux leather 
+components O bag ‘50 
+col. 009 
+blu 
+blue 
+col. 054 
+naturale 
+natural 
+col. 084 
+testa di moro 
+dark brown 
+col. 055 
+nero 
+black 
+col. 101 
+kiwi 
+kiwi 
+col. 055 
+nero 
+black 
+col. 275 
+marrone 
+brown 
+col. 084 
+testa di moro 
+dark brown 
+oblò .manico corto short handle O bag ‘50 
+kit .tracolla spallacci shoulder strap O bag ‘50 
+.crossing 
+.crossing .crossing .crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+zaini backpack 135.
+.accessori accessories
+138. O bag summer 2018 
+code ACCEP014 ECS35 
+descrizione accessorio pochette forata 
+ecopelle 
+materiale ecopelle 
+abbinamenti O square - manichetto - 
+manico lungo componibile 
+description basic faux leather 
+accessories 
+material faux leather 
+components O square - short tubular 
+handle with round snap-hooks - long 
+handle with round snap-hooks and tear 
+drop 
+col. 017 
+blu navy 
+navy blue 
+ecopelle basic .accessori accessories 
+.cote d’azur 
+col. 026 
+cobalto 
+cobalt blue 
+.cote d’azur 
+col. 484 
+coral 
+coral 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+.manila .manila 
+col. 371 
+latte 
+milk 
+col. 055 
+nero 
+black 
+col. 422 
+sangria 
+sangria
+accessori accessories 139. 
+col. 078 
+sabbia 
+sand 
+col. 139 
+mela 
+apple 
+.manila .manila 
+code ACCEP001 TESL6 
+descrizione pochette gomma + tessuto 
+paglia rigata + fiore 
+materiale gomma + tessuto 
+abbinamenti tracollina swing corda 
+treccina cotone 
+description rubber + striped straw + 
+flower fabric accessories 
+material rubber + fabric 
+components cotton braid rope swing 
+shoulder strap 
+col. 076 
+rosso 
+red 
+gomma + tessuto paglia rigata + fiore .accessori accessories 
+.cote d’azur 
+col. 347 
+cedro 
+cedro 
+.cote d’azur 
+code ACCEP014 TES20 
+descrizione pochette forata tessuto 
+gommato 
+materiale tessuto 
+abbinamenti O square - manichetto - 
+manico lungo componibile 
+description rubber-coated fabric 
+accessories 
+material fabric 
+components O square - short tubular 
+handle with round snap-hooks - long 
+handle with round snap-hooks and tear 
+drop 
+tessuto gommato .accessori accessories 
+140. O bag summer 2018 
+code ACCEN001 MTS01 
+descrizione accessori collana O bag 
+metallo galvanizzato 
+materiale metallo 
+description galvanized metal O bag 
+necklace accessory 
+material metal 
+code ACCEC001 MTS01 
+descrizione accessori charms O bag 
+metallo galvanizzato 
+materiale metallo 
+description galvanized metal O bag 
+charms accessory 
+material metal 
+collana .accessorio accessory 
+charms .accessorio accessory 
+col. 004 
+argento 
+silver 
+col. 004 
+argento 
+silver 
+col. 061 
+oro 
+gold 
+col. 061 
+oro 
+gold 
+col. 062 
+oro rosa 
+pink gold 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+accessori accessories 141.
+.orologi watches
+144. O bag summer 2018 
+code OCLKD001 MESA2 
+descrizione O clock meccanismo cote 
+d’azur blooms 
+materiale 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description cote d’azur blooms O clock 
+dial 
+components O clock strap - O clock shift 
+band strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 486 
+pink 
+pink 
+cote d’azur blooms .meccanismo dial O clock 
+.cote d’azur .cote d’azur 
+code OCLKD001 MES97 
+descrizione O clock meccanismo manila 
+camouflage 
+materiale 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description manila camouflage O clock 
+dial 
+components O clock strap - O clock shift 
+band strap 
+col. 060 
+oliva 
+olive 
+col. 063 
+ottanio 
+teal 
+col. 422 
+sangria 
+sangria 
+manila camouflage .meccanismo dial O clock 
+.manila .manila .manila
+orologi watches 145. 
+code OCLKD001 MES96 
+descrizione O clock meccanismo manila 
+jungle flowers 
+materiale 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description manila jungle flowers O clock 
+dial 
+components O clock strap - O clock shift 
+band strap 
+col. 484 
+coral 
+coral 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+manila jungle flowers .meccanismo dial O clock 
+.manila .manila .manila 
+code OCLKD001 MES98 
+descrizione O clock meccanismo vichy 
+materiale 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description vichy O clock dial 
+components O clock strap - O clock shift 
+band strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 055 
+nero 
+black 
+col. 484 
+coral 
+coral 
+vichy .meccanismo dial O clock 
+.cote d’azur .cote d’azur .cote d’azur
+146. O bag summer 2018 
+col. 347 
+cedro 
+cedro 
+col. 484 
+coral 
+coral 
+code OCLKD001 MES80 
+descrizione O clock meccanismo 
+crossing lines + flowers 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing lines + 
+flowers 
+components O clock strap - O clock shift 
+band strap 
+crossing lines + flowers .meccanismo dial O clock 
+.crossing .crossing 
+col. 026 
+blu cobalto 
+cobalt blue 
+col. 017 
+blu navy 
+navy blue 
+code OCLKD001 MES81 
+descrizione O clock meccanismo 
+crossing lines 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing lines 
+components O clock strap - O clock shift 
+band strap 
+crossing lines .meccanismo dial O clock 
+.crossing .crossing
+orologi watches 147. 
+col. 130 
+azzurro 
+azure 
+col. 025 
+cipria 
+powder pink 
+code OCLKD001 MES82 
+descrizione O clock meccanismo 
+crossing flowers 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing flowers 
+components O clock strap - O clock shift 
+band strap 
+crossing flowers .meccanismo dial O clock 
+.crossing .crossing 
+col. 134 
+antracite 
+anthracite 
+code OCLKD001 MES83 
+descrizione O clock meccanismo 
+crossing meadows 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing 
+meadows 
+components O clock strap - O clock shift 
+band strap 
+crossing meadows .meccanismo dial O clock 
+.crossing
+148. O bag summer 2018 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 130 
+azzurro 
+azure 
+code OCLKD001 MES84 
+descrizione O clock meccanismo 
+crossing petals 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing petals 
+components O clock strap - O clock shift 
+band strap 
+crossing petals .meccanismo dial O clock 
+col. 347 
+cedro 
+cedro 
+col. 076 
+rosso 
+red 
+col. 055 
+nero 
+black 
+code OCLKD001 MES86 
+descrizione O clock meccanismo 
+crossing lines 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing lines 
+components O clock strap - O clock shift 
+band strap 
+crossing lines .meccanismo dial O clock 
+.crossing .crossing 
+.crossing .crossing .crossing
+orologi watches 149. 
+col. 026 
+blu cobalto 
+cobalt blue 
+col. 055 
+nero 
+black 
+col. 422 
+sangria 
+sangria 
+code OCLKD001 MES87 
+descrizione O clock meccanismo 
+crossing flower 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing flower 
+components O clock strap - O clock shift 
+band strap 
+crossing flower .meccanismo dial O clock 
+col. 076 
+rosso 
+red 
+col. 347 
+cedro 
+cedro 
+code OCLKD001 MES88 
+descrizione O clock meccanismo 
+crossing jungle 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crossing jungle 
+components O clock strap - O clock shift 
+band strap 
+crossing jungle .meccanismo dial O clock 
+.crossing .crossing 
+.crossing .crossing .crossing
+150. O bag summer 2018 spring 2018 
+col. 036 
+giallo 
+yellow 
+col. 012 
+blu acqua 
+aqua blue 
+col. 023 
+celeste 
+sky blue 
+col. 013 
+blu capri 
+capri blue 
+col. 097 
+violetto 
+violet 
+col. 076 
+rosso 
+red 
+col. 159 
+total black 
+total black 
+col. 060 
+oliva 
+olive 
+col. 045 
+magenta 
+magenta 
+tone on tone .meccanismo dial O clock 
+.crossing 
+.crossing .crossing .crossing 
+col. 003 
+arancione 
+orange 
+.crossing 
+.crossing 
+.crossing 
+.crossing .crossing 
+.crossing 
+code OCLKD001 MES06 
+descrizione O clock meccanismo tone 
+on tone 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial tone on tone 
+components O clock strap - O clock shift 
+band strap 
+col. 025 
+cipria 
+powder pink 
+.crossing
+orologi watches 151. 
+col. 012 
+blu acqua 
+aqua blue 
+col. 088 
+turchese 
+turquoise 
+col. 025 
+cipria 
+powder pink 
+col. 080 
+salvia 
+sage 
+col. 081 
+smeraldo 
+emerald 
+crystal .meccanismo dial O clock 
+.crossing .crossing 
+.crossing .crossing .crossing 
+code OCLKD001 MES09 
+descrizione O clock meccanismo crystal 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial crystal 
+components O clock strap - O clock shift 
+band strap 
+col. 140 
+palme 
+palms 
+col. 145 
+iride 
+rainbow 
+col. 146 
+mix esagoni 
+hexagons mix 
+col. 200 
+splash 1 
+splash 1 
+col. 201 
+splash 2 
+splash 2 
+col. 202 
+splash 3 
+splash 3 
+grafica .meccanismo dial O clock 
+.crossing .crossing .crossing 
+.crossing .crossing .crossing 
+code OCLKD001 MES05 
+descrizione O clock meccanismo grafica 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial graphic 
+components O clock strap - O clock shift 
+band strap
+152. O bag summer 2018 spring 2018 
+col. 191 
+icona 
+icon 
+col. 194 
+paperoga 
+fethry duck 
+col. 192 
+paperina 
+daisy duck 
+col. 195 
+paperino 
+donald duck 
+col. 193 
+paperone 
+uncle scrooge 
+col. 413 
+pluto 
+pluto 
+disney .meccanismo dial O clock 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+code OCLKD001 MES08 
+descrizione O clock meccanismo disney 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial disney 
+components O clock strap - O clock shift 
+band strap 
+col. 414 
+topolino 
+mickey mouse 
+col. 415 
+pippo 
+goofy 
+.crossing .crossing
+orologi watches 153. 
+col. 148 
+maculato blu 
+blue spotted 
+col. 149 
+maculato phard 
+blush pink spotted 
+col. 150 
+zebrato nero 
+black zebra-striped 
+glitter .meccanismo dial O clock 
+.crossing .crossing .crossing 
+code OCLKD001 MES10 
+descrizione O clock meccanismo glitter 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial glitter 
+components O clock strap - O clock shift 
+band strap 
+col. 196 
+rosso su bianco 
+red on white 
+col. 199 
+rosso su grigio 
+red on grey 
+col. 011 
+blu su nero 
+blue on black 
+seconds .meccanismo dial O clock 
+.crossing 
+.crossing .crossing 
+col. 090 
+verde su bianco 
+green on white 
+.crossing 
+col. 197 
+blu su bianco 
+blue on white 
+.crossing 
+col. 198 
+nero su bianco 
+black on white 
+.crossing 
+code OCLKD001 MES12 
+descrizione O clock meccanismo 
+seconds 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial seconds 
+components O clock strap - O clock shift 
+band strap
+154. O bag summer 2018 
+col. 004 
+argento 
+silver 
+col. 131 
+verde antico 
+antique green 
+col. 061 
+oro 
+gold 
+col. 067 
+phard 
+blush pink 
+glimmer .meccanismo dial O clock 
+.crossing 
+.crossing 
+.crossing .crossing 
+code OCLKD001 MES14 
+descrizione O clock meccanismo 
+glimmer 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial glimmer 
+components O clock strap - O clock shift 
+band strap 
+col. 211 
+fiori 
+flowers 
+col. 212 
+limone 
+lemon 
+col. 213 
+peonia 
+peony 
+botanical .meccanismo dial O clock 
+.crossing .crossing .crossing 
+code OCLKD001 MES26 
+descrizione O clock meccanismo 
+botanical 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial botanical 
+components O clock strap - O clock shift 
+band strap
+orologi watches 155. 
+col. 017 
+blu navy 
+navy blue 
+col. 095 
+viola desaturato 
+pale violet 
+col. 001 
+acqua 
+aqua 
+col. 112 
+purple 
+purple 
+col. 044 
+lime 
+lime 
+col. 108 
+terracotta 
+terracotta 
+col. 036 
+giallo 
+yellow 
+col. 137 
+bluette 
+bright blue 
+col. 067 
+phard 
+blush pink 
+foulard .meccanismo dial O clock 
+animalier tartaruga .meccanismo dial O clock 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing .crossing 
+.crossing 
+.crossing 
+.crossing 
+code OCLKD001 MES30 
+descrizione O clock meccanismo foulard 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial foulard 
+components O clock strap - O clock shift 
+band strap 
+code OCLKD001 MES31 
+descrizione O clock meccanismo 
+animalier tartaruga 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial animalier turtle 
+components O clock strap - O clock shift 
+band strap
+156. O bag summer 2018 
+col. 017 
+blu navy 
+navy blue 
+col. 018 
+bordeaux 
+burgundy 
+col. 132 
+biscotto 
+biscuit 
+col. 092 
+verde scuro 
+dark green 
+col. 136 
+becco d’oca 
+duck beack 
+col. 137 
+bluette 
+bright blue 
+animalier farfalla .meccanismo dial O clock 
+animalier pavone .meccanismo dial O clock 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+code OCLKD001 MES32 
+descrizione O clock meccanismo 
+animalier farfalla 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial animalier 
+butterfly 
+components O clock strap - O clock shift 
+band strap 
+code OCLKD001 MES33 
+descrizione O clock meccanismo 
+animalier pavone 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial animalier 
+peacock 
+components O clock strap - O clock shift 
+band strap
+orologi watches 157. 
+col. 092 
+verde scuro 
+dark green 
+col. 063 
+ottanio 
+teal 
+angry .meccanismo dial O clock 
+happy .meccanismo dial O clock 
+.crossing 
+.crossing 
+code OCLKD001 MES37 
+descrizione O clock meccanismo angry 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial angry 
+components O clock strap - O clock shift 
+band strap 
+code OCLKD001 MES38 
+descrizione O clock meccanismo happy 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial happy 
+components O clock strap - O clock shift 
+band strap
+158. O bag summer 2018 
+col. 133 
+grigio chiaro 
+light grey 
+col. 062 
+oro rosa 
+pink gold 
+gasp .meccanismo dial O clock 
+pavè .meccanismo dial O clock 
+.crossing 
+.crossing 
+code OCLKD001 MES39 
+descrizione O clock meccanismo gasp 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial gasp 
+components O clock strap - O clock shift 
+band strap 
+code OCLKD001 MES02 
+descrizione O clock meccanismo pavè 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial pavè 
+components O clock strap - O clock shift 
+band strap
+orologi watches 159. 
+col. 062 
+oro rosa 
+pink gold 
+col. 004 
+argento 
+silver 
+col. 055 
+nero 
+black 
+stardust .meccanismo dial O clock 
+.crossing .crossing .crossing 
+code OCLKD001 MES13 
+descrizione O clock meccanismo 
+stardust 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial stardust 
+components O clock strap - O clock shift 
+band strap 
+col. 067 
+phard 
+blush pink 
+col. 131 
+verde antico 
+antique green 
+col. 133 
+grigio chiaro 
+light grey 
+metal fade .meccanismo dial O clock 
+.crossing .crossing .crossing 
+code OCLKD001 MES73 
+descrizione O clock meccanismo metal 
+fade 
+abbinamenti cinturino O clock - cinturino 
+band O clock shift 
+description O clock dial metal fade 
+components O clock strap - O clock shift 
+band strap
+160. O bag summer 2018 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+GENER L GENER L GENER L 
+.manila .manila .manila 
+col. 484 
+coral 
+coral 
+GENER S 
+GENER M 
+GENER L 
+.manila 
+col. 422 
+sangria 
+sangria 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+.cinturino strap O clock 
+code OCLKS007 SIS01 
+descrizione O clock cinturino silicone 
+materiale silicone 
+abbinamenti meccanismo O clock 
+description silicone O clock strap 
+material silicone 
+components O clock dial 
+GENER S 
+GENER S 
+GENER S GENER XS 
+GENER M 
+GENER M 
+GENER M 
+GENER L 
+GENER L 
+GENER L 
+col. 044 
+lime 
+lime 
+col. 036 
+giallo 
+yellow 
+col. 003 
+arancione 
+orange 
+.crossing 
+.crossing 
+.crossing 
+GENER S 
+GENER M 
+GENER L 
+col. 128 
+salmone 
+salmon 
+.crossing
+orologi watches 161. 
+GENER S GENER S GENER XS 
+GENER S GENER M GENER M 
+GENER M GENER L 
+GENER L 
+col. 002 
+amaranto 
+amaranth 
+col. 077 
+rubino 
+ruby 
+col. 076 
+rosso 
+red 
+.crossing 
+.crossing 
+.crossing 
+GENER S 
+GENER M 
+GENER L 
+col. 053 
+narcissus 
+narcissus 
+.crossing 
+GENER L 
+GENER L 
+GENER S GENER XS 
+GENER M GENER S 
+GENER M 
+col. 097 
+violetto 
+violet 
+col. 025 
+cipria 
+powder pink 
+.crossing 
+GENER S GENER S 
+GENER M GENER M 
+col. 069 
+porpora 
+purple 
+col. 096 
+viola pastello 
+pastel violet 
+.crossing 
+.crossing 
+.crossing 
+GENER S 
+GENER M 
+col. 045 
+magenta 
+magenta 
+.crossing 
+GENER S 
+GENER M 
+col. 095 
+viola desaturato 
+pale violet 
+.crossing
+162. O bag summer 2018 
+GENER S 
+GENER M 
+col. 088 
+turchese 
+turquoise 
+GENER S 
+GENER M 
+col. 012 
+blu acqua 
+aqua blue 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+GENER L 
+GENER L 
+GENER L 
+col. 063 
+ottanio 
+teal 
+col. 081 
+smeraldo 
+emerald 
+col. 090 
+verde bianco 
+white green 
+.crossing 
+.crossing .crossing 
+GENER S 
+GENER M 
+col. 080 
+salvia 
+sage 
+.crossing 
+.crossing 
+.crossing 
+GENER L 
+GENER XS GENER S GENER S 
+GENER S GENER M GENER M 
+GENER M GENER L GENER L 
+col. 022 
+carta da zucchero 
+azure 
+col. 015 
+blu iris 
+iris blue 
+col. 013 
+blu capri 
+capri blue 
+.crossing .crossing 
+GENER S 
+GENER M 
+col. 014 
+blu elettrico 
+electric blue 
+.crossing 
+.crossing 
+.cinturino strap O clock 
+orologi watches 163. 
+GENER S 
+GENER M 
+col. 060 
+oliva 
+olive 
+GENER S 
+GENER M 
+GENER L 
+col. 024 
+cioccolato 
+chocolate 
+.crossing 
+GENER L 
+.crossing
+164. O bag summer 2018 
+GENER S 
+GENER S GENER S 
+GENER S GENER S 
+GENER M 
+GENER M GENER M 
+GENER M GENER M 
+GENER L 
+GENER L GENER L 
+GENER L GENER L 
+col. 008 
+bianco 
+white 
+col. 068 
+polvere 
+dusty blue 
+col. 071 
+roccia 
+rock 
+col. 055 
+nero 
+black 
+col. 063 
+ottanio 
+teal 
+.crossing 
+.crossing .crossing 
+.crossing .crossing 
+wicker .cinturino strap O clock 
+code OCLKS001 SIS02 
+descrizione O clock cinturino wicker 
+materiale silicone 
+abbinamenti meccanismo O clock 
+description wicker O clock strap 
+material silicone 
+components O clock dial
+orologi watches 165. 
+code OCLKD101 MESA3 
+descrizione O clock great meccanismo 
+manila foliage 
+abbinamenti O clock cinturino great 
+silicone 
+description manila foliage O clock great 
+dial 
+components silicone O clock great strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 055 
+nero 
+black 
+col. 060 
+oliva 
+olive 
+manila foliage .meccanismo dial O clock great 
+.manila .manila .manila 
+code OCLKD101 MES04 
+descrizione O clock great meccanismo 
+soleil 
+abbinamenti O clock cinturino great 
+silicone 
+description soleil O clock great dial 
+components silicone O clock great strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+coral 
+coral 
+col. 485 
+atlantic 
+atlantic 
+soleil .meccanismo dial O clock great 
+.cote d’azur .cote d’azur .manila
+code OCLKD101 MESA7 
+descrizione O clock great meccanismo 
+tone on tone 
+abbinamenti O clock cinturino great 
+silicone 
+description tone on tone O clock great 
+dial 
+components silicone O clock great strap 
+col. 025 
+cipria 
+powder pink 
+col. 060 
+oliva 
+olive 
+col. 050 
+melanzana 
+aubergine 
+col. 063 
+ottanio 
+teal 
+col. 059 
+oceano 
+ocean 
+col. 076 
+rosso 
+red 
+tone on tone .meccanismo dial O clock great 
+.manila 
+.manila 
+.manila .manila 
+.manila 
+.manila .manila 
+.manila 
+col. 422 
+sangria 
+sangria 
+.manila 
+.manila 
+col. 347 
+cedro 
+cedro 
+col. 008 
+bianco 
+white 
+col. 055 
+nero 
+black 
+166. O bag summer 2018
+orologi watches 167. 
+code OCLKD110 MESA6 
+descrizione O clock great racing 
+meccanismo ocean race 
+abbinamenti O clock cinturino great 
+silicone 
+description ocean race O clock great 
+racing dial 
+components silicone O clock great strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 076 
+rosso 
+red 
+ocean race .meccanismo dial O clock great racing 
+.cote d’azur .cote d’azur 
+code OCLKD110 MES04 
+descrizione O clock great racing 
+meccanismo soleil 
+abbinamenti O clock cinturino great 
+silicone 
+description soleil O clock great racing 
+dial 
+components silicone O clock great strap 
+col. 026 
+cobalto 
+cobalt blue 
+col. 484 
+coral 
+coral 
+col. 485 
+atlantic 
+atlantic 
+soleil .meccanismo dial O clock great racing 
+.cote d’azur .cote d’azur .manila
+168. O bag summer 2018 
+col. 055 
+nero 
+black 
+col. 008 
+bianco 
+white 
+code OCLKD104 MES90 
+descrizione meccanismo great date nyc 
+times square 
+abbinamenti O clock cinturino great 
+silicone 
+description great date dial nyc times 
+square 
+components O clock great dial 
+date nyc times square .meccanismo dial O clock great 
+.crossing .crossing 
+col. 130 
+azzurro 
+azure 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 483 
+champagne 
+champagne 
+code OCLKD101 MES85 
+descrizione meccanismo great crossing 
+diamonds 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial crossing diamonds 
+components O clock great dial 
+crossing diamonds .meccanismo dial O clock great 
+.crossing .crossing .crossing
+orologi watches 169. 
+col. 487 
+bianco/nero/cedro 
+white/black/cedro 
+col. 497 
+nero/rosso/bianco 
+black/red/white 
+col. 498 
+nero/giallo/bianco 
+black/yellow/white 
+col. 499 
+bianco/rosso/nero 
+white/red/black 
+code OCLKD101 MES91 
+descrizione meccanismo great nyc 
+latitud 
+abbinamenti O clock cinturino great 
+silicone 
+description great date dial nyc latitud 
+components O clock great dial 
+code OCLKD104 MES92 
+descrizione meccanismo great date satin 
+abbinamenti O clock cinturino great 
+silicone 
+description great date dial satin 
+components O clock great dial 
+nyc latitud .meccanismo dial O clock great 
+date satin .meccanismo dial O clock great 
+.crossing 
+.crossing .crossing .crossing
+170. O bag summer 2018 
+col. 002 
+amaranto 
+amaranth 
+col. 068 
+polvere 
+dusty blue 
+col. 044 
+lime 
+lime 
+col. 183 
+viola 
+violet 
+col. 063 
+ottanio 
+teal 
+code OCLKD101 MES06 
+descrizione meccanismo great tone on 
+tone 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial tone on tone 
+components silicone O clock great strap 
+tone on tone .meccanismo dial O clock great 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+col. 015 
+blu iris 
+iris blue 
+col. 053 
+narcissus 
+narcissus 
+col. 112 
+purple 
+purple 
+code OCLKD101 MES12 
+descrizione meccanismo great seconds 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial seconds 
+components silicone O clock great strap 
+seconds .meccanismo dial O clock great 
+.crossing .crossing .crossing 
+col. 003 
+arancione 
+orange 
+col. 267 
+fucsia 
+fuchsia 
+col. 001 
+acqua 
+aqua 
+.crossing .crossing .crossing
+orologi watches 171. 
+col. 003 
+arancione 
+orange 
+col. 092 
+verde scuro 
+dark green 
+code OCLKD104 MES40 
+descrizione meccanismo great date 
+sunset 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial date sunset 
+components silicone O clock great strap 
+date sunset .meccanismo dial O clock great 
+.crossing .crossing 
+col. 063 
+ottanio 
+teal 
+code OCLKD104 MES42 
+descrizione meccanismo great date 
+sunset 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial date sunset 
+components silicone O clock great strap 
+date lagoon .meccanismo dial O clock great 
+.crossing
+172. O bag summer 2018 
+col. 076 
+rosso 
+red 
+code OCLKD104 MES43 
+descrizione meccanismo great date 
+spritz 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial date spritz 
+components silicone O clock great strap 
+spritz .meccanismo dial O clock great 
+.crossing 
+code OCLKD104 MES44 
+descrizione meccanismo great caipirinha 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial caipirinha 
+components silicone O clock great strap 
+caipirinha .meccanismo dial O clock great 
+col. 131 
+antique green 
+antique green 
+.crossing
+orologi watches 173. 
+col. 063 
+ottanio 
+teal 
+.crossing 
+code OCLKD104 MES45 
+descrizione meccanismo great date 
+martini 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial date martini 
+components silicone O clock great strap 
+martini .meccanismo dial O clock great 
+col. 108 
+terracotta 
+terracotta 
+col. 095 
+viola desaturato 
+pale violet 
+col. 001 
+acqua 
+aqua 
+code OCLKD102 MES07 
+descrizione meccanismo great soleil 
+numeri 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial soleil numbers 
+components silicone O clock great strap 
+soleil numeri .meccanismo dial O clock great 
+.crossing .crossing .crossing
+174. O bag summer 2018 
+col. 008 
+bianco 
+white 
+col. 137 
+bluette 
+bright blue 
+col. 055 
+nero 
+black 
+code OCLKD101 MES35 
+descrizione meccanismo great numeri 
+mirror 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial mirror numbers 
+components silicone O clock great strap 
+numeri mirror .meccanismo dial O clock great 
+.crossing .crossing .crossing 
+col. 067 
+phard 
+blush pink 
+col. 133 
+grigio chiaro 
+light grey 
+col. 131 
+antique green 
+antique green 
+code OCLKD101 MES17 
+descrizione meccanismo great diamonds 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial diamonds 
+components silicone O clock great strap 
+diamonds .meccanismo dial O clock great 
+.crossing .crossing .crossing
+orologi watches 175. 
+col. 061 
+oro 
+gold 
+col. 072 
+rosa 
+pink 
+code OCLKD101 MES04 
+descrizione meccanismo great soleil 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial soleil 
+components silicone O clock great strap 
+soleil .meccanismo dial O clock great 
+.crossing .crossing 
+col. 009 
+blu 
+blue 
+col. 036 
+giallo 
+yellow 
+col. 076 
+rosso 
+red 
+code OCLKD111 MES63 
+descrizione meccanismo great day time 
+carbon 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial day time carbon 
+components silicone O clock great strap 
+day time carbon .meccanismo dial O clock great 
+.crossing .crossing .crossing
+176. O bag summer 2018 
+col. 008 
+bianco 
+white 
+col. 076 
+rosso 
+red 
+code OCLKD101 MES16 
+descrizione meccanismo great racing 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial racing 
+components silicone O clock great strap 
+racing .meccanismo dial O clock great 
+.crossing .crossing 
+col. 261 
+fluo lime 
+fluo lime 
+col. 263 
+fluo arancione 
+fluo orange 
+col. 265 
+fluo corallo 
+fluo coral 
+col. 266 
+fluo acqua 
+fluo aqua 
+.crossing 
+.crossing .crossing .crossing 
+col. 060 
+oliva 
+olive 
+col. 108 
+terracotta 
+terracotta 
+col. 131 
+antique green 
+antique green 
+code OCLKD104 MES00 
+descrizione meccanismo great generico 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial generic 
+components silicone O clock great strap 
+generico .meccanismo dial O clock great 
+.crossing .crossing .crossing 
+col. 261 
+fluo lime 
+fluo lime 
+col. 263 
+fluo arancione 
+fluo orange 
+col. 264 
+fluo verde 
+fluo green 
+.crossing .crossing .crossing
+orologi watches 177. 
+col. 199 
+rosso su grigio 
+red on grey 
+col. 391 
+blu su nero 
+blu on black 
+col. 392 
+blu su grigio 
+blue on grey 
+col. 390 
+rosso su nero 
+red on black 
+code OCLKD110 MES64 
+descrizione meccanismo great racing 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial racing 
+components silicone O clock great strap 
+racing .meccanismo dial O clock great 
+.crossing 
+.crossing 
+.crossing .crossing 
+col. 131 
+antique green 
+antique green 
+col. 133 
+grigio chiaro 
+light grey 
+code OCLKD102 MES16 
+descrizione meccanismo great soleil 
+racing 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial soleil racing 
+components silicone O clock great strap 
+soleil racing .meccanismo dial O clock great 
+.crossing .crossing
+178. O bag summer 2018 
+col. 076 
+rosso 
+red 
+col. 139 
+mela 
+apple 
+col. 009 
+blu 
+blue 
+code OCLKD104 MES12 
+descrizione meccanismo great date 
+seconds 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial date seconds 
+components silicone O clock great strap 
+seconds .meccanismo dial O clock great 
+.crossing .crossing .crossing 
+col. 072 
+rosa 
+pink 
+.crossing 
+col. 044 
+lime 
+lime 
+col. 068 
+polvere 
+dusty blue 
+col. 002 
+amaranto 
+amaranth 
+col. 063 
+ottanio 
+teal 
+col. 183 
+viola 
+violet 
+code OCLKD104 MES04 
+descrizione meccanismo great con 
+datario soleil 
+abbinamenti O clock cinturino great 
+silicone 
+description great dial soleil dial with 
+calendar 
+components silicone O clock great strap 
+soleil .meccanismo dial O clock great 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+orologi watches 179. 
+col. 008 
+bianco 
+white 
+code OCLKD101 MES22 
+descrizione O clock dial great metallo 
+sunlight 
+abbinamenti O clock cinturino great 
+silicone 
+description O clock dial great metal 
+sunlight 
+components silicone O clock great strap 
+sunlight .meccanismo dial O clock great 
+.crossing
+180. O bag summer 2018 
+GENER S 
+GENER S 
+GENER S GENER S 
+GENER M 
+GENER M 
+GENER M GENER M 
+GENER L 
+GENER L 
+GENER L GENER L 
+.cinturino strap O clock great 
+code OCLKS107 SIS01 
+descrizione O clock cinturino great 
+silicone 
+materiale silicone 
+abbinamenti meccanismo O clock great 
+description silicone O clock great strap 
+material silicone 
+components O clock great dial 
+.cote d’azur 
+.manila 
+.cote d’azur .manila 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+GENER S GENER S 
+GENER M GENER M 
+GENER L GENER L 
+col. 044 
+lime 
+lime 
+.crossing .crossing 
+GENER S 
+GENER M 
+GENER L 
+col. 003 
+arancione 
+orange 
+.crossing 
+col. 128 
+salmone 
+salmon 
+GENER S 
+GENER M 
+GENER L 
+col. 036 
+giallo 
+yellow 
+.crossing
+orologi watches 181. 
+GENER S GENER S 
+GENER M GENER M 
+GENER L GENER L 
+.crossing .crossing 
+GENER S 
+GENER M 
+GENER L 
+col. 053 
+narcissus 
+narcissus 
+.crossing 
+col. 002 
+amaranto 
+amaranth 
+col. 045 
+magenta 
+magenta 
+GENER S 
+GENER M 
+GENER L 
+col. 076 
+rosso 
+red 
+.crossing 
+GENER S 
+GENER M 
+GENER L 
+.crossing 
+col. 112 
+purple 
+purple 
+GENER S 
+GENER M 
+GENER L 
+.crossing 
+col. 025 
+cipria 
+powder pink 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+GENER L GENER L GENER L 
+.crossing .crossing .crossing 
+col. 096 
+viola pastello 
+pastel violet 
+col. 095 
+viola desaturato 
+pale violet 
+col. 022 
+carta da zucchero 
+azure 
+GENER S 
+GENER M 
+GENER L 
+.crossing 
+col. 013 
+blu capri 
+capri blue
+182. O bag summer 2018 
+GENER S 
+GENER S GENER S 
+GENER M 
+GENER M GENER M 
+GENER L 
+GENER L GENER L 
+.crossing 
+.crossing .crossing 
+col. 088 
+turchese 
+turquoise 
+col. 060 
+oliva 
+olive 
+col. 080 
+salvia 
+sage 
+GENER S 
+GENER M 
+GENER L 
+.crossing 
+col. 015 
+blu iris 
+iris blue 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+GENER L GENER L GENER L 
+.crossing .crossing .crossing 
+col. 068 
+polvere 
+dusty blue 
+col. 012 
+blu acqua 
+aqua blue 
+col. 063 
+ottanio 
+teal 
+.cinturino strap O clock great 
+orologi watches 183. 
+col. 008 
+bianco 
+white 
+col. 063 
+ottanio 
+teal 
+col. 059 
+oceano 
+ocean 
+col. 060 
+oliva 
+olive 
+col. 036 
+giallo 
+yellow 
+col. 055 
+nero 
+black 
+code OCLKE013 MAS00 
+descrizione case O clock shift classic 
+slim plastic material 
+abbinamenti cinturino band O clock shift 
+- meccanismo O clock 
+description O clock shift case classic 
+slim plastic material 
+components O clock shift band strap - 
+O clock dial 
+classic slim .case case O clock shift 
+col. 484 
+coral 
+coral 
+col. 486 
+pink 
+pink 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila
+184. O bag summer 2018 
+col. 008 
+bianco 
+white 
+col. 063 
+ottanio 
+teal 
+col. 059 
+oceano 
+ocean 
+col. 060 
+oliva 
+olive 
+col. 036 
+giallo 
+yellow 
+col. 055 
+nero 
+black 
+code OCLKE114 MAS00 
+descrizione case O clock shift great 
+round 
+abbinamenti cinturino band O clock shift 
+- meccanismo O clock great 
+description O clock shift great round 
+case plastic material 
+components O clock shift band strap - 
+O clock great dial 
+great round .case case O clock great shift 
+col. 484 
+coral 
+coral 
+col. 486 
+pink 
+pink 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila
+orologi watches 185. 
+col. 008 
+bianco 
+white 
+col. 063 
+ottanio 
+teal 
+col. 059 
+oceano 
+ocean 
+col. 060 
+oliva 
+olive 
+col. 036 
+giallo 
+yellow 
+col. 055 
+nero 
+black 
+code OCLKSB01 INS00 
+descrizione cinturino band O clock shift 
+abbinamenti case O clock shift - 
+meccanismo O clock 
+description O clock shift band strap 
+components O clock shift case - O clock 
+dial 
+band .cinturino strap O clock shift 
+col. 484 
+coral 
+coral 
+col. 486 
+pink 
+pink 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila
+.occhiali sunglasses
+188. O bag summer 2018 
+col. 008 
+bianco 
+white 
+col. 055 
+nero 
+black 
+col. 422 
+sangria 
+sangria 
+col. 347 
+cedro 
+cedro 
+code OSUNC003 INS39 
+descrizione O sun front iniettato crossing 
+metal 
+abbinamenti O sun astine 
+description O sun front nyc metal 
+injected 
+components O sun sticks 
+crossing metal .front front O sun 
+.crossing 
+.crossing 
+.crossing .crossing 
+col. 422 
+sangria 
+sangria 
+col. 055 
+nero 
+black 
+code OSUNC003 INS38 
+descrizione O sun front iniettato crossing 
+lines 
+abbinamenti O sun astine 
+description O sun front nyc lines injected 
+component O sun sticks 
+crossing lines .front front O sun 
+.crossing .crossing
+occhiali sunglasses 189. 
+col. 347 
+cedro 
+cedro 
+col. 484 
+coral 
+coral 
+code OSUNC003 INS35 
+descrizione O sun front iniettato crossing 
+lines + flowers 
+abbinamenti O sun astine 
+description O sun front crossing lines + 
+flowers injected 
+components O sun sticks 
+crossing lines + flowers .front front O sun 
+.crossing .crossing 
+col. 017 
+blu navy 
+navy blue 
+col. 076 
+rosso 
+red 
+col. 026 
+blu cobalto 
+cobalt blue 
+code OSUNC003 INS34 
+descrizione O sun front iniettato crossing 
+lines 
+abbinamenti O sun astine 
+description O sun front crossing lines 
+injected 
+components O sun sticks 
+crossing lines .front front O sun 
+.crossing .crossing .crossing
+190. O bag summer 2018 
+col. 130 
+azzurro 
+azure 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 483 
+champagne 
+champagne 
+code OSUNC003 INS42 
+descrizione O sun front iniettato crossing 
+metal 
+abbinamenti O sun astine 
+description O sun front crossing metal 
+injected 
+components O sun sticks 
+crossing metal .front front O sun 
+.crossing .crossing .crossing 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 483 
+champagne 
+champagne 
+code OSUNC003 INS41 
+descrizione O sun front iniettato crossing 
+brush 
+abbinamenti O sun astine 
+description O sun front crossing brush 
+injected 
+components O sun sticks 
+crossing brush .front front O sun 
+.crossing .crossing
+occhiali sunglasses 191. 
+code OSUNC003 INS44 
+descrizione O sun montatura vichy 
+materiale iniettato 
+abbinamenti O sun astine e lenti 
+description vichy O sun frame 
+material injected 
+components O sun sticks and lenses 
+col. 227 
+bianco/nero 
+white - black 
+col. 408 
+blu/bianco 
+blue - white 
+col. 517 
+bianco/rosa 
+white/pink 
+vichy .montatura frame O sun 
+.cote d’azur .cote d’azur .cote d’azur 
+code OSUNC003 INS10 
+descrizione O sun front rock 
+abbinamenti O sun astine e lenti 
+description rock O sun front 
+components O sun sticks and lenses 
+col. 035 
+ghiaccio 
+ice 
+col. 055 
+nero 
+black 
+col. 067 
+phard 
+blush pink 
+rock .montatura frame O sun 
+.crossing .crossing .crossing
+192. O bag summer 2018 
+code OSUNC003 INS12 
+descrizione O sun front horizontal fade 
+abbinamenti O sun astine e lenti 
+description horizontal fade O sun front 
+components O sun sticks and lenses 
+col. 063 
+ottanio 
+teal 
+col. 112 
+purple 
+purple 
+col. 137 
+bluette 
+bright blue 
+horizontal fade .montatura frame O sun 
+.crossing .crossing .crossing 
+code OSUNC003 INS11 
+descrizione O sun front vertical fade 
+abbinamenti O sun astine e lenti 
+description vertical fade O sun front 
+components O sun sticks and lenses 
+col. 002 
+amaranto 
+amaranth 
+col. 136 
+becco d’oca 
+duck beak 
+vertical fade .montatura frame O sun 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 193. 
+col. 086 
+tortora 
+dove-grey 
+col. 002 
+amaranto 
+amaranth 
+col. 183 
+viola 
+violet 
+col. 076 
+rosso 
+red 
+col. 182 
+blu chiaro 
+light blue 
+col. 009 
+blu 
+blue 
+.crossing .crossing 
+.crossing 
+.crossing .crossing 
+.crossing .crossing 
+.crossing 
+.crossing .crossing 
+code OSUNC003 INS00 
+descrizione O sun front generico 
+abbinamenti O sun astine e lenti 
+description generic O sun front 
+components O sun sticks and lenses 
+col. 063 
+ottanio 
+teal 
+col. 039 
+grigio 
+grey 
+015 
+blu iris 
+iris blue 
+col. 008 
+bianco 
+white 
+col. 080 
+salvia 
+sage 
+036 
+giallo 
+yellow 
+col. 068 
+polvere 
+dusty blue 
+col. 084 
+testa di moro 
+dark brown 
+generico .montatura frame O sun 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+col. 184 
+trasparente 
+transparent 
+col. 060 
+oliva 
+olive
+194. O bag summer 2018 
+col. 347 
+cedro 
+cedro 
+col. 061 
+oro 
+gold 
+col. 422 
+sangria 
+sangria 
+.crossing 
+generico .montatura frame O sun 
+.crossing .crossing .crossing .crossing 
+col. 181 
+titanio 
+titanium 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+col. 009 
+blu 
+blue 
+code OSUNC003 INS04 
+descrizione O sun front turtle 
+abbinamenti O sun astine e lenti 
+description turtle O sun front 
+components O sun sticks and lenses 
+turtle .front O sun
+occhiali sunglasses 195. 
+code OSUNC001 INS44 
+descrizione O sun lenti vichy 
+materiale iniettato 
+abbinamenti O sun montatura e astine 
+description vichy O sun lenses 
+material injected 
+components O sun front and sticks 
+col. 227 
+bianco/nero 
+white - black 
+col. 408 
+blu/bianco 
+blue - white 
+col. 517 
+bianco/rosa 
+white/pink 
+vichy .lenti lenses O sun 
+.cote d’azur .cote d’azur .cote d’azur 
+code OSUNC001 INS10 
+descrizione O sun lenti rock 
+abbinamenti O sun front e astine 
+description rock O sun lenses 
+components O sun front and sticks 
+col. 035 
+ghiaccio 
+ice 
+col. 055 
+nero 
+black 
+col. 067 
+phard 
+blush pink 
+rock .lenti lenses O sun 
+.crossing .crossing .crossing
+196. O bag summer 2018 
+code OSUNC001 INS12 
+descrizione O sun lenti horizontal fade 
+abbinamenti O sun front e astine 
+description horizontal fade O sun lenses 
+components O sun front and sticks 
+col. 063 
+ottanio 
+teal 
+col. 112 
+purple 
+purple 
+col. 137 
+bluette 
+bright blue 
+horizontal fade .lenti lenses O sun 
+.crossing .crossing .crossing 
+code OSUNC001 INS11 
+descrizione O sun lenti vertical fade 
+abbinamenti O sun front e astine 
+description vertical fade O sun lenses 
+components O sun front and sticks 
+col. 002 
+amaranto 
+amaranth 
+col. 136 
+becco d’oca 
+duck beak 
+vertical fade .lenti lenses O sun 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 197. 
+col. 084 
+testa di moro 
+dark brown 
+col. 009 
+blu 
+blue 
+code OSUNC001 INS04 
+descrizione O sun lenti turtle 
+abbinamenti O sun montatura e astine 
+description turtle O sun lenses 
+components O sun front and sticks 
+turtle .lenti lenses O sun 
+col. 184 
+trasparente 
+transparent 
+code OSUNC001 INS05 
+descrizione O sun lenti trasparente-mirror 
+abbinamenti O sun montatura e astine 
+description trasparent-mirror O sun 
+lenses 
+components O sun front and sticks 
+mirror .lenti lenses O sun 
+.crossing
+198. O bag summer 2018 
+col. 182 
+blu chiaro 
+light blue 
+col. 036 
+giallo 
+yellow 
+col. 076 
+rosso 
+red 
+col. 086 
+tortora 
+dove-grey 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+code OSUNC001 INS00 
+descrizione O sun lenti generico 
+abbinamenti O sun front e astine 
+description generic O sun lenses 
+components O sun front and sticks 
+col. 063 
+ottanio 
+teal 
+col. 084 
+testa di moro 
+dark brown 
+039 
+grigio 
+grey 
+col. 068 
+polvere 
+dusty blue 
+col. 008 
+bianco 
+white 
+002 
+amaranto 
+amaranth 
+col. 015 
+blu iris 
+iris blue 
+col. 183 
+viola 
+violet 
+generico .lenti lenses O sun 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+col. 060 
+oliva 
+olive 
+col. 181 
+titanio 
+titanium 
+col. 055 
+nero 
+black 
+col. 422 
+sangria 
+sangria 
+.crossing
+manici e tracolle handles and shoulder straps 199. 
+generico .lenti lenses O sun 
+col. 055 
+nero 
+black 
+col. 347 
+cedro 
+cedro 
+.crossing .crossing
+200. O bag summer 2018 
+code OSUNC002 INS44 
+descrizione O sun astine vichy 
+materiale iniettato 
+abbinamenti O sun montatura e lenti 
+description black/white vichy O sun 
+sticks 
+material injected 
+components O sun front and lenses 
+col. 227 
+bianco/nero 
+white - black 
+col. 408 
+blu/bianco 
+blue - white 
+col. 517 
+bianco/rosa 
+white/pink 
+vichy bianco/nero .astine sticks O sun 
+.cote d’azur .cote d’azur .cote d’azur 
+code OSUNC002 INS10 
+descrizione O sun astina rock 
+abbinamenti O sun montatura e lenti 
+description rock O sun sticks 
+components O sun front and lenses 
+col. 035 
+ghiaccio 
+ice 
+col. 055 
+nero 
+black 
+col. 067 
+phard 
+blush pink 
+rock .astine sticks O sun 
+.crossing .crossing .crossing
+occhiali sunglasses 201. 
+col. 422 
+sangria 
+sangria 
+col. 055 
+nero 
+black 
+col. 055 
+nero 
+black 
+code OSUNC002 INS38 
+descrizione O sun astina iniettato 
+crossing lines 
+abbinamenti O sun montatura e lenti 
+description O sun sticks nyc lines 
+injected 
+components O sun front and lenses 
+crossing lines .astine sticks O sun 
+.crossing .crossing 
+.crossing 
+col. 008 
+bianco 
+white 
+col. 422 
+sangria 
+sangria 
+code OSUNC002 INS39 
+descrizione O sun astina iniettato 
+crossing metal 
+abbinamenti O sun montatura e lenti 
+description O sun sticks nyc metal 
+injected 
+components O sun front and lenses 
+crossing metal .astine sticks O sun 
+.crossing .crossing .crossing 
+col. 347 
+cedro 
+cedro
+202. O bag summer 2018 
+code OSUNC002 INS36 
+descrizione O sun astina iniettato nyc 
+flower 
+abbinamenti O sun montatura e lenti 
+description O sun sticks nyc flower 
+injected 
+components O sun front and lenses 
+nyc flower .astine sticks O sun 
+col. 347 
+cedro 
+cedro 
+col. 484 
+coral 
+coral 
+code OSUNC002 INS35 
+descrizione O sun astina iniettato 
+crossing lines + flowers 
+abbinamenti O sun montatura e lenti 
+description O sun sticks crossing lines + 
+flowers injected 
+components O sun front and lenses 
+crossing lines + flowers .astine sticks O sun 
+.crossing .crossing 
+col. 422 
+sangria 
+sangria 
+col. 055 
+nero 
+black 
+.crossing .crossing
+occhiali sunglasses 203. 
+col. 017 
+blu navy 
+navy blue 
+col. 076 
+rosso 
+red 
+col. 026 
+blu cobalto 
+cobalt blue 
+code OSUNC002 INS34 
+descrizione O sun astina iniettato 
+crossing lines 
+abbinamenti O sun montatura e lenti 
+description O sun sticks crossing lines 
+injected 
+components O sun front and lenses 
+crossing lines .astine sticks O sun 
+.crossing .crossing .crossing 
+col. 130 
+azzurro 
+azure 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 483 
+champagne 
+champagne 
+code OSUNC002 INS42 
+descrizione O sun astina iniettato 
+crossing metal 
+abbinamenti O sun montatura e lenti 
+description O sun sticks crossing metal 
+injected 
+components O sun front and lenses 
+crossing metal .astine sticks O sun 
+.crossing .crossing .crossing
+204. O bag summer 2018 
+code OSUNC002 INS11 
+descrizione O sun astina vertical fade 
+abbinamenti O sun montatura e lenti 
+description vertical fade O sun sticks 
+components O sun front and lenses 
+col. 002 
+amaranto 
+amaranth 
+col. 136 
+becco d’oca 
+duck beak 
+vertical fade .astine sticks O sun 
+.crossing .crossing 
+code OSUNC002 INS12 
+descrizione O sun astina horizontal fade 
+abbinamenti O sun montatura e lenti 
+description horizontal fade O sun sticks 
+components O sun front and lenses 
+col. 063 
+ottanio 
+teal 
+col. 112 
+purple 
+purple 
+col. 137 
+bluette 
+bright blue 
+horizontal fade .astine sticks O sun 
+.crossing .crossing .crossing
+occhiali sunglasses 205. 
+code OSUNC002 INS00 
+descrizione O sun astina generico 
+abbinamenti O sun montatura e lenti 
+description generic O sun sticks 
+components O sun front and lenses 
+col. 063 
+ottanio 
+teal 
+col. 015 
+blu iris 
+iris blue 
+158 
+vulcano 
+volcano 
+col. 068 
+polvere 
+dusty blue 
+col. 039 
+grigio 
+grey 
+086 
+tortora 
+dove-grey 
+col. 183 
+viola 
+violet 
+col. 084 
+testa di moro 
+dark brown 
+generico .astine sticks O sun 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+col. 036 
+giallo 
+yellow 
+col. 076 
+rosso 
+red 
+004 
+argento 
+silver 
+col. 182 
+blu chiaro 
+light blue 
+col. 008 
+bianco 
+white 
+col. 002 
+amaranto 
+amaranth 
+col. 061 
+oro 
+gold 
+.crossing .crossing 
+.crossing 
+.crossing .crossing 
+.crossing 
+.crossing 
+.crossing .crossing .crossing 
+col. 184 
+trasparente 
+transparent
+206. O bag summer 2018 
+col. 060 
+oliva 
+olive 
+col. 181 
+titanio 
+titanium 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+col. 009 
+blu 
+blue 
+code OSUNC002 INS04 
+descrizione O sun astine generico 
+abbinamenti O sun montatura e lenti 
+description generic O sun sticks 
+components O sun front and lenses 
+turtle .astine sticks O sun 
+generico .astine sticks O sun
+manici e tracolle handles and shoulder straps 207. 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 483 
+champagne 
+champagne 
+code OSUNC002 INS41 
+descrizione O sun astine iniettato 
+crossing brush 
+abbinamenti O sun montatura e lenti 
+description O sun sticks crossing brush 
+injected 
+components O sun front and lenses 
+crossing brush .astine sticks O sun 
+.crossing .crossing
+208. O bag summer 2018 
+code OSUNB003 MTS14 
+descrizione O sun bump front metallo 
+lucido 
+materiale iniettato 
+abbinamenti O sun 
+description shiny metal O sun bump 
+lenses 
+material injected 
+components O sun 
+col. 044 
+lime 
+lime 
+col. 486 
+pink 
+pink 
+col. 055 
+nero 
+black 
+col. 527 
+light gold 
+sand/pink 
+col. 389 
+silver 
+silver 
+metallo lucido .lenti lenses O sun bump 
+.manila 
+.manila 
+.manila 
+.manila 
+.manila
+occhiali sunglasses 209. 
+col. 422 
+sangria 
+sangria 
+col. 038 
+grafite 
+graphite 
+col. 026 
+blu cobalto 
+cobalt blue 
+code OSUNA003 INS43 
+descrizione O sun aviator front iniettato 
+nyc brush 
+abbinamenti O sun aviator astine 
+description O sun aviator front nyc brush 
+injected 
+components O sun aviator sticks 
+nyc brush .front front O sun aviator 
+.crossing .crossing .crossing
+210. O bag summer 2018 
+.cote d’azur 
+code OSUNA003 INS46 
+descrizione O sun aviator montatura 
+trasparente fluo 
+materiale iniettato 
+abbinamenti O sun aviator astine e lenti 
+description fluo transparent O sun 
+aviator frame 
+material injected 
+components O sun aviator sticks and 
+lenses 
+col. 089 
+verde 
+green 
+col. 486 
+pink 
+pink 
+col. 026 
+cobalto 
+cobalt blue 
+trasparente fluo .montatura frame O sun aviator 
+.manila .manila 
+code OSUNA003 INS09 
+descrizione O sun aviator front 
+camalescent 
+abbinamenti O sun aviator astine e lenti 
+description camalescent O sun aviator 
+front 
+components O sun aviator sticks and 
+lenses 
+col. 001 
+acqua 
+aqua 
+col. 108 
+terracotta 
+terracotta 
+col. 009 
+blu 
+blue 
+col. 041 
+grigio scuro 
+dark grey 
+camalescent .front front O sun aviator 
+.crossing 
+.crossing 
+.crossing .crossing
+occhiali sunglasses 211. 
+code OSUNA003 INS00 
+descrizione O sun aviator front generico 
+abbinamenti O sun aviator astine e lenti 
+description generic O sun aviator front 
+components O sun aviator sticks and 
+lenses 
+col. 039 
+grigio 
+grey 
+col. 063 
+ottanio 
+teal 
+col. 009 
+blu 
+blue 
+col. 008 
+bianco 
+white 
+col. 055 
+nero 
+black 
+col. 072 
+rosa 
+pink 
+generico .front front O sun aviator 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+col. 092 
+verde scuro 
+dark green 
+004 
+argento 
+silver 
+col. 071 
+roccia 
+rock 
+col. 076 
+rosso 
+red 
+col. 061 
+oro 
+gold 
+.crossing .crossing 
+col. 084 
+testa di moro 
+dark brown 
+col. 181 
+titanium 
+titanium 
+.crossing .crossing .crossing 
+.crossing .crossing
+212. O bag summer 2018 
+code OSUNA001 INS46 
+descrizione O sun aviator lenti 
+trasparente fluo 
+materiale iniettato 
+abbinamenti O sun aviator montatura e 
+astine 
+description fluo transparent O sun 
+aviator lenses 
+material injected 
+components O sun aviator front and 
+sticks 
+col. 089 
+verde 
+green 
+col. 486 
+pink 
+pink 
+col. 026 
+cobalto 
+cobalt blue 
+trasparente fluo .lenti lenses O sun aviator 
+.cote d’azur .manila .manila 
+code OSUNA001 INS09 
+descrizione O sun aviator lenti 
+camalescent 
+abbinamenti O sun aviator front e astine 
+description camalescent O sun aviator 
+lenses 
+components O sun aviator front and 
+sticks 
+col. 001 
+acqua 
+aqua 
+col. 108 
+terracotta 
+terracotta 
+col. 009 
+blu 
+blue 
+col. 041 
+grigio scuro 
+dark grey 
+camalescent .lenti lenses O sun aviator 
+.crossing 
+.crossing 
+.crossing .crossing
+occhiali sunglasses 213. 
+col. 084 
+testa di moro 
+dark brown 
+col. 063 
+ottanio 
+teal 
+col. 061 
+oro 
+gold 
+col. 008 
+bianco 
+white 
+col. 004 
+argento 
+silver 
+.crossing .crossing 
+col. 181 
+titanium 
+titanium 
+.crossing .crossing 
+.crossing 
+.crossing 
+.crossing 
+code OSUNA001 INS00 
+descrizione O sun aviator lenti generico 
+abbinamenti O sun aviator front e astine 
+description generic O sun aviator lenses 
+components O sun aviator front and 
+sticks 
+col. 039 
+grigio 
+grey 
+col. 092 
+verde scuro 
+dark green 
+071 
+roccia 
+rock 
+col. 009 
+blu 
+blue 
+col. 076 
+rosso 
+red 
+col. 055 
+nero 
+black 
+col. 072 
+rosa 
+pink 
+generico .lenti lenses O sun aviator 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing
+214. O bag summer 2018 
+code OSUNA002 INS46 
+descrizione O sun aviator astine 
+trasparente fluo 
+materiale iniettato 
+abbinamenti O sun aviator montatura e 
+lenti 
+description fluo transparent O sun 
+aviator sticks 
+material injected 
+components O sun aviator front and 
+lenses 
+col. 089 
+verde 
+green 
+col. 486 
+pink 
+pink 
+col. 026 
+cobalto 
+cobalt blue 
+trasparente fluo .astine sticks O sun aviator 
+.cote d’azur .manila .manila 
+code OSUNA002 INS09 
+descrizione O sun aviator astina 
+camalescent 
+abbinamenti O sun aviator montatura e 
+lenti 
+description camalescent O sun aviator 
+sticks 
+components O sun aviator front and 
+lenses 
+col. 001 
+acqua 
+aqua 
+col. 108 
+terracotta 
+terracotta 
+col. 009 
+blu 
+blue 
+col. 041 
+grigio scuro 
+dark grey 
+camalescent .astine sticks O sun aviator 
+.crossing 
+.crossing 
+.crossing .crossing
+manici e tracolle handles and shoulder straps 215. 215. O bag summer 2018 
+code OSUNA002 INS00 
+descrizione O sun aviator astina generico 
+abbinamenti O sun aviator montatura e 
+lenti 
+description generic O sun aviator sticks 
+components O sun aviator front and 
+lenses 
+col. 009 
+blu 
+blue 
+col. 008 
+bianco 
+white 
+col. 039 
+grigio 
+grey 
+col. 072 
+rosa 
+pink 
+col. 063 
+ottanio 
+teal 
+col. 076 
+rosso 
+red 
+generico .astine sticks O sun aviator 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+.crossing 
+col. 055 
+nero 
+black 
+col. 071 
+roccia 
+rock 
+col. 084 
+testa di moro 
+dark brown 
+col. 092 
+verde scuro 
+dark green 
+col. 181 
+titanium 
+titanium 
+col. 004 
+argento 
+silver 
+.crossing .crossing 
+.crossing .crossing .crossing 
+.crossing
+216. O bag summer 2018 
+col. 422 
+sangria 
+sangria 
+col. 038 
+grafite 
+graphite 
+col. 026 
+blu cobalto 
+cobalt blue 
+code OSUNA002 INS43 
+descrizione O sun aviator astine iniettato 
+nyc brush 
+abbinamenti O sun aviator montatura e 
+lenti 
+description O sun aviator sticks nyc 
+brush injected 
+components O sun aviator front and 
+lenses 
+nyc brush .astine sticks O sun aviator 
+.crossing .crossing .crossing
+occhiali sunglasses 217. 
+code OSUNS003 INS00 
+descrizione O sun shine front 
+materiale iniettato 
+abbinamenti O sun shine lenti e astine 
+description injected material O sun shine 
+front 
+material injected 
+components O sun shine lenses and 
+sticks 
+col. 055 
+nero 
+black 
+materiale iniettato .front front O sun shine 
+.cote d’azur/manila
+218. O bag summer 2018 
+code OSUNS007 INS00 
+descrizione O sun shine lenti cateye 
+materiale iniettato 
+abbinamenti O sun shine front e astine 
+description cateye O sun shine lenses 
+material injected 
+components O sun shine front and sticks 
+col. 529 
+pink/roccia 
+pink/rock 
+col. 531 
+corallo/vulcano 
+coral/volcano 
+cateye .lenti lenses O sun shine 
+.cote d’azur 
+. 
+.cote d’azur 
+. 
+code OSUNS001 INS00 
+descrizione O sun shine lenti unisex 
+materiale iniettato 
+abbinamenti O sun shine front e astine 
+description unisex O sun shine lenses 
+material injected 
+components O sun shine front and sticks 
+col. 533 
+cedro/blu navy 
+cedro/navy blue 
+col. 535 
+skyway/grafite 
+skyway/graphite 
+unisex .lenti lenses O sun shine 
+.cote d’azur .cote d’azur
+occhiali sunglasses 219. 
+code OSUNS007 INS02 
+descrizione O sun shine lenti opalino 
+cateye 
+materiale iniettato 
+abbinamenti O sun shine front e astine 
+description opal cateye O sun shine 
+lenses 
+material injected 
+components O sun shine front and sticks 
+col. 069 
+porpora 
+purple 
+col. 130 
+azzurro 
+light blue 
+opalino cateye .lenti lenses O sun shine 
+code OSUNS001 INS02 
+descrizione O sun shine lenti opalino 
+unisex 
+materiale iniettato 
+abbinamenti O sun shine front e astine 
+description opal unisex O sun shine 
+lenses 
+material injected 
+components O sun shine front and sticks 
+col. 060 
+oliva 
+olive 
+col. 066 
+petrolio 
+petroleum blue 
+opalino unisex .lenti lenses O sun shine 
+.manila .manila
+220. O bag summer 2018 
+code OSUNS002 INS00 
+descrizione O sun shine astine 
+materiale iniettato 
+abbinamenti O sun shine front e lenti 
+description injected material O sun shine 
+sticks 
+material injected 
+components O sun shine front and 
+lenses 
+col. 529 
+pink/roccia 
+pink/rock 
+col. 535 
+skyway/grafite 
+skyway/graphite 
+col. 531 
+corallo/vulcano 
+coral/volcano 
+col. 533 
+cedro/blu navy 
+cedro/navy blue 
+materiale iniettato .astine sticks O sun shine 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur .cote d’azur 
+code OSUNS002 INS02 
+descrizione O sun shine astine opalino 
+materiale iniettato 
+abbinamenti O sun shine front e lenti 
+description opal O sun shine sticks 
+material injected 
+components O sun shine front and 
+lenses 
+col. 060 
+oliva 
+olive 
+col. 130 
+azzurro 
+light blue 
+col. 066 
+petrolio 
+petroleum blue 
+col. 069 
+porpora 
+purple 
+opalino .astine sticks O sun shine 
+.manila 
+.manila 
+.manila .manila
+occhiali sunglasses 221. 
+code OSUNF001 MAS13 
+descrizione O sun flat front lenti soft 
+mirror 
+materiale iniettato 
+abbinamenti O sun flat astine 
+description soft mirror O sun flat frame 
+material injected 
+components O sun flat sticks 
+col. 485 
+atlantic 
+atlantic 
+col. 026 
+cobalto 
+cobalt blue 
+col. 486 
+pink 
+pink 
+col. 484 
+coral 
+coral 
+soft mirror .montatura frame O sun flat 
+.manila .manila .cote d’azur 
+.cote d’azur
+222. O bag summer 2018 
+code OSUNF002 INS00 
+descrizione O sun flat astine 
+materiale iniettato 
+abbinamenti O sun flat front 
+description injected material O sun flat 
+sticks 
+material injected 
+components O sun flat frame 
+col. 485 
+atlantic 
+atlantic 
+col. 026 
+cobalto 
+cobalt blue 
+col. 486 
+pink 
+pink 
+col. 484 
+coral 
+coral 
+materiale iniettato .astine sticks O sun flat 
+.manila .manila .cote d’azur 
+.cote d’azur
+.bracciali bracelets
+226. O bag summer 2018 
+O bracelet flower slim .bracciale bracelet 
+GENER S 
+GENER S 
+GENER S GENER S 
+GENER M 
+GENER M 
+GENER M GENER M 
+code OBRCF002 SIS01 
+descrizione O bracelet flower slim 
+silicone 
+materiale silicone 
+description O bracelet flower slim 
+silicone 
+material silicone 
+.cote d’azur .cote d’azur 
+.manila 
+.manila 
+col. 484 
+coral 
+coral 
+col. 422 
+sangria 
+sangria 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+slim GENER S slim GENER S 
+slim GENER M slim GENER M 
+.crossing .crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+col. 490 
+giallo 
+yellow 
+col. 006 
+avorio 
+ivory 
+col. 144 
+ginestra 
+broom 
+col. 047 
+marsala 
+marsala 
+col. 128 
+salmone 
+salmon 
+col. 044 
+lime 
+lime 
+col. 142 
+lampone 
+raspberry 
+slim GENER S slim GENER S 
+slim GENER M slim GENER M 
+.crossing .crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing
+bracciali bracelets 227. 
+col. 002 
+amaranto 
+amaranth 
+slim GENER S 
+slim GENER M 
+.crossing 
+col. 018 
+bordeaux 
+burgundy 
+col. 025 
+cipria 
+powder pink 
+col. 095 
+viola desaturato 
+pale violet 
+col. 096 
+viola pastello 
+pastel violet 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+col. 063 
+ottanio 
+teal 
+col. 013 
+blu capri 
+capri blue 
+col. 141 
+blu pastello 
+pastel blue 
+col. 088 
+turchese 
+turquoise 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+col. 012 
+blu acqua 
+aqua blue 
+col. 090 
+verde bianco 
+green white 
+col. 143 
+neve 
+snow 
+col. 138 
+turchese menta 
+turquoise mint 
+col. 020 
+bronzo 
+bronze 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+.crossing 
+slim GENER S 
+slim GENER M 
+col. 038 
+grafite 
+graphite 
+.crossing
+228. O bag summer 2018 
+O bracelet flower big .bracciale bracelet 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+code OBRCF003 SIS01 
+descrizione O bracelet flower big silicone 
+materiale silicone 
+description O bracelet flower big silicone 
+material silicone 
+.cote d’azur .cote d’azur .manila 
+col. 484 
+coral 
+coral 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+GENER S 
+GENER M 
+.manila 
+col. 422 
+sangria 
+sangria 
+big GENER S big GENER S 
+big GENER M big GENER M 
+col. 490 
+giallo 
+yellow 
+col. 006 
+avorio 
+ivory 
+.crossing .crossing 
+.crossing .crossing .crossing .crossing .crossing 
+big GENER S 
+big GENER M 
+col. 144 
+ginestra 
+broom 
+big GENER S big GENER S 
+big GENER M big GENER M 
+col. 047 
+marsala 
+marsala 
+col. 128 
+salmone 
+salmon 
+big GENER S 
+big GENER M 
+col. 044 
+lime 
+lime 
+big GENER S 
+big GENER M 
+col. 142 
+lampone 
+raspberry
+bracciali bracelets 229. 
+.crossing .crossing .crossing .crossing .crossing 
+.crossing .crossing .crossing .crossing .crossing 
+.crossing .crossing .crossing .crossing 
+big GENER S 
+big GENER M 
+col. 002 
+amaranto 
+amaranth 
+big GENER S 
+big GENER M 
+col. 018 
+bordeaux 
+burgundy 
+big GENER S 
+big GENER M 
+col. 025 
+cipria 
+powder pink 
+big GENER S 
+big GENER M 
+col. 095 
+viola desaturato 
+pale violet 
+big GENER S 
+big GENER M 
+col. 063 
+ottanio 
+teal 
+big GENER S 
+big GENER M 
+col. 013 
+blu capri 
+capri blue 
+big GENER S 
+big GENER M 
+col. 141 
+blu pastello 
+pastel blue 
+big GENER S 
+big GENER M 
+col. 096 
+viola pastello 
+pastel violet 
+big GENER S 
+big GENER M 
+col. 088 
+turchese 
+turquoise 
+big GENER S 
+big GENER M 
+col. 012 
+blu acqua 
+aqua blue 
+big GENER S 
+big GENER M 
+col. 090 
+verde bianco 
+green white 
+big GENER S 
+big GENER M 
+col. 143 
+neve 
+snow 
+big GENER S 
+big GENER M 
+col. 138 
+turchese menta 
+turquoise mint 
+big GENER S 
+big GENER M 
+col. 038 
+grafite 
+graphite
+230. O bag summer 2018 
+col. 484 
+coral 
+coral 
+col. 485 
+atlantic 
+atlantic 
+col. 486 
+pink 
+pink 
+O bracelet daisy big .bracciale bracelet 
+code OBRCD003 SIS00 
+descrizione O bracelet daisy big silicone 
+materiale silicone 
+description O bracelet daisy big silicone 
+material silicone 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+.cote d’azur .cote d’azur .manila 
+GENER S 
+GENER M 
+.manila 
+col. 422 
+sangria 
+sangria 
+GENER S GENER S 
+GENER M GENER M 
+col. 053 
+narcissus 
+narcissus 
+col. 044 
+lime 
+lime 
+.crossing .crossing 
+GENER S 
+GENER M 
+col. 025 
+cipria 
+powder pink 
+.crossing 
+GENER S GENER S GENER S 
+GENER M GENER M GENER M 
+col. 077 
+rubino 
+ruby 
+col. 018 
+bordeaux 
+burgundy 
+col. 143 
+neve 
+snow 
+.crossing .crossing .crossing 
+GENER S 
+GENER M 
+col. 141 
+blu pastello 
+pastel blue 
+.crossing
+bracciali bracelets 231. 
+GENER S 
+GENER M 
+col. 015 
+blu iris 
+iris blue 
+.crossing 
+GENER S GENER S GENER S GENER S 
+GENER M GENER M GENER M GENER M 
+col. 063 
+ottanio 
+teal 
+col. 071 
+roccia 
+rock 
+col. 
+nero 
+col. 086 
+tortora 
+dove-grey 
+.crossing .crossing .crossing .crossing
+.portafogli wallets
+234. O bag summer 2018 
+code OHUGB002 EVS06 
+descrizione scocca O hug donna EVA 
+compound 
+materiale EVA compound 
+abbinamenti O hug portafoglio donna 
+EVA compound 
+description EVA compound O hug 
+woman body 
+material EVA compound 
+components O hug EVA compound body 
+woman’s wallet 
+col. 026 
+cobalto 
+cobalt blue 
+col. 078 
+sabbia 
+sand 
+col. 075 
+rosa smoke 
+rose smoke 
+col. 484 
+coral 
+coral 
+EVA compound .scocca body O hug donna 
+col. 076 
+rosso 
+red 
+.cote d’azur .cote d’azur 
+.manila 
+.manila 
+.cote d’azur 
+col. 485 
+atlantic 
+atlantic 
+col. 422 
+sangria 
+sangria 
+col. 479 
+skyway 
+skyway 
+.manila 
+.manila 
+.cote d’azur .cote d’azur 
+.cote d’azur 
+col. 486 
+pink 
+pink 
+col. 347 
+cedro 
+cedro
+portafogli wallets 235. 
+code OHUGI002 TES20 
+descrizione interno portafoglio donna O 
+hug tessuto gommato 
+materiale tessuto 
+abbinamenti scocca O hug donna EVA 
+compound 
+description rubber-coated fabric O hug 
+inner bag woman’s wallet 
+material fabric 
+components EVA compound O hug 
+woman body 
+col. 078 
+sabbia 
+sand 
+col. 509 
+moka 
+moka 
+tessuto gommato .interno portafoglio donna inner bag woman’s wallet O hug 
+.manila .manila 
+code OHUGI002 ECS00 
+descrizione O hug interno portafoglio 
+donna ecopelle 
+materiale ecopelle 
+abbinamenti scocca O hug donna EVA 
+compound 
+description faux leather O hug inner bag 
+woman’s wallet 
+material faux leather 
+components EVA compound O hug 
+woman body 
+col. 026 
+cobalto 
+cobalt blue 
+col. 479 
+skyway 
+skyway 
+col. 076 
+rosso 
+red 
+col. 484 
+coral 
+coral 
+col. 347 
+cedro 
+cedro 
+col. 485 
+atlantic 
+atlantic 
+ecopelle .interno portafoglio donna inner bag woman’s wallet O hug 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.cote d’azur 
+.manila
+236. O bag summer 2018 
+col. 017 
+blu navy 
+navy blue 
+col. 039 
+grigio 
+grey 
+col. 084 
+testa di moro 
+dark brown 
+col. 055 
+nero 
+black 
+col. 154 
+ciliegia 
+cherry 
+.crossing .crossing 
+.crossing 
+.crossing 
+.crossing 
+code OHUGI002 PES00 
+descrizione O hug interno portafoglio 
+donna pelle 
+materiale pelle 
+abbinamenti O hug portafoglio donna 
+EVA compound 
+description O hug inner bag woman’s 
+wallet leather 
+material leather 
+components O hug EVA compound body 
+woman’s wallet 
+pelle .interno inner bag O hug
+portafogli wallets 237.
+.scarpe shoes
+240. O bag summer 2018 
+code OSHSD001 EVS00 
+descrizione O shoes donna high EVA 
+compound 
+materiale EVA compound 
+abbinamenti accessori O shoes 
+description women O shoes high EVA 
+compound 
+material EVA compound 
+components O shoes accessories 
+EVA compound .O shoes donna high women O shoes high 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 055 
+nero 
+black 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 347 
+cedro 
+cedro 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 371 
+latte 
+milk 
+.manila .manila .manila
+scarpe shoes 241. 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 485 
+atlantic 
+atlantic 
+SHOES 35/36 SHOES 35/36 SHOES 35/36 SHOES 35/36 
+SHOES 39 SHOES 39 SHOES 39 SHOES 39 
+SHOES 40 SHOES 40 SHOES 40 SHOES 40 
+SHOES 41/42 SHOES 41/42 SHOES 41/42 SHOES 41/42 
+SHOES 37 SHOES 37 SHOES 37 SHOES 37 
+SHOES 38 SHOES 38 SHOES 38 SHOES 38 
+col. 486 
+pink 
+pink 
+col. 484 
+coral 
+coral 
+col. 479 
+skyway 
+skyway 
+col. 017 
+blu navy 
+navy blue 
+.manila .manila .manila .manila .manila
+242. O bag summer 2018 
+SHOES 35/36 SHOES 35/36 
+SHOES 39 SHOES 39 
+SHOES 40 SHOES 40 
+SHOES 41/42 SHOES 41/42 
+SHOES 37 SHOES 37 
+SHOES 38 SHOES 38 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+.manila .manila 
+EVA compound .O shoes donna high women O shoes high
+scarpe shoes 243. 
+code OSHSD002 EVS00 
+descrizione O shoes donna low EVA 
+compound 
+materiale EVA compound 
+abbinamenti accessori O shoes 
+description women O shoes low EVA 
+compound 
+material EVA compound 
+components O shoes accessories 
+EVA compound .O shoes donna low women O shoes low 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 055 
+nero 
+black 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 484 
+coral 
+coral 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 347 
+cedro 
+cedro 
+.manila .manila .manila
+244. O bag summer 2018 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 371 
+latte 
+milk 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 485 
+atlantic 
+atlantic 
+SHOES 35/36 SHOES 35/36 SHOES 35/36 
+SHOES 39 SHOES 39 SHOES 39 
+SHOES 40 SHOES 40 SHOES 40 
+SHOES 41/42 SHOES 41/42 SHOES 41/42 
+SHOES 37 SHOES 37 SHOES 37 
+SHOES 38 SHOES 38 SHOES 38 
+col. 486 
+pink 
+pink 
+.manila .manila .manila .manila .manila 
+col. 017 
+blu navy 
+navy blue 
+col. 076 
+rosso 
+red 
+EVA compound .O shoes donna low women O shoes low
+scarpe shoes 245. 
+SHOES 35/36 SHOES 35/36 
+SHOES 39 SHOES 39 
+SHOES 40 SHOES 40 
+SHOES 41/42 SHOES 41/42 
+SHOES 37 SHOES 37 
+SHOES 38 SHOES 38 
+.manila .manila .manila .manila 
+col. 026 
+cobalto 
+cobalt blue 
+col. 422 
+sangria 
+sangria 
+GENER 35/36 GENER 35/36 
+GENER 39 GENER 39 
+GENER 40 GENER 40 
+GENER 41/42 GENER 41/42 
+GENER 37 GENER 37 
+GENER 38 GENER 38 
+col. 055 
+nero 
+black 
+col. 017 
+blu navy 
+navy blue
+246. O bag summer 2018 
+code OSHSU002 EVS00 
+descrizione O shoes uomo low EVA 
+compound 
+materiale EVA compound 
+description men O shoes low EVA 
+compound 
+material EVA compound 
+EVA compound .O shoes uomo low men O shoes low 
+SHOES 39/40 
+SHOES 43 
+SHOES 44 
+SHOES 45/46 
+SHOES 41 
+SHOES 42 
+col. 055 
+nero 
+black 
+SHOES 39/40 
+SHOES 43 
+SHOES 44 
+SHOES 45/46 
+SHOES 41 
+SHOES 42 
+col. 371 
+latte 
+milk 
+SHOES 39/40 
+SHOES 43 
+SHOES 44 
+SHOES 45/46 
+SHOES 41 
+SHOES 42 
+col. 485 
+atlantic 
+atlantic 
+.manila .manila .manila
+scarpe shoes 247. 
+col. 017 
+blu navy 
+navy blue 
+col. 026 
+cobalto 
+cobalt blue 
+SHOES 39/40 SHOES 39/40 
+SHOES 43 SHOES 43 
+SHOES 44 SHOES 44 
+SHOES 45/46 SHOES 45/46 
+SHOES 41 SHOES 41 
+SHOES 42 SHOES 42 
+.manila .manila 
+248. O bag summer 2018 
+code OSHSA000 INS14 
+descrizione accessorio O shoes palma 
+flower 
+materiale pvc 
+abbinamenti O shoes 
+description flower palm O shoes 
+accessory 
+material pvc 
+components O shoes 
+palma flower .accessorio O shoes pvc 
+GENER S 
+.manila 
+.manila 
+GENER M 
+GENER L 
+col. 267 
+fucsia 
+fuchsia 
+code OSHSA000 INS17 
+descrizione accessorio O shoes pvc + 
+ricamo 
+materiale 
+abbinamenti O shoes 
+description pvc + embroidery O shoes 
+accessory 
+material 
+components O shoes 
+pvc + ricamo .accessorio O shoes 
+GENER S 
+GENER M 
+GENER L 
+col. 529 
+azzurro/giallo 
+light blue/yellow
+scarpe shoes 249. 
+code OSHSA000 INS19 
+descrizione accessorio O shoes 
+borchiette hf 
+materiale pvc + hf 
+abbinamenti O shoes 
+description hf studs O shoes accessory 
+material pvc + hf 
+components O shoes 
+borchiette hf .accessorio O shoes pvc + hf 
+GENER S 
+.manila 
+GENER M 
+GENER L 
+col. 227 
+bianco/nero 
+white/black
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it
