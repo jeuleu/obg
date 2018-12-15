@@ -39,23 +39,28 @@ $0 ~ "code" {
 # Recherche des codes couleur
 
 chercheCol == "en" {
-	gsub(/ $/, "", $0)
-	couleurEN = $0
+	couleurEN = corrigeCouleur($0)
 	chercheCol = ""
 	
 	print nomCatalogue ";" page ";" libelleProduit ";" codeProduit ";" codeCouleur ";" ";" couleurIT ";" couleurEN ";"
 }
 
 chercheCol == "it" {
-	gsub(/ $/, "", $0)
-	couleurIT = $0
+	couleurIT = corrigeCouleur($0)
 	chercheCol = "en"
 }
 
-	
 	
 /^col. / {
 	codeCouleur = $2
 	chercheCol = "it"
 }
 
+function corrigeCouleur(ligne) {
+	gsub(/ $/, "", ligne)
+
+	gsub(/\222/, "'", ligne)
+	gsub(/\371/, "<u>", ligne)
+	
+	return ligne
+}

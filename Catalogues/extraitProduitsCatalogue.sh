@@ -1,4 +1,6 @@
 #!/usr/bin/env sh
+echo "Exmple d'usage : find . -name \"catalo*txt\" -exec ./extraitProduitsCatalogue.sh {} \;"
+
 echo "Paramètre : $1 "
 
 
