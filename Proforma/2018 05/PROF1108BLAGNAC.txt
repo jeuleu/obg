@@ -1,0 +1,702 @@
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P.Iva 44808894489 
+2017 RI/OBAG/11952 130809 
+18 
+19 
+20 
+22 
+23 
+21 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+HLESG000 
+HLESG000 
+HLESG000 
+HLESG000 
+HLESG000 
+HLESG000 
+HLESG000 
+HLESGC00 
+HLESGC00 
+HLESGC00 
+HLESGC00 
+HLESGC00 
+HLESGC00 
+HLESGC00 
+ECS04 
+ECS04 
+PES00 
+ROS00 
+ROS00 
+ROS00 
+ROS00 
+ECS01 
+ECS04 
+ECS54 
+ECS54 
+ROS00 
+ROS00 
+ROS00 
+AGENTE DIREZIONALE SOCIETA' D01 
+Proforma da Prebolle 
+P002 BONIFICO CLIENTE 
+Modèle Cod.pièce N. Couleur 
+003 
+026 
+054 
+008 
+009 
+054 
+076 
+008 
+026 
+075 
+479 
+008 
+009 
+039 
+002488 O BAG STORE BLAGNAC 
+Client 
+Justificatif 
+Cod.paiement 
+Remise fin. Remise en-t remise cond. 
+label 
+Agent 
+Document Date doc. Client dest. 
+Qté Prix Remises Montant Cadeau 
+N° Com 
+1 
+N. jours 
+002487 Pag 
+Banque 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+NL - OLANDA 
+NL - OLANDA 
+NL - OLANDA 
+NL - OLANDA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+NL - OLANDA 
+NL - OLANDA 
+NL - OLANDA 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+42,18 
+56,24 
+162,00 
+103,46 
+73,90 
+221,70 
+73,90 
+77,50 
+48,40 
+65,28 
+65,28 
+75,36 
+75,36 
+62,80 
+ANSES LONGUES EN FAUX CUIR POMPON 
+ANSES LONGUES EN FAUX CUIR POMPON 
+ANSES LONGUES EN CUIR 
+ANSES LONGUES EN CORDE 
+ANSES LONGUES EN CORDE 
+ANSES LONGUES EN CORDE 
+ANSES LONGUES EN CORDE 
+ANSES COURTES EN FAUX CUIR MARTELÉ 
+ANSES COURTES EN FAUX CUIR POMPON 
+ANSES COURTES EN FAUX CUIR CLOUS ÉMAILLÉS 
+ANSES COURTES EN FAUX CUIR CLOUS ÉMAILLÉS 
+ANSES COURTES EN CORDE 
+ANSES COURTES EN CORDE 
+ANSES COURTES EN CORDE 
+3926909790 
+3926909790 
+42050090 
+5609000000 
+5609000000 
+5609000000 
+5609000000 
+3926909790 
+3926909790 
+3926909790 
+3926909790 
+5609000000 
+5609000000 
+5609000000 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+Transporteurs 
+Document label N° Com label 
+EUR 2.409,40 
+EUR 
+Total Facture 
+Facture pro forma 
+2018 50 1108 18/04/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Um 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+Taille 
+6,000 
+8,000 
+10,000 
+14,000 
+10,000 
+30,000 
+10,000 
+10,000 
+8,000 
+4,000 
+4,000 
+12,000 
+12,000 
+10,000 
+7,030 
+7,030 
+16,200 
+7,390 
+7,390 
+7,390 
+7,390 
+7,750 
+6,050 
+16,320 
+16,320 
+6,280 
+6,280 
+6,280
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P.Iva 44808894489 
+2017 RI/OBAG/11952 130809 
+32 
+33 
+34 
+35 
+2 
+1 
+36 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+HLESGC00 
+HLESGC00 
+HLESGC00 
+OBAGB002 
+OBAGK700 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+ROS00 
+ROS00 
+ROS00 
+EVS00 
+TESI8 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+Modèle Cod.pièce N. Couleur 
+054 
+055 
+076 
+017 
+008 
+002 
+003 
+008 
+012 
+013 
+014 
+022 
+041 
+053 
+055 
+059 
+002488 O BAG STORE BLAGNAC 
+Client 
+Document Date doc. Client dest. 
+Qté Prix Remises Montant Cadeau 
+2 
+002487 Pag 
+NL - OLANDA 
+NL - OLANDA 
+NL - OLANDA 
+IT - ITALIA 
+CN - CINA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+125,60 
+125,60 
+62,80 
+86,40 
+3,24 
+28,80 
+28,80 
+72,00 
+28,80 
+36,00 
+28,80 
+28,80 
+43,20 
+36,00 
+72,00 
+72,00 
+ANSES COURTES EN CORDE 
+ANSES COURTES EN CORDE 
+ANSES COURTES EN CORDE 
+CORPS O BAG MINI EVA COMPOUND 
+PACKAGING SACHETS EN TISSU TNT 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+5609000000 
+5609000000 
+5609000000 
+4202221000 
+6307909899 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+EUR 2.409,40 
+EUR 
+Total Facture 
+Facture pro forma 
+2018 50 1108 18/04/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Um 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+M 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+Taille 
+20,000 
+20,000 
+10,000 
+6,000 
+6,000 
+8,000 
+8,000 
+20,000 
+8,000 
+10,000 
+8,000 
+8,000 
+12,000 
+10,000 
+20,000 
+20,000 
+6,280 
+6,280 
+6,280 
+14,400 
+0,540 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P.Iva 44808894489 
+2017 RI/OBAG/11952 130809 
+// 
+12 
+13 
+14 
+15 
+16 
+17 
+37 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+OCLKS007 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+SIS01 
+000_SPTRASP 
+18/04/2018 2.409,40 
+Modèle Cod.pièce N. Couleur 
+071 
+076 
+086 
+088 
+096 
+484 
+002488 O BAG STORE BLAGNAC 
+392690979 
+420222100 
+42050090 
+560900000 
+630790989 
+91139000 
+40 
+6 
+10 
+148 
+6 
+214 
+KG 
+KG 
+KG 
+KG 
+KG 
+KG 
+4,452 
+2,7 
+1,5 
+27,76 
+1,8 
+3,852 
+354,88 
+86,4 
+162 
+1000,48 
+3,24 
+770,4 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+4,452 
+2,7 
+1,5 
+27,76 
+1,8 
+3,852 
+354,88 
+86,4 
+162 
+1000,48 
+3,24 
+770,4 
+Client 
+Document 
+Document 
+Date doc. 
+Date doc. 
+Client dest. 
+Client dest. 
+Qté Prix Remises Montant Cadeau 
+N° Com 
+Récapitulatifs 
+Récapitulatifs douaniers 
+Catégorie Um poids Poids Um qté Qté Valeur 
+Echéances 
+Date éch. Montant 
+Total 
+Total 
+Total 
+Total 
+Total 
+Total 
+3 
+002487 Pag 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+- 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+NR 
+72,00 
+43,20 
+57,60 
+36,00 
+50,40 
+36,00 
+32,00 32,000 1,000 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+O CLOCK BRACELET COVER EN SILICONE 
+DÉBIT FRAIS DE TRANSPORT 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+91139000 
+label 
+label 
+label 
+label 
+label 
+label 
+EUR 2.409,40 
+EUR 
+Total Facture 
+Facture pro forma 
+2018 50 1108 18/04/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Um 
+S 
+S 
+S 
+S 
+S 
+S 
+Taille 
+20,000 
+12,000 
+16,000 
+10,000 
+14,000 
+10,000 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600 
+3,600
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P.Iva 44808894489 
+0,00 
+0,00 
+0,00 
+2.377,40 
+32,00 
+2.377,40 
+0,00 
+0,00 2.377,40 
+EUR 2.409,40 
+Client 
+Totaux 
+Tot.remises 
+Tot. remises 
+Tot.remise en-tête 
+Tot. remise fin. 
+Tot.cadeaux 
+Acomptes 
+Montants 
+Montant brut 
+Brut frais 
+Montant net de tout 
+Nette tot 
+Total Facture 
+4 
+002487 Pag 
+EUR 2.409,40 
+EUR 
+Total Facture 
+Facture pro forma 
+2018 50 1108 18/04/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance
