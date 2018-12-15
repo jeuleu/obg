@@ -1,0 +1,227 @@
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P.Iva 44808894489 
+2018 04/OBAG/1026 136333 
+2018 04/OBAG/1074 136814 
+// 
+3 
+1 
+2 
+6 
+7 
+8 
+4 
+5 
+9 
+HLESG000 
+OBAGB002 
+OBAGB002 
+OBAGB001 
+OBAGB002 
+OBAGB017 
+OBAGB032 
+OBAGB206 
+ECS04 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+000_SPTRASP 
+AGENTE DIREZIONALE SOCIETA' D01 
+Proforma da Prebolle 
+P002 BONIFICO CLIENTE 
+Modèle Cod.pièce N. Couleur 
+038 
+026 
+075 
+559 
+559 
+540 
+078 
+559 
+002489 O BAG STORE TOULOUSE 
+392690979 
+420222100 
+15 
+43 
+KG 
+KG 
+1,8 
+17,334 
+105,45 
+570,24 
+PZ 
+PZ 
+1,8 
+17,334 
+105,45 
+570,24 
+Client 
+Justificatif 
+Cod.paiement 
+Remise fin. Remise en-t remise cond. 
+label 
+Agent 
+Document 
+Document 
+Date doc. 
+Date doc. 
+Client dest. 
+Client dest. 
+Qté Prix Remises Montant Cadeau 
+N° Com 
+N° Com 
+N° Com 
+Récapitulatifs 
+Récapitulatifs douaniers 
+Catégorie Um poids Poids Um qté Qté Valeur 
+Total 
+Total 
+1 
+N. jours 
+002487 Pag 
+Banque 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+- 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+Fabriqué en 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+NR 32,00 32,000 1,000 
+ANSES LONGUES EN FAUX CUIR POMPON 
+CORPS O BAG MINI EVA COMPOUND 
+CORPS O BAG MINI EVA COMPOUND 
+CORPS O BAG EVA COMPOUND 
+CORPS O BAG MINI EVA COMPOUND 
+CORPS O MOON LIGHT EVA COMPOUND 
+CORPS O BAG KNIT MINI EVA COMPOUND 
+CORPS INFÉRIEUR O POCKET EVA COMPOUND 
+DÉBIT FRAIS DE TRANSPORT 
+3926909790 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+Transporteurs 
+Document label N° Com label 
+EUR 707,69 
+EUR 
+Total Facture 
+Facture pro forma 
+2018 50 3316 05/12/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Um 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+Taille 
+15,000 
+8,000 
+10,000 
+8,000 
+8,000 
+3,000 
+2,000 
+4,000 
+7,030 
+14,400 
+14,400 
+14,400 
+14,400 
+11,040 
+14,160 
+4,800 
+105,45 
+115,20 
+144,00 
+115,20 
+115,20 
+33,12 
+28,32 
+19,20
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P.Iva 44808894489 
+0,00 
+0,00 
+0,00 
+05/12/2018 707,69 
+675,69 
+32,00 
+675,69 
+0,00 
+0,00 675,69 
+EUR 707,69 
+Client 
+Echéances 
+Date éch. Montant 
+Totaux 
+Tot.remises 
+Tot. remises 
+Tot.remise en-tête 
+Tot. remise fin. 
+Tot.cadeaux 
+Acomptes 
+Montants 
+Montant brut 
+Brut frais 
+Montant net de tout 
+Nette tot 
+Total Facture 
+2 
+002487 Pag 
+EUR 707,69 
+EUR 
+Total Facture 
+Facture pro forma 
+2018 50 3316 05/12/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance
