@@ -1,0 +1,47 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OHUGB003-EVS53-017;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;017;blu navy;blue navy;
+CodeBarre;OHUGB003-EVS53-055;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;055;nero;black;
+CodeBarre;OHUGB003-EVS53-075;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;075;rosa smoke;pink smoke;
+CodeBarre;OHUGB003-EVS53-371;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;371;latte;milk;
+CodeBarre;OHUGB003-EVS53-076;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;076;rosso;red;
+CodeBarre;OHUGB003-EVS53-540;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;540;curry;curry;
+CodeBarre;OHUGB003-EVS53-078;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;078;sabbia;sand;
+CodeBarre;OHUGB003-EVS53-559;;4; O hug portafoglio donna tiny;OHUGB003;EVS53;559;rame;rame;
+CodeBarre;OHUGB004-EVS06-017;;3; O hug portafoglio donna;OHUGB004;EVS06;017;blu navy;blue navy;
+CodeBarre;OHUGB004-EVS06-055;;3; O hug portafoglio donna;OHUGB004;EVS06;055;nero;black;
+CodeBarre;OHUGB004-EVS06-075;;3; O hug portafoglio donna;OHUGB004;EVS06;075;rosa smoke;pink smoke;
+CodeBarre;OHUGB004-EVS06-371;;3; O hug portafoglio donna;OHUGB004;EVS06;371;latte;milk;
+CodeBarre;OHUGB004-EVS06-076;;3; O hug portafoglio donna;OHUGB004;EVS06;076;rosso;red;
+CodeBarre;OHUGB004-EVS06-540;;3; O hug portafoglio donna;OHUGB004;EVS06;540;curry;curry;
+CodeBarre;OHUGB004-EVS06-078;;3; O hug portafoglio donna;OHUGB004;EVS06;078;sabbia;sand;
+CodeBarre;OHUGB004-EVS06-559;;3; O hug portafoglio donna;OHUGB004;EVS06;559;rame;rame;
+CodeBarre;OHUGB005-EVS07-017;;3; O hug portafoglio uomo flat;OHUGB005;EVS07;017;blu navy;blue navy;
+CodeBarre;OHUGB005-EVS07-055;;3; O hug portafoglio uomo flat;OHUGB005;EVS07;055;nero;black;
+CodeBarre;OHUGB005-EVS07-024;;3; O hug portafoglio uomo flat;OHUGB005;EVS07;024;cioccolato;chocolate;
+CodeBarre;OHUGB005-EVS07-541;;3; O hug portafoglio uomo flat;OHUGB005;EVS07;541;verde bosco;green forest;
+CodeBarre;OHUGB005-EVS07-038;;3; O hug portafoglio uomo flat;OHUGB005;EVS07;038;grafite;graphite;
+CodeBarre;OHUGB005-EVS07-078;;5; O hug portafoglio uomo flat;OHUGB005;EVS07;078;sabbia;sand;
+CodeBarre;OHUGB005-EVS07-084;;5; O hug portafoglio uomo flat;OHUGB005;EVS07;084;testa di moro;dark brown;
+CodeBarre;OHUGI003-ECS00-017;;5; O hug interno portafoglio;OHUGI003;ECS00;017;blu navy;blue navy;
+CodeBarre;OHUGI003-ECS00-055;;5; O hug interno portafoglio;OHUGI003;ECS00;055;nero;black;
+CodeBarre;OHUGI003-ECS00-018;;5; O hug interno portafoglio;OHUGI003;ECS00;018;bordeaux;bordeaux;
+CodeBarre;OHUGI003-ECS00-075;;5; O hug interno portafoglio;OHUGI003;ECS00;075;rosa smoke;pink smoke;
+CodeBarre;OHUGI003-ECS00-041;;5; O hug interno portafoglio;OHUGI003;ECS00;041;grigio scuro;dark grey;
+CodeBarre;OHUGI003-ECS00-076;;5; O hug interno portafoglio;OHUGI003;ECS00;076;rosso;red;
+CodeBarre;OHUGI005-PES00-055;;5; O hug interno portafoglio;OHUGI005;PES00;055;nero;black;
+CodeBarre;OHUGI005-PES00-084;;5; O hug interno portafoglio;OHUGI005;PES00;084;testa di moro;dark brown;
+CodeBarre;OHUGI005-PES00-017;;5; O hug interno portafoglio;OHUGI005;PES00;017;blu navy;blue navy;
+CodeBarre;OHUGI004-ECS00-017;;7; O hug interno portafoglio;OHUGI004;ECS00;017;blu navy;blue navy;
+CodeBarre;OHUGI004-ECS00-055;;7; O hug interno portafoglio;OHUGI004;ECS00;055;nero;black;
+CodeBarre;OHUGI004-ECS00-018;;7; O hug interno portafoglio;OHUGI004;ECS00;018;bordeaux;bordeaux;
+CodeBarre;OHUGI004-ECS00-075;;7; O hug interno portafoglio;OHUGI004;ECS00;075;rosa smoke;pink smoke;
+CodeBarre;OHUGI004-ECS00-041;;7; O hug interno portafoglio;OHUGI004;ECS00;041;grigio scuro;dark grey;
+CodeBarre;OHUGI004-ECS00-076;;7; O hug interno portafoglio;OHUGI004;ECS00;076;rosso;red;
+CodeBarre;OHUGI004-ECS00-078;;7; O hug interno portafoglio;OHUGI004;ECS00;078;sabbia;sand;
+CodeBarre;OHUGI004-ECS00-084;;7; O hug interno portafoglio;OHUGI004;ECS00;084;testa di moro;dark brown;

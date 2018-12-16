@@ -1,0 +1,544 @@
+manici e tracolle handles and shoulder straps 01. 
+‘19 .spring 
+.capsule soft
+.borse bags 
+05 scocche body 
+06 scocche body O sweet 
+07 scocche body O maxi 
+08 scocche body O mild 
+09 scocche body O smooth mini 
+10 scocche body O easy 
+13 manici e tracolle 
+handles and shoulder straps 
+14 manici lunghi long handles 
+15 manici corti short handles 
+16 tracolle shoulder straps 
+19 patte flaps 
+20 patte flaps O smooth mini 
+23 accessori accessories 
+24 pochette pochette
+04. O bag .capsule soft 19
+manici e tracolle handles and shoulder straps 05. 
+.scocche 
+bodies
+06. O bag .capsule soft 19 
+code OBAGBN41 TES20 
+descrizione scocca completo O sweet 
+materiale tessuto gommato 
+abbinamenti manico lungo pag.14 
+description O sweet 
+material rubberized fabric 
+components long handle 
+O sweet .scocca body 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+manici e tracolle handles and shoulder straps 07. 
+code OBAGB049 TES20 
+descrizione scocca completo O maxi 
+materiale tessuto gommato 
+abbinamenti manico corto pag.15 
+description O maxi 
+material rubberized fabric 
+components short handle 
+O maxi .scocca body 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+08. O bag .capsule soft 19 
+code OBAGBW40 TES20 
+descrizione scocca completo O mild 
+materiale tessuto gommato 
+abbinamenti manico corto pag.15, 
+tracolla larga pag.16 
+description O mild 
+material rubberized fabric 
+components long handles, 
+large shoulder strap 
+O mild .scocca body 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+manici e tracolle handles and shoulder straps 09. 
+code OBAGB050 TES20 
+descrizione scocca completo O smooth mini 
+materiale tessuto gommato 
+abbinamenti patta con manico pag.20, 
+tracolla stretta pag.17 
+description O smooth mini 
+material rubberized fabric 
+components flap whot handle, 
+slim shoulder strap 
+O smooth mini .scocca body 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+10. O bag .capsule soft 19 
+code OBAGBW44 TES20 
+descrizione scocca completo O easy 
+materiale tessuto gommato 
+abbinamenti pochette pag.24, 
+tracolla stretta pag.17 
+description O easy 
+material rubberized fabric 
+components pochette, slim shoulder strap 
+O easy .scocca body 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+manici e tracolle handles and shoulder straps 11.
+12. O bag .capsule soft 19
+manici e tracolle handles and shoulder straps 13. 
+.manici e tracolle 
+handles and shoulder strap
+14. O bag .capsule soft 19 
+code HLESG018 TES20 
+descrizione manico lungo generico 
+alamaro 
+materiale tessuto gommato 
+abbinamenti 
+description manico lungo generico 
+alamaro 
+material rubberized fabric 
+components 
+manico lungo alamaro .manico lungo long handle 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+manici e tracolle handles and shoulder straps 15. 
+code HLESGC20 TES20 
+descrizione manico corto generico 
+alamaro 
+materiale tessuto gommato 
+abbinamenti 
+description manico corto generico 
+alamaro 
+material rubberized fabric 
+components 
+manico corto alamaro .manico corto short handle 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+16. O bag .capsule soft 19 
+code SHOUWF00 TES20 
+descrizione tracolla generica larga 
+materiale tessuto gommato 
+abbinamenti 
+description 
+material rubberized fabric 
+components 
+tracolla generica larga .tracolla shoulder strap 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+manici e tracolle handles and shoulder straps 17. 
+code SHOUWG00 TES20 
+descrizione tracolla generica stretta 
+materiale tessuto gommato 
+abbinamenti 
+description 
+material rubberized fabric 
+components 
+tracolla generica stretta .tracolla shoulder strap 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+18. O bag .capsule soft 19
+manici e tracolle handles and shoulder straps 19. 
+.patte 
+flaps
+20. O bag .capsule soft 19 
+code OBAGPM50 TES20 
+descrizione pattina con manichetto 
+materiale tessuto gommato 
+abbinamenti 
+description 
+material rubberized fabric 
+components 
+pattina con manichetto .flap flap 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+manici e tracolle handles and shoulder straps 21.
+22. O bag .capsule soft 19
+manici e tracolle handles and shoulder straps 23. 
+.accessori 
+accessories
+24. O bag .capsule soft 19 
+code ACCEPN44 TES20 
+descrizione accessorio pochette new easy 
+materiale tessuto gommato 
+abbinamenti 
+description 
+material pochette new easy 
+components 
+pochette a busta .accessori accessories 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft
+code ACCEP004 TES20 
+descrizione pattina con manichetto 
+materiale tessuto gommato 
+abbinamenti 
+description 
+material rubberized fabric 
+components 
+pochette a busta .accessori accessories 
+col. 003 
+arancione 
+orange 
+.soft 
+col. 008 
+bianco 
+white 
+.soft 
+col. 026 
+cobalto 
+cobalt 
+.soft 
+col. 044 
+lime 
+lime 
+.soft 
+col. 055 
+nero 
+black 
+.soft 
+col. 078 
+sabbia 
+sand 
+.soft 
+col. 183 
+viola 
+violet 
+.soft 
+col. 600 
+cipria metal 
+pink metal 
+.soft 
+accessori accessories 25.
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

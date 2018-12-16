@@ -1,0 +1,134 @@
+eco-material 
+.alternative skins
+code OBAGUK01_ECS01 
+descrizione kit O bag dahlia 
+ecopelle martellato 
+col. 055 
+nero 
+nero 
+col. 017 
+blu navy 
+blu navy 
+col. 089 
+verde 
+verde 
+col. 111 
+ocra 
+ocra 
+col. 018 
+bordeaux 
+bordeaux 
+O bag .dahlia 
+.dahlia
+code OBAGUK01_ECS16 
+descrizione kit O bag dahlia 
+ecopelle metalizzato 
+O bag .dahlia 
+.dahlia 
+col. 135 
+peltro 
+peltro 
+col. 038 
+grafite 
+grafite 
+col. 379 
+blu notte 
+blu notte
+code OBAGUK01_TESW6 
+descrizione kit O bag dahlia 
+tessuto gessato 
+col. 134 
+antracite 
+antracite 
+O bag .dahlia 
+.dahlia
+code OBAGUK03_ECS01 
+descrizione kit O bag violet 
+ecopelle martellato 
+col. 055 
+nero 
+nero 
+col. 017 
+blu navy 
+blu navy 
+col. 089 
+verde 
+verde 
+col. 111 
+ocra 
+ocra 
+col. 018 
+bordeaux 
+bordeaux 
+O bag .violet 
+.violet
+code OBAGUK03_ECS16 
+descrizione kit O bag violet 
+ecopelle metalizzato 
+O bag .violet 
+.violet 
+col. 135 
+peltro 
+peltro 
+col. 038 
+grafite 
+grafite 
+col. 379 
+blu notte 
+blu notte
+code OBAGUK03_TESW6 
+descrizione kit O bag violet 
+tessuto gessato 
+O bag .violet 
+.violet 
+col. 134 
+antracite 
+antracite
+code OBAGUK02_ECS01 
+descrizione kit O bag rose 
+ecopelle martellato 
+col. 055 
+nero 
+nero 
+col. 017 
+blu navy 
+blu navy 
+col. 089 
+verde 
+verde 
+col. 111 
+ocra 
+ocra 
+col. 018 
+bordeaux 
+bordeaux 
+O bag backpack .rose 
+.rose
+code OBAGUK02_ECS16 
+descrizione kit O bag rose 
+ecopelle metalizzato 
+col. 135 
+peltro 
+peltro 
+col. 038 
+grafite 
+grafite 
+col. 379 
+blu notte 
+blu notte 
+O bag .rose 
+.rose
+code OBAGUK02_TESW6 
+descrizione kit O bag rose tessuto 
+gessato 
+col. 134 
+antracite 
+antracite 
+O bag backpack .rose 
+.rose
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

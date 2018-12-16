@@ -1,0 +1,168 @@
+‘19 .capsule 
+matelassé
+.borse bags 
+05 scocche body 
+07 scocche body O bag mini texture matelassé 
+09 manici 
+handles 
+10 manici corti short handles 
+11 manici lunghi long handles 
+13 sacche interne inner bags 
+15 sacche interne inner bags O bag mini 
+17 orologi watches
+04. O bag .capsule xmas 18
+manici handles 05. 
+.scocche 
+bodies
+06. O bag .capsule matelassé 
+code OBAGB002 EVS09 
+descrizione scocca O bag mini 
+eva compound texture matelassé 
+materiale XL extralight 
+abbinamenti 
+description body O bag 
+eva compound texture matelassé 
+material XL extralight 
+components 
+col. 008 
+latte 
+milk 
+col. 588 
+orchidea 
+orchid 
+col. 038 
+grafite 
+graphite 
+col. 587 
+celery green 
+celery green 
+col. 017 
+blu navy 
+blue navy 
+col. 088 
+turchese 
+turchese 
+O bag mini texture matelassé .scocca body 
+.capsule 
+.capsule 
+.capsule 
+.capsule 
+.capsule 
+.capsule
+scocche bodies 07.
+08. O bag .capsule xmas 18
+manici handles 09. 
+.manici 
+handles
+10. O bag .capsule matelassé 
+code HLESC901 ECS07 
+descrizione manico catena corto a “t” 
+ecopelle saffiano 
+materiale ecopelle 
+abbinamenti 
+description 
+material faux leather 
+components 
+col. 055 
+nero 
+black 
+col. 371 
+latte 
+milk 
+ecopelle saffiano .manico corto short handles 
+.capsule .capsule
+manici handles 11. 
+code HLESCE01 ECS00 
+descrizione manico doppia catena a “t” 
+materiale ecopelle 
+abbinamenti 
+description 
+material faux leather 
+components 
+col. 055 
+nero + argento 
+black + silver 
+col. 612 
+blu navy + argento 
+blue navy + silver 
+ecopelle doppia catena .manico lungo long handles 
+.capsule .capsule
+12. O bag .capsule xmas 18
+manici handles 13. 
+.sacche interne 
+inner bags
+14. O bag .capsule matelassé 
+code OBAGS002 TES01 
+descrizione sacca interna zip O bag mini 
+tessuto canvas 
+materiale tessuto 
+abbinamenti 
+description 
+material fabric 
+components 
+col. 008 
+bianco 
+white 
+col. 588 
+orchidea 
+orchid 
+col. 055 
+nero 
+black 
+col. 088 
+turchese 
+turchese 
+col. 009 
+blu 
+blue 
+tessuto canvas .sacca interna zip inner zip up bag O bag mini 
+.capsule 
+.capsule 
+.capsule 
+.capsule 
+.capsule
+sacche interne inner bags 15.
+16. O bag .capsule xmas 18
+manici handles 17. 
+.orologi 
+watches
+18. O bag .capsule matelassé 
+code OCLKD001 MESF6 
+descrizione O clock meccanismo 
+shiny hearts 
+materiale 
+abbinamenti 
+description 
+material 
+components 
+col. 076 
+rosso 
+red 
+col. 008 
+latte 
+milk 
+col. 004 
+argento 
+silver 
+col. 025 
+cipria 
+cipria 
+shiny hearts .meccanismo dial O clock 
+.capsule 
+code OCLKD001 MESF5 
+descrizione O clock meccanismo 
+sparkling heart 
+materiale 
+abbinamenti 
+description 
+material 
+components 
+sparkling heart .meccanismo dial O clock 
+.capsule .capsule .capsule
+orologi watches 19.
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

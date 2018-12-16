@@ -1,0 +1,3813 @@
+FALL 
+2017 .continuativo carry over
+.borse bags 
+03 scocche body 
+04 scocche body O bag 
+06 scocche body O bag mini 
+08 scocche body O bag‘50 
+10 scocche body O city 
+11 scocche body O pocket 
+13 scocche body O folder mini 
+14 scocche body O moon 
+15 scocche body O moon light 
+16 scocche body O square 
+19 manici e tracolle 
+handles and shoulder straps 
+20 manici lunghi long handles 
+24 manici corti short handles 
+28 tracolle shoulder straps 
+35 bordi trims 
+36 bordi trims O bag 
+39 bordi trims O bag mini 
+43 sacche interne inserts 
+44 sacche interne inserts O bag 
+45 sacche interne inserts O bag mini 
+46 sacche interne inserts O bag '50 
+47 sacche interne inserts O city 
+48 sacche interne inserts O folder mini 
+49 sacche interne inserts O square 
+51 patte flaps 
+52 patte flaps O pocket 
+.orologi clocks 
+56 quadranti dials O clock 
+61 cinturini straps O clock 
+67 quadranti dials O clock great 
+73 cinturini straps O clock great 
+77 O click 
+.occhiali sunglasses 
+80 montatura frame O sun 
+82 lenti lenses O sun 
+84 astine arms O sun 
+86 montatura frame O sun aviator 
+88 lenti lenses O sun aviator 
+90 astine arms O sun aviator 
+.bracciali bracelets 
+94 O bracelet flower 
+100 O bracelet daisy 
+100 O bracelet single knot 
+102 O bracelet double knot 
+.portafogli wallets 
+108 O hug donna woman 
+111 O hug uomo man 
+.scarpe shoes 
+116 O shoes donna woman 
+118 O shoes uomo man 
+120 O shoes accessori accessories 
+.riproposto proposed again 
+.indice index 
+.legenda legend 
+.01
+02. FALL 2017 COLLECTION .continuativo carry over 
+.borse bags 
+.03
+O bag scocche body 
+OBAGB001 EVS00 017 
+descrizione description scocca O bag EVA compound 
+O bag body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB001 EVS00 371 
+descrizione description scocca O bag EVA compound O 
+bag body EVA compound 
+colore colour latte milk 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB001 EVS00 078 
+descrizione description scocca O bag EVA compound O 
+bag body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB001 EVS00 084 
+descrizione description scocca O bag EVA compound O 
+bag body EVA compound 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB001 EVS00 071 
+descrizione description scocca O bag EVA compound O 
+bag body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+04. FALL 2017 COLLECTION .continuativo carry over 
+OBAGB001 EVS00 133 
+descrizione description scocca O bag EVA compound O 
+bag body EVA compound 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB001 EVS00 055 
+descrizione description scocca O bag EVA compound 
+O bag body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB001 EVS00 158 
+descrizione description scocca O bag EVA compound 
+O bag body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+BORSE BAGS .05
+OBAGB002 EVS00 017 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB002 EVS00 084 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB002 EVS00 371 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour latte milk 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB002 EVS00 078 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB002 EVS00 071 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+O bag mini scocche body 
+06. FALL 2017 COLLECTION .continuativo carry over 
+OBAGB002 EVS00 158 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB002 EVS00 133 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+OBAGB002 EVS00 055 
+descrizione description scocca O bag mini EVA compound 
+O bag mini body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - chiusure street - sacche interne 
+handles and shoulder straps - trims - street fastening - 
+inner bags 
+BORSE BAGS .07
+OBAGB009 EVS00 078 
+descrizione description scocca O bag '50 EVA compound 
+O bag '50 body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - sacche interne 
+handles and shoulder straps - trims - inserts 
+OBAGB009 EVS00 071 
+descrizione description scocca O bag '50 EVA compound 
+O bag '50 body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - sacche interne 
+handles and shoulder straps - trims - inserts 
+OBAGB009 EVS00 133 
+descrizione description scocca O bag '50 EVA compound 
+O bag '50 body EVA compound 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - sacche interne 
+handles and shoulder straps - trims - inserts 
+OBAGB009 EVS00 017 
+descrizione description scocca O bag '50 EVA compound 
+O bag '50 body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+OBAGB009 EVS00 158 
+descrizione description scocca O bag '50 EVA compound 
+O bag '50 body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+O bag '50 scocche body 
+08. FALL 2017 COLLECTION .continuativo carry over 
+OBAGB009 EVS00 055 
+descrizione description scocca O bag '50 EVA compound 
+O bag '50 body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - sacche interne 
+handles and shoulder straps - trims - inserts 
+BORSE BAGS .09
+OBAGB010 EVS00 078 
+descrizione description scocca O city EVA compound O 
+city body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - pattine - sacche interne 
+handles and shoulder straps - flaps - inserts 
+OBAGB010 EVS00 071 
+descrizione description scocca O city EVA compound O 
+city body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - pattine - sacche interne 
+handles and shoulder straps - flaps - inserts 
+OBAGB014 EVS00 055 
+descrizione description scocca O folder mini EVA 
+compound O folder mini body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - pattine - sacche interne 
+handles and shoulder straps - flaps - inserts 
+OBAGB010 EVS00 017 
+descrizione description scocca O city EVA compound O 
+city body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - pattine - sacche interne 
+handles and shoulder straps - trims - flaps - inner bags 
+OBAGB010 EVS00 158 
+descrizione description scocca O city EVA compound O 
+city body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - pattine - sacche interne 
+handles and shoulder straps - trims - flaps - inner bags 
+O city scocche body 
+10. FALL 2017 COLLECTION .continuativo carry over 
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour latte milk 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+OBAGB206 EVS00 017 
+scocca sotto lower body 
+OBAGB206 EVS00 078 
+scocca sotto lower body 
+OBAGB206 EVS00 371 
+scocca sotto lower body 
+OBAGB206 EVS00 071 
+scocca sotto lower body 
+OBAGB206 EVS00 084 
+scocca sotto lower body 
+OBAGB106 EVS00 017 
+scocca sopra upper body 
+OBAGB106 EVS00 078 
+scocca sopra upper body 
+OBAGB106 EVS00 371 
+scocca sopra upper body 
+OBAGB106 EVS00 071 
+scocca sopra upper body 
+OBAGB106 EVS00 084 
+scocca sopra upper body 
+.descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+O pocket scocche body 
+BORSE BAGS .11
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+descrizione description scocca O pocket EVA compound 
+O pocket body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - pattine 
+shoulder straps - flaps 
+OBAGB106 EVS00 158 
+scocca sopra upper body 
+O pocket scocche body 
+OBAGB206 EVS00 133 
+scocca sotto lower body 
+OBAGB206 EVS00 158 
+scocca sotto lower body 
+OBAGB206 EVS00 055 
+scocca sotto lower body 
+OBAGB106 EVS00 133 
+scocca sopra upper body 
+OBAGB106 EVS00 055 
+scocca sopra upper body 
+12. FALL 2017 COLLECTION .continuativo carry over 
+OBAGB016 EVS00 055 
+descrizione description scocca O moon EVA compound O 
+moon body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - patte - sacche interne 
+handles and shoulder straps - flaps - inserts 
+OBAGB014 EVS00 078 
+descrizione description scocca O folder mini EVA 
+compound O folder mini body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - patte - sacche interne 
+handles and shoulder straps - flaps - inserts 
+OBAGB014 EVS00 017 
+descrizione description scocca O folder mini EVA 
+compound O folder mini body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - sacche interne - pattine 
+shoulder straps - inner bags - flaps 
+OBAGB014 EVS00 158 
+descrizione description scocca O folder mini EVA 
+compound O folder mini body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+tracolle - sacche interne - pattine 
+shoulder straps - inner bags - flaps 
+O folder mini scocche body 
+BORSE BAGS .13
+OBAGB016 EVS00 071 
+descrizione description scocca O moon EVA compound O 
+moon body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+tracolle O moon - sacche interne 
+O moon shoulder straps - inner bags 
+OBAGB016 EVS00 055 
+descrizione description scocca O moon EVA compound O 
+moon body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+tracolle O moon - sacche interne 
+O moon shoulder straps - inner bags 
+OBAGB016 EVS00 078 
+descrizione description scocca O moon EVA compound O 
+moon body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+tracolle O moon 
+O moon shoulder straps 
+OBAGB016 EVS00 017 
+descrizione description scocca O moon EVA compound 
+O moon body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+OBAGB016 EVS00 158 
+descrizione description scocca O moon EVA compound 
+O moon body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+tracolle O moon - sacche interne 
+O moon shoulder straps - inner bags 
+O moon scocche body 
+14. FALL 2017 COLLECTION .continuativo carry over 
+OBAGB017 EVS00 055 
+descrizione description scocca O moon light EVA 
+compound O moon light body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle O moon baby 
+O moon baby handles and shoulder straps 
+OBAGB017 EVS00 071 
+descrizione description scocca O moon light EVA 
+compound O moon light body EVA compound 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle O moon baby 
+O moon baby handles and shoulder straps 
+OBAGB017 EVS00 017 
+descrizione description scocca O moon light EVA 
+compound O moon light body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle O moon baby 
+O moon baby handles and shoulder straps 
+OBAGB017 EVS00 158 
+descrizione description scocca O moon light EVA 
+compound O moon light body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle O moon baby 
+O moon baby handles and shoulder straps 
+O moon light scocche body 
+BORSE BAGS .15
+OBAGB019 EVS00 078 
+descrizione description scocca O square EVA compound 
+O square body EVA compound 
+colore colour sabbia sand 
+materiale material EVA compound 
+abbinamenti components 
+OBAGB019 EVS00 084 
+descrizione description scocca O square EVA compound 
+O square body EVA compound 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+manici e spallacci O bag square O bag square handles 
+and shoulder straps 
+OBAGB019 EVS00 055 
+descrizione description scocca O square EVA compound 
+O square body EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+manici e spallacci O bag square O bag square handles 
+and shoulder straps 
+OBAGB019 EVS00 017 
+descrizione description scocca O square EVA compound 
+O square body EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e spallacci O bag square - sacche interne 
+O bag square handles and shoulder straps - inner bags 
+OBAGB019 EVS00 158 
+descrizione description scocca O square EVA compound 
+O square body EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+manici e spallacci O bag square - sacche interne 
+O bag square handles and shoulder straps - inner bags 
+O square scocche body 
+16. FALL 2017 COLLECTION .continuativo carry over 
+BORSE BAGS .17
+18. FALL 2017 COLLECTION .continuativo carry over 
+.manici e tracolle 
+handles and shoulder straps 
+.19
+manici lunghi long handles 
+HLESG000 ECS04 093 
+descrizione description manico lungo ecopelle nappina 
+faux leather long nappa handle 
+colore colour vino wine 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ECS04 038 
+descrizione description manico lungo ecopelle nappina 
+faux leather long nappa handle 
+colore colour grafite graphite 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ECS04 135 
+descrizione description manico lungo ecopelle nappina 
+faux leather long nappa handle 
+colore colour peltro pewter 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ECS04 017 
+descrizione description manico lungo ecopelle nappina 
+faux leather long nappa handle 
+colore colour blu navy navy blue 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESX200 ECS00 009 
+descrizione description manico extra slim goccia lungo 
+ecopelle faux leather extra slim long tear drop handle 
+colore colour blu blue 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESX200 ECS00 028 
+descrizione description manico extra slim goccia lungo 
+ecopelle faux leather extra slim long tear drop handle 
+colore colour ecru ecru 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+20. FALL 2017 COLLECTION .continuativo carry over 
+HLESG000 ECS01 008 
+descrizione description manico lungo ecopelle martellato 
+textured leather long handle 
+colore colour bianco white 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ECS01 084 
+descrizione description manico lungo ecopelle martellato 
+textured leather long handle 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ECS01 086 
+descrizione description manico lungo ecopelle martellato 
+textured leather long handle 
+colore colour tortora dove-grey 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESX200 ECS00 039 
+descrizione description manico extra slim goccia lungo 
+ecopelle faux leather extra slim long tear drop handle 
+colore colour grigio grey 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESX200 ECS00 055 
+descrizione description manico extra slim goccia lungo 
+ecopelle faux leather extra slim long tear drop handle 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESX200 ECS00 084 
+descrizione description manico extra slim goccia lungo 
+ecopelle faux leather extra slim long tear drop handle 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .21
+HLESG000 ECS01 055 
+descrizione description manico lungo ecopelle martellato 
+textured leather long handle 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 PES00 054 
+descrizione description manico lungo pelle leather long 
+handle 
+colore colour naturale natural 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 PES00 055 
+descrizione description manico lungo pelle leather long 
+handle 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 PES00 084 
+descrizione description manico lungo pelle leather long 
+handle 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ROS00 008 
+descrizione description manico lungo corda rope long 
+handle 
+colore colour bianco white 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ROS00 054 
+descrizione description manico lungo corda rope long 
+handle 
+colore colour naturale natural 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city 
+manici lunghi long handles 
+22. FALL 2017 COLLECTION .continuativo carry over 
+HLESG000 ROS00 009 
+descrizione description manico lungo corda rope long 
+handle 
+colore colour blu blue 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city 
+HLESG000 ROS00 055 
+descrizione description manico lungo corda rope long 
+handle 
+colore colour nero black 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .23
+HLESGC00 ECS04 017 
+descrizione description manico corto ecopelle nappina 
+napa faux leather short handle 
+colore colour blu navy navy blue 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ECS04 038 
+descrizione description manico corto ecopelle nappina 
+napa faux leather short handle 
+colore colour grafite graphite 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ECS04 093 
+descrizione description manico corto ecopelle nappina 
+napa faux leather short handle 
+colore colour vino wine 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ECS04 135 
+descrizione description manico corto ecopelle nappina 
+napa faux leather short handle 
+colore colour peltro pewter 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESX800 ECS00 009 
+descrizione description manico extra slim goccia corto 
+ecopelle faux leather extra slim short tear drop handle 
+colore colour blu blue 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESX800 ECS00 028 
+descrizione description manico extra slim goccia corto 
+ecopelle faux leather extra slim short tear drop handle 
+colore colour ecru ecru 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+manici corti short handles 
+24. FALL 2017 COLLECTION .continuativo carry over 
+HLESGC00 ECS01 008 
+descrizione description manico corto ecopelle martellato 
+textured faux leather short handle 
+colore colour bianco white 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ECS01 084 
+descrizione description manico corto ecopelle martellato 
+textured faux leather short handle 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ECS01 086 
+descrizione description manico corto ecopelle martellato 
+textured faux leather short handle 
+colore colour tortora dove-grey 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESX800 ECS00 039 
+descrizione description manico extra slim goccia corto 
+ecopelle faux leather extra slim short tear drop handle 
+colore colour grigio grey 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESX800 ECS00 055 
+descrizione description manico extra slim goccia corto 
+ecopelle faux leather extra slim short tear drop handle 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESX800 ECS00 084 
+descrizione description manico extra slim goccia corto 
+ecopelle faux leather extra slim short tear drop handle 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .25
+HLESGC00 ECS01 055 
+descrizione description manico corto ecopelle martellato 
+textured faux leather short handle 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 PES00 054 
+descrizione description manico corto pelle leather short 
+handle 
+colore colour naturale natural 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 PES00 055 
+descrizione description manico corto pelle leather short 
+handle 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 PES00 084 
+descrizione description manico corto pelle leather short 
+handle 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ROS00 008 
+descrizione description manico corto corda rope short 
+handle 
+colore colour bianco white 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ROS00 054 
+descrizione description manico corto corda rope short 
+handle 
+colore colour naturale natural 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+manici corti short handles 
+26. FALL 2017 COLLECTION .continuativo carry over 
+HLESGC00 ROS00 009 
+descrizione description manico corto corda rope short 
+handle 
+colore colour blu blue 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESGC00 ROS00 055 
+descrizione description manico corto corda rope short 
+handle 
+colore colour nero black 
+materiale material corda rope 
+abbinamenti components 
+O bag - O bag mini - O city - O bag '50 
+HLESZ817 ECS00 009 
+descrizione description manico + spallaccio goccia corto 
+O square ecopelle faux leather O square handle+short 
+tear drop shoulder strap 
+colore colour blu blue 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O square 
+HLESZ817 ECS00 055 
+descrizione description manico + spallaccio goccia corto 
+O square ecopelle faux leather O square handle+short 
+tear drop shoulder strap 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O square 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .27
+SHOUC106 ECS00 055 
+descrizione description tracolla catena con fascia lunga O 
+pocket ecopelle faux leather O pocket long strip chain 
+shoulder strap 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUC106 ECS08 055 
+descrizione description tracolla catena con fascia lunga 
+O pocket ecopelle vernice patent faux leather O pocket 
+long strip chain shoulder strap 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUC006 MES01 061 
+descrizione description tracolla catena O pocket metallo 
+galvanizzato galvanized metal O pocket chain shoulder 
+strap 
+colore colour oro gold 
+materiale material metallo metal 
+abbinamenti components 
+O pocket 
+SHOUC006 MES01 004 
+descrizione description tracolla catena O pocket metallo 
+galvanizzato galvanized metal O pocket chain shoulder 
+strap 
+colore colour argento silver 
+materiale material metallo metal 
+abbinamenti components 
+O pocket 
+tracolle shoulder straps 
+SHOUC006 MES01 348 
+descrizione description tracolla catena O pocket metallo 
+galvanizzato galvanized metal O pocket chain shoulder 
+strap 
+colore colour ottone invecchiato aged brass 
+materiale material metallo metal 
+abbinamenti components 
+O pocket 
+SHOUC400 MES01 004 
+descrizione description tracolla catena goccia forata 
+metallo galvanizzato galvanized metal chain pierced tear 
+drop shoulder strap 
+colore colour argento silver 
+materiale material metallo metal 
+abbinamenti components 
+O bag - O bag mini - O chic 
+28. FALL 2017 COLLECTION .continuativo carry over 
+SHOUG006 ECS00 008 
+descrizione description tracolla lunga O pocket ecopelle 
+faux leather O pocket long shoulder strap 
+colore colour bianco white 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUG006 ECS00 055 
+descrizione description tracolla lunga O pocket ecopelle 
+faux leather O pocket long shoulder strap 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUG006 ECS00 084 
+descrizione description tracolla lunga O pocket ecopelle 
+faux leather O pocket long shoulder strap 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUG006 TES01 008 
+descrizione description tracolla lunga O pocket tessuto 
+canvas canvas fabric O pocket long shoulder strap 
+colore colour bianco white 
+materiale material tessuto fabric 
+abbinamenti components 
+O pocket 
+SHOUG006 TES01 054 
+descrizione description tracolla lunga O pocket tessuto 
+canvas canvas fabric O pocket long shoulder strap 
+colore colour naturale natural 
+materiale material tessuto fabric 
+abbinamenti components 
+O pocket 
+SHOUG006 TES01 055 
+descrizione description tracolla lunga O pocket tessuto 
+canvas canvas fabric O pocket long shoulder strap 
+colore colour nero black 
+materiale material tessuto fabric 
+abbinamenti components 
+O pocket 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .29
+SHOUA306 ECS42 055 
+descrizione description chiusura a clip ecopelle opaca 
+faux leather clip attachments 
+colore colour nero opaco e argento black and silver 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUA306 ECS39 055 
+descrizione description chiusura a clip ecopelle vernice 
+varnish faux leather clip attachments 
+colore colour nero e oro black and gold 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUA306 ECS40 054 
+descrizione description chiusura a clip ecopelle opaca 
+faux leather clip attachments 
+colore colour naturale e oro natural and gold 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUA306 ECS41 084 
+descrizione description chiusura a clip ecopelle opaca 
+faux leather clip attachments 
+colore colour testa di moro + ottone invecchiato dark 
+brown and aged brass 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O pocket 
+SHOUA203 ECS00 084 
+descrizione description accessori goccia lunga O basket 
+ecopelle faux leather tear drop O basket accessory 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O basket - O bag (x2) - O bag mini (x2) - O chic (x2) - 
+O bag ‘50 (x2) - O city (x2) 
+SHOUA203 ECS00 055 
+descrizione description accessori goccia lunga O basket 
+ecopelle faux leather tear drop O basket accessory 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O basket - O bag (x2) - O bag mini (x2) - O chic (x2) - 
+O bag ‘50 (x2) - O city (x2) 
+tracolle shoulder straps 
+30. FALL 2017 COLLECTION .continuativo carry over 
+SHOUG000 ECS01 008 
+descrizione description tracolla lunga ecopelle martellato 
+textured faux leather long shoulder strap 
+colore colour bianco white 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUG000 ECS01 054 
+descrizione description tracolla lunga ecopelle martellato 
+textured faux leather long shoulder strap 
+colore colour naturale natural 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUG000 ECS01 055 
+descrizione description tracolla lunga ecopelle martellato 
+textured faux leather long shoulder strap 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUG000 ECS01 084 
+descrizione description tracolla lunga ecopelle martellato 
+textured faux leather long shoulder strap 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUG000 PES00 054 
+descrizione description tracolla lunga pelle leather long 
+shoulder strap 
+colore colour naturale natural 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUA203 ECS08 055 
+descrizione description accessori goccia lunga O basket 
+ecopelle vernice patent faux leather tear drop O 
+basket accessory 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O basket - O bag (x2) - O bag mini (x2) - O chic (x2) - 
+O bag ‘50 (x2) - O city (x2) 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .31
+tracolle shoulder straps 
+SHOUG000 PES00 055 
+descrizione description tracolla lunga pelle leather long 
+shoulder strap 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUG000 PES00 084 
+descrizione description tracolla lunga pelle leather long 
+shoulder strap 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O bag - O bag mini - O chic 
+SHOUG617 ECS00 054 
+descrizione description tracolla O moon eco con fibbia 
+eco O moon shoulder strap with buckle 
+colore colour naturale natural 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O moon - O moon baby 
+SHOUG617 ECS00 084 
+descrizione description tracolla O moon eco con fibbia 
+eco O moon shoulder strap with buckle 
+colore colour testa di moro dark brown 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O moon - O moon baby 
+SHOUG617 ECS00 055 
+descrizione description tracolla O moon eco con fibbia 
+eco O moon shoulder strap with buckle 
+colore colour nero black 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O moon - O moon baby 
+SHOUC317 ECS00 054 
+descrizione description tracolla O moon catena + ecopelle 
+con clip 
+chain + faux leather O moon shoulder strap with clip 
+colore colour naturale natural 
+materiale material metallo + gocce ecopelle metal + eco-leather 
+raindrop ends 
+abbinamenti components 
+O moon - O moon baby 
+32. FALL 2017 COLLECTION .continuativo carry over 
+SHOUC317 ECS00 084 
+descrizione description tracolla O moon catena + ecopelle 
+con clip 
+chain + faux leather O moon shoulder strap with clip 
+colore colour testa di moro dark brown 
+materiale material metallo + gocce ecopelle metal + eco-leather 
+raindrop ends 
+abbinamenti components 
+O moon - O moon baby 
+SHOUC317 ECS00 055 
+descrizione description tracolla O moon catena + ecopelle 
+con clip 
+chain + faux leather O moon shoulder strap with clip 
+colore colour nero black 
+materiale material metallo + gocce ecopelle metal + eco-leather 
+raindrop ends 
+abbinamenti components 
+O moon - O moon baby 
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .33
+34. FALL 2017 COLLECTION 
+.bordi trims 
+.35
+O bag bordi trims 
+OBAGT001 FAS01 055 
+descrizione description bordo O bag ecopelliccia lapin 
+lapin faux fur O bag trim 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS02 008 
+descrizione description bordo O bag ecopelliccia volpe fox 
+faux fur O bag trim 
+colore colour bianco white 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS09 008 
+descrizione description bordo O bag ecopelliccia lapin rex 
+rex lapin faux fur O bag trim 
+colore colour bianco white 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS09 039 
+descrizione description bordo O bag ecopelliccia lapin rex 
+rex lapin faux fur O bag trim 
+colore colour grigio grey 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS09 055 
+descrizione description bordo O bag ecopelliccia lapin rex 
+rex lapin faux fur O bag trim 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS09 078 
+descrizione description bordo O bag ecopelliccia lapin rex 
+rex lapin faux fur O bag trim 
+colore colour sabbia sand 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+36. FALL 2017 COLLECTION .continuativo carry over 
+OBAGT001 FAS02 004 
+descrizione description bordo O bag ecopelliccia volpe fox 
+faux fur O bag trim 
+colore colour argento silver 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS02 055 
+descrizione description bordo O bag ecopelliccia volpe fox 
+faux fur O bag trim 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS04 039 
+descrizione description bordo O bag ecopelliccia 
+murmasky murmasky faux fur O bag trim 
+colore colour grigio grey 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 FAS30 134 
+descrizione description bordo O bag ecopelliccia volpe 
+brinata frosted fox faux fur O bag trim 
+colore colour antracite anthracite 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+OBAGT001 LAS04 008 
+descrizione description bordo O bag lana coste larghe 
+large ribbed wool O bag trim 
+colore colour bianco white 
+materiale material lana wool 
+abbinamenti components 
+O bag 
+OBAGT001 FAS02 086 
+descrizione description bordo O bag ecopelliccia volpe fox 
+faux fur O bag trim 
+colore colour tortora dove-grey 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag 
+BORDI TRIMS .37
+OBAGT001 LAS04 055 
+descrizione description bordo O bag lana coste larghe 
+large ribbed wool O bag trim 
+colore colour nero black 
+materiale material lana wool 
+abbinamenti components 
+O bag 
+OBAGT001 LAS04 086 
+descrizione description bordo O bag lana coste larghe 
+large ribbed wool O bag trim 
+colore colour tortora dove-grey 
+materiale material lana wool 
+abbinamenti components 
+O bag 
+O bag bordi trims 
+38. FALL 2017 COLLECTION .continuativo carry over 
+OBAGT002 FAS01 055 
+descrizione description bordo O bag mini ecopelliccia 
+lapin lapin faux fur O bag mini trim 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS02 008 
+descrizione description bordo O bag mini ecopelliccia 
+volpe fox faux fur O bag mini trim 
+colore colour bianco white 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS09 008 
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim 
+colore colour bianco white 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS09 039 
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim 
+colore colour grigio grey 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS09 078 
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim 
+colore colour sabbia sand 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS09 055 
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+O bag mini bordi trims 
+BORDI TRIMS .39
+OBAGT002 FAS02 004 
+descrizione description bordo O bag mini ecopelliccia 
+volpe fox faux fur O bag mini trim 
+colore colour argento silver 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS02 055 
+descrizione description bordo O bag mini ecopelliccia 
+volpe fox faux fur O bag mini trim 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+O bag mini bordi trims 
+40. FALL 2017 COLLECTION .continuativo carry over 
+OBAGT002 FAS04 039 
+descrizione description bordo O bag mini ecopelliccia 
+murmasky murmasky faux fur O bag mini trim 
+colore colour grigio grey 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini 
+OBAGT002 FAS30 134 
+descrizione description bordo O bag mini ecopelliccia 
+volpe brinata frosted fox faux fur O bag mini trim 
+colore colour antracite anthracite 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O bag mini
+BORDI TRIMS .41
+42. FALL 2017 COLLECTION .continuativo carry over 
+.sacche interne inner bags 
+.43
+O bag sacche interne inserts 
+OBAGS001 TES01 008 
+descrizione description sacca interna zip O bag tessuto 
+canvas canvas fabric O bag inner zip up bag 
+colore colour bianco white 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag 
+OBAGS001 TES01 009 
+descrizione description sacca interna zip O bag tessuto 
+canvas canvas fabric O bag inner zip up bag 
+colore colour blu blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag 
+OBAGS001 TES01 039 
+descrizione description sacca interna zip O bag tessuto 
+canvas canvas fabric O bag inner zip up bag 
+colore colour grigio grey 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag 
+OBAGS001 TES01 054 
+descrizione description sacca interna zip O bag tessuto 
+canvas canvas fabric O bag inner zip up bag 
+colore colour naturale natural 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag 
+OBAGS001 TES01 055 
+descrizione description sacca interna zip O bag tessuto 
+canvas canvas fabric O bag inner zip up bag 
+colore colour nero black 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag 
+44. FALL 2017 COLLECTION .continuativo carry over 
+O bag mini sacche interne inserts 
+OBAGS002 TES01 008 
+descrizione description sacca interna zip O bag mini 
+tessuto canvas canvas fabric O bag mini inner zip up 
+bag 
+colore colour bianco white 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag mini 
+OBAGS002 TES01 009 
+descrizione description sacca interna zip O bag mini 
+tessuto canvas canvas fabric O bag mini inner zip up 
+bag 
+colore colour blu blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag mini 
+OBAGS002 TES01 054 
+descrizione description sacca interna zip O bag mini 
+tessuto canvas canvas fabric O bag mini inner zip up 
+bag 
+colore colour naturale natural 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag mini 
+OBAGS002 TES01 055 
+descrizione description sacca interna zip O bag mini 
+tessuto canvas canvas fabric O bag mini inner zip up 
+bag 
+colore colour nero black 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag mini 
+SACCHE INTERNE INNER BAGS .45
+OBAGS009 TES01 008 
+descrizione description sacca interna zip O bag '50 
+tessuto canvas canvas fabric O bag '50 zip up bag 
+colore colour bianco white 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag '50 
+OBAGS009 TES01 039 
+descrizione description sacca interna zip O bag '50 
+tessuto canvas canvas fabric O bag '50 zip up bag 
+colore colour grigio grey 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag '50 
+OBAGS009 TES01 055 
+descrizione description sacca interna zip O bag '50 
+tessuto canvas canvas fabric O bag '50 zip up bag 
+colore colour nero black 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag '50 
+OBAGS009 TES01 084 
+descrizione description sacca interna zip O bag '50 
+tessuto canvas canvas fabric O bag '50 zip up bag 
+colore colour testa di moro dark brown 
+materiale material tessuto fabric 
+abbinamenti components 
+O bag '50 
+O bag '50 sacche interne inserts 
+46. FALL 2017 COLLECTION .continuativo carry over 
+OBAGS010 TES28 054 
+descrizione description sacca interna zip O city tessuto 
+nylon nylon fabric O city inner zip up bag 
+colore colour naturale natural 
+materiale material tessuto fabric 
+abbinamenti components 
+O city 
+OBAGS010 TES28 134 
+descrizione description sacca interna zip O city tessuto 
+nylon nylon fabric O city inner zip up bag 
+colore colour antracite anthracite 
+materiale material tessuto fabric 
+abbinamenti components 
+O city 
+O city sacche interne inserts 
+SACCHE INTERNE INNER BAGS .47
+OBAGS314 TES26 017 
+descrizione description sacca interna senza zip O folder 
+mini tessuto cordura cordura fabric O folder mini inner 
+bag without zip 
+colore colour blu navy navy blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O folder mini 
+OBAGS314 TES26 055 
+descrizione description sacca interna senza zip O folder 
+mini tessuto cordura cordura fabric O folder mini inner 
+bag without zip 
+colore colour nero black 
+materiale material tessuto fabric 
+abbinamenti components 
+O folder mini 
+OBAGS314 TES26 086 
+descrizione description sacca interna senza zip O folder 
+mini tessuto cordura cordura fabric O folder mini inner 
+bag without zip 
+colore colour tortora dove-grey 
+materiale material tessuto fabric 
+abbinamenti components 
+O folder mini 
+OBAGS314 TES26 134 
+descrizione description sacca interna senza zip O folder 
+mini tessuto cordura cordura fabric O folder mini inner 
+bag without zip 
+colore colour antracite anthracite 
+materiale material tessuto fabric 
+abbinamenti components 
+O folder mini 
+O folder mini sacche interne inserts 
+48. FALL 2017 COLLECTION .continuativo carry over 
+OBAGS019 TES26 055 
+descrizione description sacca interna zip O square tessuto 
+cordura cordura fabric O square inner zip up bag 
+colore colour nero black 
+materiale material tessuto fabric 
+abbinamenti components 
+O square 
+O square sacche interne inserts 
+SACCHE INTERNE INNER BAGS .49
+50. FALL 2017 COLLECTION 
+.patte flaps 
+.51 O pocket patte flaps 
+OBAGP006 FAS01 006 
+descrizione description pattina O pocket ecopelliccia lapin 
+lapin faux fur O pocket flap 
+colore colour avorio ivory 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O pocket 
+OBAGP006 FAS01 058 
+descrizione description pattina O pocket ecopelliccia lapin 
+lapin faux fur O pocket flap 
+colore colour noce walnut 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O pocket 
+OBAGP006 FAS01 134 
+descrizione description pattina O pocket ecopelliccia lapin 
+lapin faux fur O pocket flap 
+colore colour antracite anthracite 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O pocket 
+OBAGP006 FAS09 055 
+descrizione description pattina O pocket ecopelliccia lapin 
+rex rex lapin faux fur O pocket flap 
+colore colour nero black 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O pocket 
+OBAGP006 FAS09 134 
+descrizione description pattina O pocket ecopelliccia lapin 
+rex rex lapin faux fur O pocket flap 
+colore colour antracite anthracite 
+materiale material ecopelliccia faux fur 
+abbinamenti components 
+O pocket 
+52. FALL 2017 COLLECTION .continuativo carry over 
+PATTE FLAPS .53
+54. FALL 2017 COLLECTION .continuativo carry over 
+.orologi clocks 
+.55
+OCLKD001 MES02 061 
+descrizione description O clock meccanismo pavé pavé O 
+clock dial 
+colore colour oro gold 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES02 004 
+descrizione description O clock meccanismo pavé pavé O 
+clock dial 
+colore colour argento silver 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES02 062 
+descrizione description O clock meccanismo pavé pavé O 
+clock dial 
+colore colour oro rosa pink gold 
+abbinamenti components 
+cinturino O clock O clock straps 
+OCLKD001 MES13 062 
+descrizione description O clock meccanismo stardust 
+stardust O clock dial 
+colore colour oro rosa pink gold 
+abbinamenti components 
+cinturino O clock O clock strap 
+O clock quadranti dials 
+OCLKD001 MES13 004 
+descrizione description O clock meccanismo stardust 
+stardust O clock dial 
+colore colour argento silver 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES13 055 
+descrizione description O clock meccanismo stardust 
+stardust O clock dial 
+colore colour nero black 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 008 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour bianco white 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 036 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour giallo yellow 
+abbinamenti components 
+cinturino O clock O clock strap 
+56. FALL 2017 COLLECTION .continuativo carry over 
+OCLKD001 MES06 076 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour rosso red 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 025 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour cipria powder pink 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 045 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour magenta magenta 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 013 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour blu capri capri blue 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 059 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour oceano ocean 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 060 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour oliva olive 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 086 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour tortora dove-grey 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 071 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour roccia rock 
+abbinamenti components 
+cinturino O clock O clock strap 
+OROLOGI CLOCKS .57
+OCLKD001 MES06 041 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour grigio scuro dark grey 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES06 055 
+descrizione description O clock meccanismo tone on tone 
+tone on tone O clock dial 
+colore colour nero black 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES03 004 
+descrizione description O clock meccanismo mirror mirror 
+O clock dial 
+colore colour argento silver 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES03 044 
+descrizione description O clock meccanismo mirror mirror 
+O clock dial 
+colore colour lime lime 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES03 183 
+descrizione description O clock meccanismo mirror mirror 
+O clock dial 
+colore colour viola violet 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES03 063 
+descrizione description O clock meccanismo mirror mirror 
+O clock dial 
+colore colour ottanio teal 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES09 186 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour bianco mix white mix 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES09 077 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour rubino ruby 
+abbinamenti components 
+cinturino O clock O clock strap 
+O clock quadranti dials 
+58. FALL 2017 COLLECTION .continuativo carry over 
+OCLKD001 MES09 086 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour tortora dove-grey 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES09 014 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour blu elettrico electric blue 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES09 059 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour oceano ocean 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES09 039 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour grigio grey 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES09 055 
+descrizione description O clock meccanismo cristal crystal 
+O clock dial 
+colore colour nero black 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES10 061 
+descrizione description O clock meccanismo glitter glitter 
+O clock dial 
+colore colour oro gold 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES10 004 
+descrizione description O clock meccanismo glitter glitter 
+O clock dial 
+colore colour argento silver 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES23 009 
+descrizione description O clock meccanismo hands hands 
+O clock dial 
+colore colour blu blue 
+abbinamenti components 
+cinturino O clock O clock strap 
+OROLOGI CLOCKS .59
+OCLKD001 MES23 076 
+descrizione description O clock meccanismo hands hands 
+O clock dial 
+colore colour rosso red 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES07 004 
+descrizione description O clock meccanismo numeri 
+numbers O clock dial 
+colore colour argento silver 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES07 008 
+descrizione description O clock meccanismo numeri 
+numbers O clock dial 
+colore colour bianco white 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES07 013 
+descrizione description O clock meccanismo numeri 
+numbers O clock dial 
+colore colour blu capri capri blue 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES07 041 
+descrizione description O clock meccanismo numeri 
+numbers O clock dial 
+colore colour grigio scuro dark grey 
+abbinamenti components 
+cinturino O clock O clock strap 
+OCLKD001 MES07 055 
+descrizione description O clock meccanismo numeri 
+numbers O clock dial 
+colore colour nero black 
+abbinamenti components 
+cinturino O clock O clock strap 
+O clock quadranti dials 
+60. FALL 2017 COLLECTION .continuativo carry over 
+O clock cinturini straps 
+OCLKS007 SIS01 002 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour amaranto amaranth 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER S 
+GENER M 
+OCLKS007 SIS01 008 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour bianco white 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER S 
+GENER M 
+GENER XS 
+OCLKS007 SIS01 044 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour lime lime 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 053 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour narcissus narcissus 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+OCLKS007 SIS01 128 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour salmone salmon 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 076 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour rosso red 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER XS 
+OROLOGI CLOCKS .61
+OCLKS007 SIS01 025 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour cipria face powder 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 112 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour purple purple 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS001 SIS00 018 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour bordeaux burgundy 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 097 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour violetto violet 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 077 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour rubino ruby 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 045 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour magenta magenta 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER XS 
+O clock cinturini straps 
+62. FALL 2017 COLLECTION .continuativo carry over 
+OCLKS001 SIS01 067 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour phard rouge 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 096 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour viola pastello pastel 
+violet 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 059 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour oceano ocean 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 022 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour carta da zucchero 
+azure 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 095 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour viola desaturato pale 
+violet 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 013 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour blu capri night blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER XS 
+OROLOGI CLOCKS .63
+O clock cinturini straps 
+OCLKS007 SIS01 088 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour turchese turquoise 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 081 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour smeraldo emerald 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 063 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour ottanio teal 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 015 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour blu iris iris blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 014 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour blu elettrico electric 
+blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 012 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour blu acqua water bleu 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+64. FALL 2017 COLLECTION .continuativo carry over 
+OCLKS007 SIS01 024 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour cioccolato chocolate 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 086 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour tortora dove grey 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 080 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour salvia sage 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 090 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour verde bianco white 
+green 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 071 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour roccia rock 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS001 SIS01 092 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour verde scuro dark 
+green 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+OROLOGI CLOCKS .65
+O clock cinturini straps 
+OCLKS007 SIS01 041 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour grigio scuro dark 
+grey 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 133 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour grigio chiaro light 
+grey 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+OCLKS007 SIS01 055 
+descrizione description O clock 
+cinturino silicone 
+silicone O clock strap 
+colore colour nero black 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock O clock dial 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER XS 
+66. FALL 2017 COLLECTION .continuativo carry over 
+OCLKD104 MES00 261 
+descrizione description meccanismo great date generico 
+generic date great dial 
+colore colour fluo lime fluo lime 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD104 MES00 263 
+descrizione description meccanismo great date generico 
+generic date great dial 
+colore colour fluo arancione fluo orange 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD104 MES00 264 
+descrizione description meccanismo great date generico 
+generic date great dial 
+colore colour fluo verde fluo green 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD102 MES16 067 
+descrizione description meccanismo great soleil racing 
+soleil racing great dial 
+colore colour phard phard 
+abbinamenti components 
+cinturino great great strap 
+OCLKD102 MES16 131 
+descrizione description meccanismo great soleil racing 
+soleil racing great dial 
+colore colour antique green antique green 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD102 MES16 133 
+descrizione description meccanismo great soleil racing 
+soleil racing great dial 
+colore colour grigio chiaro light grey 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD101 MES16 261 
+descrizione description meccanismo great racing racing 
+great dial 
+colore colour fluo lime fluo lime 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES16 263 
+descrizione description meccanismo great racing racing 
+great dial 
+colore colour fluo arancione fluo orange 
+abbinamenti components 
+cinturino great great strap 
+O clock great quadranti dials 
+OROLOGI CLOCKS .67
+OCLKD101 MES16 265 
+descrizione description meccanismo great racing racing 
+great dial 
+colore colour fluo corallo fluo coral 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES16 266 
+descrizione description meccanismo great racing racing 
+great dial 
+colore colour fluo acqua fluo aqua 
+abbinamenti components 
+cinturino great great strap 
+OCLKD102 MES07 108 
+descrizione description meccanismo great soleil numeri 
+soleil numbers great dial 
+colore colour terracotta terracotta 
+abbinamenti components 
+cinturino great great strap 
+OCLKD102 MES07 095 
+descrizione description meccanismo great soleil numeri 
+soleil numbers great dial 
+colore colour viola desaturato pale violet 
+abbinamenti components 
+cinturino great great strap 
+OCLKD102 MES07 001 
+descrizione description meccanismo great soleil numeri 
+soleil numbers great dial 
+colore colour acqua aqua 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES35 008 
+descrizione description meccanismo great numbers mirror 
+mirror numbers great dial 
+colore colour bianco white 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES35 137 
+descrizione description meccanismo great numbers mirror 
+numbers mirror great dial 
+colore colour bluette bright blue 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD101 MES35 055 
+descrizione description meccanismo great numbers mirror 
+mirror numbers great dial 
+colore colour nero black 
+abbinamenti components 
+cinturino great great strap 
+O clock great quadranti dials 
+68. FALL 2017 COLLECTION .continuativo carry over 
+OCLKD101 MES34 008 
+descrizione description meccanismo great numbers roman 
+roman numbers great dial 
+colore colour bianco white 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD101 MES34 055 
+descrizione description meccanismo great numbers roman 
+roman numbers great dial 
+colore colour nero black 
+abbinamenti components cinturini great 
+O clock great straps 
+OCLKD101 MES12 003 
+descrizione description meccanismo great seconds 
+seconds great dial 
+colore colour arancione orange 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES12 267 
+descrizione description meccanismo great seconds 
+seconds great dial 
+colore colour fucsia fuchsia 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES12 001 
+descrizione description meccanismo great seconds 
+seconds great dial 
+colore colour acqua aqua 
+abbinamenti components 
+cinturino great great strap 
+OCLKD104 MES12 076 
+descrizione description meccanismo great date seconds 
+seconds great dial 
+colore colour rosso red 
+abbinamenti components 
+cinturino great great strap 
+OCLKD104 MES12 139 
+descrizione description meccanismo great date seconds 
+seconds great dial 
+colore colour mela green 
+abbinamenti components 
+cinturino great great strap 
+OCLKD104 MES12 009 
+descrizione description meccanismo great date seconds 
+seconds great dial 
+colore colour blu blue 
+abbinamenti components cinturini great 
+O clock great straps 
+OROLOGI CLOCKS .69
+OCLKD101 MES17 067 
+descrizione description meccanismo great diamonds 
+diamonds great dial 
+colore colour phard phard 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES17 133 
+descrizione description meccanismo great diamonds 
+diamonds great dial 
+colore colour grigio chiaro light grey 
+abbinamenti components 
+cinturino great great strap 
+OCLKD101 MES17 131 
+descrizione description meccanismo great diamonds 
+diamonds great dial 
+colore colour antique green antique green 
+abbinamenti components 
+cinturino great great strap 
+O clock great quadranti dials 
+OCLKD101 MES04 072 
+descrizione description meccanismo great soleil 
+great soleil dial 
+colore colour pink bronze 
+abbinamenti components great straps 
+OCLKD101 MES04 009 
+descrizione description meccanismo great soleil 
+great soleil dial 
+colore colour blu silver 
+abbinamenti components great straps 
+OCLKD101 MES04 004 
+descrizione description meccanismo great soleil 
+colore colour argento silver 
+abbinamenti components great straps 
+OCLKD101 MES04 020 
+descrizione description meccanismo great soleil 
+great soleil dial 
+colore colour bronzo bronze 
+abbinamenti components great straps 
+OCLKD101 MES04 061 
+descrizione description meccanismo great soleil 
+great soleil dial 
+colore colour oro gold 
+abbinamenti components great straps 
+70. FALL 2017 COLLECTION .continuativo carry over 
+OCLKD104 MES04 072 
+descrizione description meccanismo great soleil con datario 
+great soleil dial with calendar 
+colore colour pink bronze 
+abbinamenti components great straps 
+OCLKD104 MES04 009 
+descrizione description meccanismo great soleil con datario 
+great soleil dial with calendar 
+colore colour blu silver 
+abbinamenti components great straps 
+OCLKD104 MES04 055 
+descrizione description meccanismo great soleil con datario 
+great soleil dial with calendar 
+colore colour black gold 
+abbinamenti components great straps 
+OCLKD101 MES06 008 
+descrizione description meccanismo great tone on tone 
+tone on tone dial 
+colore colour bianco white 
+abbinamenti components great straps 
+OCLKD104 MES06 008 
+descrizione description meccanismo great tone on tone 
+con datario 
+tone on tone dial with calendar 
+colore colour bianco white 
+abbinamenti components great straps 
+OCLKD101 MES06 039 
+descrizione description meccanismo great tone on tone 
+tone on tone dial 
+colore colour grigio grey 
+abbinamenti components great straps 
+OCLKD101 MES06 055 
+descrizione description meccanismo great tone on tone 
+tone on tone dial 
+colore colour nero black 
+abbinamenti components great straps 
+OCLKD101 MES04 055 
+descrizione description meccanismo great soleil 
+great soleil dial 
+colore colour black gold 
+abbinamenti components great straps 
+OROLOGI CLOCKS .71
+O clock great quadranti dials 
+OCLKD104 MES06 039 
+descrizione description meccanismo great tone on tone 
+con datario 
+tone on tone dial with calendar 
+colore colour grigio grey 
+abbinamenti components great straps 
+OCLKD104 MES06 055 
+descrizione description meccanismo great tone on tone 
+con datario 
+tone on tone dial with calendar 
+colore colour nero black 
+abbinamenti components great straps 
+OCLKD104 MES04 183 
+descrizione description meccanismo great con datario 
+cromato + laccato chromed + lacquered dial with calendar 
+colore colour viola violet 
+abbinamenti components great straps 
+OCLKD104 MES04 044 
+descrizione description meccanismo great con datario 
+cromato + laccato chromed + lacquered dial with calendar 
+colore colour lime 
+abbinamenti components great straps 
+OCLKD104 MES04 002 
+descrizione description meccanismo great con datario 
+cromato + laccato chromed + lacquered dial with calendar 
+colore colour amaranto amaranth 
+abbinamenti components great straps 
+OCLKD104 MES04 068 
+descrizione description meccanismo great con datario 
+cromato + laccato chromed + lacquered dial with calendar 
+colore colour polvere dust-blue 
+abbinamenti components great straps 
+OCLKD104 MES04 063 
+descrizione description meccanismo great con datario 
+cromato + laccato chromed + lacquered dial with calendar 
+colore colour ottanio teal 
+abbinamenti components great straps 
+72. FALL 2017 COLLECTION .continuativo carry over 
+OCLKS101 SIS01 053 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour narcissus narcissus 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 002 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour amaranto amaranth 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+O clock great cinturini straps 
+GENER L 
+GENER S 
+GENER M 
+OCLKS107 SIS01 044 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour lime lime 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 008 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour bianco white 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 003 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour arancione orange 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+OCLKS101 SIS01 128 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour salmone salmon 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+GENER L 
+GENER S 
+GENER M 
+OROLOGI CLOCKS .73
+O clock great cinturini straps 
+OCLKS101 SIS01 067 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour phard rouge 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS101 SIS01 053 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour narcissus 
+narcissus 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 045 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour magenta magenta 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 022 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour carta da zucchero 
+azure 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS101 SIS01 112 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour purple purple 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+OCLKS107 SIS01 096 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour viola pastello 
+pastel violet 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+GENER L 
+GENER S 
+GENER M 
+74. FALL 2017 COLLECTION .continuativo carry over 
+OCLKS107 SIS01 068 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour polvere dust blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 063 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour ottanio teal 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 059 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour oceano ocean 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 015 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour blu iris iris blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 013 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour blu capri night blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 012 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour blu acqua water blue 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+OROLOGI CLOCKS .75
+O clock great cinturini straps 
+OCLKS101 SIS01 088 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour turchese turquoise 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 071 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour roccia rock 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 055 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour nero black 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS107 SIS01 041 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour grigio scuro dark grey 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+OCLKS101 SIS01 092 
+descrizione description O clock 
+cinturino great silicone 
+silicone O clock great strap 
+colore colour verde scuro dark green 
+materiale material silicone 
+abbinamenti components 
+meccanismo O clock great 
+O clock great dial 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+76. FALL 2017 COLLECTION .continuativo carry over 
+OROLOGI CLOCKS .77
+78. FALL 2017 COLLECTION .continuativo carry over 
+.occhiali sun glasses 
+.79
+OSUNC003 INS00 181 
+descrizione description O sun front generico generic O sun 
+front 
+colore colour titanium titanium 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+OSUNC003 INS00 060 
+descrizione description O sun front generico generic O sun 
+front 
+colore colour oliva olive 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+OSUNC003 INS00 009 
+descrizione description O sun front generico generic O sun 
+front 
+colore colour blu blue 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+OSUNC003 INS00 055 
+descrizione description O sun front generico generic O sun 
+front 
+colore colour nero black 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+OSUNC003 INS00 184 
+descrizione description O sun front generico generic O sun 
+front 
+colore colour trasparente transparent 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+O sun montatura frame 
+OSUNC003 INS00 084 
+descrizione description O sun front generico generic O sun 
+front 
+colore colour testa di moro dark brown 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+80. FALL 2017 COLLECTION .continuativo carry over 
+OSUNC003 INS04 009 
+descrizione description O sun front turtle turtle O sun front 
+colore colour blu blue 
+bbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+OSUNC003 INS04 084 
+descrizione description O sun front turtle turtle O sun front 
+colore colour testa di moro dark brown 
+abbinamenti components 
+O sun astine e lenti 
+O sun sticks and lenses 
+OCCHIALI SUN GLASSES .81
+OSUNC001 INS00 181 
+descrizione description O sun lenti generico generic O sun 
+lenses 
+colore colour titanium titanium 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS00 060 
+descrizione description O sun lenti generico generic O sun 
+lenses 
+colore colour oliva olive 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS00 055 
+descrizione description O sun lenti generico generic O sun 
+lenses 
+colore colour nero black 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS00 084 
+descrizione description O sun lenti generico generic O sun 
+lenses 
+colore colour testa di moro dark brown 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS01 174 
+descrizione description O sun lenti grafica graphic O sun 
+lenses 
+colore colour camouflage camouflage 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS05 076 
+descrizione description O sun lenti trasparente-mirror 
+trasparent-mirror O sun lenses 
+colore colour rosso red 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+O sun lenti lenses 
+82. FALL 2017 COLLECTION .continuativo carry over 
+OSUNC001 INS05 009 
+descrizione description O sun lenti trasparente-mirror 
+trasparent-mirror O sun lenses 
+colore colour blu blue 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS04 084 
+descrizione description O sun lenti turtle turtle O sun 
+lenses 
+colore colour testa di moro dark brown 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OSUNC001 INS04 009 
+descrizione description O sun lenti turtle turtle O sun 
+lenses 
+colore colour blu blue 
+abbinamenti components 
+O sun montature e astine 
+O sun frames and sticks 
+OCCHIALI SUN GLASSES .83
+OSUNC002 INS00 181 
+descrizione description O sun astina generico generic O 
+sun sticks 
+colore colour titanium titanium 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+OSUNC002 INS00 060 
+descrizione description O sun astina generico generic O 
+sun sticks 
+colore colour oliva olive 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+OSUNC002 INS00 055 
+descrizione description O sun astina generico generic O 
+sun sticks 
+colore colour nero black 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+OSUNC002 INS00 084 
+descrizione description O sun astina generico generic O 
+sun sticks 
+colore colour testa di moro dark brown 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+OSUNC002 INS00 184 
+descrizione description O sun astina generico generic O 
+sun sticks 
+colore colour trasparente transparent 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+O sun astine sticks 
+OSUNC002 INS01 174 
+descrizione description O sun astina grafica graphic O sun 
+sticks 
+colore colour camouflage camouflage 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+84. FALL 2017 COLLECTION .continuativo carry over 
+OSUNC002 INS04 084 
+descrizione description O sun astina turtle turtle O sun 
+sticks 
+colore colour testa di moro dark brown 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+OSUNC002 INS04 009 
+descrizione description O sun astina turtle turtle O sun 
+sticks 
+colore colour blu blue 
+abbinamenti components 
+O sun montature e lenti 
+O sun frames and lenses 
+OCCHIALI SUN GLASSES .85
+OSUNA003 INS09 108 
+descrizione description O sun aviator front camalescent 
+camalescent O sun aviator front 
+colore colour terracotta terracotta 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+OSUNA003 INS09 001 
+descrizione description O sun aviator front camalescent 
+camalescent O sun aviator front 
+colore colour acqua aqua 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+OSUNA003 INS09 009 
+descrizione description O sun aviator front camalescent 
+camalescent O sun aviator front 
+colore colour blu blue 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+OSUNA003 INS09 041 
+descrizione description O sun aviator front camalescent 
+camalescent O sun aviator front 
+colore colour grigio scuro dark grey 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+O sun aviator montatura frame 
+OSUNA003 INS00 009 
+descrizione description O sun aviator front generico 
+generic O sun aviator front 
+colore colour blu blue 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+OSUNA003 INS00 092 
+descrizione description O sun aviator front generico 
+generic O sun aviator front 
+colore colour verde scuro dark green 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+86. FALL 2017 COLLECTION .continuativo carry over 
+OSUNA003 INS00 055 
+descrizione description O sun aviator front generico 
+generic O sun aviator front 
+colore colour nero black 
+abbinamenti components 
+O sun aviator astine e lenti 
+O sun aviator sticks and lenses 
+OCCHIALI SUN GLASSES .87
+OSUNA001 INS09 108 
+descrizione description O sun aviator lenti camalescent 
+camalescent O sun aviator lenses 
+colore colour terracotta terracotta 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+OSUNA001 INS09 001 
+descrizione description O sun aviator lenti camalescent 
+camalescent O sun aviator lenses 
+colore colour acqua aqua 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+OSUNA001 INS09 009 
+descrizione description O sun aviator lenti camalescent 
+camalescent O sun aviator lenses 
+colore colour blu blue 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+OSUNA001 INS09 041 
+descrizione description O sun aviator lenti camalescent 
+camalescent O sun aviator lenses 
+colore colour grigio scuro dark grey 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+O sun aviator lenti lenses 
+OSUNA001 INS00 092 
+descrizione description O sun aviator lenti generico 
+generic O sun aviator lenses 
+colore colour verde scuro dark green 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+OSUNA001 INS00 009 
+descrizione description O sun aviator lenti generico 
+generic O sun aviator lenses 
+colore colour blu blue 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+88. FALL 2017 COLLECTION .continuativo carry over 
+OSUNA001 INS00 055 
+descrizione description O sun aviator lenti generico 
+generic O sun aviator lenses 
+colore colour nero black 
+abbinamenti components 
+O sun aviator montature e astine 
+O sun aviator frames and sticks 
+OCCHIALI SUN GLASSES .89
+OSUNA002 INS09 108 
+descrizione description O sun aviator astina camalescent 
+camalescent O sun aviator sticks 
+colore colour terracotta terracotta 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+OSUNA002 INS09 001 
+descrizione description O sun aviator astina camalescent 
+camalescent O sun aviator sticks 
+colore colour acqua aqua 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+OSUNA002 INS09 009 
+descrizione description O sun aviator astina camalescent 
+camalescent O sun aviator sticks 
+colore colour blu blue 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+OSUNA002 INS09 041 
+descrizione description O sun aviator astina camalescent 
+camalescent O sun aviator sticks 
+colore colour grigio scuro dark grey 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+O sun aviator astine sticks 
+OSUNA002 INS00 009 
+descrizione description O sun aviator astina generico 
+generic O sun aviator sticks 
+colore colour blu blue 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+OSUNA002 INS00 092 
+descrizione description O sun aviator astina generico 
+generic O sun aviator sticks 
+colore colour verde scuro dark green 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+90. FALL 2017 COLLECTION .continuativo carry over 
+OSUNA002 INS00 055 
+descrizione description O sun aviator astina generico 
+generic O sun aviator sticks 
+colore colour nero black 
+abbinamenti components 
+O sun aviator montature e lenti 
+O sun aviator frames and lenses 
+OCCHIALI SUN GLASSES .91
+92. FALL 2017 COLLECTION .continuativo carry over 
+.bracciali bracelets 
+.93
+O bracelet 
+OBRCF002 SIS01 008 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour bianco white 
+materiale material silicone 
+OBRCF002 SIS01 128 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour salmone salmon 
+materiale material silicone 
+OBRCF002 SIS01 144 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour ginestra broom 
+materiale material silicone 
+OBRCF002 SIS01 047 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour marsala marsala 
+materiale material silicone 
+OBRCF002 SIS01 006 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour avorio ivory 
+materiale material silicone 
+OBRCF002 SIS01 142 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour lampone raspberry 
+materiale material silicone 
+OBRCF002 SIS01 044 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour lime lime 
+materiale material silicone 
+OBRCF002 SIS01 002 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour amaranto amaranth 
+materiale material silicone 
+94. FALL 2017 COLLECTION .continuativo carry over 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+BRACCIALI BRACELETS .95
+O bracelet 
+OBRCF002 SIS01 018 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour bordeaux burgundy 
+materiale material silicone 
+OBRCF002 SIS01 059 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour oceano ocean 
+materiale material silicone 
+OBRCF002 SIS01 096 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour viola pastello pastel violet 
+materiale material silicone 
+OBRCF002 SIS01 013 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour blu capri night blue 
+materiale material silicone 
+OBRCF002 SIS01 025 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour cipria face powder 
+materiale material silicone 
+OBRCF002 SIS01 063 
+descrizione description O bracelet flower slim silicone 
+silicone O bracelet flower 
+colore colour ottanio teal 
+materiale material silicone 
+OBRCF002 SIS01 095 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour viola desaturato pale violet 
+materiale material silicone 
+OBRCF002 SIS01 141 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour blu pastello pastel blue 
+materiale material silicone 
+96. FALL 2017 COLLECTION .continuativo carry over 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+BRACCIALI BRACELETS .97
+O bracelet 
+OBRCF002 SIS01 088 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour turchese turquoise 
+materiale material silicone 
+OBRCF002 SIS01 138 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour turchese menta turquoise mint 
+materiale material silicone 
+OBRCF002 SIS01 086 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour tortora dove grey 
+materiale material silicone 
+OBRCF002 SIS01 143 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour neve snow 
+materiale material silicone 
+OBRCF002 SIS01 090 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour verde bianco white green 
+materiale material silicone 
+OBRCF002 SIS01 012 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour blu acqua water blue 
+materiale material silicone 
+OBRCF002 SIS01 071 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour roccia rock 
+materiale material silicone 
+OBRCF002 SIS01 055 
+descrizione description O bracelet flower silicone 
+silicone O bracelet flower 
+colore colour nero black 
+materiale material silicone 
+98. FALL 2017 COLLECTION .continuativo carry over 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.big 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+.slim 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+BRACCIALI BRACELETS .99
+O bracelet 
+OBRCD003 SIS00 143 
+descrizione description O bracelet daisy big silicone 
+silicone big O bracelet daisy 
+colore colour neve snow 
+materiale material silicone 
+OBRCD003 SIS00 063 
+descrizione description O bracelet daisy big silicone 
+silicone big O bracelet daisy 
+colore colour ottanio teal 
+materiale material silicone 
+OBRCD003 SIS00 086 
+descrizione description O bracelet daisy big silicone 
+silicone big O bracelet daisy 
+colore colour tortora dove grey 
+materiale material silicone 
+OBRCD003 SIS00 018 
+descrizione description O bracelet daisy big silicone 
+silicone big O bracelet daisy 
+colore colour bordeaux burgundy 
+materiale material silicone 
+OBRCD003 SIS00 025 
+descrizione description O bracelet daisy big silicone 
+silicone big O bracelet daisy 
+colore colour cipria face powder 
+materiale material silicone 
+OBRCD003 SIS00 055 
+descrizione description O bracelet daisy big silicone 
+silicone big O bracelet daisy 
+colore colour nero black 
+materiale material silicone 
+OBRCK004 SIS00 143 
+descrizione description O bracelet single knot 
+colore colour neve snow 
+materiale material silicone 
+OBRCK004 SIS00 025 
+descrizione description O bracelet single knot 
+colore colour cipria powder pink 
+materiale material silicone 
+100. FALL 2017 COLLECTION .continuativo carry over 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER L 
+GENER L 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+BRACCIALI BRACELETS .101
+O bracelet 
+OBRCK004 SIS00 018 
+descrizione description O bracelet single knot 
+colore colour bordeaux bordeaux 
+materiale material silicone 
+OBRCK004 SIS00 063 
+descrizione description O bracelet single knot 
+colore colour ottanio teal 
+materiale material silicone 
+OBRCK004 SIS00 086 
+descrizione description O bracelet single knot 
+colore colour tortora dove-grey 
+materiale material silicone 
+OBRCK005 SIS00 143 
+descrizione description O bracelet double knot 
+colore colour neve snow 
+materiale material silicone 
+OBRCK004 SIS00 055 
+descrizione description O bracelet single knot 
+colore colour nero black 
+materiale material silicone 
+OBRCK005 SIS00 018 
+descrizione description O bracelet double knot 
+colore colour bordeaux bordeaux 
+materiale material silicone 
+OBRCK005 SIS00 063 
+descrizione description O bracelet double knot 
+colore colour ottanio teal 
+materiale material silicone 
+OBRCK005 SIS00 025 
+descrizione description O bracelet double knot 
+colore colour cipria powder pink 
+materiale material silicone 
+102. FALL 2017 COLLECTION .continuativo carry over 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+BRACCIALI BRACELETS .103
+O bracelet 
+OBRCK005 SIS00 086 
+descrizione description O bracelet double knot 
+colore colour tortora dove-grey 
+materiale material silicone 
+OBRCK005 SIS00 055 
+descrizione description O bracelet double knot 
+colore colour nero black 
+materiale material silicone 
+104. FALL 2017 COLLECTION .continuativo carry over 
+GENER S 
+GENER S 
+GENER L 
+GENER L 
+GENER M 
+GENER M 
+BRACCIALI BRACELETS .105
+106. FALL 2017 COLLECTION 
+.portafogli wallets 
+.107
+O hug portafogli donna woman wallets 
+OHUGB002 EVS06 133 
+descrizione description O hug scocca portafoglio donna 
+EVA compound texture greca O hug EVA compound 
+greek texture body woman's wallet 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002 EVS06 071 
+descrizione description O hug scocca portafoglio donna 
+EVA compound texture greca O hug EVA compound 
+greek texture body woman's wallet 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002 EVS06 017 
+descrizione description O hug scocca portafoglio donna 
+EVA compound texture greca O hug EVA compound 
+greek texture body woman's wallet 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002 EVS06 055 
+descrizione description O hug scocca portafoglio donna 
+EVA compound texture greca O hug EVA compound 
+greek texture body woman's wallet 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+108. FALL 2017 COLLECTION .continuativo carry over 
+OHUGI002 PES00 084 
+descrizione description O hug interno portafoglio donna 
+pelle leather O hug inner bag woman's wallet 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGI002 PES00 055 
+descrizione description O hug interno portafoglio donna 
+pelle leather O hug inner bag woman's wallet 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGI002 PES00 017 
+descrizione description O hug interno portafoglio donna 
+pelle leather O hug inner bag woman's wallet 
+colore colour blu navy navy blue 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGI002 PES00 039 
+descrizione description O hug interno portafoglio donna 
+pelle leather O hug inner bag woman's wallet 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGI002 ECS00 006 
+descrizione description O hug interno portafoglio donna 
+ecopelle faux leather O hug inner bag woman's wallet 
+colore colour avorio ivory 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug donna O hug woman 
+PORTAFOGLI WALLETS .109
+OHUGI002 ECS00 071 
+descrizione description O hug interno portafoglio donna 
+ecopelle faux leather O hug inner bag woman's wallet 
+colore colour roccia rock 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGI002 ECS00 055 
+descrizione description O hug interno portafoglio donna 
+ecopelle faux leather O hug inner bag woman's wallet 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug donna O hug woman 
+O hug portafogli donna woman wallets 
+110. FALL 2017 COLLECTION .continuativo carry over 
+OHUGB001 EVS07 133 
+descrizione description O hug scocca portafoglio uomo 
+EVA compound texture tessuto O hug EVA compound 
+fabric texture body man's wallet 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+O hug portafogli uomo man wallets 
+OHUGB001 EVS07 017 
+descrizione description O hug scocca portafoglio uomo 
+EVA compound texture tessuto O hug EVA compound 
+fabric texture body man's wallet 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001 EVS07 084 
+descrizione description O hug scocca portafoglio uomo 
+EVA compound texture tessuto O hug EVA compound 
+fabric texture body man's wallet 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001 EVS07 055 
+descrizione description O hug scocca portafoglio uomo 
+EVA compound texture tessuto O hug EVA compound 
+fabric texture body man's wallet 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+PORTAFOGLI WALLETS .111
+OHUGI001 PES00 084 
+descrizione description O hug interno portafoglio uomo 
+pelle leather O hug inner bag man's wallet 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGI001 PES00 039 
+descrizione description O hug interno portafoglio uomo 
+pelle leather O hug inner bag man's wallet 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGI001 PES00 055 
+descrizione description O hug interno portafoglio uomo 
+pelle leather O hug inner bag man's wallet 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGI001 ECS00 084 
+descrizione description O hug interno portafoglio uomo 
+ecopelle faux leather O hug inner bag man's wallet 
+colore colour testa di moro dark brown 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGI001 ECS00 017 
+descrizione description O hug interno portafoglio uomo 
+ecopelle faux leather O hug inner bag man's wallet 
+colore colour blu navy navy blue 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug uomo O hug man 
+O hug portafogli uomo man wallets 
+112. FALL 2017 COLLECTION .continuativo carry over 
+OHUGI001 ECS00 039 
+descrizione description O hug interno portafoglio uomo 
+ecopelle faux leather O hug inner bag man's wallet 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGI001 ECS00 092 
+descrizione description O hug interno portafoglio uomo 
+ecopelle faux leather O hug inner bag man's wallet 
+colore colour verde scuro dark green 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGI001 ECS00 055 
+descrizione description O hug interno portafoglio uomo 
+ecopelle faux leather O hug inner bag man's wallet 
+colore colour nero black 
+materiale material ecopelle faux leather 
+abbinamenti components 
+O hug uomo O hug man 
+PORTAFOGLI WALLETS .113
+114. FALL 2017 COLLECTION 
+.scarpe shoes 
+.115
+O shoes high woman scarpe shoes 
+O shoes low woman scarpe shoes 
+OSHSD002 EVS00 055 
+descrizione description O shoes donna low EVA 
+compound women O shoes low EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+OSHSD002 EVS00 084 
+descrizione description O shoes donna low EVA 
+compound women O shoes low EVA compound 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+OSHSD002 EVS00 017 
+descrizione description O shoes donna low EVA 
+compound women O shoes low EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+OSHSD001 EVS00 158 
+descrizione description O shoes donna high EVA 
+compound women O shoes high EVA compound 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+GENER 35 / 36 
+GENER 35 / 36 
+GENER 35 / 36 
+GENER 35 / 36 
+116. FALL 2017 COLLECTION .continuativo carry over 
+GENER 37 
+GENER 37 
+GENER 37 
+GENER 37 
+GENER 38 
+GENER 38 
+GENER 38 
+GENER 38 
+GENER 39 
+GENER 39 
+GENER 39 
+GENER 39 
+GENER 40 
+GENER 40 
+GENER 40 
+GENER 40 
+GENER 41 / 42 
+GENER 41 / 42 
+GENER 41 / 42 
+GENER 41 / 42 
+SCARPE SHOES .117
+118. FALL 2017 COLLECTION .continuativo carry over 
+OSHSU002 EVS00 017 
+descrizione description O shoes uomo low EVA 
+compound men O shoes low EVA compound 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+GENER 39 / 40 
+GENER 39 / 40 
+GENER 39 / 40 
+OSHSU002 EVS00 055 
+descrizione description O shoes uomo low EVA 
+compound men O shoes low EVA compound 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+OSHSU002 EVS00 084 
+descrizione description O shoes uomo low EVA 
+compound men O shoes low EVA compound 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes 
+O shoes accessories 
+O shoes low man scarpe shoes
+SCARPE SHOES .119 
+GENER 40 
+GENER 40 
+GENER 40 
+GENER 41 
+GENER 41 
+GENER 41 
+GENER 42 
+GENER 42 
+GENER 42 
+GENER 43 
+GENER 43 
+GENER 43 
+GENER 44 
+GENER 44 
+GENER 44
+120. FALL 2017 COLLECTION .continuativo carry over 
+O shoes accessori accessories 
+OSHSA000 FAS01 055 
+descrizione description accessori O shoes eco lapin 
+O shoes faux lapin fur accessories 
+colore colour nero black 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS01 009 
+descrizione description O shoes accessorio 
+ecopelliccia lapin lapin faux leather O shoes 
+accessory 
+colore colour blu blue 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS01 112 
+descrizione description O shoes accessorio 
+ecopelliccia lapin lapin faux leather O shoes 
+accessory 
+colore colour purple purple 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS01 092 
+descrizione description O shoes accessorio 
+ecopelliccia lapin lapin faux leather O shoes 
+accessory 
+colore colour verde scuro dark green 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS01 133 
+descrizione description O shoes accessorio 
+ecopelliccia lapin lapin faux leather O shoes 
+accessory 
+colore colour grigio chiaro light grey 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS02 055 
+descrizione description O shoes accessorio 
+ecopelliccia volpe fox faux leather O shoes 
+accessory 
+colore colour nero black 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S 
+GENER S
+SCARPE SHOES .121 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER M 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L 
+GENER L
+OSHSA000 FAS07 010 
+descrizione description O shoes accessorio 
+ecopelliccia mongolia mongolia faux leather O 
+shoes accessory 
+colore colour grigio - blu grey - blue 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS07 274 
+descrizione description O shoes accessorio 
+ecopelliccia mongolia mongolia faux leather O 
+shoes accessory 
+colore colour avorio - beige ivory - beige 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+OSHSA000 FAS02 008 
+descrizione description O shoes accessorio 
+ecopelliccia volpe fox faux leather O shoes 
+accessory 
+colore colour bianco white 
+abbinamenti components 
+O shoes high donna - O shoes low donna 
+O shoes high woman - O shoes low woman 
+122. FALL 2017 COLLECTION .continuativo carry over 
+O shoes accessori accessories 
+GENER S 
+GENER S 
+GENER S
+SCARPE SHOES .123 
+GENER M 
+GENER M 
+GENER M 
+GENER L 
+GENER L 
+GENER L
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

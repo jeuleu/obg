@@ -103,7 +103,7 @@ col. 076
 rosso 
 red 
 .cote d’azur 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 479 
@@ -181,7 +181,7 @@ col. 483
 champagne 
 champagne 
 .manila 
-col. 484 
+col. 345 
 coral 
 coral 
 .cote d’azur .cote d’azur 
@@ -221,7 +221,7 @@ cobalt blue
 col. 075 
 rosa smoke 
 rose smoke 
-col. 484 
+col. 345 
 coral 
 coral 
 O bag ‘50 .scocca body 
@@ -270,7 +270,7 @@ cobalt blue
 col. 075 
 rosa smoke 
 rose smoke 
-col. 484 
+col. 345 
 coral 
 coral 
 O city .scocca body 
@@ -323,7 +323,7 @@ rose smoke
 O bag moon .scocca body 
 .cote d’azur 
 .cote d’azur 
-col. 484 
+col. 345 
 coral 
 coral 
 .cote d’azur .manila 
@@ -369,7 +369,7 @@ rosa smoke
 rose smoke 
 O bag moon light .scocca body 
 .cote d’azur 
-col. 484 
+col. 345 
 coral 
 coral 
 .cote d’azur 
@@ -412,7 +412,7 @@ cobalto
 cobalt blue 
 O swing .scocca body 
 .cote d’azur 
-col. 484 
+col. 345 
 coral 
 coral 
 .cote d’azur 
@@ -451,7 +451,7 @@ cobalt blue
 col. 075 
 rosa smoke 
 rose smoke 
-col. 484 
+col. 345 
 coral 
 coral 
 O pocket .scocca sotto lower body 
@@ -512,7 +512,7 @@ col. 422
 sangria 
 sangria 
 O pocket micro .scocca body 
-col. 484 
+col. 345 
 coral 
 coral 
 .cote d’azur 
@@ -551,7 +551,7 @@ cobalto
 cobalt blue 
 O bag beach .scocca body 
 .cote d’azur 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 422 
@@ -591,7 +591,7 @@ cobalto
 cobalt blue 
 O bag beach mini .scocca body 
 .cote d’azur 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 422 
@@ -626,7 +626,7 @@ L’immagine della scocca bianca sopra ha
 esclusivamente scopo illustrativo. 
 The white body image above is for 
 illustrative purposes only. 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 422 
@@ -1640,7 +1640,7 @@ cedro
 col. 026 
 cobalto 
 cobalt blue 
-col. 484 
+col. 345 
 corallo 
 coral 
 piatto nappina .manico corto short handle O bag ‘50 
@@ -4105,7 +4105,7 @@ cedro
 col. 486 
 pink 
 pink 
-col. 484 
+col. 345 
 coral 
 coral 
 .cote d’azur 
@@ -4408,7 +4408,7 @@ complete body
 col. 054 
 naturale 
 natural 
-corda .tracolla shoulder strap
+corda .tracolla shoulder strap 
 zaini backpack 133. 
 code HLESOC00 ECS00 
 descrizione manico oblò corto O bag ‘50 
@@ -5272,7 +5272,7 @@ GENER S GENER S GENER S
 GENER M GENER M GENER M 
 GENER L GENER L GENER L 
 .manila .manila .manila 
-col. 484 
+col. 345 
 coral 
 coral 
 GENER S 
@@ -6068,7 +6068,7 @@ components O clock great dial
 .cote d’azur 
 .manila 
 .cote d’azur .manila 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 422 
@@ -6231,7 +6231,7 @@ slim plastic material
 components O clock shift band strap - 
 O clock dial 
 classic slim .case case O clock shift 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 486 
@@ -6274,7 +6274,7 @@ case plastic material
 components O clock shift band strap - 
 O clock great dial 
 great round .case case O clock great shift 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 486 
@@ -6315,7 +6315,7 @@ description O clock shift band strap
 components O clock shift case - O clock 
 dial 
 band .cinturino strap O clock shift 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 486 
@@ -6444,15 +6444,15 @@ abbinamenti O sun astine e lenti
 description vichy O sun frame 
 material injected 
 components O sun sticks and lenses 
-col. 227 
-bianco/nero 
-white - black 
-col. 408 
-blu/bianco 
-blue - white 
-col. 517 
-bianco/rosa 
-white/pink 
+col. 582 
+trasparente/nero 
+transparent/black 
+col. 584 
+transparente/blu 
+transparent/blue 
+col. 583 
+trasparente/rosa 
+transparent/pink 
 vichy .montatura frame O sun 
 .cote d’azur .cote d’azur .cote d’azur 
 code OSUNC003 INS10 
@@ -6607,15 +6607,15 @@ abbinamenti O sun montatura e astine
 description vichy O sun lenses 
 material injected 
 components O sun front and sticks 
-col. 227 
-bianco/nero 
-white - black 
-col. 408 
-blu/bianco 
-blue - white 
-col. 517 
-bianco/rosa 
-white/pink 
+col. 582 
+trasparente/nero 
+transparent/black 
+col. 584 
+trasparente/blu 
+transparent/blue 
+col. 583 
+trasparente/rosa 
+transparent/pink 
 vichy .lenti lenses O sun 
 .cote d’azur .cote d’azur .cote d’azur 
 code OSUNC001 INS10 
@@ -6777,15 +6777,15 @@ description black/white vichy O sun
 sticks 
 material injected 
 components O sun front and lenses 
-col. 227 
-bianco/nero 
-white - black 
-col. 408 
-blu/bianco 
-blue - white 
-col. 517 
+col. 582 
+trasparente/nero 
+transparent/black 
+col. 584 
+trasparente/blu 
+transparent/blue 
+col. 583 
 bianco/rosa 
-white/pink 
+transparent/pink 
 vichy bianco/nero .astine sticks O sun 
 .cote d’azur .cote d’azur .cote d’azur 
 code OSUNC002 INS10 
@@ -7428,7 +7428,7 @@ lenses
 nyc brush .astine sticks O sun aviator 
 .crossing .crossing .crossing
 occhiali sunglasses 217. 
-code OSUNS003 INS00 
+code OSUNS003 INS32 
 descrizione O sun shine front 
 materiale iniettato 
 abbinamenti O sun shine lenti e astine 
@@ -7450,7 +7450,7 @@ abbinamenti O sun shine front e astine
 description cateye O sun shine lenses 
 material injected 
 components O sun shine front and sticks 
-col. 529 
+col. 560 
 pink/roccia 
 pink/rock 
 col. 531 
@@ -7520,7 +7520,7 @@ sticks
 material injected 
 components O sun shine front and 
 lenses 
-col. 529 
+col. 560 
 pink/roccia 
 pink/rock 
 col. 535 
@@ -7627,7 +7627,7 @@ material silicone
 .cote d’azur .cote d’azur 
 .manila 
 .manila 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 422 
@@ -7776,7 +7776,7 @@ materiale silicone
 description O bracelet flower big silicone 
 material silicone 
 .cote d’azur .cote d’azur .manila 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 485 
@@ -7899,7 +7899,7 @@ col. 038
 grafite 
 graphite
 230. O bag summer 2018 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 485 
@@ -7999,7 +7999,7 @@ sand
 col. 075 
 rosa smoke 
 rose smoke 
-col. 484 
+col. 345 
 coral 
 coral 
 EVA compound .scocca body O hug donna 
@@ -8177,7 +8177,7 @@ SHOES 38 SHOES 38 SHOES 38 SHOES 38
 col. 486 
 pink 
 pink 
-col. 484 
+col. 345 
 coral 
 coral 
 col. 479 
@@ -8228,7 +8228,7 @@ SHOES 40
 SHOES 41/42 
 SHOES 37 
 SHOES 38 
-col. 484 
+col. 345 
 coral 
 coral 
 SHOES 35/36 
@@ -8354,58 +8354,6 @@ SHOES 45/46 SHOES 45/46
 SHOES 41 SHOES 41 
 SHOES 42 SHOES 42 
 .manila .manila 
-248. O bag summer 2018 
-code OSHSA000 INS14 
-descrizione accessorio O shoes palma 
-flower 
-materiale pvc 
-abbinamenti O shoes 
-description flower palm O shoes 
-accessory 
-material pvc 
-components O shoes 
-palma flower .accessorio O shoes pvc 
-GENER S 
-.manila 
-.manila 
-GENER M 
-GENER L 
-col. 267 
-fucsia 
-fuchsia 
-code OSHSA000 INS17 
-descrizione accessorio O shoes pvc + 
-ricamo 
-materiale 
-abbinamenti O shoes 
-description pvc + embroidery O shoes 
-accessory 
-material 
-components O shoes 
-pvc + ricamo .accessorio O shoes 
-GENER S 
-GENER M 
-GENER L 
-col. 529 
-azzurro/giallo 
-light blue/yellow
-scarpe shoes 249. 
-code OSHSA000 INS19 
-descrizione accessorio O shoes 
-borchiette hf 
-materiale pvc + hf 
-abbinamenti O shoes 
-description hf studs O shoes accessory 
-material pvc + hf 
-components O shoes 
-borchiette hf .accessorio O shoes pvc + hf 
-GENER S 
-.manila 
-GENER M 
-GENER L 
-col. 227 
-bianco/nero 
-white/black
 O bag Headquarters 
 Via L. Galvani, 1 
 35011 Campodarsego (PD) - Italy 

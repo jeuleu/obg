@@ -1,0 +1,34 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OBAGUK01_ECS01--055;;188; kit O bag dahlia;OBAGUK01_ECS01;;055;nero;nero;
+CodeBarre;OBAGUK01_ECS01--017;;188; kit O bag dahlia;OBAGUK01_ECS01;;017;blu navy;blu navy;
+CodeBarre;OBAGUK01_ECS01--089;;188; kit O bag dahlia;OBAGUK01_ECS01;;089;verde;verde;
+CodeBarre;OBAGUK01_ECS01--111;;188; kit O bag dahlia;OBAGUK01_ECS01;;111;ocra;ocra;
+CodeBarre;OBAGUK01_ECS01--018;;188; kit O bag dahlia;OBAGUK01_ECS01;;018;bordeaux;bordeaux;
+CodeBarre;OBAGUK01_ECS16--135;;188; kit O bag dahlia;OBAGUK01_ECS16;;135;peltro;peltro;
+CodeBarre;OBAGUK01_ECS16--038;;188; kit O bag dahlia;OBAGUK01_ECS16;;038;grafite;grafite;
+CodeBarre;OBAGUK01_ECS16--379;;188; kit O bag dahlia;OBAGUK01_ECS16;;379;blu notte;blu notte;
+CodeBarre;OBAGUK01_TESW6--134;;188; kit O bag dahlia;OBAGUK01_TESW6;;134;antracite;antracite;
+CodeBarre;OBAGUK03_ECS01--055;;188; kit O bag violet;OBAGUK03_ECS01;;055;nero;nero;
+CodeBarre;OBAGUK03_ECS01--017;;188; kit O bag violet;OBAGUK03_ECS01;;017;blu navy;blu navy;
+CodeBarre;OBAGUK03_ECS01--089;;188; kit O bag violet;OBAGUK03_ECS01;;089;verde;verde;
+CodeBarre;OBAGUK03_ECS01--111;;188; kit O bag violet;OBAGUK03_ECS01;;111;ocra;ocra;
+CodeBarre;OBAGUK03_ECS01--018;;188; kit O bag violet;OBAGUK03_ECS01;;018;bordeaux;bordeaux;
+CodeBarre;OBAGUK03_ECS16--135;;188; kit O bag violet;OBAGUK03_ECS16;;135;peltro;peltro;
+CodeBarre;OBAGUK03_ECS16--038;;188; kit O bag violet;OBAGUK03_ECS16;;038;grafite;grafite;
+CodeBarre;OBAGUK03_ECS16--379;;188; kit O bag violet;OBAGUK03_ECS16;;379;blu notte;blu notte;
+CodeBarre;OBAGUK03_TESW6--134;;188; kit O bag violet;OBAGUK03_TESW6;;134;antracite;antracite;
+CodeBarre;OBAGUK02_ECS01--055;;188; kit O bag rose;OBAGUK02_ECS01;;055;nero;nero;
+CodeBarre;OBAGUK02_ECS01--017;;188; kit O bag rose;OBAGUK02_ECS01;;017;blu navy;blu navy;
+CodeBarre;OBAGUK02_ECS01--089;;188; kit O bag rose;OBAGUK02_ECS01;;089;verde;verde;
+CodeBarre;OBAGUK02_ECS01--111;;188; kit O bag rose;OBAGUK02_ECS01;;111;ocra;ocra;
+CodeBarre;OBAGUK02_ECS01--018;;188; kit O bag rose;OBAGUK02_ECS01;;018;bordeaux;bordeaux;
+CodeBarre;OBAGUK02_ECS16--135;;188; kit O bag rose;OBAGUK02_ECS16;;135;peltro;peltro;
+CodeBarre;OBAGUK02_ECS16--038;;188; kit O bag rose;OBAGUK02_ECS16;;038;grafite;grafite;
+CodeBarre;OBAGUK02_ECS16--379;;188; kit O bag rose;OBAGUK02_ECS16;;379;blu notte;blu notte;
+CodeBarre;OBAGUK02_TESW6--134;;188; kit O bag rose tessuto;OBAGUK02_TESW6;;134;antracite;antracite;

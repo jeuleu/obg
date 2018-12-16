@@ -511,7 +511,7 @@ col. 051
 mostarda 
 mustard
 manici e tracolle handles and shoulder straps 23. 
-code HLESG000 TES20 
+code HLESG000 ROS06 
 descrizione manico lungo corda haiti 
 sfumata 
 materiale corda 
@@ -549,7 +549,7 @@ cobalt blue
 col. 055 
 nero 
 black 
-corda treccina cotone + tessuto gommato .manico lungo long handle 
+corda treccina cotone + tessuto gommato .manico lungo long handle
 24. O bag flash beach 2018 
 code HLESU200 TESO4 
 descrizione manico foulard tessuto 
@@ -618,38 +618,6 @@ col. 509
 moka 
 moka 
 tessuto gommato .micro manico micro handle 
-manici e tracolle handles and shoulder straps 27. 
-code SHOUBH00 ECS76 
-descrizione tracolla 120 ecopelle + 
-tessuto haiti etnico fluo 
-materiale ecopelle + tessuto 
-abbinamenti O bag - O bag mini - O bag 
-‘50 - O city 
-description faux leather + ethnic haiti 
-fabric fluo 120 shoulder strap 
-material faux leather + fabric 
-components O bag - O bag mini - O bag 
-‘50 - O city 
-col. 125 
-multicolor 
-multicolour 
-ecopelle + tessuto haiti etnico fluo .tracolla shoulder strap 
-code SHOUBH00 ECS75 
-descrizione tracolla 120 ecopelle + 
-tessuto righe fluo 
-materiale ecopelle + tessuto 
-abbinamenti O bag - O bag mini - O bag 
-‘50 - O city 
-description faux leather + fluo stripes 
-fabric 120 shoulder strap 
-material faux leather + fabric 
-components O bag - O bag mini - O bag 
-‘50 - O city 
-col. 125 
-multicolor 
-multicolour 
-ecopelle + tessuto righe fluo .tracolla shoulder strap 
-28. O bag flash beach 2018 
 code SHOUGB00 TESM9 
 descrizione tracolla 80/120 tessuto iuta 
 grezza 
@@ -667,25 +635,7 @@ natural
 col. 519 
 naturale/nero 
 cedro/pink/red 
-tessuto iuta grezza .tracolla shoulder strap 
-code SHOUGB00 TESN2 
-descrizione tracolla 80/120 tessuto 
-nastro hawaii 
-materiale tessuto 
-abbinamenti O bag - O bag mini - O bag 
-‘50 - O city 
-description hawaii band fabric 80/120 
-shoulder strap 
-material fabric 
-components O bag - O bag mini - O bag 
-‘50 - O city 
-col. 484 
-coral 
-coral 
-col. 054 
-naturale 
-natural 
-tessuto nastro hawaii .tracolla shoulder strap 
+tessuto iuta grezza .tracolla shoulder strap
 manici e tracolle handles and shoulder straps 29. 
 code SHOUGB00 TESK9 
 descrizione tracolla 80/120 tessuto 
@@ -725,7 +675,7 @@ black
 col. 054 
 naturale 
 natural 
-corda treccina cotone .tracolla shoulder strap 
+corda treccina cotone .tracolla shoulder strap
 30. O bag flash beach 2018 
 code OBAGA000 ECS42 
 descrizione accessorio clip ecopelle 
@@ -758,28 +708,16 @@ pink
 pink
 manici e tracolle handles and shoulder straps 31.
 .bordi trims
-34. O bag flash beach 2018 
-code OBAGT001 TESM4 
-descrizione bordo O bag tessuto haiti 
-etnico 
-materiale tessuto 
-abbinamenti 
-description ethnic haiti fabric O bag trim 
-material fabric 
-components O bag 
-col. 509 
-moka 
-moka 
-tessuto haiti etnico .bordo trim O bag 
 code OBAGT001 TESM8 
 descrizione bordo O bag tessuto iuta 
 grezza + pon pon grandi 
 materiale tessuto 
 abbinamenti 
-description rough jute fabric + big pom 
-pom O bag trim 
+description rough jute fabric + big 
+pom pom O bag trim 
 material fabric 
 components O bag 
+34. O bag lash beach 2018 
 col. 371 
 latte 
 milk 
@@ -791,19 +729,6 @@ cedro/pink/rosso
 cedro/pink/red 
 tessuto iuta grezza + pon pon grandi .bordo trim O bag
 bordi trims 35. 
-code OBAGT002 TESM4 
-descrizione bordo O bag mini tessuto 
-haiti etnico 
-materiale tessuto 
-abbinamenti 
-description ethnic haiti fabric O bag mini 
-trim 
-material fabric 
-components O bag mini 
-col. 509 
-moka 
-moka 
-tessuto haiti etnico .bordo trim O bag mini 
 code OBAGT002 TESO6 
 descrizione bordo O bag mini tessuto 
 iuta grezza + pon pon piccoli 
@@ -949,20 +874,6 @@ col. 125
 multicolor 
 multicolour 
 tessuto righe miste tropical .sacca interna inner bag O bag mini
-42. O bag flash beach 2018 
-code OBAGS102 TESN5 
-descrizione sacca interna coulisse O bag 
-mini tessuto righe fluo 
-materiale tessuto 
-abbinamenti O bag mini 
-description fluo stripes fabric O bag mini 
-drawstring inner bag 
-material fabric 
-components O bag mini 
-col. 125 
-multicolor 
-multicolour 
-tessuto righe fluo .sacca interna inner bag O bag mini
 sacche interne inner bags 43. 
 code OBAGS009 TES01 
 descrizione sacca interna zip O bag ‘50 
@@ -986,7 +897,6 @@ atlantic
 col. 486 
 pink 
 pink
-44. O bag flash beach 2018 
 code OBAGS010 TES01 
 descrizione sacca interna zip O city 
 tessuto canvas 
@@ -1005,35 +915,7 @@ cedro
 col. 485 
 atlantic 
 atlantic 
-tessuto canvas .sacca interna inner bag O city 
-code OBAGS010 TESL9 
-descrizione sacca interna zip O city 
-tessuto canvas sfumato frangia + 
-borchiette 
-materiale tessuto 
-abbinamenti O city 
-description blended fringe canvas fabric 
-+ studs O city inner zip up bag 
-material fabric 
-components O city 
-col. 484 
-coral 
-coral 
-tessuto canvas sfumato frangia+borchiette .sacca interna inner bag O city
-sacche interne inner bags 45. 
-code OBAGS010 TESN5 
-descrizione sacca interna zip O city 
-tessuto righe fluo 
-materiale tessuto 
-abbinamenti O city 
-description fluo stripes fabric O city inner 
-zip up bag 
-material fabric 
-components O city 
-col. 125 
-multicolor 
-multicolour 
-tessuto righe fluo .sacca interna inner bag O city
+tessuto canvas .sacca interna inner bag O city
 46. O bag flash beach 2018 
 code OBAGS016 TES01 
 descrizione sacca interna zip O bag 
@@ -1123,48 +1005,7 @@ col. 072
 rosa 
 pink 
 tessuto righe haiti .sacca interna inner bag O bag moon light
-sacche interne inner bags 49. 
-code OBAGS121 TESL9 
-descrizione sacca interna coulisse O 
-swing tessuto canvas sfumato frangia + 
-borchiette 
-materiale tessuto 
-abbinamenti O swing 
-description blended fringe canvas fabric 
-+ studs O swing drawstring inner bag 
-material fabric 
-components O swing 
-col. 484 
-coral 
-coral 
-tessuto canvas sfumato frangia+borchiette .O swing 
-code OBAGS121 TESM6 
-descrizione sacca interna coulisse O 
-swing tessuto haiti etnico fluo 
-materiale tessuto 
-abbinamenti O swing 
-description ethnic haiti fabric fluo O 
-swing drawstring inner bag 
-material fabric 
-components O swing 
-col. 125 
-multicolor 
-multicolour 
-tessuto haiti etnico fluo .sacca interna inner bag O swing
 50. O bag flash beach 2018 
-code OBAGS121 TESM7 
-descrizione sacca interna coulisse O 
-swing tessuto iuta grezza + nastro hawaii 
-materiale tessuto 
-abbinamenti O swing 
-description rough jute fabric + hawaii 
-band O swing drawstring inner bag 
-material fabric 
-components O swing 
-col. 054 
-naturale 
-natural 
-tessuto iuta grezza + nastro hawaii .sacca interna inner bag O swing 
 code OBAGS121 TESN7 
 descrizione sacca interna coulisse O 
 swing tessuto righe miste tropical 
@@ -1194,49 +1035,7 @@ coral
 coral 
 col. 072 
 rosa 
-pink 
-code OBAGS112 TESM7 
-descrizione sacca interna coulisse O bag 
-beach tessuto iuta grezza + nastro hawaii 
-materiale tessuto 
-abbinamenti O bag beach 
-description rough jute fabric + hawaii 
-band O bag beach drawstring inner bag 
-material fabric 
-components O bag beach 
-col. 054 
-naturale 
-natural 
-tessuto iuta grezza + nastro hawaii .sacca interna inner bag O bag beach
-52. O bag flash beach 2018 
-code OBAGS118 TESM7 
-descrizione sacca interna coulisse O bag 
-beach mini tessuto iuta grezza + nastro 
-hawaii 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description rough jute fabric + hawaii 
-band O bag beach mini drawstring inner 
-bag 
-material fabric 
-components O bag beach mini 
-col. 054 
-naturale 
-natural 
-tessuto iuta grezza + nastro hawaii .O bag beach mini 
-code OBAGS118 TESN5 
-descrizione sacca interna coulisse O bag 
-beach mini tessuto righe fluo 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description fluo stripes fabric O bag 
-beach mini drawstring inner bag 
-material fabric 
-components O bag beach mini 
-col. 125 
-multicolor 
-multicolour 
-tessuto righe fluo .sacca interna inner bag O bag beach mini
+pink
 sacche interne inner bags 53. 
 code OBAGS118 TESN7 
 descrizione sacca interna coulisse O bag 
@@ -1267,28 +1066,14 @@ col. 072
 rosa 
 pink 
 tessuto righe haiti .sacca interna inner bag O bag beach mini
-54. O bag flash beach 2018 
-code OBAGS028 TESN5 
-descrizione sacca interna zip O bag 
-micro beach tessuto righe fluo 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description fluo stripes fabric O bag 
-micro beach inner zip up bag 
-material fabric 
-components O bag beach mini 
-col. 125 
-multicolor 
-multicolour 
-tessuto righe fluo .sacca interna inner bag O bag beach micro 
 code OBAGS028 TESK7 
 descrizione sacca interna zip O bag 
 beach micro tessuto canvas delavè 
 materiale tessuto 
 abbinamenti O bag beach mini 
 description faded canvas fabric O bag 
-beach micro inner zip up bag 
-material fabric 
+beach micro inner zip up bag material 
+fabric 
 components O bag beach mini 
 col. 484 
 coral 
@@ -1296,23 +1081,10 @@ coral
 col. 347 
 cedro 
 cedro 
-tessuto canvas delavè .sacca interna inner bag O bag beach micro
+tessuto canvas delavè .sacca interna inner bag O bag beach micro 
+54. O bag lash beach 2018
 sacche interne inner bags 55.
 .patte flaps
-58. O bag flash beach 2018 
-code OBAGPA06 TESM6 
-descrizione pattina girello O pocket 
-tessuto haiti etnico fluo 
-materiale tessuto 
-abbinamenti O pocket 
-description ethnic haiti fabric fluo O 
-pocket flap with turn-lock 
-material fabric 
-components O pocket 
-col. 125 
-multicolor 
-multicolour 
-tessuto haiti etnico fluo .pattina flap O pocket 
 code OBAGPA06 TESM4 
 descrizione pattina girello O pocket 
 tessuto haiti etnico 
@@ -1321,11 +1093,13 @@ abbinamenti O pocket
 description ethnic haiti fabric O pocket 
 flap with turn-lock 
 material fabric 
-components O pocket 
+components O pocke 
+t 
+58. O bag lash beach 2018 
 col. 509 
 moka 
 moka 
-tessuto haiti etnico .pattina flap O pocket
+tessuto haiti etnico .pattina lap O pocket
 patte flaps 59. 
 code OBAGP006 TESO6 
 descrizione pattina O pocket tessuto iuta 
@@ -1342,38 +1116,7 @@ milk
 col. 055 
 nero 
 black 
-tessuto iuta grezza + pon pon piccoli .pattina flap O pocket 
-code OBAGP006 TESN5 
-descrizione pattina O pocket tessuto 
-righe fluo 
-materiale tessuto 
-abbinamenti O pocket 
-description fluo stripes fabric O pocket 
-flap 
-material fabric 
-components O pocket 
-col. 125 
-multicolor 
-multicolour 
-tessuto righe fluo .pattina flap O pocket
-60. O bag flash beach 2018 
-code OBAGPA24 TESM7 
-descrizione pattina girello O pocket 
-micro tessuto iuta grezza + nastro hawaii 
-materiale tessuto 
-abbinamenti O pocket micro 
-description rough jute fabric + hawaii 
-band O pocket micro flap with turn-lock 
-material fabric 
-components O pocket micro 
-col. 484 
-coral 
-coral 
-col. 054 
-naturale 
-natural 
-tessuto iuta grezza + nastro hawaii .pattina flap O pocket micro
-patte flaps 61.
+tessuto iuta grezza + pon pon piccoli .pattina flap O pocket
 .zaini backpack
 64. O bag flash beach 2018 
 code OBAGB019 EVS00 
@@ -1438,20 +1181,6 @@ pink
 pink 
 tessuto canvas .sacca interna zip inner zip up bag O square
 66. O bag flash beach 2018 
-code OBAGB426 TESL9 
-descrizione scocca completo O bag 
-tote tessuto canvas sfumato frangia + 
-borchiette 
-materiale tessuto 
-abbinamenti tracolla/spallaccio slim 140 
-description blended fringe canvas fabric 
-+ studs O bag tote complete body 
-material fabric 
-components 140 slim shoulder strap 
-col. 484 
-coral 
-coral 
-tessuto canvas sfumato frangia + borchiette .scocca body O bag tote 
 code OBAGB426 TESO6 
 descrizione scocca completo O bag tote 
 tessuto iuta grezza + pon pon piccoli 
@@ -1483,7 +1212,7 @@ natural
 col. 125 
 multicolor 
 multicolour 
-corda .tracolla shoulder strap 
+corda .tracolla shoulder strap
 .accessori accessories
 70. O bag flash beach 2018 
 code ACCEC009 TESO1 
@@ -1518,17 +1247,6 @@ natural
 cotton fabric .accessori accessories 
 .cote d’azur
 accessori accessories 71. 
-code ACCEP001 TESO5 
-descrizione accessori pochette gommato 
-+ tessuto righe fluo 
-materiale tessuto 
-description fabric + fluo stripes fabric 
-accessories 
-material fabric 
-col. 055 
-nero 
-black 
-tessuto + tessuto righe fluo .accessori accessories 
 code ACCEP001 TESO6 
 descrizione accessori pochette tessuto 
 iuta grezza + pon pon piccoli 
@@ -1542,7 +1260,7 @@ natural/black
 col. 510 
 naturale bianco 
 natural white 
-tessuto iuta grezza + pon pon piccoli .accessori accessories 
+tessuto iuta grezza + pon pon piccoli .accessori accessories
 72. O bag flash beach 2018 
 code ACCEP014 TES20 
 descrizione pochette forata tessuto 

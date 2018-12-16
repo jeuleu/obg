@@ -1,0 +1,311 @@
+O joy 
+.multisensory delight
+MULTISENSORIAL DELIGHT 
+MULTISENSORIAL DELIGHT 
+300 
+180
+VISTA ESPLOSO 
+EXPLODED VIEW 
+modulo erogazione fragranze 
+pellicola PVC 
+PCB - touch control - 
+mini USB plug 
+piastra 
+modulo audio 
+base 
+ricariche fragranza 
+tappo alloggiamento 
+ricariche fragranze 
+batteria 
+tige 
+LED 
+alloggiamento LED 
+e braccetti di sostegno 
+paralume
+.O joy 
+02 O joy paralume lampshade 
+03 O joy tige stem 
+04 O joy base base 
+05 O joy alimentatore charger 
+07 O joy cassa audio audio module 
+08 O joy fragranze fragrances 
+.indice index 
+O joy .01 OJOYP000 MAS12 008 
+descrizione description O joy paralume opalino O joy opal 
+lampshade 
+colore colour bianco white 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy tige + base + alimentatore 
++ cassa audio + fragranze O joy stem + base + charger + 
+audio module + fragrances 
+OJOYP000 MAS08 447 
+descrizione description O joy paralume O joy lampshade 
+colore colour giallo ambra amber 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy tige + base + alimentatore 
++ cassa audio + fragranze O joy stem + base + charger + 
+audio module + fragrances 
+OJOYP000 MAS08 089 
+descrizione description O joy paralume O joy lampshade 
+colore colour verde green 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy tige + base + alimentatore 
++ cassa audio + fragranze O joy stem + base + charger + 
+audio module + fragrances 
+OJOYP000 MAS08 050 
+descrizione description O joy paralume O joy lampshade 
+colore colour melanzana aubergine 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy tige + base + alimentatore 
++ cassa audio + fragranze O joy stem + base + charger + 
+audio module + fragrances 
+OJOYP000 MAS08 130 
+descrizione description O joy paralume O joy lampshade 
+colore colour azzurro sky blue 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy tige + base + alimentatore 
++ cassa audio + fragranze O joy stem + base + charger + 
+audio module + fragrances 
+OJOYP000 MAS12 134 
+descrizione description O joy paralume opalino O joy opal 
+lampshade 
+colore colour antracite anthracite 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy tige + base + alimentatore 
++ cassa audio + fragranze O joy stem + base + charger + 
+audio module + fragrances 
+O joy paralume lampshade 
+02. 2017 home collection 
+OJOYT000 MAS12 008 
+descrizione description O joy tige opalino O joy opal stem 
+colore colour bianco white 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + base + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ base + charger + audio module + fragrances 
+OJOYT000 MAS08 447 
+descrizione description O joy tige O joy stem 
+colore colour giallo ambra amber 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + base + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ base + charger + audio module + fragrances 
+OJOYT000 MAS08 089 
+descrizione description O joy tige O joy stem 
+colore colour verde green 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + base + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ base + charger + audio module + fragrances 
+OJOYT000 MAS08 050 
+descrizione description O joy tige O joy stem 
+colore colour melanzana aubergine 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + base + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ base + charger + audio module + fragrances 
+OJOYT000 MAS08 130 
+descrizione description O joy tige O joy stem 
+colore colour azzurro sky blue 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + base + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ base + charger + audio module + fragrances 
+OJOYT000 MAS12 134 
+descrizione description O joy tige opalino O joy opal stem 
+colore colour antracite anthracite 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + base + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ base + charger + audio module + fragrances 
+O joy tige stem 
+O joy .03
+OJOYB000 MAS12 008 
+descrizione description O joy base opalino O joy opal base 
+colore colour bianco white 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+OJOYB000 MAS08 447 
+descrizione description O joy base O joy base 
+colore colour giallo ambra amber 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+OJOYB000 MAS08 089 
+descrizione description O joy base O joy base 
+colore colour verde green 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+OJOYB000 MAS08 050 
+descrizione description O joy base O joy base 
+colore colour melanzana aubergine 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+OJOYB000 MAS08 130 
+descrizione description O joy base O joy base 
+colore colour azzurro sky blue 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+OJOYB000 MAS12 134 
+descrizione description O joy base opalino O joy opal base 
+colore colour antracite anthracite 
+materiale material materiale plastico PMMA PMMA plastic 
+material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+O joy base base 
+04. 2017 home collection 
+OJOYU000 ELS00 008 
+descrizione description O joy alimentatore O joy charger 
+colore colour bianco white 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+cassa audio + fragranze O joy lampshade + stem + base 
++ audio module + fragrances 
+O joy alimentatore charger 
+O joy .05
+O joy alimentatore charger 
+OJOYA000 MAS00 008 
+descrizione description O joy alimentatore O joy charger 
+colore colour bianco white 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+cassa audio + fragranze O joy lampshade + stem + base 
++ audio module + fragrances 
+OJOYA000 MAS00 447 
+descrizione description O joy alimentatore O joy charger 
+colore colour giallo ambra amber 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+cassa audio + fragranze O joy lampshade + stem + base 
++ audio module + fragrances 
+OJOYA000 MAS00 089 
+descrizione description O joy alimentatore O joy charger 
+colore colour verde green 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+cassa audio + fragranze O joy lampshade + stem + base 
++ audio module + fragrances 
+OJOYA000 MAS00 050 
+descrizione description O joy alimentatore O joy base 
+colore colour melanzana aubergine 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + 
+alimentatore + cassa audio + fragranze O joy lampshade 
++ stem + charger + audio module + fragrances 
+OJOYA000 MAS00 130 
+descrizione description O joy alimentatore O joy charger 
+colore colour azzurro sky blue 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+cassa audio + fragranze O joy lampshade + stem + base 
++ audio module + fragrances 
+OJOYA000 MAS00 134 
+descrizione description O joy alimentatore O joy charger 
+colore colour antracite anthracite 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+cassa audio + fragranze O joy lampshade + stem + base 
++ audio module + fragrances 
+06. 2017 home collection 
+OJOYC000 MAS00 055 
+descrizione description O joy cassa audio O joy audio 
+module 
+colore colour nero black 
+materiale material materiale plastico plastic material 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + fragranze O joy lampshade + stem + base 
++ charger + fragrances 
+O joy cassa audio audio module 
+O joy .07
+O joy 
+fragranze fragrances
+OJOYF300 POS01 447 
+descrizione description O joy fragranze party O joy 
+fragrance party 
+colore colour giallo ambra amber 
+materiale material comacinato compresso profumato 
+pressed powder fragrance 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + cassa audio O joy lampshade + stem + 
+base + charger + audio module 
+OJOYF400 POS01 080 
+descrizione description O joy fragranze free O joy 
+fragrance free 
+colore colour salvia sage 
+materiale material comacinato compresso profumato 
+pressed powder fragrance 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + cassa audio O joy lampshade + stem + 
+base + charger + audio module 
+OJOYF500 POS01 089 
+descrizione description O joy fragranze relax O joy 
+fragrance relax 
+colore colour verde green 
+materiale material comacinato compresso profumato 
+pressed powder fragrance 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + cassa audio O joy lampshade + stem + 
+base + charger + audio module 
+OJOYF200 POS01 003 
+descrizione description O joy fragranze inspire O joy 
+fragrance inspire 
+colore colour arancione orange 
+materiale material comacinato compresso profumato 
+pressed powder fragrance 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + cassa audio O joy lampshade + stem + 
+base + charger + audio module 
+OJOYF100 POS01 076 
+descrizione description O joy fragranze sensual O joy 
+fragrance sensual 
+colore colour rosso red 
+materiale material comacinato compresso profumato 
+pressed powder fragrance 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + cassa audio O joy lampshade + stem + 
+base + charger + audio module 
+OJOYF600 POS01 009 
+descrizione description O joy fragranze dream O joy 
+fragrance dream 
+colore colour blu blue 
+materiale material comacinato compresso profumato 
+pressed powder fragrance 
+abbinamenti components O joy paralume + tige + base + 
+alimentatore + cassa audio O joy lampshade + stem + 
+base + charger + audio module 
+O joy fragranze fragrances (x2) 
+O joy .09
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

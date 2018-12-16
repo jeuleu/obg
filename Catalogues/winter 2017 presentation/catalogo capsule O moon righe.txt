@@ -1,0 +1,117 @@
+O moon 
+.spring summer 2017
+.borse bags 
+scocche body 
+04 scocche body O moon 
+05 scocche body O moon light 
+sacche interne inner bags 
+06 sacche interne inner bags O moon 
+07 sacche interne inner bags O moon light 
+tracolle shoulder straps 
+08 tracolle shoulder straps O moon 
+09 tracolle shoulder straps O moon light 
+.indice index 
+.01
+02. 2017 COLLECTION 
+.O moon & O moon light 
+O moon .03
+O moon scocche body 
+OBAGB016 EVS00 137 
+descrizione description scocca O moon O moon body 
+colore colour bluette bright blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+OBAGB016 EVS00 017 
+descrizione description scocca O moon O moon body 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+04. 2017 COLLECTION 
+O moon light scocche body 
+OBAGB017 EVS00 092 
+descrizione description scocca O moon light O moon light body 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+OBAGB017 EVS00 422 
+descrizione description scocca O moon light O moon light body 
+colore colour sangria sangria 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - sacche interne 
+handles and shoulder straps - inner bags 
+O moon .05
+O moon sacche interne inner bags 
+OBAGS016 TESA5 248 
+descrizione description sacca interna O moon O moon inner bag 
+colore colour ecru/blu ecru/blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon 
+OBAGS016 TESA5 439 
+descrizione description sacca interna O moon O moon inner bag 
+colore colour bluette/arancione bright blue/orange 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon 
+06. 2017 COLLECTION 
+OBAGS017 TESA5 248 
+descrizione description sacca interna O moon light 
+O moon light inner bag 
+colore colour ecru/blu ecru/blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon light 
+OBAGS017 TESA5 439 
+descrizione description sacca interna O moon light 
+O moon light inner bag 
+colore colour bluette/arancione bright blue/orange 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon light 
+O moon light sacche interne inner bags 
+O moon .07
+O moon tracolle shoulder straps 
+SHOUWC17 ECS36 248 
+descrizione description tracolla corta O moon 
+O moon short shoulder strap 
+colore colour ecru/blu ecru/blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon 
+SHOUWC17 ECS36 439 
+descrizione description tracolla corta O moon 
+O moon short shoulder strap 
+colore colour bluette/arancione bright blue/orange 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon 
+08. 2017 COLLECTION 
+SHOUW318 ECS36 248 
+descrizione description tracolla lunga O moon light 
+O moon light long shoulder strap 
+colore colour ecru/blu ecru/blue 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon light 
+SHOUW318 ECS36 439 
+descrizione description tracolla lunga O moon light 
+O moon light long shoulder strap 
+colore colour bluette/arancione bright blue/orange 
+materiale material tessuto fabric 
+abbinamenti components 
+O moon light 
+O moon light tracolle shoulder straps 
+O moon .09
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

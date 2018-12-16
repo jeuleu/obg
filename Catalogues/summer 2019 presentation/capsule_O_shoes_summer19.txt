@@ -1,0 +1,98 @@
+.summer ‘19 
+.capsule O shoes
+code OSHSD001 EVS00 
+descrizione O shoes donna high EVA 
+compound 
+materiale EVA compound 
+abbinamenti accessori O shoes 
+description women O shoes high EVA 
+compound 
+material EVA compound 
+components O shoes accessories 
+EVA compound .O shoes donna high women O shoes high 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 055 
+nero 
+black 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 371 
+latte 
+milk 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 017 
+blu navy 
+navy blue 
+2. O bag summer 2019
+SHOES 35/36 SHOES 35/36 SHOES 35/36 SHOES 35/36 SHOES 35/36 
+SHOES 39 SHOES 39 SHOES 39 SHOES 39 SHOES 39 
+SHOES 40 SHOES 40 SHOES 40 SHOES 40 SHOES 40 
+SHOES 41/42 SHOES 41/42 SHOES 41/42 SHOES 41/42 SHOES 41/42 
+SHOES 37 SHOES 37 SHOES 37 SHOES 37 SHOES 37 
+SHOES 38 SHOES 38 SHOES 38 SHOES 38 SHOES 38 
+col. 067 
+phard 
+phard 
+col. 092 
+verde scuro 
+dark green 
+col. 133 
+grigio chiaro 
+light grey 
+col. 015 
+blu iris 
+blu iris 
+col. 076 
+rosso 
+rosso 
+scarpe shoes 3.
+code OSHSD001 EVS02 
+descrizione O shoes donna high 
+brasciata EVA compound 
+materiale EVA compound 
+abbinamenti accessori O shoes 
+description women O shoes high EVA 
+compound brushed 
+material EVA compound 
+components O shoes accessories 
+EVA compound brasciata .O shoes donna high brasciata women O shoes high 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 055 
+nero 
+black 
+SHOES 35/36 
+SHOES 39 
+SHOES 40 
+SHOES 41/42 
+SHOES 37 
+SHOES 38 
+col. 422 
+sangria 
+sangria 
+4. O bag summer 2019
+scarpe shoes 5.
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

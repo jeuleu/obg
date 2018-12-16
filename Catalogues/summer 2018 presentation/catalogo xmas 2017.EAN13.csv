@@ -1,0 +1,64 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OBAGB001-EVS22-055; O bag Christmas capsule 2017;4; scocca O bag EVA;OBAGB001;EVS22;055;nero;black;
+CodeBarre;OBAGB001-EVS22-371; O bag Christmas capsule 2017;4; scocca O bag EVA;OBAGB001;EVS22;371;latte;milk;
+CodeBarre;OBAGB001-EVS22-076; O bag Christmas capsule 2017;4; scocca O bag EVA;OBAGB001;EVS22;076;rosso;red;
+CodeBarre;OBAGB001-EVS23-055; O bag Christmas capsule 2017;4; scocca O bag EVA;OBAGB001;EVS23;055;nero;black;
+CodeBarre;OBAGB001-EVS23-371; O bag Christmas capsule 2017;4; scocca O bag EVA;OBAGB001;EVS23;371;latte;milk;
+CodeBarre;OBAGB001-EVS23-076; O bag Christmas capsule 2017;4; scocca O bag EVA;OBAGB001;EVS23;076;rosso;red;
+CodeBarre;OBAGB002-EVS22-055; O bag Christmas capsule 2017;5; scocca O bag mini EVA;OBAGB002;EVS22;055;nero;black;
+CodeBarre;OBAGB002-EVS22-371; O bag Christmas capsule 2017;5; scocca O bag mini EVA;OBAGB002;EVS22;371;latte;milk;
+CodeBarre;OBAGB002-EVS22-076; O bag Christmas capsule 2017;5; scocca O bag mini EVA;OBAGB002;EVS22;076;rosso;red;
+CodeBarre;OBAGB002-EVS24-371; O bag Christmas capsule 2017;5; scocca O bag mini EVA;OBAGB002;EVS24;371;latte;milk;
+CodeBarre;OBAGB002-EVS24-076; O bag Christmas capsule 2017;5; scocca O bag mini EVA;OBAGB002;EVS24;076;rosso;red;
+CodeBarre;OBAGB002-EVS24-055; O bag Christmas capsule 2017;5; scocca O bag mini EVA;OBAGB002;EVS24;055;nero;black;
+CodeBarre;OBAGB016-EVS22-055; O bag Christmas capsule 2017;6; scocca O moon EVA;OBAGB016;EVS22;055;nero;black;
+CodeBarre;OBAGB016-EVS22-371; O bag Christmas capsule 2017;6; scocca O moon EVA;OBAGB016;EVS22;371;latte;milk;
+CodeBarre;OBAGB016-EVS22-076; O bag Christmas capsule 2017;6; scocca O moon EVA;OBAGB016;EVS22;076;rosso;red;
+CodeBarre;OBAGB016-EVS23-055; O bag Christmas capsule 2017;6; scocca O moon EVA;OBAGB016;EVS23;055;nero;black;
+CodeBarre;OBAGB016-EVS23-371; O bag Christmas capsule 2017;6; scocca O moon EVA;OBAGB016;EVS23;371;latte;milk;
+CodeBarre;OBAGB016-EVS23-076; O bag Christmas capsule 2017;6; scocca O moon EVA;OBAGB016;EVS23;076;rosso;red;
+CodeBarre;HLESHH00-ECS78-055; O bag Christmas capsule 2017;10; doppio manico extraslim;HLESHH00;ECS78;055;nero;black;
+CodeBarre;HLESHH00-ECS78-076; O bag Christmas capsule 2017;10; doppio manico extraslim;HLESHH00;ECS78;076;rosso;red;
+CodeBarre;HLESHH00-ECS78-008; O bag Christmas capsule 2017;11; doppio manico extraslim;HLESHH00;ECS78;008;bianco;white;
+CodeBarre;SHOUGB00-TESO7-527; O bag Christmas capsule 2017;12; tracolla 80/120 tessuto;SHOUGB00;TESO7;527;nero/oro;black/gold;
+CodeBarre;OBAGS001-TES98-055; O bag Christmas capsule 2017;16; sacca interna zip O bag;OBAGS001;TES98;055;nero;black;
+CodeBarre;OBAGS001-TES98-076; O bag Christmas capsule 2017;16; sacca interna zip O bag;OBAGS001;TES98;076;rosso;red;
+CodeBarre;OBAGS001-TES98-008; O bag Christmas capsule 2017;16; sacca interna zip O bag;OBAGS001;TES98;008;bianco;white;
+CodeBarre;OBAGS002-TES98-055; O bag Christmas capsule 2017;17; sacca interna zip O bag mini;OBAGS002;TES98;055;nero;black;
+CodeBarre;OBAGS002-TES98-076; O bag Christmas capsule 2017;17; sacca interna zip O bag mini;OBAGS002;TES98;076;rosso;red;
+CodeBarre;OBAGS002-TES98-008; O bag Christmas capsule 2017;17; sacca interna zip O bag mini;OBAGS002;TES98;008;bianco;white;
+CodeBarre;OBAGS016-TES98-008; O bag Christmas capsule 2017;18; sacca interna zip O bag;OBAGS016;TES98;008;bianco;white;
+CodeBarre;OBAGS016-TES98-008; O bag Christmas capsule 2017;18; sacca interna zip O bag;OBAGS016;TES98;008;bianco;white;
+CodeBarre;ACCEO001-FAS39-258; O bag Christmas capsule 2017;22; pendaglio pon pon;ACCEO001;FAS39;258;beige;beige;
+CodeBarre;ACCEO001-FAS39-055; O bag Christmas capsule 2017;22; pendaglio pon pon;ACCEO001;FAS39;055;nero;black;
+CodeBarre;ACCEO001-FAS39-076; O bag Christmas capsule 2017;22; pendaglio pon pon;ACCEO001;FAS39;076;rosso;red;
+CodeBarre;ACCEO001-FAS39-076; O bag Christmas capsule 2017;22; pendaglio pon pon;ACCEO001;FAS39;076;rosso;red;
+CodeBarre;ACCEO001-FAS39-089; O bag Christmas capsule 2017;22; pendaglio pon pon;ACCEO001;FAS39;089;verde;green;
+CodeBarre;ACCEO001-FAS39-371; O bag Christmas capsule 2017;22; pendaglio pon pon;ACCEO001;FAS39;371;latte;milk;
+CodeBarre;ACCES008-LAS28-371; O bag Christmas capsule 2017;23; accessorio spilla pon pon;ACCES008;LAS28;371;latte;milk;
+CodeBarre;ACCES008-LAS28-133; O bag Christmas capsule 2017;23; accessorio spilla pon pon;ACCES008;LAS28;133;grigio chiaro;light grey;
+CodeBarre;ACCES008-LAS28-055; O bag Christmas capsule 2017;23; accessorio spilla pon pon;ACCES008;LAS28;055;nero;black;
+CodeBarre;ACCES010-LAS00-089; O bag Christmas capsule 2017;23; accessorio spilla abete;ACCES010;LAS00;089;verde;green;
+CodeBarre;ACCES011-LAS00-008; O bag Christmas capsule 2017;24; accessorio spilla omino di;ACCES011;LAS00;008;bianco;white;
+CodeBarre;ACCES009-LAS00-076; O bag Christmas capsule 2017;24; accessorio spilla cappellino;ACCES009;LAS00;076;rosso;red;
+CodeBarre;ACCES012-FAS40-055; O bag Christmas capsule 2017;25; accessorio spilla flower;ACCES012;FAS40;055;nero;black;
+CodeBarre;OCLKD001-MES93-389; O bag Christmas capsule 2017;28; O clock meccanismo;OCLKD001;MES93;389;argento;silver;
+CodeBarre;OCLKD001-MES93-388; O bag Christmas capsule 2017;28; O clock meccanismo;OCLKD001;MES93;388;oro;gold;
+CodeBarre;OCLKD001-MES93-076; O bag Christmas capsule 2017;28; O clock meccanismo;OCLKD001;MES93;076;rosso;red;
+CodeBarre;OCLKD001-MES94-527; O bag Christmas capsule 2017;28; O clock meccanismo;OCLKD001;MES94;527;nero/oro;black/gold;
+CodeBarre;OCLKD001-MES95-527; O bag Christmas capsule 2017;29; O clock meccanismo;OCLKD001;MES95;527;nero/oro;black/gold;
+CodeBarre;OCLKS007-SIS01-008; O bag Christmas capsule 2017;30; O clock cinturino silicone;OCLKS007;SIS01;008;bianco;white;
+CodeBarre;OCLKS007-SIS01-077; O bag Christmas capsule 2017;30; O clock cinturino silicone;OCLKS007;SIS01;077;rubino;ruby;
+CodeBarre;OCLKS007-SIS01-055; O bag Christmas capsule 2017;30; O clock cinturino silicone;OCLKS007;SIS01;055;nero;black;
+CodeBarre;OCLKD101-MES93-389; O bag Christmas capsule 2017;31; meccanismo great christmas;OCLKD101;MES93;389;argento;silver;
+CodeBarre;OCLKD101-MES93-388; O bag Christmas capsule 2017;31; meccanismo great christmas;OCLKD101;MES93;388;oro;gold;
+CodeBarre;OCLKD101-MES93-076; O bag Christmas capsule 2017;31; meccanismo great christmas;OCLKD101;MES93;076;rosso;red;
+CodeBarre;OCLKD101-MES93-008; O bag Christmas capsule 2017;32; meccanismo great christmas;OCLKD101;MES93;008;bianco;white;
+CodeBarre;OCLKD101-MES93-055; O bag Christmas capsule 2017;32; meccanismo great christmas;OCLKD101;MES93;055;nero;black;
+CodeBarre;OCLKS107-SIS01-076; O bag Christmas capsule 2017;32; O clock cinturino great;OCLKS107;SIS01;076;rosso;red;

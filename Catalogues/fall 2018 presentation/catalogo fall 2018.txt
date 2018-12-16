@@ -44,9 +44,9 @@ handles and shoulder straps
 116 chiusura fascia band closure O bag glam 
 119 zaini backpacks 
 120 O square 
-122 One 
-123 O bag tote 
-124 O bag soft 
+123 One 
+124 O bag tote 
+125 O bag soft 
 126 accessori accessories 
 128 pochette forata pierced pochette 
 130 portachiavi keyring 
@@ -563,9 +563,6 @@ components
 col. 485 
 atlantic 
 atlantic 
-col. 024 
-cioccolato 
-chocolate 
 col. 017 
 blu navy 
 navy blue 
@@ -579,9 +576,7 @@ col. 371
 latte 
 milk 
 O bag glam .scocca body 
-.british countryside 
-.british countryside 
-.royal ascot 
+.british countryside .royal ascot 
 .royal ascot .british 
 countryside 
 .royal ascot .british 
@@ -1122,11 +1117,8 @@ components O pocket - O pocket micro
 col. 086 
 tortora 
 dove - grey 
-col. 134 
-antracite 
-anthracite 
 ecopelliccia montone .manici corti short handles 
-.british countryside .pink attitude 
+.british countryside 
 code HLESFC00 ECS08 
 descrizione manico con fibbia corto 
 ecopelle vernice 
@@ -1316,16 +1308,12 @@ countryside
 .royal ascot 
 .pink attitude 
 .british countryside 
-col. 075 
-rosa smoke 
-rose smoke 
 col. 041 
 grigio scuro 
 dark grey 
 col. 086 
 tortora 
 dove - grey 
-.british countryside 
 .royal ascot .british 
 countryside 
 .royal ascot .british 
@@ -1825,15 +1813,11 @@ col. 227
 bianco/nero 
 white - black 
 .pink attitude
-46. O bag fall 2018 
 col. 086 
 tortora 
 dove - grey 
-col. 134 
-antracite 
-anthracite 
 ecopelliccia montone .bordo trim O bag 
-.british countryside .pink attitude 
+.british countryside 
 code OBAGT001 FAS31 
 descrizione bordo O bag ecopelliccia 
 montone 
@@ -1842,19 +1826,7 @@ abbinamenti O bag
 description O bag faux sheepskin trim 
 material faux fur 
 components O bag 
-col. 055 
-nero 
-black 
-ecopelliccia astrakan .bordo trim O bag 
-.pink attitude 
-code OBAGT001 FAS36 
-descrizione bordo O bag ecopelliccia 
-astrakan 
-materiale ecopelliccia 
-abbinamenti O bag 
-description O bag faux astrakhan fur trim 
-material faux fur 
-components O bag
+46. O bag fall 2018
 bordi trims 47. 
 col. 055 
 nero 
@@ -1955,31 +1927,6 @@ description O bag large rib wool trim
 material knit 
 components O bag
 50. O bag fall 2018 
-code OBAGT001 LAS32 
-descrizione bordo O bag lana catenella 
-moulinè 
-materiale maglia 
-abbinamenti O bag 
-description O bag moulinè chain stitch 
-wool trim 
-material knit 
-components O bag 
-col. 010 
-blu - grigio 
-blue - grey 
-col. 383 
-latte/nero 
-milk - black 
-col. 335 
-bordeaux/grigio 
-burgundy - grey 
-col. 537 
-grigio/verde 
-grey/green 
-lana catenella moulinè .bordo trim O bag 
-.royal ascot 
-.pink attitude 
-.royal ascot .royal ascot 
 code OBAGT001 LAS33 
 descrizione bordo O bag lana maxi 
 catenella 
@@ -2004,8 +1951,7 @@ bright blue
 lana maxi catenella .bordo trim O bag 
 .pink attitude 
 .pink attitude 
-.pink attitude .pink attitude
-bordi trims 51. 
+.pink attitude .pink attitude 
 code OBAGT001 TESQ8 
 descrizione bordo O bag tessuto riga 
 regimental 
@@ -2019,7 +1965,8 @@ col. 549
 blu navy/curry/bordeaux 
 navy blue/curry/burgundy 
 tessuto riga regimental .bordo trim O bag 
-.royal ascot 
+.royal ascot
+bordi trims 51. 
 code OBAGT001 TESQ9 
 descrizione bordo O bag tessuto bouclè 
 spigato 
@@ -2036,8 +1983,7 @@ col. 050
 melanzana 
 aubergine 
 tessuto bouclè spigato .bordo trim O bag 
-.british countryside .british countryside
-52. O bag fall 2018 
+.british countryside .british countryside 
 code OBAGT001 TESR2 
 descrizione bordo O bag tessuto maxi 
 pied de poule 
@@ -2051,7 +1997,8 @@ col. 227
 bianco/nero 
 white - black 
 tessuto maxi pied de poule .bordo trim O bag 
-.pink attitude 
+.pink attitude
+52. O bag fall 2018 
 code OBAGT001 TESR7 
 descrizione bordo O bag tessuto spinato 
 pesante 
@@ -2071,8 +2018,7 @@ col. 076
 rosso 
 red 
 tessuto spinato pesante .bordo trim O bag 
-.british countryside .british countryside .british countryside
-bordi trims 53. 
+.british countryside .british countryside .british countryside 
 code OBAGT001 TESR8 
 descrizione bordo O bag tessuto tartan 
 allison 
@@ -2086,7 +2032,8 @@ col. 545
 blu navy/verde bosco 
 navy blue/green forest 
 tessuto tartan allison .bordo trim O bag 
-.royal ascot 
+.royal ascot
+bordi trims 53. 
 code OBAGT001 TESR9 
 descrizione bordo O bag tessuto tartan 
 wallace 
@@ -2162,9 +2109,9 @@ burgundy
 col. 055 
 nero 
 black 
-col. 017 
-blu navy 
-navy blue 
+col. 009 
+blu 
+blue 
 col. 137 
 bluette 
 bright blue 
@@ -2275,11 +2222,7 @@ col. 086
 tortora 
 dove - grey 
 ecopelliccia montone .bordo trim O bag mini 
-.british countryside 
-col. 134 
-antracite 
-anthracite 
-.pink attitude
+.british countryside
 58. O bag fall 2018 
 ecopelliccia lapin tricolor .bordo trim O bag mini 
 .royal ascot 
@@ -2289,20 +2232,6 @@ ecopelliccia lapin tricolor
 materiale ecopelliccia 
 abbinamenti O bag mini 
 description O bag mini faux tricolor lapin 
-fur trim 
-material faux fur 
-components O bag mini 
-col. 055 
-nero 
-black 
-ecopelliccia astrakan .bordo trim O bag mini 
-.pink attitude 
-code OBAGT002 FAS36 
-descrizione bordo O bag mini 
-ecopelliccia astrakan 
-materiale ecopelliccia 
-abbinamenti O bag mini 
-description O bag mini faux astrakhan 
 fur trim 
 material faux fur 
 components O bag mini 
@@ -2403,27 +2332,6 @@ countryside
 .pink attitude 
 .british countryside 
 .pink attitude 
-code OBAGT002 LAS32 
-descrizione bordo O bag mini lana 
-catenella moulinè 
-materiale maglia 
-abbinamenti O bag mini 
-description O bag moulinè chain stitch 
-wool trim 
-material knit 
-components O bag mini 
-col. 335 
-bordeaux/grigio 
-burgundy - grey 
-col. 537 
-grigio/verde 
-grey/green 
-col. 383 
-latte/nero 
-milk - black 
-lana catenella moulinè .bordo trim O bag mini 
-.royal ascot .royal ascot .pink attitude
-bordi trims 61. 
 col. 549 
 blu navy/curry/bordeaux 
 navy blue/curry/burgundy 
@@ -2437,7 +2345,8 @@ abbinamenti O bag mini
 description O bag mini regimental stripe 
 fabric trim 
 material fabric 
-components O bag mini 
+components O bag mini
+bordi trims 61. 
 col. 485 
 atlantic 
 atlantic 
@@ -2454,13 +2363,22 @@ abbinamenti O bag mini
 description O bag mini herringbone 
 bouclv© fabric trim 
 material fabric 
-components O bag mini
-62. O bag fall 2018 
+components O bag mini 
 col. 227 
 bianco/nero 
 white - black 
 tessuto maxi pied de poule .bordo trim O bag mini 
 .pink attitude 
+code OBAGT002 TESR2 
+descrizione bordo O bag mini tessuto 
+maxi pied de poule 
+materiale tessuto 
+abbinamenti O bag mini 
+description O bag mini maxi pied de 
+poule fabric trim 
+material fabric 
+components O bag mini
+62. O bag fall 2018 
 col. 076 
 rosso 
 red 
@@ -2472,15 +2390,6 @@ roccia
 rock 
 tessuto spinato pesante .bordo trim O bag mini 
 .british countryside .british countryside .british countryside 
-code OBAGT002 TESR2 
-descrizione bordo O bag mini tessuto 
-maxi pied de poule 
-materiale tessuto 
-abbinamenti O bag mini 
-description O bag mini maxi pied de 
-poule fabric trim 
-material fabric 
-components O bag mini 
 code OBAGT002 TESR7 
 descrizione bordo O bag mini tessuto 
 spinato pesante 
@@ -2489,8 +2398,7 @@ abbinamenti O bag mini
 description O bag mini herringbone 
 fabric trim 
 material fabric 
-components O bag mini
-bordi trims 63. 
+components O bag mini 
 col. 545 
 blu navy/verde bosco 
 navy blue/green forest 
@@ -2504,7 +2412,8 @@ abbinamenti O bag mini
 description O bag mini trim tartan allison 
 fabric 
 material fabric 
-components O bag mini 
+components O bag mini
+bordi trims 63. 
 code OBAGT002 TESR9 
 descrizione bordo O bag mini tessuto 
 tartan wallace 
@@ -3222,22 +3131,6 @@ fabric inner zip-up bag
 material fabric 
 components O bag mini
 84. O bag fall 2018 
-col. 008 
-bianco 
-white 
-col. 002 
-amaranto 
-amaranth 
-col. 055 
-nero 
-black 
-col. 137 
-bluette 
-bright blue 
-ecopelliccia lapin rex .sacca interna zip inner zip up bag O moon 
-.pink attitude 
-.pink attitude 
-.pink attitude .pink attitude 
 col. 137 
 bluette 
 bright blue 
@@ -3250,15 +3143,6 @@ milk
 tessuto microfibra .sacca interna zip inner zip up bag O moon 
 .pink attitude .pink attitude .royal ascot .pink 
 attitude 
-code OBAGS016 FAS09 
-descrizione sacca interna zip O moon 
-ecopelliccia lapin rex 
-materiale ecopelliccia 
-abbinamenti O moon 
-description O moon faux lapin rex fur 
-inner zip-up bag 
-material faux fur 
-components O moon 
 code OBAGS016 TESD5 
 descrizione sacca interna zip O moon 
 tessuto microfibra 
@@ -3267,7 +3151,23 @@ abbinamenti O moon
 description O moon microfibre fabric 
 inner zip-up bag 
 material fabric 
-components O moon
+components O moon 
+col. 018 
+bordeaux 
+burgundy 
+col. 055 
+nero 
+black 
+tessuto lana grezza .sacca interna zip inner zip up bag O bag mini 
+.british countryside .british countryside 
+code OBAGS002 TES91 
+descrizione sacca interna zip O bag mini 
+tessuto lana grezza 
+materiale tessuto 
+abbinamenti O bag mini 
+description O bag mini inner zip-up bag 
+material raw wool 
+components O bag mini
 sacche interne inner bags 85. 
 col. 549 
 blu navy/curry/bordeaux 
@@ -3377,32 +3277,11 @@ inner zip-up bag
 material fabric 
 components O moon
 88. O bag fall 2018 
-col. 137 
-bluette 
-bright blue 
-col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-tessuto microfibra .sacca interna zip inner zip up bag O moon light 
-.pink attitude .pink attitude .royal ascot .pink 
-attitude 
 col. 549 
 blu navy/curry/bordeaux 
 navy blue/curry/burgundy 
 tessuto riga regimental .sacca interna zip inner zip up bag O moon light 
 .royal ascot 
-code OBAGS017 TESD5 
-descrizione sacca interna zip O moon 
-light tessuto microfibra 
-materiale tessuto 
-abbinamenti O moon light 
-description O moon light microfibre 
-fabric inner zip-up bag 
-material fabric 
-components O moon light 
 code OBAGS017 TESQ8 
 descrizione sacca interna zip O moon 
 light tessuto riga regimental 
@@ -3411,7 +3290,32 @@ abbinamenti O moon light
 description O moon light regimental 
 stripe fabric inner zip-up bag 
 material fabric 
-components O moon light
+components O moon light 
+col. 008 
+bianco 
+white 
+col. 002 
+amaranto 
+amaranth 
+col. 055 
+nero 
+black 
+col. 137 
+bluette 
+bright blue 
+ecopelliccia lapin rex .sacca interna zip inner zip up bag O moon 
+.pink attitude 
+.pink attitude 
+.pink attitude .pink attitude 
+code OBAGS016 FAS09 
+descrizione sacca interna zip O moon 
+ecopelliccia lapin rex 
+materiale ecopelliccia 
+abbinamenti O moon 
+description O moon faux lapin rex fur 
+inner zip-up bag 
+material faux fur 
+components O moon
 sacche interne inner bags 89. 
 col. 017 
 blu navy 
@@ -3470,7 +3374,28 @@ col. 545
 blu navy/verde bosco 
 navy blue/green forest 
 tessuto tartan allison .sacca interna zip inner zip up bag O moon light 
-.royal ascot
+.royal ascot 
+col. 137 
+bluette 
+bright blue 
+col. 055 
+nero 
+black 
+col. 371 
+latte 
+milk 
+tessuto microfibra .sacca interna zip inner zip up bag O moon light 
+.pink attitude .pink attitude .royal ascot .pink 
+attitude 
+code OBAGS017 TESD5 
+descrizione sacca interna zip O moon 
+light tessuto microfibra 
+materiale tessuto 
+abbinamenti O moon light 
+description O moon light microfibre 
+fabric inner zip-up bag 
+material fabric 
+components O moon light
 sacche interne inner bags 91. 
 col. 055 
 nero 
@@ -3926,14 +3851,10 @@ dove - grey
 col. 057 
 blu navy/verde bosco/bordeaux 
 navy blue/green forest/burgundy 
-col. 134 
-antracite 
-anthracite 
 ecopelliccia montone .pattina flap O pocket 
 ecopelliccia lapin tricolor .pattina flap O pocket 
 .british countryside 
 .royal ascot 
-.pink attitude 
 code OBAGP006 FAS31 
 descrizione pattina O pocket ecopelliccia 
 montone 
@@ -4167,54 +4088,6 @@ components O bag glam
 zaini 
 backpacks
 120. O bag fall 2018 
-code HLESZ817 ECS00 
-descrizione manico + spallaccio goccia 
-corto O square ecopelle 
-materiale ecopelle 
-abbinamenti O square 
-description O square short tear drop faux 
-leather handle + shoulder strap 
-material faux leather 
-components O square 
-col. 018 
-bordeaux 
-burgundy 
-col. 084 
-testa di moro 
-dark brown 
-col. 017 
-blu navy 
-navy blue 
-col. 541 
-verde bosco 
-green forest 
-ecopelle .manici e tracolle handles and shoulder straps O square 
-.royal ascot .british 
-countryside 
-.british countryside .pink attitude 
-.royal ascot .royal ascot 
-code HLESZ817 TESP2 
-descrizione manico + spallaccio goccia 
-corto O square tessuto nastro riga 
-regimental 
-materiale tessuto 
-abbinamenti O square 
-description O square short tear drop 
-regimental stripe tape fabric handle + 
-shoulder strap 
-material fabric 
-components O square 
-col. 549 
-blu navy/curry/bordeaux 
-navy blue/curry/burgundy 
-col. 551 
-blu navy/rosso 
-navy blue/red 
-nastro riga regimental .manici e tracolle handles and shoulder straps O square 
-.royal ascot .royal ascot 
-col. 055 
-nero 
-black
 code OBAGB019 EVS00 
 descrizione scocca O square EVA 
 compound 
@@ -4264,7 +4137,91 @@ sabbia
 sand 
 .continuativo/carry over 
 .british countryside
+zaini backpack 121. 
+code HLESZ817 ECS00 
+descrizione manico + spallaccio goccia 
+corto O square ecopelle 
+materiale ecopelle 
+abbinamenti O square 
+description O square short tear drop faux 
+leather handle + shoulder strap 
+material faux leather 
+components O square 
+col. 018 
+bordeaux 
+burgundy 
+col. 084 
+testa di moro 
+dark brown 
+col. 541 
+verde bosco 
+green forest 
+ecopelle .manici e tracolle handles and shoulder straps O square 
+.royal ascot .british 
+countryside 
+.british countryside .royal ascot 
+code HLESZ817 TESP2 
+descrizione manico + spallaccio goccia 
+corto O square tessuto nastro riga 
+regimental 
+materiale tessuto 
+abbinamenti O square 
+description O square short tear drop 
+regimental stripe tape fabric handle + 
+shoulder strap 
+material fabric 
+components O square 
+col. 549 
+blu navy/curry/bordeaux 
+navy blue/curry/burgundy 
+col. 551 
+blu navy/rosso 
+navy blue/red 
+nastro riga regimental .manici e tracolle handles and shoulder straps O square 
+.royal ascot .royal ascot
 122. O bag fall 2018 
+code OBAGS019 TES01 
+descrizione sacca interna zip O square 
+tessuto canvas 
+materiale tessuto 
+abbinamenti O square 
+description canvas fabric O square inner 
+zip up bag 
+material fabric 
+components O square 
+tessuto canvas .sacca interna zip inner zip up bag O square 
+col. 017 
+blu navy 
+navy blue 
+col. 054 
+naturale 
+natural 
+col. 055 
+nero 
+black 
+.royal ascot .royal ascot .pink attitude 
+code OBAGS019 TES26 
+descrizione sacca interna O square 
+tessuto cordura 
+materiale tessuto 
+abbinamenti O square 
+description technical fabric O square 
+inner bag 
+material fabric 
+components O square 
+col. 092 
+verde scuro 
+dark green 
+col. 050 
+melanzana 
+aubergine 
+col. 018 
+bordeaux 
+burgundy 
+cordura .sacca interna inner bag O square 
+.royal ascot .british countryside .royal ascot .british 
+countryside
+zaini backpack 123. 
 code OBAGB015 EVS00 
 descrizione scocca OneEVA compound 
 materiale EVA compound 
@@ -4322,7 +4279,7 @@ tessuto cordura .cover tasca + spallacci pocket cover + shoulder straps One
 .royal ascot 
 .royal ascot 
 .pink attitude 
-.royal ascot 
+.pink attitude 
 .royal ascot 
 .royal ascot 
 .pink attitude 
@@ -4332,7 +4289,7 @@ countryside
 .royal ascot 
 .royal ascot 
 .royal ascot
-zaini backpack 123. 
+124. O bag fall 2018 
 code OBAGB426 TESJ2 
 descrizione scocca completo O bag tote 
 tessuto effetto lana 
@@ -4373,7 +4330,7 @@ blu navy
 navy blue 
 ecopelle .tracolla shoulder strap O bag tote 
 .royal ascot .royal ascot .royal ascot
-124. O bag fall 2018 
+zaini backpack 125. 
 code OBAGB413 FAS09 
 descrizione scocca completo O bag soft 
 ecopelliccia lapin rex 
@@ -4409,7 +4366,6 @@ ecopelliccia lapin rex .scocca completa complete body O bag soft
 .pink attitude 
 .pink attitude 
 .pink attitude
-zaini backpack 125.
 accessori 
 accessories
 128. O bag fall 2018 
@@ -4491,43 +4447,15 @@ navy blue
 col. 018 
 bordeaux 
 burgundy 
-ecopelliccia murmasky + EVA .portachiavi keyring 
-.royal ascot 
-col. 076 
-rosso 
-red 
-col. 050 
-melanzana 
-aubergine 
-col. 075 
-rosa smoke 
-rose smoke 
-col. 137 
-bluette 
-bright blue 
-col. 540 
-curry 
-curry 
-ecopelliccia lapin rex .charm charm 
-.british countryside 
-.british countryside 
-.british countryside 
-.pink attitude 
-.british countryside 
+ecopelliccia lapin + EVA .portachiavi keyring 
+.royal ascot .royal ascot 
 code ACCEC006 FAS45 
 descrizione accessorio portachiavi 
-ecopelliccia murmasky + EVA 
-materiale EVA compound + ecopelliccia 
-description accessory faux mourmasky 
-fur + eva keyring 
-material EVA compound + faux fur 
-code ACCEC007 FAS09 
-descrizione accessorio charm fiore 
-ecopelliccia lapin rex 
-materiale ecopelliccia 
-description accessory faux lapin rex fur 
-flower charm 
-material faux fur
+ecopelliccia lapin + EVA materiale EVA 
+compound + ecopelliccia 
+description accessory faux lapin fur + 
+eva keyring 
+material EVA compound + faux fur
 accessori accessories 131. 
 col. 371 
 latte 
@@ -4583,22 +4511,6 @@ abbinamenti
 description accessories bicolour faux fox 
 fur pon pon pendant 
 material faux fur
-accessori accessories 133. 
-col. 017 
-blu navy 
-navy blue 
-col. 018 
-bordeaux 
-burgundy 
-ecopelliccia lapin rex + nastro tricolor .spilla pin 
-.royal ascot .royal ascot 
-code ACCES013 FAS44 
-descrizione accessorio spilla coccarda 
-ecopelliccia lapin rex + nastro tricolor 
-materiale tessuto + ecopelliccia 
-description accessory faux lapin rex fur + 
-tricolour tape rosette pin 
-material fabric + faux fur
 134. O bag fall 2018 
 code ACCEN001 MTS01 
 descrizione accessori collana O bag 
@@ -4975,32 +4887,17 @@ shift cinturino band + case classic
 description O clock dial crystal 
 components O clock strap - O clock 
 shift band strap + case classic 
-col. 140 
-palme 
-palms 
-col. 145 
-iride 
-rainbow 
-col. 146 
-mix esagoni 
-hexagons mix 
-col. 200 
-splash 1 
-splash 1 
-col. 201 
-splash 2 
-splash 2 
-col. 202 
-splash 3 
-splash 3 
-grafica .meccanismo dial O clock 
-.crossing .crossing .crossing 
-.crossing .crossing .crossing 
-code OCLKD001 MES05 
-descrizione O clock meccanismo grafica 
+col. 131 
+verde antico 
+antique green 
+metal fade .meccanismo dial O clock 
+.crossing 
+code OCLKD001 MES73 
+descrizione O clock meccanismo metal 
+fade 
 abbinamenti cinturino O clock - O clock 
 shift cinturino band + case classic 
-description O clock dial graphic 
+description O clock dial metal fade 
 components O clock strap - O clock shift 
 band strap + case classic
 orologi watches 147. 
@@ -5109,35 +5006,9 @@ butterfly
 components O clock strap - O clock shift 
 band strap + case classic
 150. O bag fall 2018 
-col. 131 
-verde antico 
-antique green 
-metal fade .meccanismo dial O clock 
-.crossing 
-code OCLKD001 MES73 
-descrizione O clock meccanismo metal 
-fade 
-abbinamenti cinturino O clock - O clock 
-shift cinturino band + case classic 
-description O clock dial metal fade 
-components O clock strap - O clock shift 
-band strap + case classic 
 col. 133 
 grigio chiaro 
 light grey 
-gasp .meccanismo dial O clock 
-.crossing 
-code OCLKD001 MES39 
-descrizione O clock meccanismo gasp 
-abbinamenti cinturino O clock - O clock 
-shift cinturino band + case classic 
-description O clock dial gasp 
-components O clock strap - O clock shift 
-band strap + case classic
-orologi watches 151. 
-col. 003 
-arancione 
-orange 
 col. 004 
 argento 
 silver 
@@ -5150,24 +5021,17 @@ bronze
 col. 061 
 oro 
 gold 
-col. 088 
-turchese 
-turquoise 
-col. 134 
-antracite 
-anthracite 
-rosone .meccanismo dial O clock 
+gasp .meccanismo dial O clock 
 mosaic .meccanismo dial O clock 
 .crossing 
 .crossing 
 .crossing 
 .crossing .crossing 
-.crossing .crossing 
-code OCLKD001 MES74 
-descrizione O clock meccanismo rosone 
+code OCLKD001 MES39 
+descrizione O clock meccanismo gasp 
 abbinamenti cinturino O clock - O clock 
 shift cinturino band + case classic 
-description O clock dial rosone 
+description O clock dial gasp 
 components O clock strap - O clock shift 
 band strap + case classic 
 code OCLKD001 MES75 
@@ -5177,25 +5041,49 @@ shift cinturino band + case classic
 description O clock dial mosaic 
 components O clock strap - O clock shift 
 band strap + case classic
+orologi watches 151. 
+col. 003 
+arancione 
+orange 
+col. 088 
+turchese 
+turquoise 
+col. 134 
+antracite 
+anthracite 
+rosone .meccanismo dial O clock 
+.crossing .crossing .crossing 
+code OCLKD001 MES74 
+descrizione O clock meccanismo rosone 
+abbinamenti cinturino O clock - O clock 
+shift cinturino band + case classic 
+description O clock dial rosone 
+components O clock strap - O clock shift 
+band strap + case classic 
+col. 002 
+amaranto 
+amaranth 
+col. 068 
+polvere 
+dust blue 
+mirror .meccanismo dial O clock 
+.crossing .crossing 
+code OCLKD001 MES03 
+descrizione O clock meccanismo mirror 
+abbinamenti cinturino O clock - O clock 
+shift cinturino band + case classic 
+description O clock dial mirror 
+components O clock strap - O clock shift 
+band strap + case classic
 152. O bag fall 2018 
 col. 004 
 argento 
 silver 
-col. 002 
-amaranto 
-amaranth 
 col. 061 
 oro 
 gold 
-col. 068 
-polvere 
-dust blue 
 micro fantasia tono su tono .meccanismo dial O clock 
-mirror .meccanismo dial O clock 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
+.crossing .crossing 
 code OCLKD001 MES76 
 descrizione O clock meccanismo micro 
 fantasia tono su tono 
@@ -5203,13 +5091,6 @@ abbinamenti cinturino O clock - O clock
 shift cinturino band + case classic 
 description O clock dial tone on tone 
 micro pattern 
-components O clock strap - O clock shift 
-band strap + case classic 
-code OCLKD001 MES03 
-descrizione O clock meccanismo mirror 
-abbinamenti cinturino O clock - O clock 
-shift cinturino band + case classic 
-description O clock dial mirror 
 components O clock strap - O clock shift 
 band strap + case classic
 orologi watches 153. 
@@ -6458,149 +6339,21 @@ descrizione O sun lenti generico
 abbinamenti O sun astine 
 description O sun lenses generic 
 components O sun sticks 
-col. 009 
-blu 
-blue 
-col. 018 
-bordeaux 
-burgundy 
 col. 055 
 nero 
 black 
 generico .ring ring O sun 
-.royal ascot .royal ascot .pink attitude 
+.pink attitude 
 code OSUNC003 INS00 
 descrizione O sun front generico 
 abbinamenti O sun montatura e astine 
 description O sun front injected material 
 components O sun front and sticks 
-col. 009 
-blu 
-blue 
 col. 018 
 bordeaux 
 burgundy 
-col. 055 
-nero 
-black 
 generico .front front O sun 
-.royal ascot .royal ascot .pink attitude
-occhiali sunglasses 185. 
-code OSUNC002 INS52 
-descrizione O sun astine pink attitude 
-pied de poul 
-abbinamenti O sun montatura e lenti 
-description O sun arms pink attitude pied 
-de poule 
-components O sun front and lenses 
-col. 137 
-bluette 
-bright blue 
-col. 038 
-grafite 
-graphite 
-col. 002 
-amaranto 
-amaranth 
-pink attitude pied de poul .astine sticks O sun 
-.pink attitude .pink attitude .pink attitude 
-code OSUNC002 INS53 
-descrizione O sun astine tartan 
-regimental 
-abbinamenti O sun montatura e lenti 
-description O sun arms regimental tartan 
-components O sun front and lenses 
-col. 017 
-blu navy 
-navy blue 
-col. 018 
-bordeaux 
-burgundy 
-tartan regimental .astine sticks O sun 
-.royal ascot .royal ascot
-186. O bag fall 2018 
-code OSUNC005 INS49 
-descrizione O sun front + lenti classiche 
-royal ascot tortoise 
-abbinamenti O sun shine astine 
-description O sun front + lenses classic 
-royal ascot tortoise 
-components O sun shine sticks 
-col. 541 
-verde bosco 
-green forest 
-col. 018 
-bordeaux 
-burgundy 
-col. 017 
-blu navy 
-navy blue 
-royal ascot tortoise .front + lenti front + lenses O sun 
-.royal ascot .royal ascot .royal ascot 
-code OSUNC002 INS49 
-descrizione O sun astine royal ascot 
-tortoise 
-abbinamenti O sun astine 
-description O sun shine arms royal ascot 
-tortoise 
-components O sun sticks 
-col. 541 
-verde bosco 
-green forest 
-col. 018 
-bordeaux 
-burgundy 
-col. 017 
-blu navy 
-navy blue 
-royal ascot tortoise .astine sticks O sun 
-.royal ascot .royal ascot .royal ascot
-occhiali sunglasses 187. 
-code OSUNC007 INS00 
-descrizione O sun front + lenti generico 
-abbinamenti O sun astine 
-description O sun front + lenses generic 
-components O sun sticks 
-col. 020 
-bronzo 
-bronze 
-generico .front + lenti front + lenses O sun 
-.british countryside 
-code OSUNC005 INS00 
-descrizione O sun front + lenti classiche 
-abbinamenti O sun astine 
-description O sun front + lenses classic 
-components O sun sticks 
-col. 389 
-silver 
-silver 
-col. 061 
-oro 
-gold 
-classiche .front + lenti front + lenses O sun 
-.crossing .british 
-countryside 
-.crossing .british 
-countryside
-188. O bag fall 2018 
-code OSUNC002 INS50 
-descrizione O sun astine british graphic 
-flowers 
-abbinamenti O sun montatura e lenti 
-description O sun arms british graphic 
-flowers 
-components O sun front and lenses 
-col. 020 
-bronzo 
-bronze 
-col. 389 
-silver 
-silver 
-col. 061 
-oro 
-gold 
-british graphic flowers .astine sticks O sun 
-.british countryside .british countryside .british countryside
+.royal ascot
 occhiali sunglasses 189. 
 col. 422 
 sangria 
@@ -7474,7 +7227,7 @@ abbinamenti O sun montatura e lenti
 description pois O sun sticks 
 components O sun front and lenses
 218. O bag fall 2018 
-code OSUNS003 INS00 
+code OSUNS003 INS32 
 descrizione O sun shine front materiale 
 iniettato 
 abbinamenti O sun shine lenti e astine 
@@ -8208,9 +7961,6 @@ description greek textured woman’s O
 hug body 
 material EVA compound 
 components O hug woman inner bag 
-col. 017 
-blu navy 
-navy blue 
 col. 540 
 curry 
 curry 
@@ -8227,7 +7977,6 @@ col. 076
 rosso 
 red 
 EVA compound texture greca .scocca body O hug donna O hug woman 
-.royal ascot 
 .royal ascot .british 
 countryside 
 .royal ascot .british 
@@ -8236,25 +7985,17 @@ countryside
 .royal ascot 
 .royal ascot .british 
 countryside 
-col. 371 
-latte 
-milk 
 col. 137 
 bluette 
 bright blue 
 col. 133 
 grigio chiaro 
 light grey 
-col. 055 
-nero 
-black 
 col. 002 
 amaranto 
 amaranth 
-.royal ascot .pink 
-attitude 
 .pink attitude .royal ascot 
-.pink attitude .pink attitude
+.pink attitude
 portafogli wallets 239. 
 col. 018 
 bordeaux 
@@ -8277,20 +8018,18 @@ testa di moro
 dark brown 
 .british countryside 
 code OHUGI002 ECS70 
-descrizione interno donna ecopelle con 
-brisè 
+descrizione interno hug donna ecopelle 
+con brisè 
 materiale ecopelle 
 abbinamenti scocca O hug donna EVA 
 compound 
-description woman’s faux leather inner 
-bag with brisè 
+description woman’s faux leather hug 
+inner bag with brisè 
 material faux leather 
 components EVA compound O hug 
 woman body 
-col. 017 
-blu navy 
-navy blue 
-.royal ascot
+.royal ascot .british 
+countryside
 O bag Headquarters 
 Via L. Galvani, 1 
 35011 Campodarsego (PD) - Italy 

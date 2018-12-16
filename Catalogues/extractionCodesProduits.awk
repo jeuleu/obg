@@ -26,7 +26,7 @@ input != FILENAME {
 	print "    Couleurs : " outputCOUL
 
 	
-	print "Code barre;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > outputEAN13
+	print "XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > outputEAN13
 	print "XXX" > outputEAN13
 	print "XXX;ATTENTION au format des colonnes !" > outputEAN13
 	print "XXX;Avant toute edition, changer les formats des colonnes suivantes :" > outputEAN13
@@ -61,7 +61,7 @@ input != FILENAME {
 /^descrizione/ {
 	libelleProduit = ""
 	for (i= 2; i <= NF; i++) {
-		libelleProduit = libelleProduit " " $i
+		libelleProduit = libelleProduit " " corrigeCaracteresSpeciaux($i)
 	}
 }
 
@@ -75,6 +75,7 @@ input != FILENAME {
 # Code Produit
 $0 ~ "code" {
 	codeProduit = $2 ";" $3
+	codeProduit2 = $2 "-" $3
 }
 
 # Recherche des codes couleur
@@ -84,7 +85,7 @@ chercheCol == "en" {
 	chercheCol = ""
 	
 	# Toutes infos
-	printf("%s;%s;%d;%s;%s;%03d;%s;%s;\n", "CodeBarre", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > outputEAN13
+	printf("%s;%s-%s;%s;%d;%s;%s;%s;%s;%s;\n", "CodeBarre", codeProduit2, codeCouleur, nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > outputEAN13
 
 	# Couleurs
 	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > outputCOUL
@@ -95,7 +96,6 @@ chercheCol == "it" {
 	chercheCol = "en"
 }
 
-	
 /^col. / {
 	codeCouleur = $2
 	chercheCol = "it"
@@ -104,7 +104,14 @@ chercheCol == "it" {
 function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/ $/, "", ligne)
 
+	gsub(/\221/, "'", ligne)
 	gsub(/\222/, "'", ligne)
+	gsub(/\223/, "\"", ligne)
+	gsub(/\224/, "\"", ligne)
+	gsub(/\240/, " ", ligne)
+	gsub(/\350/, "e", ligne)
+	gsub(/\351/, "e", ligne)
+	gsub(/\362/, "0", ligne)
 	gsub(/\371/, "<u>", ligne)
 	gsub(/‘/, "XX", ligne)
 	

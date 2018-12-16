@@ -1,0 +1,25 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OCLKS007-SIS05-036; O bag for Disney 2017;4; O clock cinturino silicone;OCLKS007;SIS05;036;giallo;yellow;
+CodeBarre;OCLKS007-SIS05-055; O bag for Disney 2017;4; O clock cinturino silicone;OCLKS007;SIS05;055;nero;black;
+CodeBarre;SHOUG606-ECS64-072; O bag for Disney 2017;8; tracolla O pocket con fibbia;SHOUG606;ECS64;072;rosa;pink;
+CodeBarre;OBAGP006-ECS56-036; O bag for Disney 2017;8; pattina O pocket ecopelle;OBAGP006;ECS56;036;giallo;yellow;
+CodeBarre;OBAGP006-ECS57-072; O bag for Disney 2017;9; pattina O pocket ecopelle;OBAGP006;ECS57;072;rosa;pink;
+CodeBarre;OBAGP006-ECS58-072; O bag for Disney 2017;9; pattina O pocket ecopelle;OBAGP006;ECS58;072;rosa;pink;
+CodeBarre;OBAGP006-ECS59-072; O bag for Disney 2017;10; pattina O pocket ecopelle;OBAGP006;ECS59;072;rosa;pink;
+CodeBarre;OBAGP006-ECS59-072; O bag for Disney 2017;10; pattina O pocket ecopelle;OBAGP006;ECS59;072;rosa;pink;
+CodeBarre;OBAGP006-TESH6-036; O bag for Disney 2017;11; pattina O pocket tessuto;OBAGP006;TESH6;036;giallo;yellow;
+CodeBarre;OBAGP006-TESH6-017; O bag for Disney 2017;11; pattina O pocket tessuto;OBAGP006;TESH6;017;blu navy;navy blue;
+CodeBarre;OBAGP006-TESH4-130; O bag for Disney 2017;12; pattina O pocket tessuto;OBAGP006;TESH4;130;azzurro;light blue;
+CodeBarre;OBAGP006-TESH5-072; O bag for Disney 2017;16; pattina O pocket tessuto;OBAGP006;TESH5;072;rosa;pink;
+CodeBarre;OBAGP006-TESH5-036; O bag for Disney 2017;16; pattina O pocket tessuto;OBAGP006;TESH5;036;giallo;yellow;
+CodeBarre;ACCEO005-ECS61-137; O bag for Disney 2017;17; accessori pendaglio topolino;ACCEO005;ECS61;137;bluette;bright blue;
+CodeBarre;ACCEO005-ECS61-036; O bag for Disney 2017;17; accessori pendaglio topolino;ACCEO005;ECS61;036;giallo;yellow;
+CodeBarre;ACCEO005-ECS61-267; O bag for Disney 2017;17; accessori pendaglio topolino;ACCEO005;ECS61;267;fucsia;fuchsia;
+CodeBarre;ACCEO005-ECS61-072; O bag for Disney 2017;17; accessori pendaglio topolino;ACCEO005;ECS61;072;rosa;pink;
+CodeBarre;ACCEO005-ECS61-076; O bag for Disney 2017;17; accessori pendaglio topolino;ACCEO005;ECS61;076;rosso;red;

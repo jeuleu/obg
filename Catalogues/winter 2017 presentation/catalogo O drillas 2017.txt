@@ -1,0 +1,342 @@
+O drillas 
+.spring summer 2017
+.O drillas 
+04 O drillas donna woman 
+08 O drillas accessori accessories 
+.moda fashion collection 
+.indice index 
+.legenda legend 
+.01
+02. 2017 COLLECTION 
+.O drillas 
+O drillas .03 O drillas donna woman 
+ODRLD001 TESD2 067 .moda fashion collection 
+descrizione description O drillas donna high O drillas 
+woman high 
+colore colour phard rouge 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD001 TESD2 133 .moda fashion collection 
+descrizione description O drillas donna high O drillas 
+woman high 
+colore colour grigio chiaro light grey 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD001 TESD2 078 .moda fashion collection 
+descrizione description O drillas donna high O drillas 
+woman high 
+colore colour sabbia sand 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD001 TESD2 017 .moda fashion collection 
+descrizione description O drillas donna high O drillas 
+woman high 
+colore colour blu navy navy blue 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD001 TESD2 022 .moda fashion collection 
+descrizione description O drillas donna high O drillas 
+woman high 
+colore colour carta da zucchero azure 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+04. 2017 COLLECTION 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+O drillas .05
+ODRLD002 TESD2 055 .moda fashion collection 
+descrizione description O drillas donna low O drillas 
+woman low 
+colore colour nero black 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD002 TESD2 422 .moda fashion collection 
+descrizione description O drillas donna low O drillas 
+woman low 
+colore colour sangria sangria 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD002 TESD2 137 .moda fashion collection 
+descrizione description O drillas donna low O drillas 
+woman low 
+colore colour bluette bluette 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD002 TESD2 060 .moda fashion collection 
+descrizione description O drillas donna low O drillas 
+woman low 
+colore colour oliva olive 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD002 TESD2 371 .moda fashion collection 
+descrizione description O drillas donna low O drillas 
+woman low 
+colore colour latte milk 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+ODRLD002 TESD2 431 .moda fashion collection 
+descrizione description O drillas donna low O drillas 
+woman low 
+colore colour amarillo yellow 
+materiale material micro + juta micro + juta 
+abbinamenti components 
+O drillas donna accessorio O drillas woman accessory 
+06. 2017 COLLECTION 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+GENER 39 
+GENER 36 
+GENER 40 
+GENER 37 
+GENER 41 
+GENER 38 
+O drillas .07
+O drillas accessori accessories 
+ODRLA200 ROS01 432 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour purple/phard/avorio/sangria purple/rouge/ 
+ivory/sangria 
+materiale material corda intrecciata woven rope 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA200 ROS01 433 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour bianco/nero/grigio chiaro/grigio scuro 
+white/black/light grey/dark grey 
+materiale material corda intrecciata woven rope 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA200 ROS01 434 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour blu navy/bluette/avorio navy blue/bright 
+blue/ivory 
+materiale material corda intrecciata woven rope 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA200 ROS01 125 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour multicolor multicolor 
+materiale material corda intrecciata woven rope 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA200 ROS01 054 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour naturale natural 
+materiale material corda intrecciata woven rope 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA200 ROS01 435 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour lime/avorio/verde oliva lime/ivory/olive 
+green 
+materiale material corda intrecciata woven rope 
+abbinamenti components 
+O drillas donna O drillas woman 
+08. 2017 COLLECTION 
+ODRLA100 TESD3 067 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour phard rouge 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 133 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour grigio chiaro light grey 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 078 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour sabbia sand 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 017 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour blu navy navy blue 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 022 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour carta da zucchero azure 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 055 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour nero black 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+O drillas .09
+O drillas accessori accessories 
+ODRLA100 TESD3 422 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour sangria sangria 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 137 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour bluette bluette 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 060 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour oliva olive 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 371 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour latte milk 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLA100 TESD3 431 .moda fashion collection 
+descrizione description O drillas donna accessorio O 
+drillas woman accessory 
+colore colour amarillo yellow 
+materiale material nastro ribbon 
+abbinamenti components 
+O drillas donna O drillas woman 
+10. 2017 COLLECTION 
+ODRLP300 TES18 054 .moda fashion collection 
+descrizione description O drillas donna pendaglio nappina 
+tessuto cotone O drillas woman cotton fabric nappa 
+pendant 
+colore colour naturale natural 
+materiale material nappina cotone cotton nappa 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLP300 TES18 055 .moda fashion collection 
+descrizione description O drillas donna pendaglio nappina 
+tessuto cotone O drillas woman cotton fabric nappa 
+pendant 
+colore colour nero black 
+materiale material nappina cotone cotton nappa 
+abbinamenti components 
+O drillas donna O drillas woman 
+ODRLP400 TES18 241 .moda fashion collection 
+descrizione description O drillas donna pendaglio nappina 
+multicolor tessuto cotone O drillas woman multicolor 
+cotton fabric nappa pendant 
+colore colour blu navy/rosso navy blue/red 
+materiale material nappina cotone multicolor multicolor 
+cotton nappa 
+abbinamenti components O drillas donna O drillas woman 
+ODRLP400 TES18 440 .moda fashion collection 
+descrizione description O drillas donna pendaglio nappina 
+multicolor tessuto cotone O drillas woman multicolor 
+cotton fabric nappa pendant 
+colore colour purple/phard purple/rouge 
+materiale material nappina cotone multicolor multicolor 
+cotton nappa 
+abbinamenti components O drillas donna O drillas woman 
+ODRLP500 TES00 441 .moda fashion collection 
+descrizione description O drillas donna pendaglio multi 
+pon pon + conchiglia tessuto O drillas woman fabric 
+multi pom pom + shell nappa pendant 
+colore colour rosso/bluette red/bright blue 
+materiale material multi pon pon + conchiglia multi pom 
+pom + shell 
+abbinamenti components O drillas donna O drillas woman 
+ODRLP500 TES00 442 .moda fashion collection 
+descrizione description O drillas donna pendaglio multi 
+pon pon + conchiglia tessuto O drillas woman fabric 
+multi pom pom + shell nappa pendant 
+colore colour giallo/corallo yellow/coral 
+materiale material multi pon pon + conchiglia multi pom 
+pom + shell 
+abbinamenti components O drillas donna O drillas woman 
+O drillas .11
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

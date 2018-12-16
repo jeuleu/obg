@@ -1,0 +1,17 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OSHSD001-EVS00-055;;22; O shoes donna high EVA;OSHSD001;EVS00;055;nero;black;
+CodeBarre;OSHSD001-EVS00-371;;22; O shoes donna high EVA;OSHSD001;EVS00;371;latte;milk;
+CodeBarre;OSHSD001-EVS00-017;;22; O shoes donna high EVA;OSHSD001;EVS00;017;blu navy;navy blue;
+CodeBarre;OSHSD001-EVS00-067; O bag summer 2019;2; O shoes donna high EVA;OSHSD001;EVS00;067;phard;phard;
+CodeBarre;OSHSD001-EVS00-092; O bag summer 2019;2; O shoes donna high EVA;OSHSD001;EVS00;092;verde scuro;dark green;
+CodeBarre;OSHSD001-EVS00-133; O bag summer 2019;2; O shoes donna high EVA;OSHSD001;EVS00;133;grigio chiaro;light grey;
+CodeBarre;OSHSD001-EVS00-015; O bag summer 2019;2; O shoes donna high EVA;OSHSD001;EVS00;015;blu iris;blu iris;
+CodeBarre;OSHSD001-EVS00-076; O bag summer 2019;2; O shoes donna high EVA;OSHSD001;EVS00;076;rosso;rosso;
+CodeBarre;OSHSD001-EVS02-055; O bag summer 2019;2; O shoes donna high;OSHSD001;EVS02;055;nero;black;
+CodeBarre;OSHSD001-EVS02-422; O bag summer 2019;2; O shoes donna high;OSHSD001;EVS02;422;sangria;sangria;

@@ -1,0 +1,27 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OBAGB002-EVS43-055; O bag for Disney 2017;4; scocca O bag mini eva;OBAGB002;EVS43;055;nero;black;
+CodeBarre;OBAGB002-EVS43-076; O bag for Disney 2017;4; scocca O bag mini eva;OBAGB002;EVS43;076;rosso;red;
+CodeBarre;OBAGB002-EVS43-371; O bag for Disney 2017;4; scocca O bag mini eva;OBAGB002;EVS43;371;latte;milk;
+CodeBarre;OBAGB206-EVS00-055; O bag for Disney 2017;5; scocca sotto O pocket EVA;OBAGB206;EVS00;055;nero;black;
+CodeBarre;OBAGB206-EVS00-076; O bag for Disney 2017;5; scocca sotto O pocket EVA;OBAGB206;EVS00;076;rosso;red;
+CodeBarre;OBAGB206-EVS00-371; O bag for Disney 2017;5; scocca sotto O pocket EVA;OBAGB206;EVS00;371;latte;milk;
+CodeBarre;OBAGB206-EVS00-055; O bag for Disney 2017;8; scocca sotto O pocket EVA;OBAGB206;EVS00;055;nero;black;
+CodeBarre;OBAGB206-EVS00-076; O bag for Disney 2017;8; scocca sotto O pocket EVA;OBAGB206;EVS00;076;rosso;red;
+CodeBarre;SHOUX101-ECS00-076; O bag for Disney 2017;9; tracolla extraslim 110 +;SHOUX101;ECS00;076;rosso;red;
+CodeBarre;SHOUX101-ECS00-137; O bag for Disney 2017;9; tracolla extraslim 110 +;SHOUX101;ECS00;137;bluette;bright blue;
+CodeBarre;SHOUX101-ECS00-540; O bag for Disney 2017;9; tracolla extraslim 110 +;SHOUX101;ECS00;540;curry;curry;
+CodeBarre;SHOUX101-ECS00-055; O bag for Disney 2017;9; tracolla extraslim 110 +;SHOUX101;ECS00;055;nero;black;
+CodeBarre;OBAGS002-TESV2-565; O bag for Disney 2017;12; sacca interna O bag mini;OBAGS002;TESV2;565;shangai;shangai;
+CodeBarre;OBAGS002-TESV2-566; O bag for Disney 2017;12; sacca interna O bag mini;OBAGS002;TESV2;566;beijing;beijing;
+CodeBarre;OBAGS002-TESV2-565; O bag for Disney 2017;16; sacca interna O bag mini;OBAGS002;TESV2;565;shangai;shangai;
+CodeBarre;OBAGS002-TESV2-568; O bag for Disney 2017;16; sacca interna O bag mini;OBAGS002;TESV2;568;kyoto;kyoto;
+CodeBarre;OBAGS002-TESV2-566; O bag for Disney 2017;16; sacca interna O bag mini;OBAGS002;TESV2;566;beijing;beijing;
+CodeBarre;OBAGS002-TESV2-569; O bag for Disney 2017;16; sacca interna O bag mini;OBAGS002;TESV2;569;osaka;osaka;
+CodeBarre;OBAGS002-TESV2-567; O bag for Disney 2017;16; sacca interna O bag mini;OBAGS002;TESV2;567;tokyo;tokyo;
+CodeBarre;OBAGS002-TESV2-570; O bag for Disney 2017;16; sacca interna O bag mini;OBAGS002;TESV2;570;seoul;seoul;

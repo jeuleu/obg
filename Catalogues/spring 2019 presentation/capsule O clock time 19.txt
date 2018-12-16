@@ -1,0 +1,109 @@
+‘19 .spring 
+O clock time
+02. O bag fall 19 
+code OCLKDT01 MESF4 
+descrizione meccanismo satin perlato 
+O clock time 
+materiale 
+abbinamenti 
+description dial satin perlato O clock 
+timematerial 
+components 
+satin perlato .meccanismo dial O clock time 
+numeri .meccanismo dial O clock time 
+code OCLKDT01 MES07 
+descrizione meccanismo numeri 
+O clock time 
+materiale 
+abbinamenti 
+description dial numbers O clock time 
+material 
+components 
+col. 055 
+nero 
+black 
+col. 055 
+nero 
+black 
+col. 008 
+bianco 
+white 
+col. 008 
+bianco 
+white 
+.capsule O clock time 
+.capsule O clock time 
+.capsule O clock time 
+.capsule O clock time
+orologi watches 03. 
+code OCLKST03 MTS01 
+descrizione cinturino luxury bracelet 
+O clock time 
+materiale metallo galvanizzato 
+abbinamenti 
+description strap luxury bracelet 
+O clock time 
+material metal 
+components 
+code OCLKST02 MTS01 
+descrizione cinturino luxury bangle 
+O clock time 
+materiale metallo galvanizzato 
+abbinamenti 
+description strap luxury bangle 
+O clock time 
+material metal 
+components 
+luxury bracelet .cinturino strap O clock time 
+luxury bangle .cinturino strap O clock time 
+col. 061 
+oro 
+gold 
+col. 061 
+oro 
+gold 
+col. 004 
+argento 
+silver 
+col. 004 
+argento 
+silver 
+.capsule O clock time 
+.capsule O clock time 
+.capsule O clock time 
+.capsule O clock time
+04. O bag fall 19 
+code OCLKST01 MAS39 
+descrizione cinturino active 
+O clock time 
+materiale materiale elastico 
+abbinamenti 
+description strap active O clock time 
+material 
+components 
+active .cinturino strap O clock time 
+col. 055 
+nero 
+black 
+col. 463 
+blu maya 
+blue maya 
+col. 008 
+bianco 
+white 
+col. 462 
+arancio 
+orange 
+col. 032 
+fluo giallo 
+fluo yellow 
+.capsule O clock time 
+.capsule O clock time .capsule O clock time 
+.capsule O clock time .capsule O clock time
+orologi watches 05.
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

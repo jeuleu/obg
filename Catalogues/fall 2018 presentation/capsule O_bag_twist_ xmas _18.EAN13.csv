@@ -1,0 +1,29 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OBAGB037-EVS57-017; O bag twist cocco;6; scocca O bag twist cocco;OBAGB037;EVS57;017;blu navy;blue navy;
+CodeBarre;OBAGB037-EVS57-078; O bag twist cocco;6; scocca O bag twist cocco;OBAGB037;EVS57;078;sabbia;sand;
+CodeBarre;OBAGB037-EVS57-018; O bag twist cocco;6; scocca O bag twist cocco;OBAGB037;EVS57;018;bordeaux;bordeaux;
+CodeBarre;OBAGB037-EVS57-371; O bag twist cocco;6; scocca O bag twist cocco;OBAGB037;EVS57;371;latte;milk;
+CodeBarre;OBAGB037-EVS57-055; O bag twist cocco;6; scocca O bag twist cocco;OBAGB037;EVS57;055;nero;black;
+CodeBarre;OBAGB037-EVS57-559; O bag twist cocco;6; scocca O bag twist cocco;OBAGB037;EVS57;559;rame;copper;
+CodeBarre;HLESCE01-ECS00-612; O bag twist cocco;10; manico lungo doppio catena;HLESCE01;ECS00;612;blu navy + argento;blue navy + silver;
+CodeBarre;HLESCE01-ECS00-055; O bag twist cocco;10; manico lungo doppio catena;HLESCE01;ECS00;055;nero + argento;black + silver;
+CodeBarre;HLESCE01-ECS00-613; O bag twist cocco;10; manico lungo doppio catena;HLESCE01;ECS00;613;cuoio + argento;cuoio + silver;
+CodeBarre;HLESGC19-EVS54-017; O bag twist cocco;11; manico corto effetto;HLESGC19;EVS54;017;blu navy;blue navy;
+CodeBarre;HLESGC19-EVS54-078; O bag twist cocco;11; manico corto effetto;HLESGC19;EVS54;078;sabbia;sand;
+CodeBarre;HLESGC19-EVS54-018; O bag twist cocco;11; manico corto effetto;HLESGC19;EVS54;018;bordeaux;bordeaux;
+CodeBarre;HLESGC19-EVS54-371; O bag twist cocco;11; manico corto effetto;HLESGC19;EVS54;371;latte;milk;
+CodeBarre;HLESGC19-EVS54-559; O bag twist cocco;11; manico corto effetto;HLESGC19;EVS54;559;rame;rame;
+CodeBarre;HLESGC19-EVS54-055; O bag twist cocco;11; manico corto effetto;HLESGC19;EVS54;055;nero;black;
+CodeBarre;SHOUG617-ECS00-055; O bag twist cocco;12; tracolla con fibia lunga;SHOUG617;ECS00;055;nero;black;
+CodeBarre;OBAGS837-TESD5-017; O bag twist cocco;16; sacca interna basic O bag;OBAGS837;TESD5;017;blu navy;blue navy;
+CodeBarre;OBAGS837-TESD5-078; O bag twist cocco;16; sacca interna basic O bag;OBAGS837;TESD5;078;sabbia;sand;
+CodeBarre;OBAGS837-TESD5-018; O bag twist cocco;16; sacca interna basic O bag;OBAGS837;TESD5;018;bordeaux;bordeaux;
+CodeBarre;OBAGS837-TESD5-371; O bag twist cocco;16; sacca interna basic O bag;OBAGS837;TESD5;371;latte;milk;
+CodeBarre;OBAGS837-TESD5-559; O bag twist cocco;16; sacca interna basic O bag;OBAGS837;TESD5;559;rame;rame;
+CodeBarre;OBAGS837-TESD5-055; O bag twist cocco;16; sacca interna basic O bag;OBAGS837;TESD5;055;nero;black;

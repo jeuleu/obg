@@ -1,0 +1,15 @@
+XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
+XXX
+XXX;ATTENTION au format des colonnes !
+XXX;Avant toute edition, changer les formats des colonnes suivantes :
+XXX;Code Barre :;; numerique sans decimales
+XXX;Code Couleur :;; numerique format "000"
+XXX
+CodeBarre;OSHSD101-EVS00-017;;24; O slippers ciabatta donna;OSHSD101;EVS00;017;blu navy;blue navy;
+CodeBarre;OSHSD101-EVS00-347;;24; O slippers ciabatta donna;OSHSD101;EVS00;347;cedro;cedro;
+CodeBarre;OSHSD101-EVS00-119;;24; O slippers ciabatta donna;OSHSD101;EVS00;119;fragola;strawberry;
+CodeBarre;OSHSD101-EVS00-371;;24; O slippers ciabatta donna;OSHSD101;EVS00;371;latte;milk;
+CodeBarre;OSHSD101-EVS00-055;;24; O slippers ciabatta donna;OSHSD101;EVS00;055;nero;black;
+CodeBarre;OSHSD101-EVS00-588;;24; O slippers ciabatta donna;OSHSD101;EVS00;588;orchidea;orchidea;
+CodeBarre;OSHSD101-EVS00-088;;24; O slippers ciabatta donna;OSHSD101;EVS00;088;turchese;turchese;
+CodeBarre;OSHSD101-EVS00-224;;24; O slippers ciabatta donna;OSHSD101;EVS00;224;verde inglese;english green;

@@ -1,0 +1,222 @@
+‘18 .winter 
+.capsule O hug
+code OHUGB003 EVS53 
+descrizione O hug portafoglio donna tiny 
+materiale XL extralight 
+abbinamenti O hug 
+description O hug body woman’s wallet 
+tiny 
+material XL extralight 
+components O hug 
+col. 017 
+blu navy 
+blue navy 
+col. 055 
+nero 
+black 
+tiny .scocca .scocca body 
+.capsule winter .capsule winter 
+col. 075 
+rosa smoke 
+pink smoke 
+col. 371 
+latte 
+milk 
+col. 076 
+rosso 
+red 
+col. 540 
+curry 
+curry 
+col. 078 
+sabbia 
+sand 
+col. 559 
+rame 
+rame 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter
+portafogli wallets 03. 
+code OHUGB004 EVS06 
+descrizione O hug portafoglio donna 
+smile 
+materiale XL extralight 
+abbinamenti O hug 
+description O hug body woman’s wallet 
+smile 
+material XL extralight 
+components O hug 
+col. 017 
+blu navy 
+blue navy 
+col. 055 
+nero 
+black 
+smile .scocca .scocca body 
+.capsule winter .capsule winter 
+col. 075 
+rosa smoke 
+pink smoke 
+col. 371 
+latte 
+milk 
+col. 076 
+rosso 
+red 
+col. 540 
+curry 
+curry 
+col. 078 
+sabbia 
+sand 
+col. 559 
+rame 
+rame 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter
+code OHUGB005 EVS07 
+descrizione O hug portafoglio uomo flat 
+materiale XL extralight 
+abbinamenti O hug 
+description O hug body men’s wallet flat 
+material XL extralight 
+components O hug 
+col. 017 
+blu navy 
+blue navy 
+col. 055 
+nero 
+black 
+col. 024 
+cioccolato 
+chocolate 
+col. 541 
+verde bosco 
+green forest 
+col. 038 
+grafite 
+graphite 
+flat .scocca .scocca body 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter
+portafogli wallets 05. 
+col. 078 
+sabbia 
+sand 
+col. 084 
+testa di moro 
+dark brown 
+.capsule winter .capsule winter 
+code OHUGI003 ECS00 
+descrizione O hug interno portafoglio 
+donna Tiny ecopelle 
+materiale ecopelle 
+abbinamenti O hug 
+description O hug inner bag woman’s 
+wallet tiny faux leather 
+material faux leather 
+components O hug 
+col. 017 
+blu navy 
+blue navy 
+col. 055 
+nero 
+black 
+col. 018 
+bordeaux 
+bordeaux 
+col. 075 
+rosa smoke 
+pink smoke 
+col. 041 
+grigio scuro 
+dark grey 
+col. 076 
+rosso 
+red 
+tiny .interno .interno inner bag 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter
+code OHUGI005 PES00 
+descrizione O hug interno portafoglio 
+uomo flat pelle 
+materiale pelle 
+abbinamenti O hug 
+description O hug inner bag woman’s 
+wallet leather 
+material leather 
+components O hug 
+col. 055 
+nero 
+black 
+col. 084 
+testa di moro 
+dark brown 
+col. 017 
+blu navy 
+blue navy 
+flat pelle .interno .interno inner bag 
+.capsule winter .capsule winter .capsule winter
+portafogli wallets 07. 
+code OHUGI004 ECS00 
+descrizione O hug interno portafoglio 
+dona Smile ecopelle 
+materiale ecopelle 
+abbinamenti O hug 
+description O hug inner bag woman’s 
+wallet faux leather 
+material faux leather 
+components O hug 
+col. 017 
+blu navy 
+blue navy 
+col. 055 
+nero 
+black 
+col. 018 
+bordeaux 
+bordeaux 
+col. 075 
+rosa smoke 
+pink smoke 
+col. 041 
+grigio scuro 
+dark grey 
+col. 076 
+rosso 
+red 
+smile ecopelle .interno .interno inner bag 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+.capsule winter 
+col. 078 
+sabbia 
+sand 
+col. 084 
+testa di moro 
+dark brown 
+.capsule winter .capsule winter
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

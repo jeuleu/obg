@@ -1,0 +1,513 @@
+indice / index 
+03 CHRISTMAS CAPSULE 
+04 borse bags 
+08 manici e tracolle handles and shoulder straps 
+14 bordi trims 
+18 sacche interne inserts 
+22 pattine flaps O pocket 
+28 orologi clocks 
+33 accessori accessories 
+34 pochette 
+35 porta cellulari mobile case 
+36 cinture belts 
+.01
+BORSE / BAGS
+O bag scocche body 
+OBAGB001EVS050080000 
+descrizione description scocca O bag japanese flowers 
+japanese flowers O bag body 
+colore colour lamina su bianco foil on white 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - streets - sacche interne 
+handles and shoulder straps - trims - streets - inserts 
+OBAGB001EVS050550000 
+descrizione description scocca O bag japanese flowers 
+japanese flowers O bag body 
+colore colour lamina su nero foil on black 
+materiale material EVA compound 
+abbinamenti components 
+manici e tracolle - bordi - streets - sacche interne 
+handles and shoulder straps - trims - streets - inserts 
+.metallizzati metallic 
+04. CHRISTMAS COLLECTION 2016
+BORSE BAGS .05
+MANICI / HANDLES
+manici lunghi long handles 
+HLESX200ECS16134C001 
+descrizione description manici lunghi a goccia extraslim 
+metallizzati 
+metallic extraslim long handles with raindrop ends 
+colore colour antracite anthracite 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+HLESX200ECS16072C001 
+descrizione description manici lunghi a goccia extraslim 
+metallizzati 
+metallic extraslim long handles with raindrop ends 
+colore colour bronzo rosè rosè bronze 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+HLESX200ECS16061C001 
+descrizione description manici lunghi a goccia extraslim 
+metallizzati 
+metallic extraslim long handles with raindrop ends 
+colore colour oro gold 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+.metallizzati metallic 
+08. CHRISTMAS COLLECTION 2016
+manici corti short handles 
+HLESM000TES170090000 
+descrizione description micromanici corti lurex 
+lurex short micro-handles 
+colore colour blu blue 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+HLESM000TES170760000 
+descrizione description micromanici corti lurex 
+lurex short micro-handles 
+colore colour rosso red 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+.lurex 
+HLESX200ECS16134C002 
+descrizione description manici corti a goccia extraslim 
+metallizzati 
+metallic extraslim short handles with raindrop ends 
+colore colour antracite anthracite 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+HLESX200ECS16072C002 
+descrizione description manici corti a goccia extraslim 
+metallizzati 
+metallic extraslim short handles with raindrop ends 
+colore colour bronzo rosè rosè bronze 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+.metallizzati metallic 
+HLESX200ECS16061C002 
+descrizione description manici corti a goccia extraslim 
+metallizzati 
+metallic extraslim short handles with raindrop ends 
+colore colour oro gold 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+MANICI HANDLES .09 09. 
+SHOUG401TES170760000 
+descrizione description tracolla O bag con gocce forate 
+shoulder strap with holed raindrop ends 
+colore colour rosso red 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+SHOUG401TES170090000 
+descrizione description tracolla O bag con gocce forate 
+shoulder strap with holed raindrop ends 
+colore colour blu blue 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+SHOUC106MES010210000 
+descrizione description tracolla O bag fascia eco + catena 
+canna di fucile eco shoulder strap + chain gunmetal 
+colore coloura 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag - O bag mini - O chic - O bag '50 
+tracolle shoulder straps 
+.lurex 
+puntini points 
+10. CHRISTMAS COLLECTION 2016
+MANICI HANDLES .11
+BORDI / TRIMS
+.lurex 
+OBAGT101TES170760000 
+descrizione description bordo O bag lurex con zip 
+lurex O bag trim with zip 
+colore colour rosso red 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O bag 
+OBAGT101TES170090000 
+descrizione description bordo O bag lurex con zip 
+lurex O bag trim with zip 
+colore colour blu blue 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O bag 
+O bag bordi trims 
+14. CHRISTMAS COLLECTION 2016
+BORDI TRIMS .15
+SACCHE INTERNE / INSERTS
+OBAGS102TES170090000 
+descrizione description sacca interna sacca interna O bag 
+mini lurex con coulisse 
+lurex insert O bag mini insert with coulisse 
+colore colour tortora blu blue 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O bag mini 
+OBAGS102TES170760000 
+descrizione description sacca interna O bag mini lurex con 
+coulisse 
+lurex insert O bag mini insert with coulisse 
+colore colour rosso red 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O bag mini 
+O bag mini sacche interne inserts 
+.lurex 
+18. CHRISTMAS COLLECTION 2016
+SACCHE INTERNE INSERTS .19
+PATTE / FLAPS
+OBAGP006TES170090000 
+descrizione description pattina O pocket luex 
+lurex O pocket flap 
+colore colour blu blue 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006TES170760000 
+descrizione description pattina O pocket luex 
+lurex O pocket flap 
+colore colour rosso red 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006ECS161340000 
+descrizione description pattina O pocket metallizzata 
+metallic O pocket flap 
+colore colour antracite anthracite 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006ECS160720000 
+descrizione description pattina O pocket metallizzata 
+metallic O pocket flap 
+colore colour bronzo rosè pink bronze 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006ECS160610000 
+descrizione description pattina O pocket metallizzata 
+metallic O pocket flap 
+colore colour oro gold 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP106ECS170200000 
+descrizione description pattina O pocket con fascia floccata 
+O pocket flap with velvety effect strip 
+colore colour bronzo bronze 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+O pocket patte flaps 
+.lurex 
+.metallizzato metallic 
+.floccato velvety effect 
+22. CHRISTMAS COLLECTION 2016
+OBAGP106ECS170480000 
+descrizione description pattina O pocket con fascia floccata 
+O pocket flap with velvety effect strip 
+colore colour mattone brick red 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP106ECS170090000 
+descrizione description pattina O pocket con fascia floccata 
+O pocket flap with velvety effect strip 
+colore colour blu blue 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP306TES290180000 
+descrizione description pattina O pocket con fiocco velluto 
+O pocket flap with velvet bow 
+colore colour bordeaux 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006ECS180090000 
+descrizione description pattina O pocket con fiocco velluto 
+O pocket flap with velvet bow 
+colore colour blu blue 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006ECS180180000 
+descrizione description pattina O pocket con glitter 
+O pocket flap with glitter 
+colore colour bordeaux 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+OBAGP006ECS180090000 
+descrizione description pattina O pocket con glitter 
+O pocket flap with glitter 
+colore colour blu blue 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+PATTE FLAPS .23
+OBAGP006ECS190550000 
+descrizione description pattina O pocket punti 
+O pocket flap points 
+colore colour nero black 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components 
+O pocket 
+.punti points 
+O pocket patte flaps 
+24. SPRING 2017 COLLECTION
+PATTE FLAPS .25
+OROLOGI / CLOCKS
+O clock quadranti dials 
+OCLKD001MES151510000 
+descrizione description O clock Xmas2016 fiocco 
+O clock Xmas2016 snowflake 
+colore colour bianco e oro white and gold 
+abbinamenti components O clock straps 
+OCLKD001MES151520000 
+descrizione description O clock Xmas2016 renna 
+O clock Xmas2016 reindeer 
+colore colour oro gold 
+abbinamenti components O clock straps 
+OCLKD001MES151550000 
+descrizione description O clock Xmas2016 Christmas 
+O clock Xmas2016 Merry Christmas 
+colore colour argento e oro silver and gold 
+abbinamenti components O clock straps 
+OCLKD001MES180610000 
+descrizione description O clock Xmas2016 Logo 
+O clock Xmas2016 logo 
+colore colour oro gold 
+abbinamenti components O clock straps 
+OCLKD001MES180040000 
+descrizione description O clock Xmas2016 Logo 
+O clock Xmas2016 logo 
+colore colour argento silver 
+abbinamenti components O clock straps 
+OCLKD001MES180080000 
+descrizione description O clock Xmas2016 Logo 
+O clock Xmas2016 logo 
+colore colour bianco white 
+abbinamenti components O clock straps 
+28. CHRISTMAS COLLECTION 2016
+O clock great quadranti dials 
+OCLKD101MES151510000 
+descrizione description O clock Great Xmas2016 fiocco 
+O clock Great Xmas2016 snowflake 
+colore colour argento silver 
+abbinamenti components O clock straps 
+OCLKD101MES151560000 
+descrizione description O clock Great Xmas2016 Roman 
+numbers O clock Great Xmas2016 Roman numbers 
+colore colour bianco white 
+abbinamenti components O clock straps 
+OCLKD101MES151570000 
+descrizione description O clock Great Xmas2016 Classic 
+numbers O clock Great Xmas2016 Classic numbers 
+colore colour oro gold 
+abbinamenti components O clock straps 
+OCLKD101MES160760000 
+descrizione description meccanismo O clock great racing 
+O clock great racing dial 
+colore colour rosso red 
+abbinamenti components O clock great straps 
+OCLKD101MES160080000 
+descrizione description meccanismo O clock great racing 
+O clock great racing dial 
+colore colour bianco white 
+abbinamenti components O clock great straps 
+OROLOGI CLOCKS .29
+OCLKC305MES151510000 
+descrizione description O click Xmas2016 fiocco 
+O click Xmas2016 snowflake 
+colore colour bianco white 
+abbinamenti components O clock straps 
+OCLKC305MES151530000 
+descrizione description O click Xmas2016 stelle 
+O click Xmas2016 stars 
+colore colour oro gold 
+abbinamenti components O clock straps 
+OCLKD001MES151510000 
+descrizione description O click Xmas2016 renna 
+O click Xmas2016 reindeer 
+colore colour argento silver 
+abbinamenti components O clock straps 
+O click quadranti dials 
+30. CHRISTMAS COLLECTION 2016
+OROLOGI CLOCKS .31
+ACCESSORI / ACCESSORIES
+pochette 
+ACCEP001ECS160610000 
+descrizione description pochette metallizzata 
+metallic pochette 
+colore colour oro gold 
+materiale material ecopelle eco-leather 
+ACCEP001ECS160720000 
+descrizione description pochette metallizzata 
+metallic pochette 
+colore colour bronzo rosè rosè bronze 
+materiale material ecopelle eco-leather 
+ACCEP001ECS161340000 
+descrizione description pochette metallizzata 
+metallic pochette 
+colore colour antracite anthracite 
+materiale material ecopelle eco-leather 
+.metallizzati metallic 
+34. CHRISTMAS COLLECTION 2016
+porta cellulare mobile case 
+ACCEP003ECS160610000 
+descrizione description porta cellulare metallico 
+metallic mobile case 
+colore colour oro gold 
+materiale material ecopelle eco-leather 
+ACCEP003ECS160720000 
+descrizione description porta cellulare metallico 
+metallic mobile case 
+colore colour bronzo rosè rosè bronze 
+materiale material ecopelle eco-leather 
+ACCEP003ECS161340000 
+descrizione description porta cellulare metallico 
+metallic mobile case 
+colore colour antracite anthracite 
+materiale material ecopelle eco-leather 
+.metallizzati metallic 
+ACCESSORI ACCESSORIES .35
+descrizione description O squeeze body 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components O squeeze 
+descrizione description O squeeze body 
+colore colour bronzo bronze 
+materiale material EVA compound 
+abbinamenti components O squeeze 
+descrizione description O squeeze body 
+colore colour grafite graphite 
+materiale material EVA compound 
+abbinamenti components O squeeze 
+OSQUB000EVS00017A003 
+descrizione description O squeeze body 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components O squeeze 
+descrizione description O squeeze body 
+colore colour fragola strawberry 
+materiale material EVA compound 
+abbinamenti components O squeeze 
+OSQUB000EVS00084A003 
+descrizione description O squeeze body 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components O squeeze 
+O squeeze cinture belts 
+OSQUB000EVS00055A002 
+size S 
+OSQUB000EVS00038A002 
+size S 
+OSQUB000EVS00119A002 
+size S 
+OSQUB000EVS00020A002 
+size S 
+OSQUB000EVS00017A002 
+size S 
+OSQUB000EVS00084A002 
+size S 
+36. CHRISTMAS COLLECTION 2016
+OSQUB000EVS00055A003 
+size M 
+OSQUB000EVS00038A003 
+size M 
+OSQUB000EVS00119A003 
+size M 
+OSQUB000EVS00020A003 
+size M 
+OSQUB000EVS00017A003 
+size M 
+OSQUB000EVS00084A003 
+size M 
+.EVA compound 
+CINTURE BELT .37
+descrizione description O squeeze tweed 
+colore colour blu con lurex blue with lurex 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components O squeeze body 
+descrizione description O squeeze tweed 
+colore colour rosso con lurex red with lurex 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components O squeeze body 
+descrizione description O squeeze eco pelle 
+eco-leather 
+colore colour antracite anthracite 
+materiale material eco pelle eco-leather 
+abbinamenti components O squeeze body 
+descrizione description O squeeze eco pelle eco-leather 
+colore colour testa di moro dark brown 
+materiale material eco pelle eco-leather 
+abbinamenti components O squeeze body 
+descrizione description O squeeze check 
+colore colour rosso su vernice red on varnish 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components O squeeze body 
+descrizione description O squeeze check 
+colore colour verde su vernice green on varnish 
+materiale material fibra sintetica synthetic fibre 
+abbinamenti components O squeeze body 
+OSQUC002TES16076A002 
+size S 
+OSQUC002TES16089A002 
+size S 
+OSQUC002TES17009A002 
+size S 
+OSQUC002TES17076A002 
+size S 
+OSQUC000ECS00134A002 
+size S 
+OSQUB000EVS00084A002 
+size S 
+38. CHRISTMAS COLLECTION 2016
+.tweed 
+.eco pelle eco leather 
+OSQUC002TES16076A003 
+size M 
+OSQUC002TES16089A003 
+size M 
+OSQUC002TES17009A003 
+size M 
+OSQUC002TES17076A003 
+size M 
+OSQUC000ECS00134A003 
+size M 
+OSQUB000EVS00084A003 
+size M 
+OSQUC002TES16076A004 
+size L 
+OSQUC002TES16089A004 
+size L 
+OSQUC002TES16089A004 
+size L 
+OSQUC002TES17076A004 
+size L 
+OSQUC000ECS00134A004 
+size L 
+OSQUC000ECS00084A004 
+size L 
+.check 
+CINTURE BELT .39
+O bag Headquarters 
+Via Austria, 17 
+35127 Padova (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

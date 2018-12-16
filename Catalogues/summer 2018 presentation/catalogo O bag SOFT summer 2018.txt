@@ -1,0 +1,287 @@
+O bag soft 
+summer ‘18
+code OBAGB842_TES20 
+descrizione scocca completa 
+con chiusura zip o tender tessuto 
+gommato 
+col. 025 
+cipria 
+cipria 
+col. 111 
+ocra 
+ocra 
+col. 081 
+smeraldo 
+smeraldo 
+col. 017 
+blu navy 
+blu navy 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 055 
+nero 
+nero 
+O bag soft .tender 
+.tender 
+code HLESX800_ECS00 
+descrizione manico extra slim goccia 
+corto ecopelle 
+col. 055 
+nero 
+black 
+col. 267 
+fucsia 
+fucsia 
+col. 484 
+coral 
+coral
+code OBAGB840_TES20 
+descrizione scocca completa con 
+chiusura zip o mild tessuto gommato 
+code HLESX800_ECS00 
+descrizione manico extra slim goccia 
+corto ecopelle 
+code SHOUWF00_TES20 
+descrizione tracolla new generico 
+larga tessuto gommato 
+col. 025 
+cipria 
+cipria 
+col. 025 
+cipria 
+cipria 
+col. 055 
+nero 
+black 
+col. 111 
+ocra 
+ocra 
+col. 111 
+ocra 
+ocra 
+col. 081 
+smeraldo 
+smeraldo 
+col. 081 
+smeraldo 
+smeraldo 
+col. 017 
+blu navy 
+blu navy 
+col. 017 
+blu navy 
+blu navy 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 055 
+nero 
+nero 
+col. 055 
+nero 
+nero 
+O bag soft .mild 
+.mild 
+col. 267 
+fucsia 
+fucsia 
+col. 267 
+fucsia 
+fucsia 
+col. 484 
+coral 
+coral 
+col. 484 
+coral 
+coral
+code OBAGB041_TES20 
+descrizione scocca o sweet 
+tessuto gommato 
+code HLESX200_ECS00 
+descrizione manico extra slim 
+goccia lungo ecopelle 
+code OBAGS001_TES01 
+descrizione sacca interna zip 
+tessuto canvas 
+col. 025 
+cipria 
+cipria 
+col. 055 
+nero 
+black 
+col. 111 
+ocra 
+ocra 
+col. 081 
+smeraldo 
+smeraldo 
+col. 017 
+blu navy 
+blu navy 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 055 
+nero 
+nero 
+col. 055 
+nero 
+nero 
+O bag soft .sweet 
+.sweet 
+col. 267 
+fucsia 
+fucsia 
+col. 484 
+coral 
+coral
+code OBAGB943_TES20 
+descrizione scocca completa 
+con chiusura o smooth tessuto 
+gommato 
+code SHOUWG00_TES20 
+descrizione tracolla new generico 
+stretta tessuto gommato 
+col. 025 
+cipria 
+cipria 
+col. 025 
+cipria 
+cipria 
+col. 267 
+fucsia 
+fucsia 
+col. 267 
+fucsia 
+fucsia 
+col. 484 
+coral 
+coral 
+col. 484 
+coral 
+coral 
+col. 111 
+ocra 
+ocra 
+col. 111 
+ocra 
+ocra 
+col. 081 
+smeraldo 
+smeraldo 
+col. 081 
+smeraldo 
+smeraldo 
+col. 017 
+blu navy 
+blu navy 
+col. 017 
+blu navy 
+blu navy 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 055 
+nero 
+nero 
+col. 055 
+nero 
+nero 
+O bag soft .smooth 
+.smooth
+code OBAGB944_TES20 
+descrizione scocca completa con 
+chiusura o easy tessuto gommato 
+code ACCEP044_TES20 
+descrizione accessosrio pochette 
+o easy tessuto gommato 
+col. 025 
+cipria 
+cipria 
+col. 025 
+cipria 
+cipria 
+col. 111 
+ocra 
+ocra 
+col. 111 
+ocra 
+ocra 
+col. 081 
+smeraldo 
+smeraldo 
+col. 081 
+smeraldo 
+smeraldo 
+col. 017 
+blu navy 
+blu navy 
+col. 017 
+blu navy 
+blu navy 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 055 
+nero 
+nero 
+col. 055 
+nero 
+nero 
+O bag soft .easy 
+.easycode 
+SHOUWG00_TES20 
+descrizione tracolla new generico 
+stretta tessuto gommato 
+col. 025 
+cipria 
+cipria 
+col. 111 
+ocra 
+ocra 
+col. 081 
+smeraldo 
+smeraldo 
+col. 017 
+blu navy 
+blu navy 
+col. 133 
+grigio chiaro 
+grigio chiaro 
+col. 055 
+nero 
+nero 
+col. 267 
+fucsia 
+fucsia 
+col. 267 
+fucsia 
+fucsia 
+col. 267 
+fucsia 
+fucsia 
+col. 484 
+coral 
+coral 
+col. 484 
+coral 
+coral 
+col. 484 
+coral 
+coral
+O bag Headquarters 
+Via L. Galvani, 1 
+35011 Campodarsego (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it

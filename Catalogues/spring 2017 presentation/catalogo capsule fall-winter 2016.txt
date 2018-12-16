@@ -1,0 +1,1185 @@
+indice / index 
+03 FALL CAPSULE 
+03 One 
+10 O hug donna woman 
+16 O hug uomo man 
+22 O shoes 
+27 WINTER CAPSULE 
+27 bordi trims 
+32 O hug donna woman 
+39 O hug uomo man 
+46 O shoes 
+legenda / legend 
+• FASHION COLLECTION 
+.01
+FALL CAPSULE 
+.zaino backpack
+OBAGB015EVS001190000 
+descrizione description ONE body 
+colore colour fragola strawberry 
+materiale material EVA compound 
+abbinamenti components 
+One cover 
+OBAGB015EVS000380000 
+descrizione description ONE body 
+colore colour grafite graphite 
+materiale material EVA compound 
+abbinamenti components 
+One cover 
+OBAGB015EVS000050000 
+descrizione description ONE body 
+colore colour avio air-blue 
+materiale material EVA compound 
+abbinamenti components 
+One cover 
+OBAGB015EVS000440000 
+descrizione description ONE body 
+colore colour lime 
+materiale material EVA compound 
+abbinamenti components 
+One cover 
+One zaino packpack ·n FALL CAPSULE One 
+OBAGB015EVS000550000 
+descrizione description ONE body 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+One cover 
+.EVA compound 
+04. CAPSULE FALL-WINTER 2016
+One zaino packpack ·n FALL CAPSULE 
+OBAGB015EVS000170000 
+descrizione description ONE body 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+One cover 
+OBAGC115TES260170000 
+descrizione description ONE cover con spallacci 
+One cover with shoulder straps 
+colore colour blu navy navy blue 
+materiale material Cordura 
+abbinamenti components 
+One body 
+OBAGC115TES260360000 
+descrizione description ONE cover con spallacci 
+colore colour giallo yellow 
+materiale material Cordura 
+abbinamenti components 
+One body 
+OBAGC115TES261340000 
+descrizione description ONE cover con spallacci 
+One cover with shoulder straps 
+colore colour antracite anthracite 
+materiale material Cordura 
+abbinamenti components 
+One body 
+OBAGC115TES260550000 
+descrizione description ONE cover con spallacci 
+One cover with shoulder straps 
+colore colour nero black 
+materiale material Cordura 
+abbinamenti components 
+One body 
+.cordura 
+ZAINI BACKPACKS .05
+OBAGC115TES261330000 
+descrizione description ONE cover con spallacci 
+One cover with shoulder straps 
+colore colour grigio chiaro light grey 
+materiale material Cordura 
+abbinamenti components 
+One body 
+OBAGC115TES260760000 
+descrizione description ONE cover con spallacci 
+One cover with shoulder straps 
+colore colour rosso red 
+materiale material Cordura 
+abbinamenti components 
+One body 
+One zaino packpack ·n FALL CAPSULE 
+06. CAPSULE FALL-WINTER 2016
+ZAINI BACKPACKS .07
+FALL CAPSULE 
+.portafogli wallets
+OHUGB002EVS060750000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour rosa smoke smoke rose 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000750000 
+descrizione description O hug donna 
+O hug woman 
+colore colour rosa smoke smoke rose 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060550000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000550000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060710000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+.EVA compound 
+O hug portafogli wallets ·u FALL CAPSULE 
+10. CAPSULE FALL-WINTER 2016
+OHUGB002EVS000710000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour roccia rock 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060060000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour avorio ivory 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000060000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour avorio ivory 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060680000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour polvere dust-blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000680000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour polvere dust-blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+ACCESSORI ACCESSORIES .11
+OHUGB002EVS061440000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour ginestra ginestre 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+O hug portafogli wallets ·u FALL CAPSULE 
+OHUGB002EVS000150000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour blu iris iris blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060020000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour amaranto amaranth 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000020000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour amaranto amaranth 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060150000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour blu iris iris blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+12. CAPSULE FALL-WINTER 2016
+OHUGB002EVS001440000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour ginestra ginestre 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+.pelle leather 
+OHUGB002PES000840000 
+descrizione description O hug donna interno pelle 
+O hug woman leather 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002PES000550000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002PES000390000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+ACCESSORI ACCESSORIES .13
+OHUGB002ECS000060000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour avorio ivory 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000680000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour polvere dust-blue 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000710000 
+descrizione description O hug donna interno eco 
+O hug woman eco-leather 
+colore colour roccia rock 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000550000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour nero black 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+O hug portafogli wallets ·u FALL CAPSULE 
+OHUGB002ECS000750000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour rosa smoke smoke rose 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+.eco pelle eco-leather 
+14. CAPSULE FALL-WINTER 2016
+OHUGB002ECS000150000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour blu iris iris blue 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000020000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour amaranto amaranth 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS001440000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour ginestra ginestre 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+ACCESSORI ACCESSORIES .15
+OHUGB001EVS070170000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070550000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000550000 
+descrizione description O hug uomo 
+O hug man 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070840000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000840000 
+descrizione description O hug uomo 
+O hug man 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+O hug portafogli wallets ·u FALL CAPSULE 
+.EVA compound 
+16. CAPSULE FALL-WINTER 2016
+OHUGB001EVS000170000 
+descrizione description O hug uomo 
+O hug man 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070220000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour carta zucchero azure 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000220000 
+descrizione description O hug uomo 
+O hug man 
+colore colour carta zucchero azure 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000920000 
+descrizione description O hug uomo 
+O hug man 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070920000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+ACCESSORI ACCESSORIES .17
+OHUGB001EVS071580000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS001580000 
+descrizione description O hug uomo 
+O hug man 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001PES000840000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001PES000390000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001PES000550000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+.pelle leather 
+18. CAPSULE FALL-WINTER 2016
+OHUGB001ECS000840000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour testa di moro dark brown 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001ECS000840000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour blu navy navy blue 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001ECS000550000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour nero black 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+.eco pelle eco-leather 
+OHUGB001ECS001580000 
+descrizione description O hug uomo pelle 
+O hug man leather 
+colore colour vulcano volcano 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001ECS000920000 
+descrizione description O hug uomo eco pelle 
+O hug man eco-leather 
+colore colour verde scuro dark green 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+ACCESSORI ACCESSORIES .19
+FALL CAPSULE 
+.scarpe shoes
+descrizione description O shoes high 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour bronzo bronze 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour porpora purple 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour grafite graphite 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+OSHSD001EVS00084B355 
+size 35 / 36 
+OSHSD001EVS00092B355 
+size 35 / 36 
+OSHSD001EVS00038B355 
+size 35 / 36 
+OSHSD001EVS00020B355 
+size 35 / 36 
+OSHSD001EVS00133B355 
+size 35 / 36 
+OSHSD001EVS00112B355 
+size 35 / 36 
+O shoes scocche body 
+22. CAPSULE FALL-WINTER 2016
+OSHSD001EVS00084B370 
+size 37 
+OSHSD001EVS00084B415 
+size 41 / 42 
+OSHSD001EVS00092B415 
+size 41 / 42 
+OSHSD001EVS00038B415 
+size 41 / 42 
+OSHSD001EVS00020B415 
+size 41 / 42 
+OSHSD001EVS00133B415 
+size 41 / 42 
+OSHSD001EVS00112B415 
+size 41 / 42 
+OSHSD001EVS00084B400 
+size 40 
+OSHSD001EVS00092B400 
+size 40 
+OSHSD001EVS00038B400 
+size 40 
+OSHSD001EVS00020B400 
+size 40 
+OSHSD001EVS00133B400 
+size 40 
+OSHSD001EVS00112B400 
+size 40 
+OSHSD001EVS00084B390 
+size 39 
+OSHSD001EVS00092B390 
+size 39 
+OSHSD001EVS00038B390 
+size 39 
+OSHSD001EVS00020B390 
+size 39 
+OSHSD001EVS00133B390 
+size 39 
+OSHSD001EVS00112B390 
+size 39 
+OSHSD001EVS00084B380 
+size 38 
+OSHSD001EVS00092B380 
+size 38 
+OSHSD001EVS00038B380 
+size 38 
+OSHSD001EVS00020B380 
+size 38 
+OSHSD001EVS00133B380 
+size 38 
+OSHSD001EVS00112B380 
+size 38 
+OSHSD001EVS00092B370 
+size 37 
+OSHSD001EVS00038B370 
+size 37 
+OSHSD001EVS00020B370 
+size 37 
+OSHSD001EVS00133B370 
+size 37 
+OSHSD001EVS00112B370 
+size 37 
+SCARPE SHOES .23
+descrizione description O shoes high 
+colore colour avio air-blue 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+OSHSD001EVS00005B355 
+size 35 / 36 
+OSHSD001EVS00055B355 
+size 35 / 36 
+O shoes scocche body 
+24. CAPSULE FALL-WINTER 2016
+OSHSD001EVS00005B415 
+size 41 / 42 
+OSHSD001EVS00055B415 
+size 41 / 42 
+OSHSD001EVS00005B400 
+size 40 
+OSHSD001EVS00055B400 
+size 40 
+OSHSD001EVS00005B390 
+size 39 
+OSHSD001EVS00055B390 
+size 39 
+OSHSD001EVS00005B380 
+size 38 
+OSHSD001EVS00055B380 
+size 38 
+OSHSD001EVS00005B370 
+size 37 
+OSHSD001EVS00055B370 
+size 37 
+SCARPE SHOES .25
+WINTER CAPSULE 
+.bordi trims
+O bag '50 bordi trims 
+OBAGC109ECS000090000 
+descrizione description cover O bag '50 ecopelle 
+eco-leather O bag '50 cover 
+colore colour blu blue 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag '50 
+OBAGC109ECS000920002 
+descrizione description cover O bag '50 ecopelle 
+eco-leather O bag '50 cover 
+colore colour verde scuro dark green 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag '50 
+OBAGC109ECS000180001 
+descrizione description cover O bag '50 ecopelle 
+eco-leather O bag '50 cover 
+colore colour bordeaux 
+materiale material ecopelle eco-leather 
+abbinamenti components 
+O bag '50 
+28. CAPSULE FALL-WINTER 2016
+BORDI TRIMS .29
+z 
+WINTER CAPSULE 
+.portafogli wallets
+OHUGB002EVS061330000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS001330000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+.EVA compound 
+O hug portafogli wallets ·u WINTER CAPSULE 
+OHUGB002EVS061120000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour purple 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS001120000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour purple 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060380000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour grafite graphite 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+32. CAPSULE FALL-WINTER 2016
+OHUGB002EVS000380000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour grafite graphite 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060920000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000920000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060840000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000840000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+ACCESSORI ACCESSORIES .33
+.EVA compound 
+O hug portafogli wallets ·u WINTER CAPSULE 
+OHUGB002EVS060060000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour avorio ivory 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000060000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour avorio ivory 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS060170000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS000170000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002EVS061190000 
+descrizione description O hug donna texture greca 
+O hug woman greek texture 
+colore colour fragola strawberry 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+34. CAPSULE FALL-WINTER 2016
+.pelle leather 
+OHUGB002EVS001190000 
+descrizione description O hug body donna 
+O hug body woman 
+colore colour fragola strawberry 
+materiale material EVA compound 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002PES000840000 
+descrizione description O hug interno donna pelle 
+O hug woman leather 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002PES000550000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002PES000390000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002PES001540000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour ciliegia cherry 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+ACCESSORI ACCESSORIES .35
+OHUGB002PES000170000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour blu navy navy blue 
+materiale material pelle leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000750000 
+descrizione description O hug donna pelle 
+O hug woman leather 
+colore colour rosa smoke smoke rose 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000550000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour nero black 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+O hug portafogli wallets ·u WINTER CAPSULE 
+.ecopelle eco-leather 
+OHUGB002ECS000710000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour roccia rock 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000680000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour polvere dust-blue 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+36. CAPSULE FALL-WINTER 2016
+OHUGB002ECS000150000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour blu iris iris blue 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000020000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour amaranto amaranth 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS001440000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour ginestra ginestre 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS000060000 
+descrizione description O hug donna eco pelle 
+O hug woman eco-leather 
+colore colour avorio ivory 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+ACCESSORI ACCESSORIES .37
+OHUGB002ECS190720000 
+descrizione description O hug donna body chanel 
+O hug woman body chanel 
+colore colour rosa pink 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+OHUGB002ECS190090000 
+descrizione description O hug donna body chanel 
+O hug woman body chanel 
+colore colour blu blue 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+O hug portafogli wallets ·u WINTER CAPSULE 
+.chanel 
+OHUGB002TES020390000 
+descrizione description O hug donna body tweed 
+O hug woman body tweed 
+colore colour grigio grey 
+materiale material eco pelle eco-leather 
+abbinamenti components 
+O hug donna O hug woman 
+.tweed 
+38. CAPSULE FALL-WINTER 2016
+OHUGB001EVS070170000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070550000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000550000 
+descrizione description O hug uomo 
+O hug man 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070840000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000840000 
+descrizione description O hug uomo 
+O hug man 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+.EVA compound 
+ACCESSORI ACCESSORIES .39
+OHUGB001EVS000170000 
+descrizione description O hug uomo 
+O hug man 
+colore colour blu navy navy blue 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070220000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour carta zucchero azure 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000220000 
+descrizione description O hug uomo 
+O hug man 
+colore colour carta zucchero azure 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS000920000 
+descrizione description O hug uomo 
+O hug man 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS070920000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+40. CAPSULE FALL-WINTER 2016
+OHUGB001EVS071580000 
+descrizione description O hug uomo texture tessuto 
+O hug man fabric texture 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001EVS001580000 
+descrizione description O hug uomo 
+O hug man 
+colore colour vulcano volcano 
+materiale material EVA compound 
+abbinamenti components 
+O hug uomo O hug man 
+.pelle leather 
+OHUGB001PES000050000 
+descrizione description O hug uomo body pelle 
+O hug man leather body 
+colore colour avio air-blue 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001PES000840000 
+descrizione description O hug uomo body pelle 
+O hug man leather body 
+colore colour testa di moro dark brown 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001PES000550000 
+descrizione description O hug uomo body pelle 
+O hug man leather body 
+colore colour nero black 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+ACCESSORI ACCESSORIES .41
+OHUGB001ECS000550000 
+descrizione description O hug uomo body eco pelle 
+martellata 
+O hug man textured eco-leather body 
+colore colour nero black 
+materiale material eco pelle martellata textured eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001ECS000170000 
+descrizione description O hug uomo body eco pelle 
+martellata 
+O hug man textured eco-leather body 
+colore colour blu navy navy blue 
+materiale material eco pelle martellata textured eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+O hug portafogli wallets ·u WINTER CAPSULE 
+OHUGB001ECS000840000 
+descrizione description O hug uomo body eco pelle 
+martellata 
+O hug man textured eco-leather body 
+colore colour testa di moro dark brown 
+materiale material eco pelle martellata textured eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+.eco pelle eco-leather 
+OHUGB001PES000630000 
+descrizione description O hug uomo body pelle 
+O hug man leather body 
+colore colour ottanio teal 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001PES000390000 
+descrizione description O hug uomo body pelle 
+O hug man leather body 
+colore colour grigio grey 
+materiale material pelle leather 
+abbinamenti components 
+O hug uomo O hug man 
+42. CAPSULE FALL-WINTER 2016
+OHUGB001ECS001580000 
+descrizione description O hug uomo body eco pelle 
+martellata 
+O hug man textured eco-leather body 
+colore colour vulcano volcano 
+materiale material eco pelle martellata textured eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+OHUGB001ECS000920000 
+descrizione description O hug uomo body eco pelle 
+martellata 
+O hug man textured eco-leather body 
+colore colour verde scuro dark green 
+materiale material eco pelle martellata textured eco-leather 
+abbinamenti components 
+O hug uomo O hug man 
+ACCESSORI ACCESSORIES .43
+WINTER CAPSULE 
+.scarpe shoes
+descrizione description O shoes high 
+colore colour testa di moro dark brown 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour bronzo bronze 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour verde scuro dark green 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour porpora purple 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour grafite graphite 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour grigio chiaro light grey 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+OSHSD001EVS00084B355 
+size 35 / 36 
+OSHSD001EVS00092B355 
+size 35 / 36 
+OSHSD001EVS00038B355 
+size 35 / 36 
+OSHSD001EVS00020B355 
+size 35 / 36 
+OSHSD001EVS00133B355 
+size 35 / 36 
+OSHSD001EVS00112B355 
+size 35 / 36 
+O shoes scocche body 
+46. CAPSULE FALL-WINTER 2016
+OSHSD001EVS00084B370 
+size 37 
+OSHSD001EVS00084B415 
+size 41 / 42 
+OSHSD001EVS00092B415 
+size 41 / 42 
+OSHSD001EVS00038B415 
+size 41 / 42 
+OSHSD001EVS00020B415 
+size 41 / 42 
+OSHSD001EVS00133B415 
+size 41 / 42 
+OSHSD001EVS00112B415 
+size 41 / 42 
+OSHSD001EVS00084B400 
+size 40 
+OSHSD001EVS00092B400 
+size 40 
+OSHSD001EVS00038B400 
+size 40 
+OSHSD001EVS00020B400 
+size 40 
+OSHSD001EVS00133B400 
+size 40 
+OSHSD001EVS00112B400 
+size 40 
+OSHSD001EVS00084B390 
+size 39 
+OSHSD001EVS00092B390 
+size 39 
+OSHSD001EVS00038B390 
+size 39 
+OSHSD001EVS00020B390 
+size 39 
+OSHSD001EVS00133B390 
+size 39 
+OSHSD001EVS00112B390 
+size 39 
+OSHSD001EVS00084B380 
+size 38 
+OSHSD001EVS00092B380 
+size 38 
+OSHSD001EVS00038B380 
+size 38 
+OSHSD001EVS00020B380 
+size 38 
+OSHSD001EVS00133B380 
+size 38 
+OSHSD001EVS00112B380 
+size 38 
+OSHSD001EVS00092B370 
+size 37 
+OSHSD001EVS00038B370 
+size 37 
+OSHSD001EVS00020B370 
+size 37 
+OSHSD001EVS00133B370 
+size 37 
+OSHSD001EVS00112B370 
+size 37 
+SCARPE SHOES .47
+descrizione description O shoes high 
+colore colour avio air-blue 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+descrizione description O shoes high 
+colore colour nero black 
+materiale material EVA compound 
+abbinamenti components 
+accessori O shoes O shoes accessories 
+OSHSD001EVS00005B355 
+size 35 / 36 
+OSHSD001EVS00055B355 
+size 35 / 36 
+O shoes scocche body 
+48. CAPSULE FALL-WINTER 2016
+OSHSD001EVS00005B415 
+size 41 / 42 
+OSHSD001EVS00055B415 
+size 41 / 42 
+OSHSD001EVS00005B400 
+size 40 
+OSHSD001EVS00055B400 
+size 40 
+OSHSD001EVS00005B390 
+size 39 
+OSHSD001EVS00055B390 
+size 39 
+OSHSD001EVS00005B380 
+size 38 
+OSHSD001EVS00055B380 
+size 38 
+OSHSD001EVS00005B370 
+size 37 
+OSHSD001EVS00055B370 
+size 37 
+SCARPE SHOES .49
+O bag Headquarters 
+Via Austria, 17 
+35127 Padova (PD) - Italy 
+T +39 049 8952852 
+info@obagservice.com 
+www.obag.it
