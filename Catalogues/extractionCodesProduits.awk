@@ -8,15 +8,31 @@ input != FILENAME {
 	input = FILENAME
 	
 	# fichier sortie
-	output = FILENAME
-	gsub(/txt$/, "csv", output)
-	print "Sortie : " output
+	outputEAN13 = FILENAME
+	gsub(/txt$/, "EAN13.csv", outputEAN13)
+	print "Sortie : " outputEAN13
+	
+	nomFichier = outputEAN13
+	gsub(/ /, "\\ ", nomFichier)
+	if (system("test -f " nomFichier) == 0) {
+		print "    !! Fichier existant : '" outputEAN13 "'"
+		outputEAN13 = "/tmp/null"
+	} else {
+		print "    EAN13 : '" outputEAN13 "'"
+	}
 
-	outputCouleur = FILENAME
-	gsub(/txt$/, "couleur.txt", outputCouleur)
-	print "Couleurs : " outputCouleur
+	outputCOUL = FILENAME
+	gsub(/txt$/, "COUL.csv", outputCOUL)
+	print "    Couleurs : " outputCOUL
 
-	print "Code barre;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > output
+	
+	print "Code barre;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > outputEAN13
+	print "XXX" > outputEAN13
+	print "XXX;ATTENTION au format des colonnes !" > outputEAN13
+	print "XXX;Avant toute edition, changer les formats des colonnes suivantes :" > outputEAN13
+	print "XXX;Code Barre :;; numerique sans decimales" > outputEAN13
+	print "XXX;Code Couleur :;; numerique format \"000\"" > outputEAN13
+	print "XXX" > outputEAN13
 	
 	# reinitialisation
 	nomCatalogue = ""
@@ -32,10 +48,9 @@ input != FILENAME {
 	
 	if (nomCatalogue == "") {
 		for (i= 2; i <= NF; i++) {
-			nomCatalogue = nomCatalogue " " $i
+			nomCatalogue = nomCatalogue " " corrigeCaracteresSpeciaux($i)
 		}
 		
-		nomCatalogue = corrigeCaracteresSpeciaux(nomCatalogue)
 
 		print "Catalogue : " nomCatalogue
 	}
@@ -68,9 +83,11 @@ chercheCol == "en" {
 	couleurEN = corrigeCaracteresSpeciaux($0)
 	chercheCol = ""
 	
-	printf("%s;%s;%d;%s;%s;%03d;%s;%s;\n", "CodeBarre", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > output
-	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > outputCouleur
-	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > "ToutesCouleurs.txt"
+	# Toutes infos
+	printf("%s;%s;%d;%s;%s;%03d;%s;%s;\n", "CodeBarre", nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > outputEAN13
+
+	# Couleurs
+	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > outputCOUL
 }
 
 chercheCol == "it" {
