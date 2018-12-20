@@ -8,14 +8,8 @@ echo " "
 echo " "
 
 echo "Creation des fichiers de synthèse"
-fichierEAN13="TousProduits.EAN13.csv"
-cat */*EAN13.csv | grep -v CodeBarre | grep -v "Code barre" | grep -v XXX > ${fichierEAN13}
-ls -la ${fichierEAN13}
-wc ${fichierEAN13}
-
-echo ""
 fichierTousProduits="TousProduits.csv"
-cat */*EAN13.csv  > ${fichierTousProduits}
+cat */*EAN13.csv  | grep -v XXX | sort > ${fichierTousProduits}
 ls -la ${fichierTousProduits}
 wc ${fichierTousProduits}
 
