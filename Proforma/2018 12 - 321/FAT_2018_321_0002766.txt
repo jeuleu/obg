@@ -1,0 +1,728 @@
+2018 04/OBAG/1026 136333 
+2018 04/OBAG/1074 136814 
+7 
+13 
+14 
+19 
+4 
+6 
+8 
+9 
+10 
+12 
+OBAGB033 
+OBAGB001 
+HLESCE01 
+OBAGB002 
+OBAGS002 
+OBAGS002 
+OBAGS001 
+OBAGB033 
+SHOUX101 
+OBAGS002 
+EVS00 
+EVS00 
+ECS07 
+EVS00 
+TESR1 
+TESR1 
+TESR1 
+EVS00 
+ECS00 
+TESR1 
+017 
+389 
+133 
+389 
+086 
+018 
+018 
+078 
+018 
+258 
+MAGD01/2018/02/24046 14/12/2018 002489 O BAG STORE TOULOUSE 2 RUE BARONIE 
+31100 TOLOSA FR 
+Document Date doc. Client dest. 
+Num. C.de 
+Num. C.de 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+CORPS O BAG URBAN EVA COMPOUND NAVY 
+CORPS O BAG EVA COMPOUND SILVER 
+ANSES DOUBLE CHAÎNE EN « T » EN FAUX CUIR EFFET GRIFFÉ GRIS CLAIR 
+CORPS O BAG MINI EVA COMPOUND SILVER 
+POCHETTE INTÉRIEURE FERMETURE ÉCLAIR O BAG MINI EN TISSU COTTON CORDUROY GRIS TOUR 
+POCHETTE INTÉRIEURE FERMETURE ÉCLAIR O BAG MINI EN TISSU COTTON CORDUROY BORDEAUX 
+POCHETTE INTÉRIEURE FERMETURE ÉCLAIR O BAG EN TISSU COTTON CORDUROY BORDEAUX 
+CORPS O BAG URBAN EVA COMPOUND SABLE 
+BANDOULIÈRE EXTRASLIM 110 + ANSES TUBULAIRES + CLIP FAUX CUIR BORDEAUX 
+POCHETTE INTÉRIEURE FERMETURE ÉCLAIR O BAG MINI EN TISSU COTTON CORDUROY BEIGE 
+label FULL SPOT SPA label CSUPIK/2018/02/95915 label 14/12/2018 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+CN - CINA 
+CN - CINA 
+CN - CINA 
+IT - ITALIA 
+IT - ITALIA 
+4202221000 
+4202221000 
+7907000000 
+4202221000 
+4202229090 
+4202229090 
+4202229090 
+4202221000 
+3926909790 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+AGED01 AGENTE DIREZIONALE SOCIETA' D01 
+1ZV621906844873718 FT 
+Fattura ESTERO 
+P002 BONIFICO CLIENTE 
+EUR 1.552,81 
+EUR 
+Justificatif 
+Cod. Paiem. 
+Remise fin. Remise en-t remise cond. 
+IBAN 
+Agent 
+Notes facture 
+Total FACTURE 
+N.jours 
+Banque 
+2018 321 2766 19/12/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Lettre 
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P. Iva 44808894489 
+Client 
+1 
+002487 
+Pag 
+Document 
+Document 
+Document 
+Document 
+MAGD01/2018/02/24046 
+MAGD01/2018/02/24047 
+MAGD01/2018/02/24048 
+/// 
+14/12/2018 
+14/12/2018 
+14/12/2018 
+label 
+label 
+label 
+label 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+2018-04-OBAG-1026 
+2018-04-OBAG-1074 
+2018-04-OBAG-1026 
+2018-04-OBAG-1074 
+2018-04-OBAG-1026 
+2018-04-OBAG-1074 
+--- 
+21/04/2018 
+23/04/2018 
+21/04/2018 
+23/04/2018 
+21/04/2018 
+23/04/2018 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+Modèle Pièce N. Couleur QTÉ 
+Prix 
+Remises Montant Cadeaux TVA Um Taille 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+3 
+8 
+8 
+10 
+5 
+3 
+5 
+3 
+2 
+3 
+14,16 
+14,40 
+10,60 
+14,40 
+9,00 
+9,00 
+10,80 
+14,16 
+7,78 
+9,00 
+42,48 
+115,20 
+84,80 
+144,00 
+45,00 
+27,00 
+54,00 
+42,48 
+15,56 
+27,00 
+1
+2018 04/OBAG/1074 136814 
+2018 04/OBAG/1026 136333 
+2018 04/OBAG/1074 136814 
+2018 04/OBAG/1026 136333 
+17 
+18 
+20 
+24 
+5 
+15 
+3 
+21 
+23 
+OBAGB206 
+OBAGB034 
+OBAGB001 
+OBAGS001 
+HLESGC00 
+OBAGB032 
+OBAGB002 
+HLESG000 
+OBAGB002 
+EVS00 
+EVS00 
+EVS00 
+TESR1 
+ECS04 
+EVS00 
+EVS00 
+ECS04 
+EVS00 
+024 
+024 
+024 
+258 
+038 
+559 
+026 
+038 
+026 
+MAGD01/2018/02/24046 
+MAGD01/2018/02/24047 
+MAGD01/2018/02/24048 
+14/12/2018 
+14/12/2018 
+14/12/2018 
+002489 
+002489 
+002489 
+O BAG STORE TOULOUSE 2 RUE BARONIE 
+31100 TOLOSA FR 
+O BAG STORE TOULOUSE 2 RUE BARONIE 
+31100 TOLOSA FR 
+O BAG STORE TOULOUSE 2 RUE BARONIE 
+31100 TOLOSA FR 
+Document 
+Document 
+Document 
+Date doc. 
+Date doc. 
+Date doc. 
+Client dest. 
+Client dest. 
+Client dest. 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+CORPS INFÉRIEUR O POCKET EVA COMPOUND CHOCOLAT 
+CORPS O BAG GLAM EVA COMPOUND CHOCOLAT 
+CORPS O BAG EVA COMPOUND CHOCOLAT 
+POCHETTE INTÉRIEURE FERMETURE ÉCLAIR O BAG EN TISSU COTTON CORDUROY BEIGE 
+ANSES COURTES EN FAUX CUIR POMPON GRIS GRAPHITE 
+CORPS O BAG KNIT MINI EVA COMPOUND CUIVRE 
+CORPS O BAG MINI EVA COMPOUND BLEU COBALT 
+ANSES LONGUES EN FAUX CUIR POMPON GRIS GRAPHITE 
+label 
+label 
+FULL SPOT SPA 
+FULL SPOT SPA 
+label 
+label 
+CSUPIK/2018/02/95918 
+CSUPIK/2018/02/95920 
+label 
+label 
+14/12/2018 
+14/12/2018 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+CN - CINA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+CN - CINA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+4202229090 
+4202221000 
+4202221000 
+4202221000 
+4202229090 
+3926909790 
+4202221000 
+4202221000 
+3926909790 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+AGED01 AGENTE DIREZIONALE SOCIETA' D01 
+1ZV621906844873718 FT 
+Fattura ESTERO 
+P002 BONIFICO CLIENTE 
+EUR 1.552,81 
+EUR 
+Justificatif 
+Cod. Paiem. 
+Remise fin. Remise en-t remise cond. 
+IBAN 
+Agent 
+Notes facture 
+Total FACTURE 
+N.jours 
+Banque 
+2018 321 2766 19/12/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Lettre 
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P. Iva 44808894489 
+Client 
+2 
+002487 
+Pag 
+Modèle Pièce N. Couleur QTÉ 
+Prix 
+Remises Montant Cadeaux TVA Um Taille 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+5 
+2 
+8 
+8 
+10 
+2 
+2 
+15 
+6 
+4,80 
+12,59 
+14,40 
+10,80 
+6,05 
+14,16 
+14,40 
+7,03 
+14,40 
+24,00 
+25,18 
+115,20 
+86,40 
+60,50 
+28,32 
+28,80 
+105,45 
+86,40 
+2
+2018 04/OBAG/1026 136333 
+2018 04/OBAG/1074 136814 
+// 
+1 
+2 
+11 
+16 
+22 
+25 
+26 
+OBAGB032 
+OBAGB002 
+OBAGB002 
+OBAGB017 
+OBAGB206 
+OBAGB001 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+EVS00 
+000_SPTRASP 
+078 
+559 
+559 
+540 
+559 
+559 
+MAGD01/2018/02/24048 14/12/2018 002489 O BAG STORE TOULOUSE 2 RUE BARONIE 
+31100 TOLOSA FR 
+Document 
+Document 
+Date doc. 
+Date doc. 
+Client dest. 
+Client dest. 
+Num. C.de 
+Num. C.de 
+Num. C.de 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+PZ 
+NR 84,00 84,00 1 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+1G 
+CORPS O BAG MINI EVA COMPOUND BLEU COBALT 
+CORPS O BAG KNIT MINI EVA COMPOUND SABLE 
+CORPS O BAG MINI EVA COMPOUND CUIVRE 
+CORPS O BAG MINI EVA COMPOUND CUIVRE 
+CORPS O MOON LIGHT EVA COMPOUND CURRY 
+CORPS INFÉRIEUR O POCKET EVA COMPOUND CUIVRE 
+CORPS O BAG EVA COMPOUND CUIVRE 
+DÉBIT FRAIS DE TRANSPORT 
+****** 19/12/2018 *** 19/12/2018 19/12/2018 label 134 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+Fabriqué e 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+IT - ITALIA 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+4202221000 
+label 
+label 
+label 
+label 
+label 
+label 
+label 
+AGED01 AGENTE DIREZIONALE SOCIETA' D01 
+1ZV621906844873718 FT 
+Fattura ESTERO 
+P002 BONIFICO CLIENTE 
+EUR 1.552,81 
+EUR 
+Justificatif 
+Cod. Paiem. 
+Remise fin. Remise en-t remise cond. 
+IBAN 
+Agent 
+Notes facture 
+Total FACTURE 
+N.jours 
+Banque 
+2018 321 2766 19/12/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Lettre 
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P. Iva 44808894489 
+Client 
+3 
+002487 
+Pag 
+Modèle Pièce N. Couleur QTÉ 
+Prix 
+Remises Montant Cadeaux TVA Um Taille 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+UNICA 
+2 
+2 
+6 
+3 
+4 
+8 
+14,16 
+14,40 
+14,40 
+11,04 
+4,80 
+14,40 
+28,32 
+28,80 
+86,40 
+33,12 
+19,20 
+115,20 
+3
+0,00 
+0,00 
+0,00 
+1G VEND.N.I.ART.41 L.427/93 UE 1.552,81 0 0,00 
+19/12/2018 1.552,81 
+1.468,81 
+84,00 
+1.468,81 
+0,00 
+0,00 1.468,81 
+EUR 1.552,81 
+392690979 
+420222100 
+420222909 
+790700000 
+27 
+74 
+24 
+8 
+KG 
+KG 
+KG 
+KG 
+3,099 
+31,564 
+4,2 
+1,961 
+181,51 
+963,1 
+239,4 
+84,8 
+PZ 
+PZ 
+PZ 
+PZ 
+3,099 
+31,564 
+4,2 
+1,961 
+181,51 
+963,1 
+239,4 
+84,8 
+RECAPITULATIFS 
+Récapitulatif catégories douanières 
+Catégorie Um poids Poids Um Qté Quantité Valeur 
+Récapitulatif TVA 
+TVA Imposable Participation Configurer 
+Echéances 
+Date Montant 
+Totaux 
+Remises 
+Remise 
+Remise En-tête 
+Remise financière 
+Cadeaux 
+Acomptes 
+Montants 
+Montant brut 
+Brut frais 
+Montant net de tout 
+Montant net 
+Total FACTURE 
+Total 
+Total 
+Total 
+Total 
+label 
+N. colis Um Poids brut Poids net 
+Transporteurs label 
+Date début transpo 
+label *** 
+label Port 
+Out In - Mag C/O Full Spot 
+Corso Stati Uniti 
+35127 Padova -Italia 
+label 
+Tot Poids brut Tot Poids net 
+KG 
+KG 
+KG 
+KG 
+1 
+6 
+1 
+1 
+0,990 
+6,213 
+0,756 
+1,800 
+1,990 
+7,213 
+1,756 
+2,800 
+1,990 
+43,278 
+1,756 
+2,800 
+0,990 
+37,278 
+0,756 
+1,800 
+KG 49,824 40,824 
+AGED01 AGENTE DIREZIONALE SOCIETA' D01 
+1ZV621906844873718 FT 
+Fattura ESTERO 
+P002 BONIFICO CLIENTE 
+EUR 1.552,81 
+EUR 
+Justificatif 
+Cod. Paiem. 
+Remise fin. Remise en-t remise cond. 
+IBAN 
+Agent 
+Notes facture 
+Total FACTURE 
+N.jours 
+Banque 
+2018 321 2766 19/12/2018 
+VEND.N.I.ART.41 L.427/93 UE 
+Année Index N. Date 
+Exemption 
+Intention 
+Échéance 
+Lettre 
+SOFEA 
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia 
+P. Iva 44808894489 
+Client 
+4 
+002487 
+Pag 
+Modèle Pièce N. Couleur QTÉ 
+Prix 
+Remises Montant Cadeaux TVA Um Taille 
+4
