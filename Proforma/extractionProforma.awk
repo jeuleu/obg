@@ -23,9 +23,8 @@ input != FILENAME {
 	if (system("test -f " nomFichier) == 0) {
 		print "    !! Fichier existant : '" output "'"
 		output = "/tmp/null"
-	} else {
-		print "    EAN13 : '" output "'"
 	}
+
 	print "Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant" > output
 	
 	# reinitialisation
@@ -129,7 +128,6 @@ etat == "lectureLibelle" {
 	} else {
 		if ($0 !~ /[Cc]at\351gorie/ && 	length($0) > marqueurTailleLibelle) {
 			numLigne++
-			print "lectureLibelle : '" $0 "'"
 			addInfoLigne(numLigne, $0, "lectureLibelle");
 		}	
 	}		
@@ -180,6 +178,8 @@ etat == "lectureTaille" {
 /^[0-9]/	&&	etat == "lecturePrixTotal" {
 	if (numLigne >= nbLignes) {
 		etat = "attenteFinPage"
+		nbLignesAttente = 1
+		
 		numLigne = 0
 	} else {
 		numLigne++
@@ -187,8 +187,17 @@ etat == "lectureTaille" {
 	}		
 }
 
-/\/OBAG\// && etat == "attenteFinPage" {
+etat == "attenteFinPage" {
+	if (nbLignesAttente == 0 ) {
+		print "Lecture numéro page : " $0
+		
+		etat = "finPage"
+	}
+	
+	nbLignesAttente--
+	}
 
+etat == "finPage" {
 	afficheInfosLigne();
 
 	etat = "attenteNbLignes"
@@ -199,6 +208,13 @@ etat == "lectureTaille" {
 	# interligne
 	print " " > output
 	
+	print "FIN DE PAGE : " $0
+}
+
+
+/31[0-9]{3} [A-Z]* FR/ {
+	print "BOUTIQUE : " $0 " / '" $2 "'"
+	boutique = $2
 }
 
 # attente ref facture
@@ -207,22 +223,17 @@ etat == "lectureTaille" {
 
 	etat = "attenteRefFacture"
 	nbLignesAttente = 1
-	
-	print "attenteRefFacture : etatMemorise : " etatMemorise " => " etat
-	print "   >> " $0
 }
 
 etat == "attenteRefFacture" {
-	print "attenteRefFacture : " $0
+	#print "attenteRefFacture : " $0
 	if (nbLignesAttente == 0 ) {
 		refFacture = $0
 		
 		etat = etatMemorise
-	print " >>attenteRefFacture : etatMemorise : " etatMemorise " => " etat
 	}
 	
 	nbLignesAttente--
-
 }
 
 # attente total produits
@@ -289,13 +300,16 @@ function afficheInfosFinFichier() {
 	print " "
 	print " " > output
 
-	print "Ref. facture;;" refFacture
+	print "Boutique : " boutique
+	print "Boutique;;" boutique > output
+
+	print "Ref. facture : " refFacture
 	print "Ref. facture;;" refFacture > output
 
-	print "Total facture;;" totalFacture
+	print "Total facture : " totalFacture
 	print "Total facture;;" totalFacture > output
 
-	print "Total produits;;" totalProduits
+	print "Total produits : " totalProduits
 	print "Total produits;;" totalProduits > output
 
 	print " "
