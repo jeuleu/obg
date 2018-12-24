@@ -28,7 +28,7 @@ input != FILENAME {
 	print "Sortie : "  output ", " output2
 	print " "
 
-	ecritInfo("Produit;Taille;Couleur;Prix Achat;Prix Vente;Saison")
+	ecritInfo("Produit;Taille;Couleur;Prix Achat;Prix Vente;Code Complet;Saison")
 }
 
 
@@ -68,7 +68,7 @@ input != FILENAME {
 	if (saison) {
 		for (i in taille) {
 			prixVente[i] = $i
-			ecritInfo(produit ";" taille[i] ";" couleur ";" prixAchat[i] ";" prixVente[i] ";" saison)
+			ecritInfo(produit ";" taille[i] ";" couleur ";" prixAchat[i] ";" prixVente[i] ";" produit "-" taille[i] "-" couleur ";" saison)
 		}
 	}
 }
