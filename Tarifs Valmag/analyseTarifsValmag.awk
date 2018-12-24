@@ -28,32 +28,14 @@ input != FILENAME {
 	print "Sortie : "  output ", " output2
 	print " "
 
-	print "Produit;Taille;Prix Achat;Prix Vente		" > output
+	ecritInfo("Produit;Taille;Couleur;Prix Achat;Prix Vente;Saison")
 }
 
-
-/^   / && etat == "lecturePrixVente" {
-	for (i in couleur) {
-		prixVente[i] = $i
-
-		ecritInfo(produit ";" couleur[i] ";" prixAchat[i] ";" prixVente[i])
-	}
-	
-	etat = "attenteCouleur"
-}
-	
-/^   / && etat == "lecturePrixAchat" {
-	for (i in couleur) {
-		prixAchat[i] = $i
-	}
-	
-	etat = "lecturePrixVente"
-}
 
 /;COL / {	
 	# reinitialisation
-	for (i in couleur) {
-		delete couleur[i]
+	for (i in taille) {
+		delete taille[i]
 		delete prixAchat[i]
 		delete prixVente[i]
 	}
@@ -61,20 +43,36 @@ input != FILENAME {
 	produit = $1
 	gsub(/ /, "", produit)
 	
-	txtCouleur = ""
+	txtTaille = ""
 	for (i = 5; i <= NF; i++) {
 		gsub(/ /, "", $i)
 		if (length($i) > 0) {
-			couleur[i] = $i
-			txtCouleur = txtCouleur ";" couleur[i]
+			taille[i] = $i
+			txtTaille = txtTaille ";" taille[i]
 		}
 	}
-	
-	print produit txtCouleur	
-	
-	etat = "lecturePrixAchat"
 }
 
+/;PA;/ {
+	for (i in taille) {
+		prixAchat[i] = $i
+	}
+	saison = $2
+	gsub(/ /, "", saison)
+	couleur = $3
+	gsub(/ /, "", couleur)
+}
+
+/;PV;/ {
+	# dernières lignes : la saison n'est pas renseignée
+	if (saison) {
+		for (i in taille) {
+			prixVente[i] = $i
+			ecritInfo(produit ";" taille[i] ";" couleur ";" prixAchat[i] ";" prixVente[i] ";" saison)
+		}
+	}
+}
+	
 function ecritInfo(info) {
 	print info
 	print info > output
@@ -83,6 +81,6 @@ function ecritInfo(info) {
 
 END {
 	ecritInfo(" ")
-	ecritInfo("Source : " input)
-	ecritInfo("Sortie : "  output ", " output2)
+	ecritInfo("Source;" input)
+	ecritInfo("Sortie;"  output ", " output2)
 }
