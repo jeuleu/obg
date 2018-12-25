@@ -7,14 +7,26 @@ BEGIN {
 
 
 input != FILENAME {
-	print " "
+
+	# controle du type de fichier
+	if (FILENAME !~ /EDITARSTO/) {
+		print "Attention : ce n'est pas le bon fichier : " FILENAME
+		print ""
+		print "Type de fichier attendu : 'EDITARSTO'"
+		print ""
+		print "Valmag / Fichiers de base / ..."
+
+		exitAnalyse = 1
+		exit 1
+	}
 
 	input = FILENAME
 	print "Source : " input
-		
+	
 	# fichier sortie
 	output = FILENAME
-	gsub(/EDITARSTO_.*_/, "tarifValmag_", output)
+	gsub(/EDITARSTO_.*_/, "tarifStock_", output)
+	output2 = "tarifStock.csv"
 
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
@@ -23,7 +35,6 @@ input != FILENAME {
 		output = "/tmp/null"
 	}
 
-	output2 = "tarifValmag.csv"
 	
 	print "Sortie : "  output ", " output2
 	print " "
@@ -80,7 +91,9 @@ function ecritInfo(info) {
 }
 
 END {
-	ecritInfo(" ")
-	ecritInfo("Source;" input)
-	ecritInfo("Sortie;"  output ", " output2)
+	if (!exitAnalyse) {
+		ecritInfo(" ")
+		ecritInfo("Source;" input)
+		ecritInfo("Sortie;"  output ", " output2)
+	}
 }
