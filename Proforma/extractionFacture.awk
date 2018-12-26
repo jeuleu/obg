@@ -3,7 +3,7 @@ BEGIN {
 
 	marqueurTailleLibelle = 20
 	
-	#verbose = "vrai"
+	verbose = "vrai"
 }
 
 
@@ -28,8 +28,6 @@ input != FILENAME {
 		output = "/tmp/null"
 	}
 
-	ecritDansFichier("Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant")
-	
 	# reinitialisation
 	etat = "attenteNbLignes"
 	refFacture = ""
@@ -201,6 +199,7 @@ etat == "attenteFinPage" {
 	}
 
 etat == "finPage" {
+print "finPage !!"
 	traitementDeFinDePage();
 
 	etat = "attenteNbLignes"
@@ -209,7 +208,7 @@ etat == "finPage" {
 	numLigne = 0
 
 	# interligne
-	ecritDansFichier(" ")
+	ajouteLigne(" ")
 	
 	print "FIN DE PAGE : " $0
 }
@@ -254,7 +253,7 @@ etat == "attenteTotalProduits" {
 		totalProduits = $1
 		gsub(/\./, "", totalProduits)
 		
-		afficheInfosFinFichier()
+		traitementDeFinDeFichier()
 		
 		etat = "finAnalyseFichier"
 	}
@@ -282,13 +281,18 @@ function addInfoLigne(numLigne, info, typeInfo) {
 	}
 }
 
+function ajouteLigne(ligne) {
+	indexLigne++
+	tabLignes[indexLigne] = ligne
+}
+
 function traitementDeFinDePage() {
 	for (i = 1; i <= nbLignes; i++) {
 		if ( verbose ) {
 			print "Page " pageNum " / " i " : " infoLigne[i]
 		}
 		
-		ecritDansFichier(infoLigne[i])
+		ajouteLigne(infoLigne[i])
 		
 		# reinitialisation
 		delete infoLigne[i]
@@ -296,6 +300,7 @@ function traitementDeFinDePage() {
 }
 
 function ecritDansFichier(info) {
+	
 	if ( verbose ) {
 		print info
 	}
@@ -304,17 +309,24 @@ function ecritDansFichier(info) {
 }
 
 
-function afficheInfosFinFichier() {
+function traitementDeFinDeFichier() {
 	print "On a : " pageNum " pages...."
 	
 	traitementDeFinDePage()
 	
-	ecritDansFichier(" ")
+	ecritDansFichier("Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant")
 	
 	ecritDansFichier("Boutique;;" boutique)
 	ecritDansFichier("Ref. facture;;" refFacture)
 	ecritDansFichier("Total facture;;" totalFacture)
 	ecritDansFichier("Total produits;;" totalProduits)
+	ecritDansFichier(" ")
+	
+	for (i in tabLignes) {
+		ecritDansFichier(tabLignes[i])
+		delete tabLignes[i]
+	}
+	
 	
 	print "Fichier input : " input
 	print "Fichier output : " output, ", " output2
