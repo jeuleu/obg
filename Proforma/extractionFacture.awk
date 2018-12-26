@@ -8,6 +8,8 @@ BEGIN {
 
 
 input != FILENAME {
+	controleTypeFichier()
+
 	print " "
 
 	print "Source : " FILENAME
@@ -15,8 +17,9 @@ input != FILENAME {
 	
 	# fichier sortie
 	output = FILENAME
+	output2 = "FAT_traitee.csv"
 	gsub(/txt$/, "csv", output)
-	print "Sortie : " output
+	print "Sortie : " output ", " output2
 	
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
@@ -25,7 +28,7 @@ input != FILENAME {
 		output = "/tmp/null"
 	}
 
-	print "Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant" > output
+	ecritDansFichier("Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant")
 	
 	# reinitialisation
 	etat = "attenteNbLignes"
@@ -198,7 +201,7 @@ etat == "attenteFinPage" {
 	}
 
 etat == "finPage" {
-	afficheInfosLigne();
+	traitementDeFinDePage();
 
 	etat = "attenteNbLignes"
 	
@@ -206,7 +209,7 @@ etat == "finPage" {
 	numLigne = 0
 
 	# interligne
-	print " " > output
+	ecritDansFichier(" ")
 	
 	print "FIN DE PAGE : " $0
 }
@@ -279,43 +282,53 @@ function addInfoLigne(numLigne, info, typeInfo) {
 	}
 }
 
-function afficheInfosLigne() {
+function traitementDeFinDePage() {
 	for (i = 1; i <= nbLignes; i++) {
 		if ( verbose ) {
 			print "Page " pageNum " / " i " : " infoLigne[i]
 		}
-		print infoLigne[i] > output
+		
+		ecritDansFichier(infoLigne[i])
 		
 		# reinitialisation
 		delete infoLigne[i]
 	}
 }
 
+function ecritDansFichier(info) {
+	if ( verbose ) {
+		print info
+	}
+	print info > output
+	print info > output2
+}
+
 
 function afficheInfosFinFichier() {
 	print "On a : " pageNum " pages...."
 	
-	afficheInfosLigne()
+	traitementDeFinDePage()
 	
-	print " "
-	print " " > output
-
-	print "Boutique : " boutique
-	print "Boutique;;" boutique > output
-
-	print "Ref. facture : " refFacture
-	print "Ref. facture;;" refFacture > output
-
-	print "Total facture : " totalFacture
-	print "Total facture;;" totalFacture > output
-
-	print "Total produits : " totalProduits
-	print "Total produits;;" totalProduits > output
-
-	print " "
+	ecritDansFichier(" ")
+	
+	ecritDansFichier("Boutique;;" boutique)
+	ecritDansFichier("Ref. facture;;" refFacture)
+	ecritDansFichier("Total facture;;" totalFacture)
+	ecritDansFichier("Total produits;;" totalProduits)
 	
 	print "Fichier input : " input
-	print "Fichier output : " output
-	
-	
+	print "Fichier output : " output, ", " output2
+}
+
+# controle du type de fichier
+function controleTypeFichier() {
+
+	if (FILENAME !~ /FAT_.*txt$/ ) {
+		print "Attention : ce n'est pas le bon fichier : " FILENAME
+		print ""
+		print "Type de fichier attendu : 'FAT_.*txt'"
+		print ""
+
+		exit 1
+	}
 }
