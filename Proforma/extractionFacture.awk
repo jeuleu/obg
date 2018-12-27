@@ -3,7 +3,7 @@ BEGIN {
 
 	marqueurTailleLibelle = 20
 	
-	verbose = "vrai"
+	#verbose = "vrai"
 }
 
 
@@ -31,6 +31,7 @@ input != FILENAME {
 	# reinitialisation
 	etat = "attenteNbLignes"
 	refFacture = ""
+	cumulMontant = 0
 }
 
 
@@ -51,7 +52,7 @@ input != FILENAME {
 
 # Transition : lecture modele
 /^[A-Z]/ && etat == "lectureNbLignes" {
-	print "La page " pageNum " a " nbLignes " lignes"
+#	print "La page " pageNum " a " nbLignes " lignes"
 	
 	etat = "lectureModele"
 	numLigne = 0
@@ -78,7 +79,7 @@ input != FILENAME {
 	if (numLigne >= nbLignes) {
 		etat = "lectureCouleur"
 		numLigne = 0
-		print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
+#		print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $1, "lectureCodePiece");
@@ -94,7 +95,7 @@ input != FILENAME {
 	if (numLigne >= nbLignes) {
 		etat = "attenteUnite"
 		numLigne = 0
-		print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
+#		print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $1, "lectureCouleur");
@@ -168,7 +169,7 @@ etat == "lectureTaille" {
 
 /^[0-9]/	&&	etat == "lecturePrixUnitaire" {
 	if (numLigne >= nbLignes) {
-		etat = "lecturePrixTotal"
+		etat = "lectureMontant"
 		numLigne = 0
 	} else {
 		numLigne++
@@ -176,7 +177,7 @@ etat == "lectureTaille" {
 	}		
 }
 
-/^[0-9]/	&&	etat == "lecturePrixTotal" {
+/^[0-9]/	&&	etat == "lectureMontant" {
 	if (numLigne >= nbLignes) {
 		etat = "attenteFinPage"
 		nbLignesAttente = 1
@@ -184,8 +185,13 @@ etat == "lectureTaille" {
 		numLigne = 0
 	} else {
 		numLigne++
-		addInfoLigne(numLigne, $1, "lecturePrixTotal");
-	}		
+		addInfoLigne(numLigne, $1, "lectureMontant");
+
+		# lecture et cumul montant
+		montant = $1
+		gsub(/,/, "\.", montant)
+		cumulMontant += montant
+	}
 }
 
 etat == "attenteFinPage" {
@@ -248,7 +254,6 @@ etat == "attenteRefFacture" {
 }
 
 etat == "attenteTotalProduits" {
-	print "attenteTotalProduits : (nbLignesAttente : " nbLignesAttente ") " $0
 	if (nbLignesAttente == 0 ) {
 		totalProduits = $1
 		gsub(/\./, "", totalProduits)
@@ -320,6 +325,19 @@ function traitementDeFinDeFichier() {
 	ecritDansFichier("Ref. facture;;" refFacture)
 	ecritDansFichier("Total facture;;" totalFacture)
 	ecritDansFichier("Total produits;;" totalProduits)
+	ecritDansFichier(" ")
+	ecritDansFichier("Cumul montant;;" cumulMontant)
+
+	# controle
+	gsub(/,/, "\.", totalProduits)
+	if (totalProduits == cumulMontant) {
+		ecritDansFichier("CONTROLE MONTANT OK;;" cumulMontant)
+	} else {
+		print " "
+		print "ANOMALIE MONTANT : totalProduits = " totalProduits ", cumulMontant = " cumulMontant 
+		print " "
+		ecritDansFichier("ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
+	}
 	ecritDansFichier(" ")
 	
 	for (i in tabLignes) {
