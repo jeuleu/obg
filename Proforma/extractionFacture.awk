@@ -8,6 +8,12 @@ BEGIN {
 
 
 input != FILENAME {
+	# fin du fichier précedent si nécessaire
+print "DEBUG changement de filemame : '" FILENAME "', input = '" input "'"
+	if (input != "") {
+		traitementDeFinDeFichier()
+	}
+
 	controleTypeFichier()
 
 	print " "
@@ -185,12 +191,13 @@ etat == "lectureTaille" {
 	}		
 }
 
+etat == "lectureMontant" {
+	print "DEBUG lectureMontant '" $0 "'  pageNum=" pageNum ", numLigne=" numLigne ", nbLignes=" nbLignes 
+}
+
 /^[0-9]/	&&	etat == "lectureMontant" {
 	if (numLigne >= nbLignes) {
-		etat = "attenteFinPage"
-		nbLignesAttente = 1
-		
-		numLigne = 0
+		finLectureMontant()
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $1, "lectureMontant");
@@ -202,9 +209,24 @@ etat == "lectureTaille" {
 	}
 }
 
+# sorti de lectureMontant
+etat == "lectureMontant" {
+	if (numLigne >= nbLignes) {
+		finLectureMontant()
+	}
+}
+
+function finLectureMontant() {
+	etat = "attenteFinPage"
+	nbLignesAttente = 1
+	
+	numLigne = 0
+}
+
+
 etat == "attenteFinPage" {
 	if (nbLignesAttente == 0 ) {
-#		print "Lecture numéro page : " $0
+		print "Lecture numéro page : " $0
 		
 		etat = "finPage"
 	}
@@ -249,31 +271,22 @@ etat == "attenteRefFacture" {
 	nbLignesAttente--
 }
 
-# attente total produits
-/1G VEND.N.I.ART./ {
-	etat = "attenteTotalProduits"
-	nbLignesAttente = 2
-	
-	totalFacture = $5;
+# total facture
+/^EUR [0-9\.,]* / {
+		
+print "DEBUG lecture total facture '" $0 "'"
+	totalFacture = $2
 	gsub(/\./, "", totalFacture)
 }
 
-etat == "attenteTotalProduits" {
-	if (nbLignesAttente == 0 ) {
-		totalProduits = $1
-		gsub(/\./, "", totalProduits)
-				
-		etat = "finAnalyseFichier"
-		
-		traitementDeFinDeFichier()
-	}
-	
-	nbLignesAttente--
-
+# total facture
+/^0,00 [0-9]*/ {
+	totalProduits = $2
+	gsub(/\./, "", totalProduits)
 }
 
 { 
-#	print "Ligne " NR " : " $0
+	print "Ligne " NR " : " $0
 }
 
 function addInfoLigne(numLigne, info, typeInfo) {
@@ -297,6 +310,7 @@ function ajouteLigne(ligne) {
 }
 
 function traitementDeFinDePage() {
+print "DEBUG traitementDeFinDePage '" $0 "'"
 	for (i = 1; i <= nbLignes; i++) {
 		if ( verbose ) {
 			print "Page " pageNum " / " i " : " infoLigne[i]
@@ -315,12 +329,8 @@ function ecritDansFichier(info) {
 		print info
 	}
 	
-	if ( etat == "finAnalyseFichier" ) {
-		print info > output
-		print info > output_FAT_traitee
-	} else {
-		print info > outputAnomalie
-	}	
+	print info > output
+	print info > output_FAT_traitee
 }
 
 
@@ -337,9 +347,7 @@ function traitementDeFinDeFichier() {
 	ecritDansFichier("Total produits;;" totalProduits)
 	ecritDansFichier(" ")
 	ecritDansFichier("Cumul montant;;" cumulMontant)
-	if ( etat != "finAnalyseFichier" ) {
-		ecritDansFichier("Anomalie : etat courant = '" etat "'")
-	}
+	ecritDansFichier("Etat courant = '" etat "'")
 
 	# controle
 	gsub(/,/, "\.", totalProduits)
@@ -359,13 +367,7 @@ function traitementDeFinDeFichier() {
 	}
 	
 	print "Fichier input : " input
-	if ( etat == "finAnalyseFichier" ) {
-		print "Fichier output : " output, ", " output_FAT_traitee
-	} else {
-		print "Anomalie : etat courant = '" etat "'"
-		print "Fichier output : " outputAnomalie
-	}
-	
+	print "Fichier output : " output, ", " output_FAT_traitee
 }
 
 # controle du type de fichier
@@ -382,7 +384,5 @@ function controleTypeFichier() {
 }
 
 END {
-	if ( etat != "finAnalyseFichier" ) {
-		traitementDeFinDeFichier()
-	}
+	traitementDeFinDeFichier()
 }
