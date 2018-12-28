@@ -17,9 +17,12 @@ input != FILENAME {
 	
 	# fichier sortie
 	output = FILENAME
-	output2 = "FAT_traitee.csv"
+	output_FAT_traitee = "FAT_traitee.csv"
 	gsub(/txt$/, "csv", output)
-	print "Sortie : " output ", " output2
+
+	outputAnomalie = FILENAME
+	gsub(/txt$/, "ANOMALIE.csv", outputAnomalie)
+	print "Sortie : " output ", " output_FAT_traitee
 	
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
@@ -68,7 +71,7 @@ input != FILENAME {
 
 		# c'est la derniere page avec une ligne pour les frais de port
 		nbLignes--
-		print "  >> Correction " nbLignes " lignes"
+#		print "  >> Correction " nbLignes " lignes"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $0, "lectureModele");
@@ -156,7 +159,7 @@ etat == "lectureTaille" {
 	numLigne = 0;
 }
 
-/^[0-9]/	&&	etat == "lectureQuantite" {
+/^[0-9]/ &&	etat == "lectureQuantite" {
 	if (numLigne >= nbLignes) {
 		etat = "lecturePrixUnitaire"
 		numLigne = 0
@@ -167,7 +170,11 @@ etat == "lectureTaille" {
 }
 
 
-/^[0-9]/	&&	etat == "lecturePrixUnitaire" {
+/^[0-9]/ && etat == "lecturePrixUnitaire"  {
+	if (etat == "attenteQuantite") {
+		etat = "lecturePrixUnitaire"
+	}
+
 	if (numLigne >= nbLignes) {
 		etat = "lectureMontant"
 		numLigne = 0
@@ -196,7 +203,7 @@ etat == "lectureTaille" {
 
 etat == "attenteFinPage" {
 	if (nbLignesAttente == 0 ) {
-		print "Lecture numéro page : " $0
+#		print "Lecture numéro page : " $0
 		
 		etat = "finPage"
 	}
@@ -205,7 +212,6 @@ etat == "attenteFinPage" {
 	}
 
 etat == "finPage" {
-print "finPage !!"
 	traitementDeFinDePage();
 
 	etat = "attenteNbLignes"
@@ -215,8 +221,6 @@ print "finPage !!"
 
 	# interligne
 	ajouteLigne(" ")
-	
-	print "FIN DE PAGE : " $0
 }
 
 
@@ -257,10 +261,10 @@ etat == "attenteTotalProduits" {
 	if (nbLignesAttente == 0 ) {
 		totalProduits = $1
 		gsub(/\./, "", totalProduits)
+				
+		etat = "finAnalyseFichier"
 		
 		traitementDeFinDeFichier()
-		
-		etat = "finAnalyseFichier"
 	}
 	
 	nbLignesAttente--
@@ -309,8 +313,13 @@ function ecritDansFichier(info) {
 	if ( verbose ) {
 		print info
 	}
-	print info > output
-	print info > output2
+	
+	if ( etat == "finAnalyseFichier" ) {
+		print info > output
+		print info > output_FAT_traitee
+	} else {
+		print info > outputAnomalie
+	}	
 }
 
 
@@ -327,6 +336,9 @@ function traitementDeFinDeFichier() {
 	ecritDansFichier("Total produits;;" totalProduits)
 	ecritDansFichier(" ")
 	ecritDansFichier("Cumul montant;;" cumulMontant)
+	if ( etat != "finAnalyseFichier" ) {
+		ecritDansFichier("Anomalie : etat courant = '" etat "'")
+	}
 
 	# controle
 	gsub(/,/, "\.", totalProduits)
@@ -345,9 +357,14 @@ function traitementDeFinDeFichier() {
 		delete tabLignes[i]
 	}
 	
-	
 	print "Fichier input : " input
-	print "Fichier output : " output, ", " output2
+	if ( etat == "finAnalyseFichier" ) {
+		print "Fichier output : " output, ", " output_FAT_traitee
+	} else {
+		print "Anomalie : etat courant = '" etat "'"
+		print "Fichier output : " outputAnomalie
+	}
+	
 }
 
 # controle du type de fichier
@@ -360,5 +377,11 @@ function controleTypeFichier() {
 		print ""
 
 		exit 1
+	}
+}
+
+END {
+	if ( etat != "finAnalyseFichier" ) {
+		traitementDeFinDeFichier()
 	}
 }
