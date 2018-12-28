@@ -267,23 +267,10 @@ etat == "finPage" {
 	boutique = $4
 }
 
-# attente ref facture
-/^Banque/ && !refFacture {
-	etatMemorise = etat
-
-	etat = "attenteRefFacture"
-	nbLignesAttente = 1
-}
-
-etat == "attenteRefFacture" {
-	#print "attenteRefFacture : " $0
-	if (nbLignesAttente == 0 ) {
-		refFacture = $0
-		
-		etat = etatMemorise
-	}
-	
-	nbLignesAttente--
+# Ref facture
+/^[[:digit:]]{4} [[:digit:]]* [[:digit:]]* [[:digit:]]{2}\/[[:digit:]]{2}\/[[:digit:]]{4}/ {
+#	print "Ref facture : '" $0 "'"
+	refFacture = $0
 }
 
 # total facture
