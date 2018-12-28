@@ -145,6 +145,7 @@ etat == "lectureLibelle" {
 }
 
 etat == "lectureTaille" {
+#	print "lectureTaille '" $0 "'"
 	if (numLigne >= nbLignes) {
 		etat = "attenteQuantite"
 		numLigne = 0
@@ -154,7 +155,7 @@ etat == "lectureTaille" {
 	}		
 }
 
-/^[0-9]* / && etat == "attenteQuantite" {
+/^[0-9,]* / && etat == "attenteQuantite" {
 	etat = "lectureQuantite"
 	numLigne = 0;
 }
@@ -165,7 +166,7 @@ etat == "lectureTaille" {
 		numLigne = 0
 	} else {
 		numLigne++
-		addInfoLigne(numLigne, $1, "lectureQuantite");
+		addInfoLigne(numLigne, 0+$1, "lectureQuantite");
 	}		
 }
 
