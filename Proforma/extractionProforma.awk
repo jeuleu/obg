@@ -8,16 +8,20 @@ BEGIN {
 
 
 input != FILENAME {
-	print " "
+	# fin du fichier précedent si nécessaire
+	if (input != "") {
+		traitementDeFinDeFichier()
+	}
 
-	print "Source : " FILENAME
+	controleTypeFichier()
+
 	input = FILENAME
 	
 	# fichier sortie
 	output = FILENAME
+	output_PROF_traitee = "PROF_traitee.csv"
 	gsub(/txt$/, "csv", output)
-	print "Sortie : " output
-	
+
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
 	if (system("test -f " nomFichier) == 0) {
@@ -25,11 +29,11 @@ input != FILENAME {
 		output = "/tmp/null"
 	}
 
-	print "Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant" > output
-	
 	# reinitialisation
 	etat = "attenteNbLignes"
+	etatFichier = ""
 	refFacture = ""
+	cumulMontant = 0
 }
 
 
@@ -50,7 +54,7 @@ input != FILENAME {
 
 # Transition : lecture modele
 /^[A-Z]/ && etat == "lectureNbLignes" {
-	print "La page " pageNum " a " nbLignes " lignes"
+#	print "La page " pageNum " a " nbLignes " lignes"
 	
 	etat = "lectureModele"
 	numLigne = 0
@@ -66,7 +70,10 @@ input != FILENAME {
 
 		# c'est la derniere page avec une ligne pour les frais de port
 		nbLignes--
-		print "  >> Correction " nbLignes " lignes"
+#		print "  >> Correction " nbLignes " lignes"
+#		print "  >> Dernière page " nbLignes " lignes"
+		
+		etatFichier = "dernierePage"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $0, "lectureModele");
@@ -77,7 +84,7 @@ input != FILENAME {
 	if (numLigne >= nbLignes) {
 		etat = "lectureCouleur"
 		numLigne = 0
-		print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
+#		print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $1, "lectureCodePiece");
@@ -93,7 +100,7 @@ input != FILENAME {
 	if (numLigne >= nbLignes) {
 		etat = "attenteUnite"
 		numLigne = 0
-		print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
+#		print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $1, "lectureCouleur");
@@ -115,7 +122,7 @@ etat == "attenteLibelle" {
 	if (length($0) > marqueurTailleLibelle) {
 		etat = "lectureLibelle"
 		numLigne = 0
-#		print "attenteLibelle : => lectureLibelle '" $0 "' (ligne " NR ")"
+		print "attenteLibelle : => lectureLibelle '" $0 "' (ligne " NR ")"
 	} else {
 #		print "attenteLibelle : long : " length($0) " - '" $0 "'"
 	}
@@ -140,6 +147,7 @@ etat == "lectureLibelle" {
 }
 
 etat == "lectureTaille" {
+#	print "lectureTaille '" $0 "'"
 	if (numLigne >= nbLignes) {
 		etat = "attenteQuantite"
 		numLigne = 0
@@ -149,25 +157,29 @@ etat == "lectureTaille" {
 	}		
 }
 
-/^[0-9]* / && etat == "attenteQuantite" {
+/^[0-9,]* / && etat == "attenteQuantite" {
 	etat = "lectureQuantite"
 	numLigne = 0;
 }
 
-/^[0-9]/	&&	etat == "lectureQuantite" {
+/^[0-9]/ &&	etat == "lectureQuantite" {
 	if (numLigne >= nbLignes) {
 		etat = "lecturePrixUnitaire"
 		numLigne = 0
 	} else {
 		numLigne++
-		addInfoLigne(numLigne, $1, "lectureQuantite");
+		addInfoLigne(numLigne, 0+$1, "lectureQuantite");
 	}		
 }
 
 
-/^[0-9]/	&&	etat == "lecturePrixUnitaire" {
+/^[0-9]/ && etat == "lecturePrixUnitaire"  {
+	if (etat == "attenteQuantite") {
+		etat = "lecturePrixUnitaire"
+	}
+
 	if (numLigne >= nbLignes) {
-		etat = "lecturePrixTotal"
+		etat = "lectureMontant"
 		numLigne = 0
 	} else {
 		numLigne++
@@ -175,21 +187,48 @@ etat == "lectureTaille" {
 	}		
 }
 
-/^[0-9]/	&&	etat == "lecturePrixTotal" {
+# debug
+etatFichier == "dernierePage" {
+#	print "dernierePage '" $0 "', etat = " etat
+}
+
+
+/^[0-9]/	&&	etat == "lectureMontant" {
 	if (numLigne >= nbLignes) {
+		finLectureMontant()
+	} else {
+		numLigne++
+		addInfoLigne(numLigne, $1, "lectureMontant");
+
+		# lecture et cumul montant
+		montant = $1
+		gsub(/,/, "\.", montant)
+		cumulMontant += montant
+	}
+}
+
+# sorti de lectureMontant
+etat == "lectureMontant" {
+	if (numLigne >= nbLignes) {
+		finLectureMontant()
+	}
+}
+
+function finLectureMontant() {
+	if (etatFichier == "dernierePage") {
+		etat = "finPage"
+	} else {
 		etat = "attenteFinPage"
 		nbLignesAttente = 1
 		
 		numLigne = 0
-	} else {
-		numLigne++
-		addInfoLigne(numLigne, $1, "lecturePrixTotal");
-	}		
+	}
 }
+
 
 etat == "attenteFinPage" {
 	if (nbLignesAttente == 0 ) {
-		print "Lecture numéro page : " $0
+#		print "Lecture numéro page : " $0
 		
 		etat = "finPage"
 	}
@@ -198,70 +237,49 @@ etat == "attenteFinPage" {
 	}
 
 etat == "finPage" {
-	afficheInfosLigne();
+#	print "DEBUG finPage >> avant traitementDeFinDePage"
+	traitementDeFinDePage();
 
-	etat = "attenteNbLignes"
+	if (etatFichier == "") {
+		etat = "attenteNbLignes"
+	} else {
+		etat = "fichierTraite"
+	}
 	
 	nbLignes = 0
 	numLigne = 0
 
 	# interligne
-	print " " > output
-	
-	print "FIN DE PAGE : " $0
+	ajouteLigne(" ")
 }
 
 
-/31[0-9]{3} [A-Z]* FR/ {
-	print "BOUTIQUE : " $0 " / '" $2 "'"
-	boutique = $2
+/^[0-9]* O BAG STORE/ {
+#	print "BOUTIQUE (forme 1) : " $0 " / '" $5 "'"
+	boutique = $5
 }
 
-# attente ref facture
-/^Banque/ && !refFacture {
-	etatMemorise = etat
-
-	etat = "attenteRefFacture"
-	nbLignesAttente = 1
+/^O BAG STORE [A-Z]/ {
+#	print "BOUTIQUE (forme 2) : " $0 " / '" $4 "'"
+	boutique = $4
 }
 
-etat == "attenteRefFacture" {
-	#print "attenteRefFacture : " $0
-	if (nbLignesAttente == 0 ) {
-		refFacture = $0
-		
-		etat = etatMemorise
-	}
-	
-	nbLignesAttente--
+# Ref facture
+/^[[:digit:]]{4} [[:digit:]]* [[:digit:]]* [[:digit:]]{2}\/[[:digit:]]{2}\/[[:digit:]]{4}/ {
+#	print "Ref facture : '" $0 "'"
+	refFacture = $0
 }
 
-# attente total produits
-/1G VEND.N.I.ART./ {
-	etat = "attenteTotalProduits"
-	nbLignesAttente = 2
-	
-	totalFacture = $5;
+# total facture
+/^EUR [0-9\.,]* / {
+	totalFacture = $2
 	gsub(/\./, "", totalFacture)
 }
 
-etat == "attenteTotalProduits" {
-	print "attenteTotalProduits : (nbLignesAttente : " nbLignesAttente ") " $0
-	if (nbLignesAttente == 0 ) {
-		totalProduits = $1
-		gsub(/\./, "", totalProduits)
-		
-		afficheInfosFinFichier()
-		
-		etat = "finAnalyseFichier"
-	}
-	
-	nbLignesAttente--
-
-}
-
-{ 
-#	print "Ligne " NR " : " $0
+# total produit
+/^0,00 [0-9][0-9]*/ {
+	totalProduits = $2
+	gsub(/\./, "", totalProduits)
 }
 
 function addInfoLigne(numLigne, info, typeInfo) {
@@ -279,43 +297,87 @@ function addInfoLigne(numLigne, info, typeInfo) {
 	}
 }
 
-function afficheInfosLigne() {
+function ajouteLigne(ligne) {
+	indexLigne++
+	tabLignes[indexLigne] = ligne
+}
+
+function traitementDeFinDePage() {
+#	print "DEBUG traitementDeFinDePage '" $0 "'"
 	for (i = 1; i <= nbLignes; i++) {
 		if ( verbose ) {
 			print "Page " pageNum " / " i " : " infoLigne[i]
 		}
-		print infoLigne[i] > output
+		
+		ajouteLigne(infoLigne[i])
 		
 		# reinitialisation
 		delete infoLigne[i]
 	}
 }
 
-
-function afficheInfosFinFichier() {
-	print "On a : " pageNum " pages...."
+function ecritDansFichier(info) {
 	
-	afficheInfosLigne()
+	if ( verbose ) {
+		print info
+	}
 	
-	print " "
-	print " " > output
+	print info > output
+	print info > output_PROF_traitee
+}
 
-	print "Boutique : " boutique
-	print "Boutique;;" boutique > output
 
-	print "Ref. facture : " refFacture
-	print "Ref. facture;;" refFacture > output
+function traitementDeFinDeFichier() {	
+	traitementDeFinDePage()
+	
+	ecritDansFichier("Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant")
+	
+	ecritDansFichier("Boutique;;" boutique)
+	ecritDansFichier("Ref. facture;;" refFacture)
+	ecritDansFichier("Total facture;;" totalFacture)
+	ecritDansFichier("Total produits;;" totalProduits)
+	ecritDansFichier(" ")
+	ecritDansFichier("Cumul montant;;" cumulMontant)
+	ecritDansFichier("Etat courant = '" etat "'")
 
-	print "Total facture : " totalFacture
-	print "Total facture;;" totalFacture > output
+	# controle
+	gsub(/,/, "\.", totalProduits)
 
-	print "Total produits : " totalProduits
-	print "Total produits;;" totalProduits > output
-
-	print " "
+	if (totalProduits == cumulMontant) {
+		ecritDansFichier("CONTROLE MONTANT OK;;" cumulMontant ";" totalProduits)
+	} else {
+		ecritDansFichier("ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
+	}
+	ecritDansFichier(" ")
+	
+	for (i in tabLignes) {
+		ecritDansFichier(tabLignes[i])
+		delete tabLignes[i]
+	}
 	
 	print "Fichier input : " input
-	print "Fichier output : " output
-	
-	
+	print "Fichier output : " output, ", " output_PROF_traitee
+	print " "
+}
+
+# controle du type de fichier
+function controleTypeFichier() {
+
+	if (FILENAME !~ /PROF.*txt$/ ) {
+		print "Attention : ce n'est pas le bon fichier : " FILENAME
+		print ""
+		print "Type de fichier attendu : 'PROF.*txt'"
+		print ""
+
+		exit 1
+	}
+}
+
+# A commenter hors debug
+{ 
+#	print "Ligne " NR " : " $0
+}
+
+END {
+	traitementDeFinDeFichier()
 }
