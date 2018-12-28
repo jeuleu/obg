@@ -22,9 +22,6 @@ input != FILENAME {
 	output_FAT_traitee = "FAT_traitee.csv"
 	gsub(/txt$/, "csv", output)
 
-	outputAnomalie = FILENAME
-	gsub(/txt$/, "ANOMALIE.csv", outputAnomalie)
-	
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
 	if (system("test -f " nomFichier) == 0) {
@@ -275,16 +272,18 @@ etat == "finPage" {
 
 # total facture
 /^EUR [0-9\.,]* / {
-#	print "DEBUG lecture total facture '" $0 "'"
+#	print "DEBUG (0) lecture total facture '" $0 "'"
 	totalFacture = $2
 	gsub(/\./, "", totalFacture)
+#	print "DEBUG lecture total facture '" totalFacture "'"
 }
 
-# total facture
-/^0,00 [0-9]*/ {
-#	print "DEBUG lecture total produit '" $0 "'"
+# total produit
+/^0,00 [0-9][0-9]*/ {
+#	print "DEBUG (0) lecture total produit '" $0 "'"
 	totalProduits = $2
 	gsub(/\./, "", totalProduits)
+#	print "DEBUG lecture total produit '" totalProduits "'"
 }
 
 function addInfoLigne(numLigne, info, typeInfo) {
@@ -347,8 +346,6 @@ function traitementDeFinDeFichier() {
 
 	# controle
 	gsub(/,/, "\.", totalProduits)
-	totalProduits = 0 + totalProduits
-
 	print "Montants lus : '" cumulMontant "', '" totalProduits "'"
 	if (totalProduits == cumulMontant) {
 		ecritDansFichier("CONTROLE MONTANT OK;;" cumulMontant ";" totalProduits)
