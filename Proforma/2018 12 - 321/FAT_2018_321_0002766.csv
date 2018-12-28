@@ -1,11 +1,12 @@
 Produit;Code piece;Couleur;Taille;Libelle;Quantité;Prix unitaire;Montant
-Boutique;;TOLOSA
+Boutique;;TOULOUSE
 Ref. facture;;2018 321 2766 19/12/2018 
 Total facture;;1552,81
 Total produits;;1468,81
  
 Cumul montant;;1468.81
-CONTROLE MONTANT OK;;1468.81
+Etat courant = 'fichierTraite'
+CONTROLE MONTANT OK;;1468.81;1468.81
  
 OBAGB033;EVS00;017;CORPS O BAG URBAN EVA COMPOUND NAVY;UNICA;3;14,16;42,48
 OBAGB001;EVS00;389;CORPS O BAG EVA COMPOUND SILVER;UNICA;8;14,40;115,20

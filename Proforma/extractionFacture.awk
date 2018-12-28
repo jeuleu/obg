@@ -9,16 +9,12 @@ BEGIN {
 
 input != FILENAME {
 	# fin du fichier précedent si nécessaire
-print "DEBUG changement de filemame : '" FILENAME "', input = '" input "'"
 	if (input != "") {
 		traitementDeFinDeFichier()
 	}
 
 	controleTypeFichier()
 
-	print " "
-
-	print "Source : " FILENAME
 	input = FILENAME
 	
 	# fichier sortie
@@ -28,7 +24,6 @@ print "DEBUG changement de filemame : '" FILENAME "', input = '" input "'"
 
 	outputAnomalie = FILENAME
 	gsub(/txt$/, "ANOMALIE.csv", outputAnomalie)
-	print "Sortie : " output ", " output_FAT_traitee
 	
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
@@ -79,7 +74,7 @@ print "DEBUG changement de filemame : '" FILENAME "', input = '" input "'"
 		# c'est la derniere page avec une ligne pour les frais de port
 		nbLignes--
 #		print "  >> Correction " nbLignes " lignes"
-		print "  >> Dernière page " nbLignes " lignes"
+#		print "  >> Dernière page " nbLignes " lignes"
 		
 		etatFichier = "dernierePage"
 	} else {
@@ -197,7 +192,7 @@ etat == "lectureTaille" {
 
 # debug
 etatFichier == "dernierePage" {
-	print "dernierePage '" $0 "', etat = " etat
+#	print "dernierePage '" $0 "', etat = " etat
 }
 
 
@@ -236,7 +231,7 @@ function finLectureMontant() {
 
 etat == "attenteFinPage" {
 	if (nbLignesAttente == 0 ) {
-		print "Lecture numéro page : " $0
+#		print "Lecture numéro page : " $0
 		
 		etat = "finPage"
 	}
@@ -245,7 +240,7 @@ etat == "attenteFinPage" {
 	}
 
 etat == "finPage" {
-print "DEBUG finPage >> avant traitementDeFinDePage"
+#	print "DEBUG finPage >> avant traitementDeFinDePage"
 	traitementDeFinDePage();
 
 	if (etatFichier == "") {
@@ -262,9 +257,14 @@ print "DEBUG finPage >> avant traitementDeFinDePage"
 }
 
 
-/31[0-9]{3} [A-Z]* FR/ {
-	print "BOUTIQUE : " $0 " / '" $2 "'"
-	boutique = $2
+/^[0-9]* O BAG STORE/ {
+#	print "BOUTIQUE (forme 1) : " $0 " / '" $5 "'"
+	boutique = $5
+}
+
+/^O BAG STORE [A-Z]/ {
+#	print "BOUTIQUE (forme 2) : " $0 " / '" $4 "'"
+	boutique = $4
 }
 
 # attente ref facture
@@ -321,7 +321,7 @@ function ajouteLigne(ligne) {
 }
 
 function traitementDeFinDePage() {
-print "DEBUG traitementDeFinDePage '" $0 "'"
+#	print "DEBUG traitementDeFinDePage '" $0 "'"
 	for (i = 1; i <= nbLignes; i++) {
 		if ( verbose ) {
 			print "Page " pageNum " / " i " : " infoLigne[i]
@@ -345,9 +345,7 @@ function ecritDansFichier(info) {
 }
 
 
-function traitementDeFinDeFichier() {
-	print "On a : " pageNum " pages...."
-	
+function traitementDeFinDeFichier() {	
 	traitementDeFinDePage()
 	
 	ecritDansFichier("Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant")
@@ -362,12 +360,12 @@ function traitementDeFinDeFichier() {
 
 	# controle
 	gsub(/,/, "\.", totalProduits)
+	totalProduits = 0 + totalProduits
+
+	print "Montants lus : '" cumulMontant "', '" totalProduits "'"
 	if (totalProduits == cumulMontant) {
-		ecritDansFichier("CONTROLE MONTANT OK;;" cumulMontant)
+		ecritDansFichier("CONTROLE MONTANT OK;;" cumulMontant ";" totalProduits)
 	} else {
-		print " "
-		print "ANOMALIE MONTANT : totalProduits = " totalProduits ", cumulMontant = " cumulMontant 
-		print " "
 		ecritDansFichier("ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
 	}
 	ecritDansFichier(" ")
@@ -379,6 +377,7 @@ function traitementDeFinDeFichier() {
 	
 	print "Fichier input : " input
 	print "Fichier output : " output, ", " output_FAT_traitee
+	print " "
 }
 
 # controle du type de fichier
