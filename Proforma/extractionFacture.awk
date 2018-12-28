@@ -39,6 +39,7 @@ print "DEBUG changement de filemame : '" FILENAME "', input = '" input "'"
 
 	# reinitialisation
 	etat = "attenteNbLignes"
+	etatFichier = ""
 	refFacture = ""
 	cumulMontant = 0
 }
@@ -78,6 +79,9 @@ print "DEBUG changement de filemame : '" FILENAME "', input = '" input "'"
 		# c'est la derniere page avec une ligne pour les frais de port
 		nbLignes--
 #		print "  >> Correction " nbLignes " lignes"
+		print "  >> Dernière page " nbLignes " lignes"
+		
+		etatFichier = "dernierePage"
 	} else {
 		numLigne++
 		addInfoLigne(numLigne, $0, "lectureModele");
@@ -191,9 +195,11 @@ etat == "lectureTaille" {
 	}		
 }
 
-etat == "lectureMontant" {
-	print "DEBUG lectureMontant '" $0 "'  pageNum=" pageNum ", numLigne=" numLigne ", nbLignes=" nbLignes 
+# debug
+etatFichier == "dernierePage" {
+	print "dernierePage '" $0 "', etat = " etat
 }
+
 
 /^[0-9]/	&&	etat == "lectureMontant" {
 	if (numLigne >= nbLignes) {
@@ -217,10 +223,14 @@ etat == "lectureMontant" {
 }
 
 function finLectureMontant() {
-	etat = "attenteFinPage"
-	nbLignesAttente = 1
-	
-	numLigne = 0
+	if (etatFichier == "dernierePage") {
+		etat = "finPage"
+	} else {
+		etat = "attenteFinPage"
+		nbLignesAttente = 1
+		
+		numLigne = 0
+	}
 }
 
 
@@ -235,9 +245,14 @@ etat == "attenteFinPage" {
 	}
 
 etat == "finPage" {
+print "DEBUG finPage >> avant traitementDeFinDePage"
 	traitementDeFinDePage();
 
-	etat = "attenteNbLignes"
+	if (etatFichier == "") {
+		etat = "attenteNbLignes"
+	} else {
+		etat = "fichierTraite"
+	}
 	
 	nbLignes = 0
 	numLigne = 0
@@ -273,20 +288,16 @@ etat == "attenteRefFacture" {
 
 # total facture
 /^EUR [0-9\.,]* / {
-		
-print "DEBUG lecture total facture '" $0 "'"
+#	print "DEBUG lecture total facture '" $0 "'"
 	totalFacture = $2
 	gsub(/\./, "", totalFacture)
 }
 
 # total facture
 /^0,00 [0-9]*/ {
+#	print "DEBUG lecture total produit '" $0 "'"
 	totalProduits = $2
 	gsub(/\./, "", totalProduits)
-}
-
-{ 
-	print "Ligne " NR " : " $0
 }
 
 function addInfoLigne(numLigne, info, typeInfo) {
@@ -381,6 +392,11 @@ function controleTypeFichier() {
 
 		exit 1
 	}
+}
+
+# A commenter hors debug
+{ 
+#	print "Ligne " NR " : " $0
 }
 
 END {
