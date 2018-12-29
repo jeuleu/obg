@@ -45,6 +45,20 @@ input != FILENAME {
 
 # Libellé du produit
 /^descrizione/ {
+	# plusieurs produits dans la page
+	if (length(tabCodeCouleur) > 0 && codeProduitPrecedent != "") {
+		codeProduitCourant = codeProduit
+		codeProduit2Courant = codeProduit2
+		
+		codeProduit = codeProduitPrecedent
+		codeProduit2 = codeProduit2Precedent
+		
+		traitementFinDePage()
+		
+		codeProduit = codeProduitCourant
+		codeProduit2 = codeProduit2Courant
+	}
+	
 	libelleProduit = ""
 	for (i= 2; i <= NF; i++) {
 		libelleProduit = libelleProduit " " corrigeCaracteresSpeciaux($i)
@@ -83,6 +97,10 @@ input != FILENAME {
 
 # Code Produit
 $0 ~ "code" {
+	# sauvergarde codeProduit si changement de code dans la même page
+	codeProduitPrecedent = codeProduit
+	codeProduit2Precedent = codeProduit2
+	
 	codeProduit = $2 ";" $3
 	codeProduit2 = $2 "-" $3
 }

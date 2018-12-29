@@ -5,3 +5,67 @@ XXX;Avant toute edition, changer les formats des colonnes suivantes :
 XXX;Code Barre :;; numerique sans decimales
 XXX;Code Couleur :;; numerique format "000"
 XXX
+CodeBarre;OBAGB842_TES20--025;;18; scocca completa;OBAGB842_TES20;;025;cipria;cipria
+CodeBarre;OBAGB842_TES20--111;;18; scocca completa;OBAGB842_TES20;;111;ocra;ocra
+CodeBarre;OBAGB842_TES20--081;;18; scocca completa;OBAGB842_TES20;;081;smeraldo;smeraldo
+CodeBarre;OBAGB842_TES20--017;;18; scocca completa;OBAGB842_TES20;;017;blu navy;blu navy
+CodeBarre;OBAGB842_TES20--133;;18; scocca completa;OBAGB842_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;OBAGB842_TES20--055;;18; scocca completa;OBAGB842_TES20;;055;nero;nero
+CodeBarre;HLESX800_ECS00--055;;18; manico extra slim goccia;HLESX800_ECS00;;055;nero;black
+CodeBarre;HLESX800_ECS00--267;;18; manico extra slim goccia;HLESX800_ECS00;;267;fucsia;fucsia
+CodeBarre;HLESX800_ECS00--484;;18; manico extra slim goccia;HLESX800_ECS00;;484;coral;coral
+CodeBarre;SHOUWF00_TES20--025;;18; tracolla new generico;SHOUWF00_TES20;;025;cipria;cipria
+CodeBarre;SHOUWF00_TES20--025;;18; tracolla new generico;SHOUWF00_TES20;;025;cipria;cipria
+CodeBarre;SHOUWF00_TES20--055;;18; tracolla new generico;SHOUWF00_TES20;;055;nero;black
+CodeBarre;SHOUWF00_TES20--111;;18; tracolla new generico;SHOUWF00_TES20;;111;ocra;ocra
+CodeBarre;SHOUWF00_TES20--111;;18; tracolla new generico;SHOUWF00_TES20;;111;ocra;ocra
+CodeBarre;SHOUWF00_TES20--081;;18; tracolla new generico;SHOUWF00_TES20;;081;smeraldo;smeraldo
+CodeBarre;SHOUWF00_TES20--081;;18; tracolla new generico;SHOUWF00_TES20;;081;smeraldo;smeraldo
+CodeBarre;SHOUWF00_TES20--017;;18; tracolla new generico;SHOUWF00_TES20;;017;blu navy;blu navy
+CodeBarre;SHOUWF00_TES20--017;;18; tracolla new generico;SHOUWF00_TES20;;017;blu navy;blu navy
+CodeBarre;SHOUWF00_TES20--133;;18; tracolla new generico;SHOUWF00_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;SHOUWF00_TES20--133;;18; tracolla new generico;SHOUWF00_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;SHOUWF00_TES20--055;;18; tracolla new generico;SHOUWF00_TES20;;055;nero;nero
+CodeBarre;SHOUWF00_TES20--055;;18; tracolla new generico;SHOUWF00_TES20;;055;nero;nero
+CodeBarre;SHOUWF00_TES20--267;;18; tracolla new generico;SHOUWF00_TES20;;267;fucsia;fucsia
+CodeBarre;SHOUWF00_TES20--267;;18; tracolla new generico;SHOUWF00_TES20;;267;fucsia;fucsia
+CodeBarre;SHOUWF00_TES20--484;;18; tracolla new generico;SHOUWF00_TES20;;484;coral;coral
+CodeBarre;SHOUWF00_TES20--484;;18; tracolla new generico;SHOUWF00_TES20;;484;coral;coral
+CodeBarre;OBAGS001_TES01--025;;18; sacca interna zip;OBAGS001_TES01;;025;cipria;cipria
+CodeBarre;OBAGS001_TES01--055;;18; sacca interna zip;OBAGS001_TES01;;055;nero;black
+CodeBarre;OBAGS001_TES01--111;;18; sacca interna zip;OBAGS001_TES01;;111;ocra;ocra
+CodeBarre;OBAGS001_TES01--081;;18; sacca interna zip;OBAGS001_TES01;;081;smeraldo;smeraldo
+CodeBarre;OBAGS001_TES01--017;;18; sacca interna zip;OBAGS001_TES01;;017;blu navy;blu navy
+CodeBarre;OBAGS001_TES01--133;;18; sacca interna zip;OBAGS001_TES01;;133;grigio chiaro;grigio chiaro
+CodeBarre;OBAGS001_TES01--055;;18; sacca interna zip;OBAGS001_TES01;;055;nero;nero
+CodeBarre;OBAGS001_TES01--055;;18; sacca interna zip;OBAGS001_TES01;;055;nero;nero
+CodeBarre;OBAGS001_TES01--267;;18; sacca interna zip;OBAGS001_TES01;;267;fucsia;fucsia
+CodeBarre;OBAGS001_TES01--484;;18; sacca interna zip;OBAGS001_TES01;;484;coral;coral
+CodeBarre;SHOUWG00_TES20--025;;18; tracolla new generico;SHOUWG00_TES20;;025;cipria;cipria
+CodeBarre;SHOUWG00_TES20--025;;18; tracolla new generico;SHOUWG00_TES20;;025;cipria;cipria
+CodeBarre;SHOUWG00_TES20--267;;18; tracolla new generico;SHOUWG00_TES20;;267;fucsia;fucsia
+CodeBarre;SHOUWG00_TES20--267;;18; tracolla new generico;SHOUWG00_TES20;;267;fucsia;fucsia
+CodeBarre;SHOUWG00_TES20--484;;18; tracolla new generico;SHOUWG00_TES20;;484;coral;coral
+CodeBarre;SHOUWG00_TES20--484;;18; tracolla new generico;SHOUWG00_TES20;;484;coral;coral
+CodeBarre;SHOUWG00_TES20--111;;18; tracolla new generico;SHOUWG00_TES20;;111;ocra;ocra
+CodeBarre;SHOUWG00_TES20--111;;18; tracolla new generico;SHOUWG00_TES20;;111;ocra;ocra
+CodeBarre;SHOUWG00_TES20--081;;18; tracolla new generico;SHOUWG00_TES20;;081;smeraldo;smeraldo
+CodeBarre;SHOUWG00_TES20--081;;18; tracolla new generico;SHOUWG00_TES20;;081;smeraldo;smeraldo
+CodeBarre;SHOUWG00_TES20--017;;18; tracolla new generico;SHOUWG00_TES20;;017;blu navy;blu navy
+CodeBarre;SHOUWG00_TES20--017;;18; tracolla new generico;SHOUWG00_TES20;;017;blu navy;blu navy
+CodeBarre;SHOUWG00_TES20--133;;18; tracolla new generico;SHOUWG00_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;SHOUWG00_TES20--133;;18; tracolla new generico;SHOUWG00_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;SHOUWG00_TES20--055;;18; tracolla new generico;SHOUWG00_TES20;;055;nero;nero
+CodeBarre;SHOUWG00_TES20--055;;18; tracolla new generico;SHOUWG00_TES20;;055;nero;nero
+CodeBarre;ACCEP044_TES20--025;;18; accessosrio pochette;ACCEP044_TES20;;025;cipria;cipria
+CodeBarre;ACCEP044_TES20--025;;18; accessosrio pochette;ACCEP044_TES20;;025;cipria;cipria
+CodeBarre;ACCEP044_TES20--111;;18; accessosrio pochette;ACCEP044_TES20;;111;ocra;ocra
+CodeBarre;ACCEP044_TES20--111;;18; accessosrio pochette;ACCEP044_TES20;;111;ocra;ocra
+CodeBarre;ACCEP044_TES20--081;;18; accessosrio pochette;ACCEP044_TES20;;081;smeraldo;smeraldo
+CodeBarre;ACCEP044_TES20--081;;18; accessosrio pochette;ACCEP044_TES20;;081;smeraldo;smeraldo
+CodeBarre;ACCEP044_TES20--017;;18; accessosrio pochette;ACCEP044_TES20;;017;blu navy;blu navy
+CodeBarre;ACCEP044_TES20--017;;18; accessosrio pochette;ACCEP044_TES20;;017;blu navy;blu navy
+CodeBarre;ACCEP044_TES20--133;;18; accessosrio pochette;ACCEP044_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;ACCEP044_TES20--133;;18; accessosrio pochette;ACCEP044_TES20;;133;grigio chiaro;grigio chiaro
+CodeBarre;ACCEP044_TES20--055;;18; accessosrio pochette;ACCEP044_TES20;;055;nero;nero
+CodeBarre;ACCEP044_TES20--055;;18; accessosrio pochette;ACCEP044_TES20;;055;nero;nero
