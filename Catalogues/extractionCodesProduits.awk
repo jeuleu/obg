@@ -58,7 +58,7 @@ input != FILENAME {
 	traitementFinDePage()
 
 	gsub(/\./, "", $1)
-	page = $1
+	page = 0+$1
 	
 	if (nomCatalogue == "") {
 		for (i= 2; i <= NF; i++) {
@@ -77,7 +77,7 @@ input != FILENAME {
 	traitementFinDePage()
 
 	gsub(/\./, "", $NF)
-	page = $NF
+	page = 0+$NF
 }
 
 
@@ -102,7 +102,7 @@ chercheCol == "it" {
 /^col. / {
 	indice++
 	
-	tabCodeCouleur[indice] = $2
+	tabCodeCouleur[indice] = sprintf("%03d", $2)
 	chercheCol = "it"
 }
 
@@ -128,7 +128,7 @@ function traitementFinDePage() {
 	if (page != 0) {
 		for (i in tabCodeCouleur) {
 			# Toutes infos
-			printf("%s;%s-%s;%s;%d;%s;%s;%s;%s;%s;\n", "CodeBarre", 
+			printf("%s;%s-%s;%s;%d;%s;%s;%s;%s;%s\n", "CodeBarre", 
 				codeProduit2, tabCodeCouleur[i], nomCatalogue, page, libelleProduit, codeProduit, tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputEAN13
 
 			# Couleurs

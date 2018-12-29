@@ -5,115 +5,115 @@ XXX;Avant toute edition, changer les formats des colonnes suivantes :
 XXX;Code Barre :;; numerique sans decimales
 XXX;Code Couleur :;; numerique format "000"
 XXX
-CodeBarre;OBAGB049-TES20-003; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;003;arancione;orange;
-CodeBarre;OBAGB049-TES20-044; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;044;lime;lime;
-CodeBarre;OBAGB049-TES20-008; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;008;bianco;white;
-CodeBarre;OBAGB049-TES20-055; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;055;nero;black;
-CodeBarre;OBAGB049-TES20-026; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGB049-TES20-078; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;078;sabbia;sand;
-CodeBarre;OBAGB049-TES20-183; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;183;viola;violet;
-CodeBarre;OBAGB049-TES20-600; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;600;cipria metal;pink metal;
-CodeBarre;OBAGB050-TES20-003; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;003;arancione;orange;
-CodeBarre;OBAGB050-TES20-044; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;044;lime;lime;
-CodeBarre;OBAGB050-TES20-008; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;008;bianco;white;
-CodeBarre;OBAGB050-TES20-055; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;055;nero;black;
-CodeBarre;OBAGB050-TES20-026; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGB050-TES20-078; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;078;sabbia;sand;
-CodeBarre;OBAGB050-TES20-183; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;183;viola;violet;
-CodeBarre;OBAGB050-TES20-600; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;600;cipria metal;pink metal;
-CodeBarre;OBAGBN41-TES20-003; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;003;arancione;orange;
-CodeBarre;OBAGBN41-TES20-044; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;044;lime;lime;
-CodeBarre;OBAGBN41-TES20-008; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;008;bianco;white;
-CodeBarre;OBAGBN41-TES20-055; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;055;nero;black;
-CodeBarre;OBAGBN41-TES20-026; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGBN41-TES20-078; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;078;sabbia;sand;
-CodeBarre;OBAGBN41-TES20-183; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;183;viola;violet;
-CodeBarre;OBAGBN41-TES20-600; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;600;cipria metal;pink metal;
-CodeBarre;OBAGBW40-TES20-003; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;003;arancione;orange;
-CodeBarre;OBAGBW40-TES20-044; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;044;lime;lime;
-CodeBarre;OBAGBW40-TES20-008; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;008;bianco;white;
-CodeBarre;OBAGBW40-TES20-055; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;055;nero;black;
-CodeBarre;OBAGBW40-TES20-026; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGBW40-TES20-078; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;078;sabbia;sand;
-CodeBarre;OBAGBW40-TES20-183; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;183;viola;violet;
-CodeBarre;OBAGBW40-TES20-600; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;600;cipria metal;pink metal;
-CodeBarre;OBAGBW44-TES20-003; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;003;arancione;orange;
-CodeBarre;OBAGBW44-TES20-044; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;044;lime;lime;
-CodeBarre;OBAGBW44-TES20-008; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;008;bianco;white;
-CodeBarre;OBAGBW44-TES20-055; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;055;nero;black;
-CodeBarre;OBAGBW44-TES20-026; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGBW44-TES20-078; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;078;sabbia;sand;
-CodeBarre;OBAGBW44-TES20-183; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;183;viola;violet;
-CodeBarre;OBAGBW44-TES20-600; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;600;cipria metal;pink metal;
-CodeBarre;OBAGZ001-TES20-003; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;003;arancione;orange;
-CodeBarre;OBAGZ001-TES20-044; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;044;lime;lime;
-CodeBarre;OBAGZ001-TES20-008; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;008;bianco;white;
-CodeBarre;OBAGZ001-TES20-055; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;055;nero;black;
-CodeBarre;OBAGZ001-TES20-026; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGZ001-TES20-078; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;078;sabbia;sand;
-CodeBarre;OBAGZ001-TES20-183; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;183;viola;violet;
-CodeBarre;OBAGZ001-TES20-600; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;600;cipria metal;pink metal;
-CodeBarre;HLESG018-TES20-003; O bag summer '19;14; manico generico lungo;HLESG018;TES20;003;arancione;orange;
-CodeBarre;HLESG018-TES20-044; O bag summer '19;14; manico generico lungo;HLESG018;TES20;044;lime;lime;
-CodeBarre;HLESG018-TES20-008; O bag summer '19;14; manico generico lungo;HLESG018;TES20;008;bianco;white;
-CodeBarre;HLESG018-TES20-055; O bag summer '19;14; manico generico lungo;HLESG018;TES20;055;nero;black;
-CodeBarre;HLESG018-TES20-026; O bag summer '19;14; manico generico lungo;HLESG018;TES20;026;cobalto;cobalt;
-CodeBarre;HLESG018-TES20-078; O bag summer '19;14; manico generico lungo;HLESG018;TES20;078;sabbia;sand;
-CodeBarre;HLESG018-TES20-183; O bag summer '19;14; manico generico lungo;HLESG018;TES20;183;viola;violet;
-CodeBarre;HLESG018-TES20-600; O bag summer '19;14; manico generico lungo;HLESG018;TES20;600;cipria metal;pink metal;
-CodeBarre;HLESGC20-TES20-003; O bag summer '19;15; manico generico corto;HLESGC20;TES20;003;arancione;orange;
-CodeBarre;HLESGC20-TES20-044; O bag summer '19;15; manico generico corto;HLESGC20;TES20;044;lime;lime;
-CodeBarre;HLESGC20-TES20-008; O bag summer '19;15; manico generico corto;HLESGC20;TES20;008;bianco;white;
-CodeBarre;HLESGC20-TES20-055; O bag summer '19;15; manico generico corto;HLESGC20;TES20;055;nero;black;
-CodeBarre;HLESGC20-TES20-026; O bag summer '19;15; manico generico corto;HLESGC20;TES20;026;cobalto;cobalt;
-CodeBarre;HLESGC20-TES20-078; O bag summer '19;15; manico generico corto;HLESGC20;TES20;078;sabbia;sand;
-CodeBarre;HLESGC20-TES20-183; O bag summer '19;15; manico generico corto;HLESGC20;TES20;183;viola;violet;
-CodeBarre;HLESGC20-TES20-600; O bag summer '19;15; manico generico corto;HLESGC20;TES20;600;cipria metal;pink metal;
-CodeBarre;SHOUBJ01-TES20-003; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;003;arancione;orange;
-CodeBarre;SHOUBJ01-TES20-044; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;044;lime;lime;
-CodeBarre;SHOUBJ01-TES20-008; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;008;bianco;white;
-CodeBarre;SHOUBJ01-TES20-055; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;055;nero;black;
-CodeBarre;SHOUBJ01-TES20-026; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;026;cobalto;cobalt;
-CodeBarre;SHOUBJ01-TES20-078; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;078;sabbia;sand;
-CodeBarre;SHOUBJ01-TES20-183; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;183;viola;violet;
-CodeBarre;SHOUBJ01-TES20-600; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;600;cipria metal;pink metal;
-CodeBarre;SHOUWF00-TES20-003; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;003;arancione;orange;
-CodeBarre;SHOUWF00-TES20-044; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;044;lime;lime;
-CodeBarre;SHOUWF00-TES20-008; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;008;bianco;white;
-CodeBarre;SHOUWF00-TES20-055; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;055;nero;black;
-CodeBarre;SHOUWF00-TES20-026; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;026;cobalto;cobalt;
-CodeBarre;SHOUWF00-TES20-078; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;078;sabbia;sand;
-CodeBarre;SHOUWF00-TES20-183; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;183;viola;violet;
-CodeBarre;SHOUWF00-TES20-600; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;600;cipria metal;pink metal;
-CodeBarre;SHOUWG00-TES20-003; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;003;arancione;orange;
-CodeBarre;SHOUWG00-TES20-044; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;044;lime;lime;
-CodeBarre;SHOUWG00-TES20-008; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;008;bianco;white;
-CodeBarre;SHOUWG00-TES20-055; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;055;nero;black;
-CodeBarre;SHOUWG00-TES20-026; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;026;cobalto;cobalt;
-CodeBarre;SHOUWG00-TES20-078; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;078;sabbia;sand;
-CodeBarre;SHOUWG00-TES20-183; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;183;viola;violet;
-CodeBarre;SHOUWG00-TES20-600; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;600;cipria metal;pink metal;
-CodeBarre;OBAGPM50-TES20-003; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;003;arancione;orange;
-CodeBarre;OBAGPM50-TES20-044; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;044;lime;lime;
-CodeBarre;OBAGPM50-TES20-008; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;008;bianco;white;
-CodeBarre;OBAGPM50-TES20-055; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;055;nero;black;
-CodeBarre;OBAGPM50-TES20-026; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;026;cobalto;cobalt;
-CodeBarre;OBAGPM50-TES20-078; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;078;sabbia;sand;
-CodeBarre;OBAGPM50-TES20-183; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;183;viola;violet;
-CodeBarre;OBAGPM50-TES20-600; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;600;cipria metal;pink metal;
-CodeBarre;ACCEPN44-TES20-003; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;003;arancione;orange;
-CodeBarre;ACCEPN44-TES20-044; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;044;lime;lime;
-CodeBarre;ACCEPN44-TES20-008; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;008;bianco;white;
-CodeBarre;ACCEPN44-TES20-055; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;055;nero;black;
-CodeBarre;ACCEPN44-TES20-026; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;026;cobalto;cobalt;
-CodeBarre;ACCEPN44-TES20-078; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;078;sabbia;sand;
-CodeBarre;ACCEPN44-TES20-183; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;183;viola;violet;
-CodeBarre;ACCEPN44-TES20-600; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;600;cipria metal;pink metal;
-CodeBarre;ACCEP004-TES20-003; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;003;arancione;orange;
-CodeBarre;ACCEP004-TES20-044; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;044;lime;lime;
-CodeBarre;ACCEP004-TES20-008; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;008;bianco;white;
-CodeBarre;ACCEP004-TES20-055; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;055;nero;black;
-CodeBarre;ACCEP004-TES20-026; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;026;cobalto;cobalt;
-CodeBarre;ACCEP004-TES20-078; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;078;sabbia;sand;
-CodeBarre;ACCEP004-TES20-183; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;183;viola;violet;
-CodeBarre;ACCEP004-TES20-600; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;600;cipria metal;pink metal;
+CodeBarre;OBAGB049-TES20-003; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;003;arancione;orange
+CodeBarre;OBAGB049-TES20-044; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;044;lime;lime
+CodeBarre;OBAGB049-TES20-008; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;008;bianco;white
+CodeBarre;OBAGB049-TES20-055; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;055;nero;black
+CodeBarre;OBAGB049-TES20-026; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;026;cobalto;cobalt
+CodeBarre;OBAGB049-TES20-078; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;078;sabbia;sand
+CodeBarre;OBAGB049-TES20-183; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;183;viola;violet
+CodeBarre;OBAGB049-TES20-600; O bag summer '19;6; scocca O maxi;OBAGB049;TES20;600;cipria metal;pink metal
+CodeBarre;OBAGB050-TES20-003; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;003;arancione;orange
+CodeBarre;OBAGB050-TES20-044; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;044;lime;lime
+CodeBarre;OBAGB050-TES20-008; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;008;bianco;white
+CodeBarre;OBAGB050-TES20-055; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;055;nero;black
+CodeBarre;OBAGB050-TES20-026; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;026;cobalto;cobalt
+CodeBarre;OBAGB050-TES20-078; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;078;sabbia;sand
+CodeBarre;OBAGB050-TES20-183; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;183;viola;violet
+CodeBarre;OBAGB050-TES20-600; O bag summer '19;7; scocca O smooth mini;OBAGB050;TES20;600;cipria metal;pink metal
+CodeBarre;OBAGBN41-TES20-003; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;003;arancione;orange
+CodeBarre;OBAGBN41-TES20-044; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;044;lime;lime
+CodeBarre;OBAGBN41-TES20-008; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;008;bianco;white
+CodeBarre;OBAGBN41-TES20-055; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;055;nero;black
+CodeBarre;OBAGBN41-TES20-026; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;026;cobalto;cobalt
+CodeBarre;OBAGBN41-TES20-078; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;078;sabbia;sand
+CodeBarre;OBAGBN41-TES20-183; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;183;viola;violet
+CodeBarre;OBAGBN41-TES20-600; O bag summer '19;8; scocca new O sweet;OBAGBN41;TES20;600;cipria metal;pink metal
+CodeBarre;OBAGBW40-TES20-003; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;003;arancione;orange
+CodeBarre;OBAGBW40-TES20-044; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;044;lime;lime
+CodeBarre;OBAGBW40-TES20-008; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;008;bianco;white
+CodeBarre;OBAGBW40-TES20-055; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;055;nero;black
+CodeBarre;OBAGBW40-TES20-026; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;026;cobalto;cobalt
+CodeBarre;OBAGBW40-TES20-078; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;078;sabbia;sand
+CodeBarre;OBAGBW40-TES20-183; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;183;viola;violet
+CodeBarre;OBAGBW40-TES20-600; O bag summer '19;9; scocca completa con;OBAGBW40;TES20;600;cipria metal;pink metal
+CodeBarre;OBAGBW44-TES20-003; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;003;arancione;orange
+CodeBarre;OBAGBW44-TES20-044; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;044;lime;lime
+CodeBarre;OBAGBW44-TES20-008; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;008;bianco;white
+CodeBarre;OBAGBW44-TES20-055; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;055;nero;black
+CodeBarre;OBAGBW44-TES20-026; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;026;cobalto;cobalt
+CodeBarre;OBAGBW44-TES20-078; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;078;sabbia;sand
+CodeBarre;OBAGBW44-TES20-183; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;183;viola;violet
+CodeBarre;OBAGBW44-TES20-600; O bag summer '19;10; scocca completa con;OBAGBW44;TES20;600;cipria metal;pink metal
+CodeBarre;OBAGZ001-TES20-003; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;003;arancione;orange
+CodeBarre;OBAGZ001-TES20-044; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;044;lime;lime
+CodeBarre;OBAGZ001-TES20-008; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;008;bianco;white
+CodeBarre;OBAGZ001-TES20-055; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;055;nero;black
+CodeBarre;OBAGZ001-TES20-026; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;026;cobalto;cobalt
+CodeBarre;OBAGZ001-TES20-078; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;078;sabbia;sand
+CodeBarre;OBAGZ001-TES20-183; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;183;viola;violet
+CodeBarre;OBAGZ001-TES20-600; O bag summer '19;11; zaino O ride;OBAGZ001;TES20;600;cipria metal;pink metal
+CodeBarre;HLESG018-TES20-003; O bag summer '19;14; manico generico lungo;HLESG018;TES20;003;arancione;orange
+CodeBarre;HLESG018-TES20-044; O bag summer '19;14; manico generico lungo;HLESG018;TES20;044;lime;lime
+CodeBarre;HLESG018-TES20-008; O bag summer '19;14; manico generico lungo;HLESG018;TES20;008;bianco;white
+CodeBarre;HLESG018-TES20-055; O bag summer '19;14; manico generico lungo;HLESG018;TES20;055;nero;black
+CodeBarre;HLESG018-TES20-026; O bag summer '19;14; manico generico lungo;HLESG018;TES20;026;cobalto;cobalt
+CodeBarre;HLESG018-TES20-078; O bag summer '19;14; manico generico lungo;HLESG018;TES20;078;sabbia;sand
+CodeBarre;HLESG018-TES20-183; O bag summer '19;14; manico generico lungo;HLESG018;TES20;183;viola;violet
+CodeBarre;HLESG018-TES20-600; O bag summer '19;14; manico generico lungo;HLESG018;TES20;600;cipria metal;pink metal
+CodeBarre;HLESGC20-TES20-003; O bag summer '19;15; manico generico corto;HLESGC20;TES20;003;arancione;orange
+CodeBarre;HLESGC20-TES20-044; O bag summer '19;15; manico generico corto;HLESGC20;TES20;044;lime;lime
+CodeBarre;HLESGC20-TES20-008; O bag summer '19;15; manico generico corto;HLESGC20;TES20;008;bianco;white
+CodeBarre;HLESGC20-TES20-055; O bag summer '19;15; manico generico corto;HLESGC20;TES20;055;nero;black
+CodeBarre;HLESGC20-TES20-026; O bag summer '19;15; manico generico corto;HLESGC20;TES20;026;cobalto;cobalt
+CodeBarre;HLESGC20-TES20-078; O bag summer '19;15; manico generico corto;HLESGC20;TES20;078;sabbia;sand
+CodeBarre;HLESGC20-TES20-183; O bag summer '19;15; manico generico corto;HLESGC20;TES20;183;viola;violet
+CodeBarre;HLESGC20-TES20-600; O bag summer '19;15; manico generico corto;HLESGC20;TES20;600;cipria metal;pink metal
+CodeBarre;SHOUBJ01-TES20-003; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;003;arancione;orange
+CodeBarre;SHOUBJ01-TES20-044; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;044;lime;lime
+CodeBarre;SHOUBJ01-TES20-008; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;008;bianco;white
+CodeBarre;SHOUBJ01-TES20-055; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;055;nero;black
+CodeBarre;SHOUBJ01-TES20-026; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;026;cobalto;cobalt
+CodeBarre;SHOUBJ01-TES20-078; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;078;sabbia;sand
+CodeBarre;SHOUBJ01-TES20-183; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;183;viola;violet
+CodeBarre;SHOUBJ01-TES20-600; O bag summer '19;16; tracolla/spallaccio slim;SHOUBJ01;TES20;600;cipria metal;pink metal
+CodeBarre;SHOUWF00-TES20-003; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;003;arancione;orange
+CodeBarre;SHOUWF00-TES20-044; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;044;lime;lime
+CodeBarre;SHOUWF00-TES20-008; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;008;bianco;white
+CodeBarre;SHOUWF00-TES20-055; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;055;nero;black
+CodeBarre;SHOUWF00-TES20-026; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;026;cobalto;cobalt
+CodeBarre;SHOUWF00-TES20-078; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;078;sabbia;sand
+CodeBarre;SHOUWF00-TES20-183; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;183;viola;violet
+CodeBarre;SHOUWF00-TES20-600; O bag summer '19;17; tracolla new generico larga;SHOUWF00;TES20;600;cipria metal;pink metal
+CodeBarre;SHOUWG00-TES20-003; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;003;arancione;orange
+CodeBarre;SHOUWG00-TES20-044; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;044;lime;lime
+CodeBarre;SHOUWG00-TES20-008; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;008;bianco;white
+CodeBarre;SHOUWG00-TES20-055; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;055;nero;black
+CodeBarre;SHOUWG00-TES20-026; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;026;cobalto;cobalt
+CodeBarre;SHOUWG00-TES20-078; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;078;sabbia;sand
+CodeBarre;SHOUWG00-TES20-183; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;183;viola;violet
+CodeBarre;SHOUWG00-TES20-600; O bag summer '19;18; tracolla new generico stretta;SHOUWG00;TES20;600;cipria metal;pink metal
+CodeBarre;OBAGPM50-TES20-003; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;003;arancione;orange
+CodeBarre;OBAGPM50-TES20-044; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;044;lime;lime
+CodeBarre;OBAGPM50-TES20-008; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;008;bianco;white
+CodeBarre;OBAGPM50-TES20-055; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;055;nero;black
+CodeBarre;OBAGPM50-TES20-026; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;026;cobalto;cobalt
+CodeBarre;OBAGPM50-TES20-078; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;078;sabbia;sand
+CodeBarre;OBAGPM50-TES20-183; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;183;viola;violet
+CodeBarre;OBAGPM50-TES20-600; O bag summer '19;22; pattina con manichetto;OBAGPM50;TES20;600;cipria metal;pink metal
+CodeBarre;ACCEPN44-TES20-003; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;003;arancione;orange
+CodeBarre;ACCEPN44-TES20-044; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;044;lime;lime
+CodeBarre;ACCEPN44-TES20-008; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;008;bianco;white
+CodeBarre;ACCEPN44-TES20-055; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;055;nero;black
+CodeBarre;ACCEPN44-TES20-026; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;026;cobalto;cobalt
+CodeBarre;ACCEPN44-TES20-078; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;078;sabbia;sand
+CodeBarre;ACCEPN44-TES20-183; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;183;viola;violet
+CodeBarre;ACCEPN44-TES20-600; O bag summer '19;26; accessorio pochette new;ACCEPN44;TES20;600;cipria metal;pink metal
+CodeBarre;ACCEP004-TES20-003; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;003;arancione;orange
+CodeBarre;ACCEP004-TES20-044; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;044;lime;lime
+CodeBarre;ACCEP004-TES20-008; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;008;bianco;white
+CodeBarre;ACCEP004-TES20-055; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;055;nero;black
+CodeBarre;ACCEP004-TES20-026; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;026;cobalto;cobalt
+CodeBarre;ACCEP004-TES20-078; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;078;sabbia;sand
+CodeBarre;ACCEP004-TES20-183; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;183;viola;violet
+CodeBarre;ACCEP004-TES20-600; O bag summer '19;27; accessori pochette a busta;ACCEP004;TES20;600;cipria metal;pink metal

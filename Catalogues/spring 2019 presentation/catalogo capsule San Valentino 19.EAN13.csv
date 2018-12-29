@@ -5,22 +5,22 @@ XXX;Avant toute edition, changer les formats des colonnes suivantes :
 XXX;Code Barre :;; numerique sans decimales
 XXX;Code Couleur :;; numerique format "000"
 XXX
-CodeBarre;OBAGB001-EVS59-038; O bag .capsule xmas 18;6; scocca O bag;OBAGB001;EVS59;038;grafite;graphite;
-CodeBarre;OBAGB001-EVS59-076; O bag .capsule xmas 18;6; scocca O bag;OBAGB001;EVS59;076;rosso;red;
-CodeBarre;OBAGB002-EVS59-038; O bag .capsule xmas 18;7; scocca O bag mini;OBAGB002;EVS59;038;grafite;graphite;
-CodeBarre;OBAGB002-EVS59-076; O bag .capsule xmas 18;7; scocca O bag mini;OBAGB002;EVS59;076;rosso;red;
-CodeBarre;HLESMD00-ECS46-055; O bag .capsule xmas 18;10; micromanico tubolare corto;HLESMD00;ECS46;055;nero;black;
-CodeBarre;HLESCE01-ECS00-055; O bag .capsule xmas 18;11; manico doppia catena a "t";HLESCE01;ECS00;055;nero;black;
-CodeBarre;OBAGS001-TESBV-055; O bag .capsule xmas 18;14; sacca interna zip O bag;OBAGS001;TESBV;055;nero;black;
-CodeBarre;OBAGS001-TESBV-076; O bag .capsule xmas 18;14; sacca interna zip O bag;OBAGS001;TESBV;076;rosso;red;
-CodeBarre;OBAGS002-TESBV-055; O bag .capsule xmas 18;15; sacca interna zip O bag mini;OBAGS002;TESBV;055;nero;black;
-CodeBarre;OBAGS002-TESBV-076; O bag .capsule xmas 18;15; sacca interna zip O bag mini;OBAGS002;TESBV;076;rosso;red;
-CodeBarre;ACCEP001-ECSE4-076; O bag .capsule xmas 18;18; accessorio pochette;ACCEP001;ECSE4;076;rosso;red;
-CodeBarre;ACCEP001-ECSE4-055; O bag .capsule xmas 18;18; accessorio pochette;ACCEP001;ECSE4;055;nero;black;
-CodeBarre;ACCEP001-ECSE4-371; O bag .capsule xmas 18;18; accessorio pochette;ACCEP001;ECSE4;371;latte;milk;
-CodeBarre;ACCEO114-MAS00-076; O bag .capsule xmas 18;19; aaccessorio portachiavi;ACCEO114;MAS00;076;rosso;red;
-CodeBarre;ACCEO114-MAS00-076; O bag .capsule xmas 18;19; aaccessorio portachiavi;ACCEO114;MAS00;076;rosso;red;
-CodeBarre;OCLKD001-MESF5-076; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;076;rosso;red;
-CodeBarre;OCLKD001-MESF5-008; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;008;latte;milk;
-CodeBarre;OCLKD001-MESF5-004; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;004;argento;silver;
-CodeBarre;OCLKD001-MESF5-025; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;025;cipria;cipria;
+CodeBarre;OBAGB001-EVS59-038; O bag .capsule xmas 18;6; scocca O bag;OBAGB001;EVS59;038;grafite;graphite
+CodeBarre;OBAGB001-EVS59-076; O bag .capsule xmas 18;6; scocca O bag;OBAGB001;EVS59;076;rosso;red
+CodeBarre;OBAGB002-EVS59-038; O bag .capsule xmas 18;7; scocca O bag mini;OBAGB002;EVS59;038;grafite;graphite
+CodeBarre;OBAGB002-EVS59-076; O bag .capsule xmas 18;7; scocca O bag mini;OBAGB002;EVS59;076;rosso;red
+CodeBarre;HLESMD00-ECS46-055; O bag .capsule xmas 18;10; micromanico tubolare corto;HLESMD00;ECS46;055;nero;black
+CodeBarre;HLESCE01-ECS00-055; O bag .capsule xmas 18;11; manico doppia catena a "t";HLESCE01;ECS00;055;nero;black
+CodeBarre;OBAGS001-TESBV-055; O bag .capsule xmas 18;14; sacca interna zip O bag;OBAGS001;TESBV;055;nero;black
+CodeBarre;OBAGS001-TESBV-076; O bag .capsule xmas 18;14; sacca interna zip O bag;OBAGS001;TESBV;076;rosso;red
+CodeBarre;OBAGS002-TESBV-055; O bag .capsule xmas 18;15; sacca interna zip O bag mini;OBAGS002;TESBV;055;nero;black
+CodeBarre;OBAGS002-TESBV-076; O bag .capsule xmas 18;15; sacca interna zip O bag mini;OBAGS002;TESBV;076;rosso;red
+CodeBarre;ACCEP001-ECSE4-076; O bag .capsule xmas 18;18; accessorio pochette;ACCEP001;ECSE4;076;rosso;red
+CodeBarre;ACCEP001-ECSE4-055; O bag .capsule xmas 18;18; accessorio pochette;ACCEP001;ECSE4;055;nero;black
+CodeBarre;ACCEP001-ECSE4-371; O bag .capsule xmas 18;18; accessorio pochette;ACCEP001;ECSE4;371;latte;milk
+CodeBarre;ACCEO114-MAS00-076; O bag .capsule xmas 18;19; aaccessorio portachiavi;ACCEO114;MAS00;076;rosso;red
+CodeBarre;ACCEO114-MAS00-076; O bag .capsule xmas 18;19; aaccessorio portachiavi;ACCEO114;MAS00;076;rosso;red
+CodeBarre;OCLKD001-MESF5-076; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;076;rosso;red
+CodeBarre;OCLKD001-MESF5-008; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;008;latte;milk
+CodeBarre;OCLKD001-MESF5-004; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;004;argento;silver
+CodeBarre;OCLKD001-MESF5-025; O bag .capsule xmas 18;22; O clock meccanismo;OCLKD001;MESF5;025;cipria;cipria

@@ -5,42 +5,42 @@ XXX;Avant toute edition, changer les formats des colonnes suivantes :
 XXX;Code Barre :;; numerique sans decimales
 XXX;Code Couleur :;; numerique format "000"
 XXX
-CodeBarre;OBAGB001-EVS44-017; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;017;blu navy;navy blue;
-CodeBarre;OBAGB001-EVS44-026; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;026;cobalto;cobalto;
-CodeBarre;OBAGB001-EVS44-075; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;075;rosa smoke;rosa smoke;
-CodeBarre;OBAGB001-EVS44-347; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;347;cedro;cedro;
-CodeBarre;OBAGB001-EVS44-371; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;371;latte;milk;
-CodeBarre;OBAGB001-EVS44-484; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;484;corallo;coral;
-CodeBarre;OBAGB002-EVS44-026; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;026;cobalto;cobalto;
-CodeBarre;OBAGB002-EVS44-075; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;075;rosa smoke;rosa smoke;
-CodeBarre;OBAGB002-EVS44-347; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;347;cedro;cedro;
-CodeBarre;OBAGB002-EVS44-371; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;371;latte;milk;
-CodeBarre;OBAGB002-EVS44-484; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;484;corallo;coral;
-CodeBarre;HLESGC00-ROS10-371; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;371;latte;milk;
-CodeBarre;HLESGC00-ROS10-484; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;484;coral;coral;
-CodeBarre;HLESGC00-ROS10-026; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;026;cobalto;cobalto;
-CodeBarre;HLESGC00-ROS10-486; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;486;pink;pink;
-CodeBarre;OBAGS001-TESV7-009; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;009;bue;blue;
-CodeBarre;OBAGS001-TESV7-484; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;484;coral;coral;
-CodeBarre;OBAGS001-TESV7-075; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;075;rosa smoke;rosa smoke;
-CodeBarre;OBAGS001-TESV7-347; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;347;cedro;cedro;
-CodeBarre;OBAGS001-TESV7-009; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;009;bue;blue;
-CodeBarre;OBAGS001-TESV7-484; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;484;coral;coral;
-CodeBarre;OBAGS001-TESV7-075; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;075;rosa smoke;rosa smoke;
-CodeBarre;OBAGS001-TESV7-347; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;347;cedro;cedro;
-CodeBarre;ACCEC018-EVS06-558; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;558;coral/pink;coral/pink;
-CodeBarre;ACCEC018-EVS06-580; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;580;pink/cedro;pink/cedro;
-CodeBarre;ACCEC018-EVS06-581; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;581;cedro/cobalto;cedro/cobalto;
-CodeBarre;ACCEC018-EVS06-578; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;578;atlantic/cedro;atlantic/cedro;
-CodeBarre;ACCEC018-EVS06-579; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;579;skyway/coral;skyway/coral;
-CodeBarre;ACCEC019-EVS34-026; .capsule farfalle 2018;17; accessorio portachiavi;ACCEC019;EVS34;026;cobalto;cobalto;
-CodeBarre;ACCEC019-EVS34-075; .capsule farfalle 2018;17; accessorio portachiavi;ACCEC019;EVS34;075;rosa smoke;rosa smoke;
-CodeBarre;ACCEC019-EVS34-371; .capsule farfalle 2018;17; accessorio portachiavi;ACCEC019;EVS34;371;latte;milk;
-CodeBarre;ACCEC021-EVS00-484; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;484;coral;coral;
-CodeBarre;ACCEC021-EVS00-075; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;075;rosa smoke;rosa smoke;
-CodeBarre;ACCEC021-EVS00-486; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;486;pink;pink;
-CodeBarre;ACCEC021-EVS00-347; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;347;cedro;cedro;
-CodeBarre;ACCEC021-EVS00-371; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;371;latte;milk;
-CodeBarre;ACCEC021-EVS00-026; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;026;cobalto;cobalto;
-CodeBarre;ACCEC021-EVS00-479; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;479;skyway;skyway;
-CodeBarre;ACCEC021-EVS00-485; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;485;atlantic;atlantic;
+CodeBarre;OBAGB001-EVS44-017; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;017;blu navy;navy blue
+CodeBarre;OBAGB001-EVS44-026; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;026;cobalto;cobalto
+CodeBarre;OBAGB001-EVS44-075; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;075;rosa smoke;rosa smoke
+CodeBarre;OBAGB001-EVS44-347; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;347;cedro;cedro
+CodeBarre;OBAGB001-EVS44-371; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;371;latte;milk
+CodeBarre;OBAGB001-EVS44-484; .capsule farfalle 2018;4; scocca O bag eva;OBAGB001;EVS44;484;corallo;coral
+CodeBarre;OBAGB002-EVS44-026; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;026;cobalto;cobalto
+CodeBarre;OBAGB002-EVS44-075; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;075;rosa smoke;rosa smoke
+CodeBarre;OBAGB002-EVS44-347; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;347;cedro;cedro
+CodeBarre;OBAGB002-EVS44-371; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;371;latte;milk
+CodeBarre;OBAGB002-EVS44-484; .capsule farfalle 2018;5; scocca O bag mini eva;OBAGB002;EVS44;484;corallo;coral
+CodeBarre;HLESGC00-ROS10-371; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;371;latte;milk
+CodeBarre;HLESGC00-ROS10-484; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;484;coral;coral
+CodeBarre;HLESGC00-ROS10-026; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;026;cobalto;cobalto
+CodeBarre;HLESGC00-ROS10-486; .capsule farfalle 2018;8; manico corto corda cotone;HLESGC00;ROS10;486;pink;pink
+CodeBarre;OBAGS001-TESV7-009; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;009;bue;blue
+CodeBarre;OBAGS001-TESV7-484; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;484;coral;coral
+CodeBarre;OBAGS001-TESV7-075; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;075;rosa smoke;rosa smoke
+CodeBarre;OBAGS001-TESV7-347; .capsule farfalle 2018;12; sacca interna zip O bag;OBAGS001;TESV7;347;cedro;cedro
+CodeBarre;OBAGS001-TESV7-009; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;009;bue;blue
+CodeBarre;OBAGS001-TESV7-484; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;484;coral;coral
+CodeBarre;OBAGS001-TESV7-075; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;075;rosa smoke;rosa smoke
+CodeBarre;OBAGS001-TESV7-347; .capsule farfalle 2018;13; sacca interna zip O bag mini;OBAGS001;TESV7;347;cedro;cedro
+CodeBarre;ACCEC018-EVS06-558; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;558;coral/pink;coral/pink
+CodeBarre;ACCEC018-EVS06-580; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;580;pink/cedro;pink/cedro
+CodeBarre;ACCEC018-EVS06-581; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;581;cedro/cobalto;cedro/cobalto
+CodeBarre;ACCEC018-EVS06-578; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;578;atlantic/cedro;atlantic/cedro
+CodeBarre;ACCEC018-EVS06-579; .capsule farfalle 2018;16; accessorio portachiavi;ACCEC018;EVS06;579;skyway/coral;skyway/coral
+CodeBarre;ACCEC019-EVS34-026; .capsule farfalle 2018;17; accessorio portachiavi;ACCEC019;EVS34;026;cobalto;cobalto
+CodeBarre;ACCEC019-EVS34-075; .capsule farfalle 2018;17; accessorio portachiavi;ACCEC019;EVS34;075;rosa smoke;rosa smoke
+CodeBarre;ACCEC019-EVS34-371; .capsule farfalle 2018;17; accessorio portachiavi;ACCEC019;EVS34;371;latte;milk
+CodeBarre;ACCEC021-EVS00-484; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;484;coral;coral
+CodeBarre;ACCEC021-EVS00-075; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;075;rosa smoke;rosa smoke
+CodeBarre;ACCEC021-EVS00-486; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;486;pink;pink
+CodeBarre;ACCEC021-EVS00-347; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;347;cedro;cedro
+CodeBarre;ACCEC021-EVS00-371; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;371;latte;milk
+CodeBarre;ACCEC021-EVS00-026; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;026;cobalto;cobalto
+CodeBarre;ACCEC021-EVS00-479; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;479;skyway;skyway
+CodeBarre;ACCEC021-EVS00-485; .capsule farfalle 2018;18; accessorio farfalla eva;ACCEC021;EVS00;485;atlantic;atlantic
