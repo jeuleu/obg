@@ -37,7 +37,17 @@ input != FILENAME {
 	# reinitialisation
 	nomCatalogue = ""
 	chercheCol = ""
+	codeProduit = ""
+	codeProduit2 = ""
 
+}
+
+# Libellé du produit
+/^descrizione/ {
+	libelleProduit = ""
+	for (i= 2; i <= NF; i++) {
+		libelleProduit = libelleProduit " " corrigeCaracteresSpeciaux($i)
+	}
 }
 
 
@@ -60,16 +70,11 @@ input != FILENAME {
 }
 
 
-# Libellé du produit
-/^descrizione/ {
-	libelleProduit = ""
-	for (i= 2; i <= NF; i++) {
-		libelleProduit = libelleProduit " " corrigeCaracteresSpeciaux($i)
-	}
-}
-
 # Page impaire
 / [0-9]*\. / {
+
+	traitementFinDePage()
+
 	gsub(/\./, "", $NF)
 	page = $NF
 }
@@ -138,8 +143,6 @@ function traitementFinDePage() {
 	}
 	
 	indice = 0
-	codeProduit = ""
-	codeProduit2 = ""
 }
 
 END {
