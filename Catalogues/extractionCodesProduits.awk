@@ -40,6 +40,7 @@ input != FILENAME {
 	codeProduit = ""
 	codeProduit2 = ""
 
+	razTabCouleur()
 }
 
 # Libellé du produit
@@ -132,17 +133,23 @@ function traitementFinDePage() {
 
 			# Couleurs
 			printf("%03d;%s;%s;\n", tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputCOUL
-			
-			# suppressoin des informations
-			delete tabCodeCouleur[i]
-			delete tabCouleurIT[i]
-			delete tabCouleurEN[i]
 		}
 	} else {
 		print "traitementFinDePage : probleme page '" page "'"
 	}
 	
+	razTabCouleur()
+	
 	indice = 0
+}
+
+function razTabCouleur() {
+	for (i in tabCodeCouleur) {
+		# suppression des informations
+		delete tabCodeCouleur[i]
+		delete tabCouleurIT[i]
+		delete tabCouleurEN[i]
+	}
 }
 
 END {

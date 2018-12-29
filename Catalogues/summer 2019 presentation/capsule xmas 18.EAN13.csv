@@ -5,11 +5,11 @@ XXX;Avant toute edition, changer les formats des colonnes suivantes :
 XXX;Code Barre :;; numerique sans decimales
 XXX;Code Couleur :;; numerique format "000"
 XXX
-CodeBarre;OCLKDC01-MES04-009; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES04;009;blu;blue;
-CodeBarre;OCLKDC01-MES04-055; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES04;055;nero;black;
-CodeBarre;OCLKDC01-MES04-004; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES04;004;argento;silver;
-CodeBarre;OCLKDC01-MES04-061; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES04;061;oro;gold;
-CodeBarre;OCLKDC01-MES04-072; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES04;072;rosa;pink;
+CodeBarre;OCLKDC01-MES06-009; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;009;blu;blue;
+CodeBarre;OCLKDC01-MES06-055; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;055;nero;black;
+CodeBarre;OCLKDC01-MES06-004; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;004;argento;silver;
+CodeBarre;OCLKDC01-MES06-061; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;061;oro;gold;
+CodeBarre;OCLKDC01-MES06-072; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;072;rosa;pink;
 CodeBarre;OCLKDC01-MES06-080; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;080;salvia;sage;
 CodeBarre;OCLKDC01-MES06-043; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;043;lilla;lilac;
 CodeBarre;OCLKDC01-MES06-002; O bag .capsule xmas 18;6; meccanismo O click shift;OCLKDC01;MES06;002;amaranto;amaranth;
@@ -20,8 +20,8 @@ CodeBarre;OCLKDC01-MES09-055; O bag .capsule xmas 18;18; meccanismo O click shif
 CodeBarre;OCLKDC01-MES09-008; O bag .capsule xmas 18;18; meccanismo O click shift;OCLKDC01;MES09;008;bianco;white;
 CodeBarre;OCLKDC01-MES09-081; O bag .capsule xmas 18;18; meccanismo O click shift;OCLKDC01;MES09;081;smeraldo;emerald;
 CodeBarre;OCLKDC01-MES09-077; O bag .capsule xmas 18;18; meccanismo O click shift;OCLKDC01;MES09;077;rubino;ruby;
-CodeBarre;OCLKDC01-MES10-061; O bag .capsule xmas 18;8; meccanismo O click shift;OCLKDC01;MES10;061;oro;gold;
-CodeBarre;OCLKDC01-MES10-004; O bag .capsule xmas 18;8; meccanismo O click shift;OCLKDC01;MES10;004;argento;silver;
+CodeBarre;OCLKDC01-MESD2-061; O bag .capsule xmas 18;8; meccanismo O click shift;OCLKDC01;MESD2;061;oro;gold;
+CodeBarre;OCLKDC01-MESD2-004; O bag .capsule xmas 18;8; meccanismo O click shift;OCLKDC01;MESD2;004;argento;silver;
 CodeBarre;OCLKDC01-MESD2-008; O bag .capsule xmas 18;8; meccanismo O click shift;OCLKDC01;MESD2;008;bianco;white;
 CodeBarre;OCLKDC01-MESD3-137; O bag .capsule xmas 18;9; meccanismo O click shift;OCLKDC01;MESD3;137;bluette;bluette;
 CodeBarre;OCLKEC01-MAS00-008; O bag .capsule xmas 18;10; case O click shift;OCLKEC01;MAS00;008;bianco;white;
@@ -48,4 +48,3 @@ CodeBarre;ACCEC304-MTS44-061; O bag .capsule xmas 18;17; accessorio charms o cli
 CodeBarre;ACCEC304-MTS44-061; O bag .capsule xmas 18;17; accessorio charms o click;ACCEC304;MTS44;061;oro;gold;
 CodeBarre;ACCEC301-MTS44-004; O bag .capsule xmas 18;18; accessorio charms o click;ACCEC301;MTS44;004;argento;silver;
 CodeBarre;ACCEC301-MTS44-061; O bag .capsule xmas 18;18; accessorio charms o click;ACCEC301;MTS44;061;oro;gold;
-CodeBarre;MOBLI056-PLSPX-184; O bag .capsule xmas 18;22; espositore O click shift in;MOBLI056;PLSPX;184;trasparente;trasparente;
