@@ -43,6 +43,9 @@ input != FILENAME {
 
 # Page paire et nom catalogue
 /^0?[0-9]*\. / {
+
+	traitementFinDePage()
+
 	gsub(/\./, "", $1)
 	page = $1
 	
@@ -81,23 +84,19 @@ $0 ~ "code" {
 # Recherche des codes couleur
 
 chercheCol == "en" {
-	couleurEN = corrigeCaracteresSpeciaux($0)
+	tabCouleurEN[indice] = corrigeCaracteresSpeciaux($0)
 	chercheCol = ""
-	
-	# Toutes infos
-	printf("%s;%s-%s;%s;%d;%s;%s;%s;%s;%s;\n", "CodeBarre", codeProduit2, codeCouleur, nomCatalogue, page, libelleProduit, codeProduit, codeCouleur, couleurIT, couleurEN) > outputEAN13
-
-	# Couleurs
-	printf("%03d;%s;%s;\n", codeCouleur, couleurIT, couleurEN) > outputCOUL
 }
 
 chercheCol == "it" {
-	couleurIT = corrigeCaracteresSpeciaux($0)
+	tabCouleurIT[indice] = corrigeCaracteresSpeciaux($0)
 	chercheCol = "en"
 }
 
 /^col. / {
-	codeCouleur = $2
+	indice++
+	
+	tabCodeCouleur[indice] = $2
 	chercheCol = "it"
 }
 
@@ -116,4 +115,33 @@ function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/‘/, "XX", ligne)
 	
 	return ligne
+}
+
+
+function traitementFinDePage() {
+	if (page != 0) {
+		for (i in tabCodeCouleur) {
+			# Toutes infos
+			printf("%s;%s-%s;%s;%d;%s;%s;%s;%s;%s;\n", "CodeBarre", 
+				codeProduit2, tabCodeCouleur[i], nomCatalogue, page, libelleProduit, codeProduit, tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputEAN13
+
+			# Couleurs
+			printf("%03d;%s;%s;\n", tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputCOUL
+			
+			# suppressoin des informations
+			delete tabCodeCouleur[i]
+			delete tabCouleurIT[i]
+			delete tabCouleurEN[i]
+		}
+	} else {
+		print "traitementFinDePage : probleme page '" page "'"
+	}
+	
+	indice = 0
+	codeProduit = ""
+	codeProduit2 = ""
+}
+
+END {
+	traitementFinDePage()
 }
