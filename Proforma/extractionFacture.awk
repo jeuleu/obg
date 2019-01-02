@@ -16,7 +16,7 @@ input != FILENAME {
 	controleTypeFichier()
 
 	input = FILENAME
-	
+
 	# fichier sortie
 	output = FILENAME
 	output_FAT_traitee = "FAT_traitee.csv"
@@ -87,7 +87,7 @@ input != FILENAME {
 #		print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
 	} else {
 		numLigne++
-		addInfoLigne(numLigne, $1, "lectureCodePiece");
+		addInfoLigne(numLigne, $1, "lectureCodePiece", "-");
 	}		
 }
 
@@ -103,7 +103,7 @@ input != FILENAME {
 #		print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
 	} else {
 		numLigne++
-		addInfoLigne(numLigne, $1, "lectureCouleur");
+		addInfoLigne(numLigne, $1, "lectureCouleur", "-");
 	}		
 }
 
@@ -135,7 +135,7 @@ etat == "lectureLibelle" {
 	} else {
 		if ($0 !~ /[Cc]at\351gorie/ && 	length($0) > marqueurTailleLibelle) {
 			numLigne++
-			addInfoLigne(numLigne, $0, "lectureLibelle");
+			addInfoLigne(numLigne, corrigeCaracteresSpeciaux($0), "lectureLibelle");
 		}	
 	}		
 }
@@ -250,7 +250,7 @@ etat == "finPage" {
 	numLigne = 0
 
 	# interligne
-	ajouteLigne(" ")
+#	ajouteLigne(" ")
 }
 
 
@@ -286,9 +286,13 @@ etat == "finPage" {
 #	print "DEBUG lecture total produit '" totalProduits "'"
 }
 
-function addInfoLigne(numLigne, info, typeInfo) {
+function addInfoLigne(numLigne, info, typeInfo, separateur) {
+	if (!separateur) {
+		separateur = ";"
+	}
+	
 	if (infoLigne[numLigne] != "") {
-		infoLigne[numLigne] = infoLigne[numLigne] ";" 
+		infoLigne[numLigne] = infoLigne[numLigne]  separateur 
 	}
 	
 	# supprimer le dernier blanc
@@ -333,29 +337,29 @@ function ecritDansFichier(info) {
 
 function traitementDeFinDeFichier() {	
 	traitementDeFinDePage()
+
+	numInfo++
 	
-	ecritDansFichier("Produit;Code piece;Couleur;Taille;Libelle;Quantit\351;Prix unitaire;Montant")
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";Produit;Code piece;Couleur;Taille;Libelle;Quantite;Prix unitaire;Montant")
 	
-	ecritDansFichier("Boutique;;" boutique)
-	ecritDansFichier("Ref. facture;;" refFacture)
-	ecritDansFichier("Total facture;;" totalFacture)
-	ecritDansFichier("Total produits;;" totalProduits)
-	ecritDansFichier(" ")
-	ecritDansFichier("Cumul montant;;" cumulMontant)
-	ecritDansFichier("Etat courant = '" etat "'")
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";Boutique;;" boutique)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";Ref. facture;;" refFacture)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";Total facture;;" totalFacture)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";Total produits;;" totalProduits)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";Cumul montant;;" cumulMontant ";;Etat courant = '" etat "'")
 
 	# controle
 	gsub(/,/, "\.", totalProduits)
 	print "Montants lus : '" cumulMontant "', '" totalProduits "'"
 	if (totalProduits == cumulMontant) {
-		ecritDansFichier("CONTROLE MONTANT OK;;" cumulMontant ";" totalProduits)
+		ecritDansFichier(sprintf(" %02d", numInfo++) ";CONTROLE MONTANT OK;;" cumulMontant ";" totalProduits)
 	} else {
-		ecritDansFichier("ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
+		ecritDansFichier(sprintf(" %02d", numInfo++) ";ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
 	}
-	ecritDansFichier(" ")
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";")
 	
 	for (i in tabLignes) {
-		ecritDansFichier(tabLignes[i])
+		ecritDansFichier(sprintf("%03d", i) ";" tabLignes[i])
 		delete tabLignes[i]
 	}
 	
@@ -363,6 +367,28 @@ function traitementDeFinDeFichier() {
 	print "Fichier output : " output, ", " output_FAT_traitee
 	print " "
 }
+
+
+function corrigeCaracteresSpeciaux(ligne) {
+	gsub(/ $/, "", ligne)
+
+	gsub(/\221|\222/, "'", ligne)
+	gsub(/\253|\273/, "\"", ligne)
+	gsub(/\223|\224/, "\"", ligne)
+	gsub(/\240/, " ", ligne)
+	gsub(/\350|\351/, "e", ligne)
+	gsub(/\362/, "0", ligne)
+	gsub(/\371/, "<u>", ligne)
+	gsub(/‘/, "XX", ligne)
+	
+	gsub(/\310|\311/, "E", ligne) # É
+	gsub(/\316/, "I", ligne) # Î
+	
+	gsub(/\214/, "OE", ligne)
+	
+	return ligne
+}
+
 
 # controle du type de fichier
 function controleTypeFichier() {
