@@ -6,7 +6,8 @@ echo "Traitement de FAT"
 echo "input : " $input
 echo "output : " $output
 #cat $input | sed 's/;/-/' | sed 's/;/-/' | cut -d";" -f1,3- | sort -t";" -k1 > $output
-cat $input | sort -t";" -k2 > $output
+#cat $input | sort -t";" -k2 > $output
+sort $input -t";" -k2 -o $output
 
 
 
