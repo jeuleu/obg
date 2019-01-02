@@ -60,11 +60,13 @@ input != FILENAME {
 	numLigne = 0
 }
 
-/^[A-Z]/ && etat == "lectureModele" {
-	if (numLigne >= nbLignes) {
-		etat = "lectureCodePiece"
-		numLigne = 0
-	} else if (length($1) < 8) {
+/^[A-Z]/ && (etat == "lectureModele") && (numLigne >= nbLignes) {
+	etat = "lectureCodePiece"
+	numLigne = 0
+}
+
+/^[A-Z]/ && (etat == "lectureModele") {
+	if (length($1) < 8) {
 		etat = "lectureCodePiece"
 		numLigne = 0
 
@@ -80,37 +82,42 @@ input != FILENAME {
 	}
 }
 
-/^[A-Z]/ && etat == "lectureCodePiece" {
-	if (numLigne >= nbLignes) {
-		etat = "lectureCouleur"
-		numLigne = 0
-#		print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
-	} else {
-		numLigne++
-		addInfoLigne(numLigne, $1, "lectureCodePiece", "-");
-	}		
+/^[A-Z]/ && (etat == "lectureCodePiece") && (numLigne >= nbLignes) {
+	etat = "lectureCouleur"
+	numLigne = 0
+#	print "lectureCodePiece : => lectureCouleur '" $0 "' (ligne " NR ")"
 }
 
-/^[0-9]* $/ && etat == "lectureCodePiece"  {
+
+/^[A-Z]/ && (etat == "lectureCodePiece") {
+	numLigne++
+	addInfoLigne(numLigne, $1, "lectureCodePiece", "-");
+}
+
+/^[0-9]* $/ && (etat == "lectureCodePiece")  {
 	etat = "lectureCouleur"
 	numLigne = 0
 }
 
-/^[0-9]{3} $/ && etat == "lectureCouleur" {
-	if (numLigne >= nbLignes) {
-		etat = "attenteUnite"
-		numLigne = 0
-#		print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
-	} else {
-		numLigne++
-		addInfoLigne(numLigne, $1, "lectureCouleur", "-");
-	}		
+
+/^[0-9]{3} $/ && (etat == "lectureCouleur") && (numLigne >= nbLignes) {
+	etat = "attenteUnite"
+	numLigne = 0
+#	print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
 }
 
-/^[0-9]* $/ && etat == "lectureCodePiece"  {
+
+/^[0-9]{3} $/ && (etat == "lectureCouleur") {
+	numLigne++
+	addInfoLigne(numLigne, $1, "lectureCouleur", "-");
+}
+
+
+/^[0-9]* $/ && (etat == "lectureCodePiece")  {
 	etat = "lectureCouleur"
 	numLigne = 0
 }
+
 
 /^PZ $/ && (etat == "lectureCouleur" || etat == "attenteUnite") {
 	etat = "attenteLibelle"
@@ -128,16 +135,16 @@ etat == "attenteLibelle" {
 	}
 }
 
+etat == "lectureLibelle" && (numLigne >= nbLignes) {
+	etat = "attenteTaille"
+	numLigne = 0
+}
+
 etat == "lectureLibelle" {
-	if (numLigne >= nbLignes) {
-		etat = "attenteTaille"
-		numLigne = 0
-	} else {
-		if ($0 !~ /[Cc]at\351gorie/ && 	length($0) > marqueurTailleLibelle) {
-			numLigne++
-			addInfoLigne(numLigne, corrigeCaracteresSpeciaux($0), "lectureLibelle");
-		}	
-	}		
+	if ($0 !~ /[Cc]at\351gorie/ && 	length($0) > marqueurTailleLibelle) {
+		numLigne++
+		addInfoLigne(numLigne, corrigeCaracteresSpeciaux($0), "lectureLibelle");
+	}	
 }
 
 /UNICA/ && etat == "attenteTaille" {
@@ -146,45 +153,42 @@ etat == "lectureLibelle" {
 #	print "lectureLibelle => lectureTaille (ligne " NR ")"
 }
 
-etat == "lectureTaille" {
-#	print "lectureTaille '" $0 "'"
-	if (numLigne >= nbLignes) {
-		etat = "attenteQuantite"
-		numLigne = 0
-	} else {
-		numLigne++
-		addInfoLigne(numLigne, $1, "lectureTaille");
-	}		
+etat == "lectureTaille" && (numLigne >= nbLignes) {
+	etat = "attenteQuantite"
+	numLigne = 0
 }
+
+
+etat == "lectureTaille" {
+	numLigne++
+	addInfoLigne(numLigne, $1, "lectureTaille");
+}
+
 
 /^[0-9,]* / && etat == "attenteQuantite" {
 	etat = "lectureQuantite"
 	numLigne = 0;
 }
 
+
+/^[0-9]/ &&	etat == "lectureQuantite" && (numLigne >= nbLignes) {
+	etat = "lecturePrixUnitaire"
+	numLigne = 0
+}		
+
 /^[0-9]/ &&	etat == "lectureQuantite" {
-	if (numLigne >= nbLignes) {
-		etat = "lecturePrixUnitaire"
-		numLigne = 0
-	} else {
-		numLigne++
-		addInfoLigne(numLigne, 0+$1, "lectureQuantite");
-	}		
+	numLigne++
+	addInfoLigne(numLigne, 0+$1, "lectureQuantite");
+}
+
+
+/^[0-9]/ && etat == "lecturePrixUnitaire" && (numLigne >= nbLignes) {
+	etat = "lectureMontant"
+	numLigne = 0
 }
 
 
 /^[0-9]/ && etat == "lecturePrixUnitaire"  {
-	if (etat == "attenteQuantite") {
-		etat = "lecturePrixUnitaire"
-	}
-
-	if (numLigne >= nbLignes) {
-		etat = "lectureMontant"
-		numLigne = 0
-	} else {
-		numLigne++
-		addInfoLigne(numLigne, $1, "lecturePrixUnitaire");
-	}		
 }
 
 # debug
@@ -193,7 +197,7 @@ etatFichier == "dernierePage" {
 }
 
 
-/^[0-9]/	&&	etat == "lectureMontant" {
+/^[0-9]/ &&	etat == "lectureMontant" {
 	if (numLigne >= nbLignes) {
 		finLectureMontant()
 	} else {
