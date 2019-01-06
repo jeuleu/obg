@@ -10,7 +10,7 @@ input != FILENAME {
 	# fichier sortie
 	outputEAN13 = FILENAME
 	gsub(/txt$/, "EAN13.csv", outputEAN13)
-	print "Sortie : " outputEAN13
+	print "Sortie : " 
 	
 	nomFichier = outputEAN13
 	gsub(/ /, "\\ ", nomFichier)
@@ -26,19 +26,20 @@ input != FILENAME {
 	print "    Couleurs : " outputCOUL
 
 	
-	print "XXXCode barre;Code compact;Catalogue;Page;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > outputEAN13
-	print "XXX" > outputEAN13
-	print "XXX;ATTENTION au format des colonnes !" > outputEAN13
-	print "XXX;Avant toute edition, changer les formats des colonnes suivantes :" > outputEAN13
-	print "XXX;Code Barre :;; numerique sans decimales" > outputEAN13
-	print "XXX;Code Couleur :;; numerique format \"000\"" > outputEAN13
-	print "XXX" > outputEAN13
+	print "XXX Code barre;Code compact;Catalogue;p000-01;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;" > outputEAN13
+	print "XXX;;;p000-02" > outputEAN13
+	print "XXX;;;p000-03;ATTENTION au format des colonnes !" > outputEAN13
+	print "XXX;;;p000-04;Avant toute edition, changer les formats des colonnes suivantes :" > outputEAN13
+	print "XXX;;;p000-05;Code Barre :;; numerique sans decimales" > outputEAN13
+	print "XXX;;;p000-06;Code Couleur :;; numerique format \"000\"" > outputEAN13
+	print "XXX;;;p000-07" > outputEAN13
 	
 	# reinitialisation
 	nomCatalogue = ""
 	chercheCol = ""
 	codeProduit = ""
 	codeProduit2 = ""
+	lignePage = 0
 
 	razTabCouleur()
 }
@@ -67,8 +68,8 @@ input != FILENAME {
 
 
 # Page paire et nom catalogue
-/^0?[0-9]*\. / {
-
+/^[0-9][0-9]*\. / {
+#print " >> page impaire '" $0 "'"
 	traitementFinDePage()
 
 	gsub(/\./, "", $1)
@@ -86,8 +87,8 @@ input != FILENAME {
 
 
 # Page impaire
-/ [0-9]*\. / {
-
+/ [0-9][0-9]*\. ?/ {
+#print " >> page impaire '" $0 "'"
 	traitementFinDePage()
 
 	gsub(/\./, "", $NF)
@@ -97,12 +98,22 @@ input != FILENAME {
 
 # Code Produit
 $0 ~ "code" {
-	# sauvergarde codeProduit si changement de code dans la même page
+	# sauvegarde codeProduit si changement de code dans la même page
 	codeProduitPrecedent = codeProduit
 	codeProduit2Precedent = codeProduit2
 	
-	codeProduit = $2 ";" $3
-	codeProduit2 = $2 "-" $3
+	produit = $2
+	piece = $3
+	
+	if (length($2) >= 13) {
+		produit = substr($2, 1, 8)
+		piece = substr($2, 9, 5)
+	} else {
+		produit = $2
+		piece = $3
+	}
+	codeProduit = produit ";" piece
+	codeProduit2 = produit "-" piece
 }
 
 # Recherche des codes couleur
@@ -121,6 +132,7 @@ chercheCol == "it" {
 	indice++
 	
 	tabCodeCouleur[indice] = sprintf("%03d", $2)
+	tabLignePage[indice] = ++lignePage
 	chercheCol = "it"
 }
 
@@ -136,9 +148,13 @@ function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/\351/, "e", ligne)
 	gsub(/\362/, "0", ligne)
 	gsub(/\371/, "<u>", ligne)
-	gsub(/‘/, "XX", ligne)
-	
+
 	return ligne
+}
+
+# Debug
+{
+#	print "Debug : (" NR ") codeProduit ='" codeProduit "', page='" page "', ligne='" $0 "'"
 }
 
 
@@ -146,18 +162,23 @@ function traitementFinDePage() {
 	if (page != 0) {
 		for (i in tabCodeCouleur) {
 			# Toutes infos
-			printf("%s;%s-%s;%s;%d;%s;%s;%s;%s;%s\n", "CodeBarre", 
-				codeProduit2, tabCodeCouleur[i], nomCatalogue, page, libelleProduit, codeProduit, tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputEAN13
+			printf("%s;%s-%s;%s;p%03d-%02d;%s;%s;%s;%s;%s\n", "CodeBarre", 
+				codeProduit2, tabCodeCouleur[i], nomCatalogue, page, tabLignePage[i], libelleProduit, codeProduit, tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputEAN13
 
 			# Couleurs
 			printf("%03d;%s;%s;\n", tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputCOUL
 		}
 	} else {
-		print "traitementFinDePage : probleme page '" page "'"
+		# cas normal pour le premier appel
+		if (nbProblemePage > 0) {
+			print "traitementFinDePage (" NR ") : probleme page n°" nbProblemePage " page '" page "', ligne='" $0 "'"
+		}
+		nbProblemePage++
 	}
 	
 	razTabCouleur()
 	
+	lignePage = 0
 	indice = 0
 }
 
@@ -165,6 +186,7 @@ function razTabCouleur() {
 	for (i in tabCodeCouleur) {
 		# suppression des informations
 		delete tabCodeCouleur[i]
+		delete tabLignePage[i]
 		delete tabCouleurIT[i]
 		delete tabCouleurEN[i]
 	}
