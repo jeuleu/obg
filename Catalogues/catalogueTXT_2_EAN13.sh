@@ -2,6 +2,9 @@
 
 awkFile=`dirname $0`/extractionCodesProduits.awk
 	
+# pour permettre les tris	
+export LC_ALL='C'
+
 # contrôle des parametres	
 if [[ ! $1 =~ \.txt$ ]]; then
 	echo ""
@@ -10,6 +13,7 @@ if [[ ! $1 =~ \.txt$ ]]; then
 fi
 
 function fusionneFichierEAN13() {
+	echo "appel de fusionneFichierEAN13 fic1='$1' fic2='$2'"
 	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$1") "$2" -a1 -o 2.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10 | sed 's/^;/codeBarre;/' | sort -t";" -k4 > fichierFusionne.csv
 	mv fichierFusionne.csv "$1"
 }
@@ -30,13 +34,17 @@ echo "Output : '$output'"
 if [[ -e $output ]]
 then
 	echo " "
-	echo "Fichier '$output' renommé en '$ancienCatalogue'"
+	echo "Extraction  des codes barre du fichier '$output' vers '$ancienCatalogue'"
 
 	grep "^8" "$output" | sort -t";" -k2  > "$anciensCodesEAN13" 
+	
+	echo " "
+	echo "Suppression du fichier '$output'"
+	rm "$output"
 fi
 
 echo " "
-echo "extraction des données du catalogue"
+echo "Extraction des données du catalogue"
 
 awk -f "$awkFile" "${input}"
 
@@ -53,9 +61,9 @@ then
 	echo " "
 	echo "Fusion avec l'ancien fichier EAN13 '$ancienCatalogue' "
 
-	fusionneFichierEAN13 "$output" "$ancienCatalogue"
+	fusionneFichierEAN13 "$output" "$anciensCodesEAN13"
 	
 	echo " "
 	echo "On compte..."
-	wc "$output" "$ancienCatalogue"
+	wc "$output" "$anciensCodesEAN13"
 fi
