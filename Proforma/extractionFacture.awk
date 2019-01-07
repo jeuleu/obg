@@ -40,14 +40,14 @@ input != FILENAME {
 
 
 # Transition : lecture nbLignes
-/^[0-9]* $/ && etat == "attenteNbLignes" {
+/^[0-9]* ?$/ && etat == "attenteNbLignes" {
 	pageNum++
 #	print "attenteNbLignes : Nouvelle page " pageNum " - '" $0 "'"
 	
 	etat = "lectureNbLignes"
 }
 
-/^[0-9]* $/ && etat == "lectureNbLignes" {
+/^[0-9]* ?$/ && etat == "lectureNbLignes" {
 	nbLignes++
 #	print "lectureNbLignes : page " pageNum " - " nbLignes " - '" $0 "'"
 }
@@ -100,14 +100,14 @@ input != FILENAME {
 }
 
 
-/^[0-9]{3} $/ && (etat == "lectureCouleur") && (numLigne >= nbLignes) {
+/^[0-9]{3} ?$/ && (etat == "lectureCouleur") && (numLigne >= nbLignes) {
 	etat = "attenteUnite"
 	numLigne = 0
 #	print "lectureCouleur : => attenteUnite '" $0 "' (ligne " NR ")"
 }
 
 
-/^[0-9]{3} $/ && (etat == "lectureCouleur") {
+/^[0-9]{3} ?$/ && (etat == "lectureCouleur") {
 	numLigne++
 	addInfoLigne(numLigne, $1, "lectureCouleur", "-");
 }
@@ -119,7 +119,7 @@ input != FILENAME {
 }
 
 
-/^PZ $/ && (etat == "lectureCouleur" || etat == "attenteUnite") {
+/^PZ ?$/ && (etat == "lectureCouleur" || etat == "attenteUnite") {
 	etat = "attenteLibelle"
 #	print "attenteUnite : => attenteLibelle '" $0 "' (ligne " NR ")"
 }
@@ -165,30 +165,32 @@ etat == "lectureTaille" {
 }
 
 
-/^[0-9,]* / && etat == "attenteQuantite" {
+/^ ?[0-9,]* ?$/ && etat == "attenteQuantite" {
+#	print "Transition attenteQuantite '" $0 "'"
 	etat = "lectureQuantite"
 	numLigne = 0;
 }
 
 
-/^[0-9]/ &&	etat == "lectureQuantite" && (numLigne >= nbLignes) {
+/^ ?[0-9,]* ?$/ &&	etat == "lectureQuantite" && (numLigne >= nbLignes) {
 	etat = "lecturePrixUnitaire"
 	numLigne = 0
 }		
 
-/^[0-9]/ &&	etat == "lectureQuantite" {
+/^ ?[0-9,]* ?$/ &&	etat == "lectureQuantite" {
+#	print "lectureQuantité : numLigne=" numLigne ", '" $0 "'"
 	numLigne++
 	addInfoLigne(numLigne, 0+$1, "lectureQuantite");
 }
 
 
-/^[0-9]/ && etat == "lecturePrixUnitaire" && (numLigne >= nbLignes) {
+/^ ?[0-9]/ && etat == "lecturePrixUnitaire" && (numLigne >= nbLignes) {
 	etat = "lectureMontant"
 	numLigne = 0
 }
 
 
-/^[0-9]/ && etat == "lecturePrixUnitaire"  {
+/^ ?[0-9]/ && etat == "lecturePrixUnitaire"  {
 	numLigne++
 	addInfoLigne(numLigne, $1, "lecturePrixUnitaire");
 }
@@ -199,7 +201,7 @@ etatFichier == "dernierePage" {
 }
 
 
-/^[0-9]/ &&	etat == "lectureMontant" {
+/^ ?[0-9]/ &&	etat == "lectureMontant" {
 	if (numLigne >= nbLignes) {
 		finLectureMontant()
 	} else {
@@ -253,7 +255,7 @@ etat == "finPage" {
 	}
 
 	# interligne
-	ajouteLigne(" ")
+#	ajouteLigne(" ")
 }
 
 
@@ -365,7 +367,7 @@ function traitementDeFinDeFichier() {
 	ecritDansFichier(sprintf(" %02d", numInfo++) ";")
 	
 	for (i in tabLignes) {
-		ecritDansFichier(sprintf("%03d", i) ";" tabLignes[i])
+		ecritDansFichier(sprintf("%03d;%s", i, tabLignes[i]))
 		delete tabLignes[i]
 	}
 	
@@ -411,7 +413,7 @@ function controleTypeFichier() {
 
 # A commenter hors debug
 { 
-#	print "Ligne " NR " : " $0
+#	print "Ligne " NR " : etat= '" etat "', '" $0 "'"
 }
 
 END {
