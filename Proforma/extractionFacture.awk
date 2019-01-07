@@ -141,7 +141,7 @@ etat == "lectureLibelle" && (numLigne >= nbLignes) {
 }
 
 etat == "lectureLibelle" {
-	if ($0 !~ /[Cc]at\351gorie/ && 	length($0) > marqueurTailleLibelle) {
+	if ($0 !~ /[Cc]at\351gorie/ && $0 !~/AGED01 AGENTE DIREZIONALE/	&& length($0) > marqueurTailleLibelle) {
 		numLigne++
 		addInfoLigne(numLigne, corrigeCaracteresSpeciaux($0), "lectureLibelle");
 	}	
@@ -189,6 +189,8 @@ etat == "lectureTaille" {
 
 
 /^[0-9]/ && etat == "lecturePrixUnitaire"  {
+	numLigne++
+	addInfoLigne(numLigne, $1, "lecturePrixUnitaire");
 }
 
 # debug
@@ -249,12 +251,9 @@ etat == "finPage" {
 	} else {
 		etat = "fichierTraite"
 	}
-	
-	nbLignes = 0
-	numLigne = 0
 
 	# interligne
-#	ajouteLigne(" ")
+	ajouteLigne(" ")
 }
 
 
@@ -326,6 +325,9 @@ function traitementDeFinDePage() {
 		# reinitialisation
 		delete infoLigne[i]
 	}
+	
+	nbLignes = 0
+	numLigne = 0
 }
 
 function ecritDansFichier(info) {
