@@ -1,517 +1,526 @@
-.borse bags 
-03 scocche body 
-04 scocche body O bag 
-05 scocche body O bag mini 
-07 scocche body O moon 
-09 manici e tracolle 
-handles and shoulder straps 
-10 manici lunghi + corti long + short handles 
-11 manici corti short handles 
-12 tracolle shoulder straps 
-15 sacche interne inserts 
-16 sacche interne inner bags O bag 
-17 sacche interne inner bags O bag mini 
-18 sacche interne inner bags O moon 
-21 accessori accessories 
-.orologi clocks 
-28 quadranti dials O clock 
+
+
+ .borse bags
+03 scocche body
+04 scocche body O bag
+05 scocche body O bag mini
+07 scocche body O moon
+09 manici e tracolle
+ handles and shoulder straps
+10 manici lunghi + corti long + short handles
+11 manici corti short handles
+12 tracolle shoulder straps
+15 sacche interne inserts
+16 sacche interne inner bags O bag
+17 sacche interne inner bags O bag mini
+18 sacche interne inner bags O moon
+21 accessori accessories
+ .orologi clocks
+28 quadranti dials O clock
 31 quadranti dials O clock great
+
 .scocche bodies
-04. O bag Christmas capsule 2017 
-code OBAGB001 EVS22 
+04.   O bag Christmas capsule 2017
+code OBAGB001 EVS22
 descrizione scocca O bag EVA 
-compound + applicazioni pins 
-materiale EVA compound 
+compound + applicazioni pins
+materiale EVA compound
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description EVA compound O bag body 
-+ pins applications 
++ pins applications
 material 
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
+bags
 col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-col. 076 
-rosso 
-red 
-pins .scocca body O bag 
-code OBAGB001 EVS23 
+nero
+black
+col. 371
+latte
+milk
+col. 076
+rosso
+red
+pins .scocca body O bag
+code OBAGB001 EVS23
 descrizione scocca O bag EVA 
-compound + applicazioni crystal rain 
-materiale EVA compound 
+compound + applicazioni crystal rain
+materiale EVA compound
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description EVA compound O bag body 
-+ crystal rain applications 
++ crystal rain applications
 material 
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
+bags
 col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-col. 076 
-rosso 
-red 
+nero
+black
+col. 371
+latte
+milk
+col. 076
+rosso
+red
 crystal rain .scocca body O bag
-manici e tracolle handles and shoulder straps 05. 
-code OBAGB002 EVS22 
+manici e tracolle handles and shoulder straps   05.
+code OBAGB002 EVS22
 descrizione scocca O bag mini EVA 
-compound + applicazioni pins 
-materiale EVA compound 
+compound + applicazioni pins
+materiale EVA compound
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description EVA compound O bag mini 
-body + pins applications 
+body + pins applications
 material 
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
+bags
 col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-col. 076 
-rosso 
-red 
-pins .scocca body O bag mini 
-code OBAGB002 EVS24 
+nero
+black
+col. 371
+latte
+milk
+col. 076
+rosso
+red
+pins .scocca body O bag mini
+code OBAGB002 EVS24
 descrizione scocca O bag mini EVA 
 compound + applicazioni crystal 
-matelassè 
-materiale EVA compound 
+matelassÃ¨
+materiale EVA compound
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
-description EVA compound O bag mini 
-body + crystal quilted applications 
+chiusure street - sacche interne
+description EVA compound O bag mini  
+body + crystal quilted applications
 material 
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
+bags
 col. 371 
-latte 
-milk 
-col. 076 
-rosso 
-red 
-col. 055 
-nero 
-black 
-crystal matelassè .scocca body O bag mini
-06. O bag Christmas capsule 2017 
-code OBAGB016 EVS22 
+latte
+milk
+col. 076
+rosso
+red
+col. 055
+nero
+black
+crystal matelassÃ¨ .scocca body O bag mini
+06.   O bag Christmas capsule 2017
+code OBAGB016 EVS22
 descrizione scocca O moon EVA 
-compound + applicazioni pins 
-materiale EVA compound 
+compound + applicazioni pins
+materiale EVA compound
 abbinamenti manici e tracolle - sacche 
-interne 
+interne
 description EVA compound O moon 
-body + pins applications 
+body + pins applications
 material 
 components handles and shoulder 
-straps - inner bags 
+straps - inner bags
 col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-col. 076 
-rosso 
-red 
-pins .scocca body O moon 
-code OBAGB016 EVS23 
+nero
+black
+col. 371
+latte
+milk
+col. 076
+rosso
+red
+pins .scocca body O moon
+code OBAGB016 EVS23
 descrizione scocca O moon EVA 
-compound + applicazioni crystal rain 
-materiale EVA compound 
+compound + applicazioni crystal rain
+materiale EVA compound
 abbinamenti manici e tracolle - sacche 
-interne 
+interne
 description EVA compound O moon 
-body + crystal rain applications 
+body + crystal rain applications
 material 
 components handles and shoulder 
-straps - inner bags 
+straps - inner bags
 col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-col. 076 
-rosso 
-red 
+nero
+black
+col. 371
+latte
+milk
+col. 076
+rosso
+red
 crystal rain .scocca body O moon
-manici e tracolle handles and shoulder straps 07.
+manici e tracolle handles and shoulder straps   07.
+
 .manici e tracolle 
 handles and shoulder straps
-10. O bag Christmas capsule 2017 
-code HLESHH00 ECS78 
+10.   O bag Christmas capsule 2017
+code HLESHH00 ECS78
 descrizione doppio manico extraslim 
 goccia lungo + corto ecopelle + tessuto 
-velluto + ecopelle stampa lucertolina 
-materiale ecopelle + tessuto 
+velluto + ecopelle stampa lucertolina
+materiale ecopelle + tessuto
 abbinamenti O bag - O bag mini - O city 
-- O beach mini 
+- O beach mini
 description faux leather + velvet fabric 
 + lizard print faux leather double long + 
-short extra slim handle with raindrop ends 
-material faux leather + fabric 
+short extra slim handle with raindrop ends
+material faux leather + fabric
 components O bag - O bag mini - O city 
-- O beach mini 
+- O beach mini
 col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
+nero
+black
+col. 076
+rosso
+red
 doppio manico velluto + lucertolina .doppio manico double handle 
-manici e tracolle handles and shoulder straps 11. 
+manici e tracolle handles and shoulder straps   11.
 col. 008 
-bianco 
-white 
-code HLESGC00 ECS01 
-descrizione manico corto ecopelle 
-martellato 
-materiale ecopelle 
-abbinamenti O bag - O bag mini - O city 
-- O bag ‘50 
-description textured faux leather short 
-handle 
-material faux leather 
-components O bag - O bag mini - O city 
-- O bag ‘50 
-martellato .manico corto short handle
-12. O bag Christmas capsule 2017 
-code SHOUGB00 TESO7 
-descrizione tracolla 80/120 tessuto 
-nastro tecnico 
-materiale tessuto 
-abbinamenti O bag - O bag mini - O bag 
-‘50 - O city 
-description technical band 80/120 
-shoulder strap 
-material fabric 
-components O bag - O bag mini - O bag 
-‘50 - O city 
-col. 527 
-nero/oro 
-black/gold 
-tessuto nastro tecnico .tracolla shoulder strap
-manici e tracolle handles and shoulder straps 13.
-.sacche interne inner bags
-16. O bag Christmas capsule 2017 
-code OBAGS001 TES98 
-descrizione sacca interna zip O bag 
-tessuto velluto liscio 
-materiale tessuto 
-abbinamenti O bag 
-description smooth velvet fabric O bag 
-zip up bag 
-material fabric 
-components O bag 
-velluto liscio .sacca interna inner bag O bag 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-col. 008 
-bianco 
-white 
-code OBAGS001 TES01 
-descrizione sacca interna zip O bag 
-tessuto canvas 
-materiale tessuto 
-abbinamenti O bag 
-description canvas fabric O bag inner zip 
-up bag 
-material fabric 
-components O bag 
-canvas .sacca interna inner bag O bag
-manici e tracolle handles and shoulder straps 17. 
-code OBAGS002 TES98 
-descrizione sacca interna zip O bag mini 
-tessuto velluto lisico 
-materiale tessuto 
-abbinamenti O bag mini 
-description smooth velvet fabric O bag 
-mini zip up bag 
-material fabric 
-components O bag mini 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-velluto liscio .sacca interna inner bag O bag mini 
-col. 008 
-bianco 
-white 
-code OBAGS002 TES01 
-descrizione sacca interna zip O bag mini 
-tessuto canvas 
-materiale tessuto 
-abbinamenti O bag mini 
-description canvas fabric O bag mini 
-inner zip up bag 
-material fabric 
-components O bag mini 
-canvas .sacca interna inner bag O bag mini
-18. O bag Christmas capsule 2017 
-code OBAGS016 TES26 
-descrizione sacca interna zip O bag 
-moon tessuto cordura 
-materiale tessuto 
-abbinamenti O bag moon 
-description cordura fabric O bag moon 
-zip up bag 
-material fabric 
-components O bag moon 
-code OBAGS016 TES98 
-descrizione sacca interna zip O bag 
-moon tessuto velluto liscio 
-materiale tessuto 
-abbinamenti O bag moon 
-description velvet fabric fabric O bag 
-moon zip up bag 
-material fabric 
-components O bag moon 
-cordura .sacca interna inner bag O bag moon 
-velluto liscio .sacca interna inner bag O bag moon 
-col. 008 
-bianco 
-white 
-col. 008 
-bianco 
+bianco
 white
-manici e tracolle handles and shoulder straps 19.
+code HLESGC00 ECS01
+descrizione manico corto ecopelle 
+martellato
+materiale ecopelle
+abbinamenti O bag - O bag mini - O city 
+- O bag â€˜50
+description textured faux leather short 
+handle
+material faux leather
+components O bag - O bag mini - O city 
+- O bag â€˜50
+martellato .manico corto short handle
+12.   O bag Christmas capsule 2017
+code SHOUGB00 TESO7
+descrizione tracolla 80/120 tessuto 
+nastro tecnico
+materiale tessuto
+abbinamenti O bag - O bag mini - O bag 
+â€˜50 - O city
+description technical band 80/120 
+shoulder strap
+material fabric
+components O bag - O bag mini - O bag 
+â€˜50 - O city
+col. 527 
+nero/oro
+black/gold
+tessuto nastro tecnico .tracolla shoulder strap
+manici e tracolle handles and shoulder straps   13.
+
+.sacche interne inner bags
+16.   O bag Christmas capsule 2017
+code OBAGS001 TES98
+descrizione sacca interna zip O bag 
+tessuto velluto liscio
+materiale tessuto
+abbinamenti O bag
+description smooth velvet fabric O bag 
+zip up bag
+material fabric
+components O bag
+velluto liscio .sacca interna inner bag O bag
+col. 055
+nero
+black
+col. 076
+rosso
+red
+col. 008 
+bianco
+white
+code OBAGS001 TES01
+descrizione sacca interna zip O bag 
+tessuto canvas
+materiale tessuto
+abbinamenti O bag
+description canvas fabric O bag inner zip 
+up bag
+material fabric
+components O bag
+canvas .sacca interna inner bag O bag
+manici e tracolle handles and shoulder straps   17.
+code OBAGS002 TES98
+descrizione sacca interna zip O bag mini 
+tessuto velluto lisico
+materiale tessuto
+abbinamenti O bag mini
+description smooth velvet fabric O bag 
+mini zip up bag
+material fabric
+components O bag mini
+col. 055
+nero
+black
+col. 076
+rosso
+red
+velluto liscio .sacca interna inner bag O bag mini
+col. 008 
+bianco
+white
+code OBAGS002 TES01
+descrizione sacca interna zip O bag mini 
+tessuto canvas
+materiale tessuto
+abbinamenti O bag mini
+description canvas fabric O bag mini 
+inner zip up bag
+material fabric
+components O bag mini
+canvas .sacca interna inner bag O bag mini
+18.   O bag Christmas capsule 2017
+code OBAGS016 TES26
+descrizione sacca interna zip O bag 
+moon tessuto cordura
+materiale tessuto
+abbinamenti O bag moon
+description cordura fabric O bag moon 
+zip up bag
+material fabric
+components O bag moon
+code OBAGS016 TES98
+descrizione sacca interna zip O bag 
+moon tessuto velluto liscio
+materiale tessuto
+abbinamenti O bag moon
+description velvet fabric fabric O bag 
+moon zip up bag
+material fabric
+components O bag moon
+cordura .sacca interna inner bag O bag moon
+velluto liscio .sacca interna inner bag O bag moon
+col. 008
+bianco
+white
+col. 008
+bianco
+white
+manici e tracolle handles and shoulder straps   19.
+
 .accessori accessories
-22. O bag Christmas capsule 2017 
-code ACCEO001 FAS39 
+22.   O bag Christmas capsule 2017
+code ACCEO001 FAS39
 descrizione pendaglio pon pon 
-ecopelliccia mourmasky metal 
-materiale ecopelliccia 
+ecopelliccia mourmasky metal
+materiale ecopelliccia
 description faux mourmasky metal fur 
-pom pom pendant 
-material faux fur 
+pom pom pendant
+material faux fur
 col. 258 
-beige 
-beige 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-col. 076 
-rosso 
-red 
-col. 089 
-verde 
-green 
-col. 371 
-latte 
-milk 
+beige
+beige
+col. 055
+nero
+black
+col. 076
+rosso
+red
+col. 076
+rosso
+red
+col. 089
+verde
+green
+col. 371
+latte
+milk
 pon pon mourmasky metal .accessorio accessory 
-code ACCES007 TES70 
+code ACCES007 TES70
 descrizione accessorio spilla fiocco 
-tessuto nastro tartan 
-materiale tessuto 
+tessuto nastro tartan
+materiale tessuto
 description tartan fabric ribbon pin 
-accessory 
-material fabric 
+accessory
+material fabric
 fiocco nastro tartan .accessorio accessory 
-manici e tracolle handles and shoulder straps 23. 
-code ACCES008 LAS28 
+manici e tracolle handles and shoulder straps   23.
+code ACCES008 LAS28
 descrizione accessorio spilla pon pon 
-lana rouche 
-materiale lana 
+lana rouche
+materiale lana
 description rouche wool pom pom wool 
-pin accessory 
-material wool 
-col. 371 
-latte 
-milk 
-col. 133 
-grigio chiaro 
-light grey 
+pin accessory
+material wool
+col. 371
+latte
+milk
+col. 133
+grigio chiaro
+light grey
 pon pon lana rouche .accessorio accessory 
 col. 055 
-nero 
-black 
-code ACCES010 LAS00 
+nero
+black
+code ACCES010 LAS00
 descrizione accessorio spilla abete 
-natale lana 
-materiale lana 
+natale lana
+materiale lana
 description wool christmas tree pin 
-accessory 
-material wool 
+accessory
+material wool
 col. 089 
-verde 
-green 
+verde
+green
 abete natale .accessorio accessory 
-24. O bag Christmas capsule 2017 
-code ACCES011 LAS00 
+24.   O bag Christmas capsule 2017
+code ACCES011 LAS00
 descrizione accessorio spilla omino di 
-neve lana 
-materiale lana 
-description wool snowman pin accessory 
-material wool 
+neve lana
+materiale lana
+description wool snowman pin accessory
+material wool
 col. 008 
-bianco 
-white 
+bianco
+white
 omino di neve .accessorio accessory 
-code ACCES009 LAS00 
+code ACCES009 LAS00
 descrizione accessorio spilla cappellino 
-lana 
-materiale lana 
-description wool hat pin accessory 
-material wool 
+lana
+materiale lana
+description wool hat pin accessory
+material wool
 col. 076 
-rosso 
-red 
+rosso
+red
 cappellino lana .accessorio accessory 
-manici e tracolle handles and shoulder straps 25. 
-code ACCES012 FAS40 
+manici e tracolle handles and shoulder straps   25.
+code ACCES012 FAS40
 descrizione accessorio spilla flower 
-ecopelliccia + strass 
-materiale ecopelliccia + strass 
+ecopelliccia + strass
+materiale ecopelliccia + strass
 description flower faux fur + strass pin 
-accessory 
-material faux fur + strass 
+accessory
+material faux fur + strass
 col. 055 
-nero 
-black 
+nero
+black
 flower ecopelliccia + strass .accessorio accessory 
+
 .orologi watches
-28. O bag Christmas capsule 2017 
-code OCLKD001 MES93 
+28.   O bag Christmas capsule 2017
+code OCLKD001 MES93
 descrizione O clock meccanismo 
-christmas snowflakes 
+christmas snowflakes
 materiale 
 description christmas snowflakes O 
-clock dial 
+clock dial
 material 
 col. 389 
-argento 
-silver 
-col. 388 
-oro 
-gold 
-col. 076 
-rosso 
-red 
-christmas snowflakes .meccanismo dial O clock 
-code OCLKD001 MES94 
+argento
+silver
+col. 388
+oro
+gold
+col. 076
+rosso
+red
+christmas snowflakes .meccanismo dial O clock
+code OCLKD001 MES94
 descrizione O clock meccanismo 
-christmas stars 
+christmas stars
 materiale 
-description christmas stars O clock dial 
+description christmas stars O clock dial
 material 
 col. 527 
-nero/oro 
-black/gold 
+nero/oro
+black/gold
 christmas stars .meccanismo dial O clock
-manici e tracolle handles and shoulder straps 29. 
-code OCLKD001 MES95 
+manici e tracolle handles and shoulder straps   29.
+code OCLKD001 MES95
 descrizione O clock meccanismo 
-christmas ribbons 
+christmas ribbons
 materiale 
 description christmas ribbons O clock 
-dial 
+dial
 material 
 col. 527 
-nero/oro 
-black/gold 
+nero/oro
+black/gold
 christmas ribbons .meccanismo dial O clock
-30. O bag Christmas capsule 2017 
-code OCLKS007 SIS01 
+30.   O bag Christmas capsule 2017
+code OCLKS007 SIS01
 descrizione O clock cinturino silicone 
-materiale silicone 
-abbinamenti meccanismo O clock 
-description silicone O clock strap 
-material silicone 
-components O clock dial 
-silicone .cinturino strap O clock 
-gener XS gener XS 
-gener S 
-gener M 
-gener L 
+materiale silicone
+abbinamenti meccanismo O clock
+description silicone O clock strap
+material silicone
+components O clock dial
+silicone .cinturino strap O clock  
+gener XS gener XS
+gener S
+gener M
+gener L
 col. 008 
-bianco 
-white 
+bianco
+white
 col. 077 
-rubino 
-ruby 
-gener S 
-gener M 
+rubino
+ruby
+gener S
+gener M
 col. 055 
-nero 
-black 
-gener S 
-gener M 
+nero
+black
+gener S
+gener M
 gener L gener L
-manici e tracolle handles and shoulder straps 31. 
-code OCLKD101 MES93 
+manici e tracolle handles and shoulder straps   31.
+code OCLKD101 MES93
 descrizione meccanismo great christmas 
-snowflakes 
+snowflakes
 materiale 
 description christmas snowflakes O 
-clock great dial 
+clock great dial
 material 
-christmas snowflakes .meccanismo dial O clock great 
+christmas snowflakes .meccanismo dial O clock great
 col. 389 
-argento 
-silver 
-col. 388 
-oro 
-gold 
-col. 076 
-rosso 
+argento
+silver
+col. 388
+oro
+gold
+col. 076
+rosso
 red
-32. O bag Christmas capsule 2017 
-gener S gener S 
-gener M 
-gener L 
+32.   O bag Christmas capsule 2017
+gener S gener S
+gener M
+gener L
 col. 008 
-bianco 
-white 
+bianco
+white
 col. 055 
-nero 
-black 
-code OCLKS107 SIS01 
+nero
+black
+code OCLKS107 SIS01
 descrizione O clock cinturino great 
-silicone 
-materiale silicone 
-abbinamenti meccanismo O clock great 
-description silicone O clock great strap 
-material silicone 
-components O clock great dial 
-gener M 
-gener L 
-silicone .cinturino strap O clock great 
-gener S 
-gener M 
-gener L 
+silicone
+materiale silicone
+abbinamenti meccanismo O clock great
+description silicone O clock great strap
+material silicone
+components O clock great dial
+gener M
+gener L
+silicone .cinturino strap O clock great
+gener S
+gener M
+gener L
 col. 076 
-rosso 
+rosso
 red
-manici e tracolle handles and shoulder straps 33.
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+manici e tracolle handles and shoulder straps   33.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

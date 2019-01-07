@@ -1,284 +1,292 @@
-‘18 .capsule 
+â€˜18 .capsule
 Farfalle
-03 scocche body 
-04 scocche body O bag 
-05 scocche body O bag mini 
-07 manici e tracolle handles and shoulder straps 
-08 manici corti short handles 
-11 sacche interne inner bags 
-12 sacche interne inner bags O bag 
-13 sacche interne inner bags O bag mini 
-15 accessori flaps 
+
+ 
+03 scocche body
+04 scocche body O bag
+05 scocche body O bag mini
+07 manici e tracolle handles and shoulder straps
+08 manici corti short handles
+11 sacche interne inner bags
+12 sacche interne inner bags O bag
+13 sacche interne inner bags O bag mini
+15 accessori flaps
 16 portachiavi accessories
+
 .scocche body
-04. .capsule farfalle 2018 
-code OBAGB001 EVS44 
+04.   .capsule farfalle 2018
+code OBAGB001 EVS44
 descrizione scocca O bag eva 
-compound applicazione farfalle 
+compound applicazione farfalle
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description body O bag eva compound 
-butterflies applications 
+butterflies applications
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
-col. 017 
-blu navy 
-navy blue 
-col. 026 
-cobalto 
-cobalto 
+bags
+col. 017
+blu navy
+navy blue
+col. 026
+cobalto
+cobalto
 col. 075 
-rosa smoke 
-rosa smoke 
+rosa smoke
+rosa smoke
 col. 347 
-cedro 
-cedro 
+cedro
+cedro
 col. 371 
-latte 
-milk 
+latte
+milk
 col. 484 
-corallo 
-coral 
+corallo
+coral
 O bag applicazione farfalle .scocca body 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
 .capsule farfalle
-scocche bodies 05. 
-code OBAGB002 EVS44 
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle
+scocche bodies   05.
+code OBAGB002 EVS44
 descrizione scocca O bag mini eva 
-compound applicazione farfalle 
+compound applicazione farfalle
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description body O bag mini eva 
-compound butterflies applications 
+compound butterflies applications
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
-col. 026 
-cobalto 
-cobalto 
+bags
+col. 026
+cobalto
+cobalto
 col. 075 
-rosa smoke 
-rosa smoke 
+rosa smoke
+rosa smoke
 col. 347 
-cedro 
-cedro 
+cedro
+cedro
 col. 371 
-latte 
-milk 
+latte
+milk
 col. 484 
-corallo 
-coral 
+corallo
+coral
 O bag applicazione farfalle .scocca body 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle
 .capsule farfalle .capsule farfalle
+
 .manici e tracolle 
 handles and shoulder straps
-08. .capsule farfalle 2018 
+08. .capsule farfalle 2018
 col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
+latte
+milk
+col. 484
+coral
+coral
 col. 026 
-cobalto 
-cobalto 
+cobalto
+cobalto
 col. 486 
-pink 
-pink 
-.capsule farfalle 
-.capsule farfalle .capsule farfalle .capsule farfalle 
-code HLESGC00 ROS10 
+pink
+pink
+.capsule farfalle
+.capsule farfalle.capsule farfalle .capsule farfalle
+code HLESGC00 ROS10
 descrizione manico corto corda cotone 
-intrecciato 
-materiale cotone 
-abbinamenti \ 
-material cotton 
-components \ 
+intrecciato
+materiale cotone
+abbinamenti \
+material cotton
+components \
 corda cotone intrecciato .manico corto short handles
-manici e tracolle handles and shoulder straps 09.
+manici e tracolle handles and shoulder straps   09.
+
 .sacche interne inner bags
-12. .capsule farfalle 2018 
-code OBAGS001 TESV7 
+12.   .capsule farfalle 2018
+code OBAGS001 TESV7
 descrizione sacca interna zip O bag 
-tessuto canvas stampa farfalle 
-materiale tessuto 
-abbinamenti O bag 
-material fabric 
-components O bag 
-tessuto canvas stampa farfalle .sacca interna inner bag O bag 
+tessuto canvas stampa farfalle  
+materiale tessuto
+abbinamenti O bag
+material fabric
+components O bag
+tessuto canvas stampa farfalle .sacca interna inner bag O bag
 col. 009 
-bue 
-blue 
+bue
+blue
 col. 484 
-coral 
-coral 
-col. 075 
-rosa smoke 
-rosa smoke 
+coral
+coral
+col. 075
+rosa smoke
+rosa smoke
 col. 347 
-cedro 
-cedro 
-.capsule farfalle 
-.capsule farfalle 
+cedro
+cedro
+.capsule farfalle
+.capsule farfalle
 .capsule farfalle .capsule farfalle
-sacche interne inner bags 13. 
-code OBAGS001 TESV7 
+sacche interne inner bags   13.
+code OBAGS001 TESV7
 descrizione sacca interna zip O bag mini 
-tessuto canvas stampa farfalle 
-materiale tessuto 
-abbinamenti O bag mini 
-material fabric 
-components O bag mini 
-tessuto canvas stampa farfalle .sacca interna inner bag O bag mini 
+tessuto canvas stampa farfalle  
+materiale tessuto
+abbinamenti O bag mini
+material fabric
+components O bag mini
+tessuto canvas stampa farfalle .sacca interna inner bag O bag mini
 col. 009 
-bue 
-blue 
+bue
+blue
 col. 484 
-coral 
-coral 
-col. 075 
-rosa smoke 
-rosa smoke 
+coral
+coral
+col. 075
+rosa smoke
+rosa smoke
 col. 347 
-cedro 
-cedro 
-.capsule farfalle 
-.capsule farfalle 
+cedro
+cedro
+.capsule farfalle
+.capsule farfalle
 .capsule farfalle .capsule farfalle
+
 .accessori accessories
-16. .capsule farfalle 2018 
+16.   .capsule farfalle 2018
 col. 558 
-coral/pink 
-coral/pink 
-col. 580 
-pink/cedro 
-pink/cedro 
-col. 581 
-cedro/cobalto 
-cedro/cobalto 
-col. 578 
-atlantic/cedro 
-atlantic/cedro 
-col. 579 
-skyway/coral 
-skyway/coral 
-code ACCEC017 EVS06 
+coral/pink
+coral/pink
+col. 580
+pink/cedro
+pink/cedro
+col. 581
+cedro/cobalto
+cedro/cobalto
+col. 578
+atlantic/cedro
+atlantic/cedro
+col. 579
+skyway/coral
+skyway/coral
+code ACCEC017 EVS06
 descrizione accessorio portachiavi 
 farfalla grande eva compound texture 
-greca 
-materiale eva compound 
-abbinamenti 
-material eva compound 
-code ACCEC018 EVS06 
+greca
+materiale eva compound
+abbinamenti
+material eva compound
+code ACCEC018 EVS06
 descrizione accessorio portachiavi 
 farfalla piccola eva compound texture 
-greca 
-materiale eva compound 
-abbinamenti 
-material eva compound 
-portachiavi farfalla grande .accessori 
-portachiavi farfalla piccola .accessori 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
+greca
+materiale eva compound
+abbinamenti
+material eva compound
+portachiavi farfalla grande .accessori
+portachiavi farfalla piccola .accessori
 .capsule farfalle
-accessori accessories 17. 
-col. 026 
-cobalto 
-cobalto 
-col. 075 
-rosa smoke 
-rosa smoke 
-col. 371 
-latte 
-milk 
-code ACCEC019 EVS34 
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle
+accessori accessories   17.
+col. 026
+cobalto
+cobalto
+col. 075
+rosa smoke
+rosa smoke
+col. 371
+latte
+milk
+code ACCEC019 EVS34
 descrizione accessorio portachiavi 
-farfalle + nappina eva compound + plex 
-materiale eva compound 
-abbinamenti 
-material eva compound 
-portachiavi farfalla + nappina .accessori 
+farfalle + nappina eva compound + plex
+materiale eva compound
+abbinamenti
+material eva compound
+portachiavi farfalla + nappina .accessori
 .capsule farfalle .capsule farfalle .capsule farfalle
-18. .capsule farfalle 2018 
+18.   .capsule farfalle 2018
 col. 484 
-coral 
-coral 
+coral
+coral
 col. 075 
-rosa smoke 
-rosa smoke 
-col. 486 
-pink 
-pink 
-col. 347 
-cedro 
-cedro 
-col. 371 
-latte 
-milk 
-col. 026 
-cobalto 
-cobalto 
-col. 479 
-skyway 
-skyway 
-col. 485 
-atlantic 
-atlantic 
-code ACCEC021 EVS00 
+rosa smoke
+rosa smoke
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+col. 371
+latte
+milk
+col. 026
+cobalto
+cobalto
+col. 479
+skyway
+skyway
+col. 485
+atlantic
+atlantic
+code ACCEC021 EVS00
 descrizione accessorio farfalla eva 
-compound 
-materiale eva compound 
-abbinamenti 
-material eva compound 
-accessorio farfalla .accessori 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle 
-.capsule farfalle .capsule farfalle 
-.capsule farfalle 
-.capsule farfalle .capsule farfalle 
-LARGE 
-LARGE 
-LARGE 
-LARGE LARGE 
-LARGE 
-LARGE LARGE 
-MEDIUM 
-MEDIUM 
-MEDIUM 
-MEDIUM MEDIUM 
-MEDIUM 
-MEDIUM MEDIUM 
-SMALL 
-SMALL 
-SMALL 
-SMALL SMALL 
-SMALL 
-SMALL SMALL
-accessori accessories 19. 
-col. 004 
-argento 
-argento 
-code ATSEN008 LGS01 
-descrizione rivetti completi (100pz) 
-ottone 
-materiale ottone 
-abbinamenti 
-rivetti completi .accessori 
+compound
+materiale eva compound
+abbinamenti
+material eva compound
+accessorio farfalla .accessori
 .capsule farfalle
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+.capsule farfalle
+.capsule farfalle
+.capsule farfalle .capsule farfalle
+.capsule farfalle
+.capsule farfalle .capsule farfalle
+LARGE
+LARGE
+LARGE
+LARGE LARGE
+LARGE
+LARGE LARGE
+MEDIUM
+MEDIUM
+MEDIUM
+MEDIUM MEDIUM
+MEDIUM
+MEDIUM MEDIUM
+SMALL
+SMALL
+SMALL
+SMALL SMALL
+SMALL
+SMALL SMALL
+accessori accessories   19.
+col. 004 
+argento
+argento
+code ATSEN008 LGS01
+descrizione rivetti completi (100pz) 
+ottone
+materiale ottone
+abbinamenti
+rivetti completi .accessori
+.capsule farfalle
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

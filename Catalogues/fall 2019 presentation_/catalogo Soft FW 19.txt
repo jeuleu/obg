@@ -1,776 +1,780 @@
-‘19 .fall 
+â€˜19 .fall
 .capsule transition
-.borse bags 
-05 scocche body 
-06 scocche body O sweet 
-07 scocche body O mild 
-08 scocche body O diamond 
-09 scocche body O smooth mini 
-10 scocche body O ride 
-14 scocche body O bag duette 
-15 manici e tracolle 
-handles and shoulder straps 
-16 manici lunghi long handles 
-17 manici corti short handles 
-18 tracolle shoulder straps 
-27 accessori accessories 
-28 pochette pochette 
-29 portafoglio wallet 
+
+ .borse bags
+05 scocche body
+06 scocche body O sweet
+07          scocche body O mild
+08 scocche body O diamond
+09 scocche body O smooth mini
+10 scocche body O ride
+14 scocche body O bag duette
+15 manici e tracolle
+ handles and shoulder straps
+16 manici lunghi long handles
+17 manici corti short handles
+18 tracolle shoulder straps
+27 accessori accessories
+28 pochette pochette
+29 portafoglio wallet
 30 portatessere cardholder
-.scocche 
+
+.scocche
 bodies
-06. O bag capsule soft fall 19 
-code OBAGBN41M TES20 
+ 06. O bag capsule soft fall 19
+code OBAGBN41M TES20
 descrizione scocca new O sweet tessuto 
-gommato 
-materiale tessuto gommato 
+gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 026 
-cobalto 
-cobalt 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 026
+cobalto
+cobalt
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 O sweet .scocca body 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-CONSIGLIATO: 
-manico lungo 
-HLESLX01 TES20 
-pag. 18
-scocche bodies 07. 
-code OBAGBW40M TES20 
-descrizione scocca completa con 
-chiusura new O mild tessuto gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 026 
-cobalto 
-cobalt 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-O mild .scocca body 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-CONSIGLIATO: 
-manico corto 
-HLESGC20 TES20 
-pag. 19 
-tracolla new generico larga 
-SHOUWF00 TES20 
-pag. 21
-08. O bag capsule soft fall 19 
-code OBAGB963 TES20 
-descrizione scocca completa con 
-chiusura O diamond tessuto gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 018 
-bordeaux 
-bordeaux 
-O diamond .scocca body 
-.capsule soft 
-.capsule soft 
-.capsule soft .capsule soft 
-.capsule soft .capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-CONSIGLIATO: 
-manico lungo 
-HLESLX01 TES20 
-pag. 18
-scocche bodies 09. 
-code OBAGB050M TES20 
-descrizione scocca O smooth mini 
-tessuto gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 026 
-cobalto 
-cobalt 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-O smooth mini .scocca body 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-OBBLIGAORIO: 
-pattina con manichetto tessuto 
-gommato 
-OBAGPM00 TES20 
-pag. 11 
-tracolla new generica stretta 
-tessuto gommato 
-SHOUWF00 TES20 
-pag. 21 
-FACOLTATIVO: 
-pattina con manichetto stampa 
-check 
-OBAGPM00 TESBQ 
-pattina con manichetto stampa 
-cocco 
-OBAGPM00 ECSE1 
-pag. 13
-10. O bag capsule soft fall 19 
-code OBAGZ001M TES20 
-descrizione zaino O ride tessuto 
-gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-O ride .zaino backpack 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-OBBLIGAORIO: 
-pattina con manichetto 
-OBAGPM00 TES20 
-pag. 11 
-tracolla spallaccio slim 
-SHOUB101 TES20 
-pag. 20 
-CONSIGLIATO: 
-pattina con manichetto 
-OBAGPM00 TESBQ 
-OBAGPM00 ECSE1 
-pag. 13
-scocche bodies 11. 
-code OBAGPM00M TES20 
-descrizione pattina con manichetto 
-generico tessuto gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 026 
-cobalto 
-cobalt 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-tessuto gommato .pattina flap 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-12. O bag capsule soft fall 19 
-code OBAGZ001 TESBK 
-descrizione scocca zaino O ride tessuto 
-piumino spigato 
-materiale piumino 
+CONSIGLIATO:
+manico lungo
+HLESLX01 TES20
+pag. 18
+scocche bodies   07.
+code OBAGBW40M TES20
+descrizione scocca completa con 
+chiusura new O mild  tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material piumino 
+material rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 018 
-bordeaux 
-bordeaux 
-col. 615 
-military 
-military 
-piumino spigato .zaino backpack 
-.capsule soft .capsule soft .capsule soft 
-CONSIGLIATO PATTA: 
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 026
+cobalto
+cobalt
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+O mild .scocca body 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+CONSIGLIATO:
+manico corto
+HLESGC20 TES20
+pag. 19
+tracolla new generico larga
+SHOUWF00 TES20
+pag. 21
+ 08. O bag capsule soft fall 19
+code OBAGB963 TES20
+descrizione scocca completa con 
+chiusura O diamond tessuto gommato
+materiale tessuto gommato
+abbinamenti 
+description 
+material rubber fabric
+components 
+col. 055 
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 018
+bordeaux
+bordeaux
+O diamond .scocca body 
+.capsule soft
+.capsule soft
+.capsule soft.capsule soft
+.capsule soft .capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+CONSIGLIATO:
+manico lungo
+HLESLX01 TES20
+pag. 18
+scocche bodies   09.
+code OBAGB050M TES20
+descrizione scocca O smooth mini  
+tessuto gommato
+materiale tessuto gommato
+abbinamenti 
+description 
+material rubber fabric
+components 
+col. 055 
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 026
+cobalto
+cobalt
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+O smooth mini .scocca body 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+OBBLIGAORIO:
 pattina con manichetto tessuto 
-gommato 
-OBAGPM00 TES20 
-pag. 11 
-FACOLTATIVA: 
+gommato
+OBAGPM00 TES20
+pag. 11
+tracolla new generica stretta
+tessuto gommato
+SHOUWF00 TES20
+pag. 21
+FACOLTATIVO:
 pattina con manichetto stampa 
-cocco 
-OBAGPM00 ECSE1 
-OBBLIGAORIO: 
-tracolla spallaccio slim 
-SHOUB101 TES20 
+check
+OBAGPM00 TESBQ
+pattina con manichetto stampa 
+cocco
+OBAGPM00 ECSE1
+pag. 13
+ 10. O bag capsule soft fall 19
+code OBAGZ001M TES20
+descrizione zaino O ride tessuto 
+gommato
+materiale tessuto gommato
+abbinamenti 
+description 
+material rubber fabric
+components 
+col. 026 
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 055
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+O ride .zaino backpack 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+OBBLIGAORIO:
+pattina con manichetto
+OBAGPM00 TES20
+pag. 11
+tracolla spallaccio slim
+SHOUB101 TES20
 pag. 20
-scocche bodies 13. 
-code OBAGPM00M ECSE1 
+CONSIGLIATO:
+pattina con manichetto
+OBAGPM00 TESBQ
+OBAGPM00 ECSE1
+pag. 13
+scocche bodies   11.
+code OBAGPM00M TES20
+descrizione pattina con manichetto 
+generico tessuto gommato
+materiale tessuto gommato
+abbinamenti 
+description 
+material rubber fabric
+components 
+col. 055 
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 026
+cobalto
+cobalt
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+tessuto gommato .pattina flap 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+ 12. O bag capsule soft fall 19
+code OBAGZ001 TESBK
+descrizione scocca zaino O ride  tessuto 
+piumino spigato
+materiale piumino
+abbinamenti 
+description 
+material piumino
+components 
+col. 055 
+nero
+black
+col. 018
+bordeaux
+bordeaux
+col. 615
+military
+military
+piumino spigato .zaino backpack 
+.capsule soft .capsule soft .capsule soft
+CONSIGLIATO PATTA:
+pattina con manichetto tessuto 
+gommato
+OBAGPM00 TES20
+pag. 11
+FACOLTATIVA:
+pattina con manichetto stampa 
+cocco
+OBAGPM00 ECSE1
+OBBLIGAORIO:
+tracolla spallaccio slim
+SHOUB101 TES20
+pag. 20
+scocche bodies   13.
+code OBAGPM00M ECSE1
 descrizione pattina con manichetto 
 generico ecopelle stampa cocco + 
-gommato 
-materiale ecopelle + tessuto gommato 
+gommato
+materiale ecopelle + tessuto gommato
 abbinamenti 
 description 
-material faux leather + rubber fabric 
+material faux leather + rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+nero
+black
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 ecopelle stampa cocco + gommato .pattina flap 
-.capsule soft .capsule soft .capsule soft 
-code OBAGPM00 TESBQ 
+.capsule soft .capsule soft .capsule soft
+code OBAGPM00 TESBQ
 descrizione pattina con manichetto 
-generico tessuto gommato stampa check 
-materiale tessuto gommato 
+generico tessuto gommato stampa  check
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 008 
-bianco 
-white 
+nero
+black
+col. 008
+bianco
+white
 tessuto gommato stampa check .pattina flap 
 .capsule soft .capsule soft
-14. O bag capsule soft fall 19 
-code OBAGB462 TES20 
+ 14. O bag capsule soft fall 19
+code OBAGB462 TES20
 descrizione scocca completa O bag 
-duette tessuto gommato 
-materiale tessuto gommato 
+duette tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 018 
-bordeaux 
-bordeaux 
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 018
+bordeaux
+bordeaux
 O bag duette .scocca body 
-.capsule soft 
-.capsule soft 
-.capsule soft .capsule soft 
-.capsule soft 
-.capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-CONSIGLIATO: 
-tracolla catena lunga maglia 
-SHOUC052 MTS01 
-pag. 23
-scocche bodies 15.
-.manici e tracolle 
-handles and shoulder strap
-18. O bag capsule soft fall 19 
-code HLESLX01 TES20 
-descrizione manico linear extra lungo 
-con fibbietta tessuto gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 018 
-bordeaux 
-bordeaux 
-fibbietta tessuto gommato .manico lungo short handle 
-.capsule soft 
-.capsule soft 
-.capsule soft .capsule soft 
-.capsule soft .capsule soft 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft
-manici e tracolle handles and shoulder strap 19. 
-col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
-.capsule soft .capsule soft 
-code HLESGC20M TES20 
-descrizione manico generico corto 
-alamaro tessuto gommato 
-materiale tessuto gommato 
-abbinamenti 
-description 
-material rubber fabric 
-components 
-col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 026 
-cobalto 
-cobalt 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-alamaro tessuto gommato .manico corto short handle 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
 .capsule soft
-20. O bag capsule soft fall 19 
-code SHOUBJ01M TES20 
+.capsule soft
+.capsule soft.capsule soft
+.capsule soft .capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+CONSIGLIATO:
+tracolla catena lunga maglia
+SHOUC052 MTS01
+pag. 23
+scocche bodies   15.
+
+.manici e tracolle
+handles and shoulder strap
+ 18. O bag capsule soft fall 19
+code HLESLX01 TES20
+descrizione manico linear extra lungo 
+con fibbietta tessuto gommato
+materiale tessuto gommato
+abbinamenti 
+description 
+material rubber fabric
+components 
+col. 055 
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 018
+bordeaux
+bordeaux
+fibbietta tessuto gommato .manico lungo short handle 
+.capsule soft
+.capsule soft
+.capsule soft.capsule soft
+.capsule soft .capsule soft
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+manici e tracolle handles and shoulder strap   19.
+col. 038 
+grafite
+graphite
+col. 615
+military
+military
+.capsule soft .capsule soft
+code HLESGC20M TES20
+descrizione manico generico corto 
+alamaro tessuto gommato
+materiale tessuto gommato
+abbinamenti 
+description 
+material rubber fabric
+components 
+col. 055 
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 026
+cobalto
+cobalt
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+alamaro tessuto gommato .manico corto short handle 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+ 20. O bag capsule soft fall 19
+code SHOUBJ01M TES20
 descrizione tracolla/spallaccio slim 
-regolabiletessuto gommato 
-materiale tessuto gommato 
+regolabiletessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 055
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 slim regolabile tessuto gommato .tracolla spallaccio shoulder strap 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-manici e tracolle handles and shoulder strap 21. 
-code SHOUWG00M TES20 
+manici e tracolle handles and shoulder strap   21.
+code SHOUWG00M TES20
 descrizione tracolla new generico stretta 
-tessuto gommato 
-materiale tessuto gommato 
+tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt 
-col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 111 
-ocra 
-ocra 
-col. 018 
-bordeaux 
-bordeaux 
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt
+col. 055
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 111
+ocra
+ocra
+col. 018
+bordeaux
+bordeaux
 tracolla stretta tessuto gommato .tracolla shoulder strap 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-22. O bag capsule soft fall 19 
-code SHOUWF00M TES20 
+ 22. O bag capsule soft fall 19
+code SHOUWF00M TES20
 descrizione tracolla new generico larga 
-tessuto gommato 
-materiale tessuto gommato 
+tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt 
-col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 111 
-ocra 
-ocra 
-col. 018 
-bordeaux 
-bordeaux 
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt
+col. 055
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 111
+ocra
+ocra
+col. 018
+bordeaux
+bordeaux
 tracolla larga tessuto gommato .tracolla shoulder strap 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-manici e tracolle handles and shoulder strap 23. 
-code SHOUC052 MTS01 
+manici e tracolle handles and shoulder strap   23.
+code SHOUC052 MTS01
 descrizione tracolla catena lunga a 
-maglia sottile metallo galvanizzato 
-materiale metallo 
+maglia sottile metallo galvanizzato
+materiale metallo
 abbinamenti 
 description 
-material metal 
+material metal
 components 
 col. 004 
-argento 
-silver 
+argento
+silver
 maglia sottile metallo .tracolla shoulder strap 
 .capsule soft
-.accessori 
+
+.accessori
 accessories
-26. O bag capsule soft fall 19 
-code ACCEP004M TES20 
+ 26. O bag capsule soft fall 19
+code ACCEP004M TES20
 descrizione accessorio pochette a busta 
-tessuto gommato 
-materiale tessuto gommato 
+tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 154 
-ciliegia 
-strawberry 
-col. 026 
-cobalto 
-cobalt 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+nero
+black
+col. 154
+ciliegia
+strawberry
+col. 026
+cobalto
+cobalt
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 tessuto gommato .pochette pochette 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-portafogli wallets 27. 
-code WLLTC101M ECSC2 
+portafogli wallets   27.
+code WLLTC101M ECSC2
 descrizione portafoglio completo con 
 chiusura O light ecopelle + tessuto 
-gommato 
-materiale ecopelle + tessuto gommato 
+gommato
+materiale ecopelle + tessuto gommato
 abbinamenti 
 description 
-material faux leather + rubber fabric 
+material faux leather + rubber fabric
 components 
 col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 055
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 O light .portafoglio wallet 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-28. O bag capsule soft fall 19 
-code ACCET000 ECSC2 
+ 28. O bag capsule soft fall 19
+code ACCET000 ECSC2
 descrizione accessorio portatessere 
-ecopelle + tessuto gommato 
-materiale tessuto gommato 
+ecopelle + tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
-material rubber fabric 
+material rubber fabric
 components 
 col. 055 
-nero 
-black 
-col. 111 
-ocra 
-ocra 
-col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt 
-col. 154 
-ciliegia 
-strawberry 
-col. 018 
-bordeaux 
-bordeaux 
+nero
+black
+col. 111
+ocra
+ocra
+col. 017
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt
+col. 154
+ciliegia
+strawberry
+col. 018
+bordeaux
+bordeaux
 ecopelle + tessuto gommato .portatessere cardholder 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
-.capsule soft 
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
+.capsule soft
 col. 038 
-grafite 
-graphite 
-col. 615 
-military 
-military 
+grafite
+graphite
+col. 615
+military
+military
 .capsule soft .capsule soft
-portafogli wallets 29.
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+portafogli wallets   29.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+

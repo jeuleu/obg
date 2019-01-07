@@ -1,481 +1,483 @@
-manici handles 01. 
-‘18 .capsule xmas 
+manici  handles   01.
+â€˜18 .capsule xmas
 + double
-.borse bags 
-05 scocche body 
-06 scocche body O bag sheen 
-07 scocche body O bag double 
-09 manici 
-handles 
-10 manici corti short handles 
-11 patte flaps 
-12 patte flaps O bag sheen 
-17 accessori accessories 
-24 portachiavi keychain 
+
+ .borse bags
+05 scocche body
+06 scocche body O bag sheen
+07 scocche body O bag double
+09 manici
+ handles
+10 manici corti short handles
+11 patte flaps
+12 patte flaps O  bag sheen
+17 accessori accessories
+24 portachiavi keychain
 21 orologi watches
-04. O bag .capsule xmas 18
-manici handles 05. 
-.scocche 
+ 04. O bag .capsule xmas 18
+manici  handles   05.
+.scocche
 bodies
-06. O bag .capsule xmas 18 
-code OBAGB048 EVS00 
-descrizione scocca O bag sheen 
-materiale XL extralight 
-abbinamenti O bag sheen 
-description body O bag sheen 
-material XL extralight 
-components O bag sheen 
-col. 018 
-bordeaux 
-bordeaux 
-col. 389 
-silver 
-silver 
-col. 055 
-nero 
-black 
-col. 559 
-rame 
-rame 
+ 06. O bag .capsule xmas 18
+code OBAGB048 EVS00
+descrizione scocca O bag sheen
+materiale XL extralight
+abbinamenti O bag sheen
+description body O bag sheen
+material XL extralight
+components O bag sheen
+col. 018
+bordeaux
+bordeaux
+col. 389
+silver
+silver
+col. 055
+nero
+black
+col. 559
+rame
+rame
 O bag sheen .scocca .scocca body 
-.capsule xmas 
-.capsule xmas 
+.capsule xmas
+.capsule xmas
 .capsule xmas .capsule xmas
-scocche bodies 07. 
-code OBAGB451 ECS07 
-descrizione scocca completo O bag 
-double 
-materiale saffiano 
-abbinamenti O bag double 
-description body O bag double 
-material saffiano 
-components O bag double 
-col. 018 
-bordeaux 
-bordeaux 
-col. 541 
-verde bosco 
-forest green 
-col. 055 
-nero 
-black 
-col. 559 
-rame 
-rame 
+scocche bodies   07.
+code OBAGB451 ECS07
+descrizione scocca completo  O bag 
+double
+materiale saffiano
+abbinamenti O bag double
+description body O bag double
+material saffiano
+components O bag double
+col. 018
+bordeaux
+bordeaux
+col. 541
+verde bosco
+forest green
+col. 055
+nero
+black
+col. 559
+rame
+rame
 O bag double .scocca completo .scocca completo body comple-
-.double 
-.double 
+.double
+.double
 .double .double
-08. O bag .capsule xmas 18
-manici handles 09. 
+ 08. O bag .capsule xmas 18
+manici  handles   09.
 .manici 
 handles
-10. O bag .capsule xmas 18 
+ 10. O bag .capsule xmas 18
 col. 055 
-nero 
-black 
+nero
+black
 col. 559 
-rame 
-rame 
+rame
+rame
 col. 055 
-nero 
-black 
-.double 
-.double 
-.double 
-code HLESGC00 PLS14 
+nero
+black
+.double
+.double
+.double
+code HLESGC00 PLS14
 descrizione Manico corto opaco + 
-goccia 
-materiale plexiglass 
-abbinamenti O bag double 
-description short handle + tear 
-material plexiglass 
-components O bag double 
-col. 541 
-verde bosco 
-forest green 
-col. 541 
-verde bosco 
-forest green 
-col. 018 
-bordeaux 
-bordeaux 
-col. 018 
-bordeaux 
-bordeaux 
-col. 564 
-tartarugato 
-tortoise 
+goccia
+materiale plexiglass
+abbinamenti O bag double
+description short handle + tear
+material plexiglass
+components O bag double
+col. 541
+verde bosco
+forest green
+col. 541
+verde bosco
+forest green
+col. 018
+bordeaux
+bordeaux
+col. 018
+bordeaux
+bordeaux
+col. 564
+tartarugato
+tortoise
 .manico corto opaco .manici e tracolle handles and shoulder strap 
-.double 
-.double 
-.double 
-.double 
-.double 
-code HLESGC01 EVS54 
-descrizione Manico corto + anello 
-eva compound effetto bamboo 
-materiale eva compound 
+.double
+.double
+.double
+.double
+.double
+code HLESGC01 EVS54
+descrizione Manico corto + anello
+eva compound effetto bamboo
+materiale eva compound
 abbinamenti 
 description 
-material eva compound 
+material eva compound
 components 
 effetto bamboo + anello .manico corto short handle 
-manici handles 11.
-12. O bag .capsule xmas 18
-manici handles 13. 
-.patte 
+manici  handles   11.
+ 12. O bag .capsule xmas 18
+manici  handles   13.
+.patte
 flaps
-14. O bag .capsule xmas 18 
-code OBAGPC48 ECS07 
+ 14. O bag .capsule xmas 18
+code OBAGPC48 ECS07
 descrizione pattina con catena O bag 
-sheen 
-materiale saffiano 
-abbinamenti O bag sheen 
-description flap with chain O bag sheen 
-material saffiano 
-components O bag sheen 
-col. 018 
-bordeaux 
-bordeaux 
-col. 389 
-silver 
-silver 
-col. 055 
-nero 
-black 
-col. 559 
-rame 
-rame 
+sheen
+materiale saffiano
+abbinamenti O bag sheen
+description flap with chain O bag sheen
+material saffiano
+components O bag sheen
+col. 018
+bordeaux
+bordeaux
+col. 389
+silver
+silver
+col. 055
+nero
+black
+col. 559
+rame
+rame
 .pattina con catena .pattina con catena flap with chain 
-.capsule xmas 
-.capsule xmas 
+.capsule xmas
+.capsule xmas
 .capsule xmas .capsule xmas
-patte flaps 15.
-16. O bag .capsule xmas 18
-manici handles 17. 
-.accessori 
+patte flaps   15.
+ 16. O bag .capsule xmas 18
+manici  handles   17.
+.accessori
 accessories
-18. O bag .capsule xmas 18 
-code ACCEO112 FAS57 
-descrizione Portachiavi pon pon + fiore 
+ 18. O bag .capsule xmas 18
+code ACCEO112 FAS57
+descrizione Portachiavi pon pon + fiore
 materiale ecopelliccia volpe + XL 
-extralight 
+extralight
 abbinamenti 
-description pon pon + flower 
-material faux fur + XL extralight 
+description pon pon + flower
+material faux fur + XL extralight
 components 
 col. 
-tortora 
-turtledove 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
+tortora
+turtledove
+col. 055
+nero
+black
+col. 076
+rosso
+red
 .portachiavi .accessori accessories 
-.capsule xmas 
-.capsule xmas .capsule xmas 
-col. 371 
-latte 
-milk 
 .capsule xmas
-accessori accessories 19.
-20. O bag .capsule xmas 18
-manici handles 21. 
-.orologi 
+.capsule xmas .capsule xmas
+col. 371
+latte
+milk
+.capsule xmas
+accessori  accessories   19.
+ 20. O bag .capsule xmas 18
+manici  handles   21.
+.orologi
 watches
-22. O bag .capsule xmas 18 
-code OCLKD102 MES09 
-descrizione meccanismo O clock great 
-soleil 
-materiale crystal 
-abbinamenti O clock great 
-description dial O clock great soleil 
-material crystal 
-components O clock great 
+ 22. O bag .capsule xmas 18
+code OCLKD102 MES09
+descrizione meccanismo  O clock great 
+soleil
+materiale crystal
+abbinamenti O clock great
+description dial O clock great soleil
+material crystal
+components O clock great
 col. 020 
-bronzo 
-bronze 
-col. 389 
-silver 
-silver 
+bronzo
+bronze
+col. 389
+silver
+silver
 soleil great .meccanismo dial 
-.capsule xmas .capsule xmas 
-GENER S GENER S 
-GENER M GENER M 
-GENER L GENER L 
-.crossing .crossing 
+.capsule xmas .capsule xmas
+GENER S GENER S
+GENER M GENER M
+GENER L GENER L
+.crossing .crossing
 col. 055 
-nero 
-black 
+nero
+black
 col. 008 
-bianco 
-white 
-code OCLKS107 SIS01 
+bianco
+white
+code OCLKS107 SIS01
 descrizione o clock cinturino great cover 
-silicone 
-materiale silicone 
-abbinamenti O clock 
+silicone
+materiale silicone
+abbinamenti O clock
 description o clock strap great cover 
-silicone 
-material silicone 
-components O clock 
+silicone
+material silicone
+components O clock
 silicone .cinturino strap 
-GENER S 
-GENER M 
-GENER L 
+GENER S
+GENER M
+GENER L
 col. 076 
-rosso 
-red 
+rosso
+red
 .crossing
-code OCLKD001 MESC2 
+code OCLKD001 MESC2
 descrizione meccanismo O clock shiny 
-crystals 
-materiale crystal 
+crystals
+materiale crystal
 abbinamenti O clock 
-description dial O clock shiny crystals 
-material crystal 
+description dial O clock shiny crystals
+material crystal
 components O clock 
-col. 055 
-nero 
-black 
-col. 389 
-silver 
-silver 
-col. 076 
-rosso 
-red 
+col. 055
+nero
+black
+col. 389
+silver
+silver
+col. 076
+rosso
+red
 shiny crystal .meccanismo dial 
-.capsule xmas .capsule xmas .capsule xmas 
-orologi watches 23.
-24. O bag .capsule xmas 18 
-code OCLKDC01 MES04 
-descrizione meccanismo O click shift 
-soleil 
-materiale 
-abbinamenti O click shift 
-description dial O click shift soleil 
-material 
-components O click shift 
-col. 009 
-blu 
-blue 
-col. 055 
-nero 
-black 
-col. 004 
-argento 
-silver 
-col. 061 
-oro 
-gold 
-col. 072 
-rosa 
-pink 
-soleil .meccanismo .meccanismo dial O click shift 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-code OCLKDC01 MES06 
-descrizione meccanismo O click shift 
-tone on tone 
-materiale 
-abbinamenti O click shift 
-description dial O click shift tone on tone 
-material 
-components O click shift 
-col. 080 
-salvia 
-sage 
-col. 043 
-lilla 
-lilac 
-col. 002 
-amaranto 
-amaranth 
-tone on tone .meccanismo .meccanismo dial O click shift 
 .capsule xmas .capsule xmas .capsule xmas
-orologi watches 25. 25. O bag .capsule xmas 18 
-code OCLKDC01 MES09 
-descrizione meccanismo O click shift 
-cristal 
+orologi watches   23.
+ 24. O bag .capsule xmas 18
+code OCLKDC01 MES04
+descrizione meccanismo  O click shift 
+soleil
 materiale 
-abbinamenti O click shift 
-description dial O click shift cristal 
+abbinamenti O click shift
+description dial O click shift soleil
 material 
-components O click shift 
-col. 137 
-bluette 
-bluette 
-col. 006 
-avorio 
-ivory 
-col. 143 
-neve 
-snow 
-col. 055 
-nero 
-black 
-col. 008 
-bianco 
-white 
-col. 081 
-smeraldo 
-emerald 
-cristal .meccanismo .meccanismo dial 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-col. 077 
-rubino 
-ruby 
+components O click shift
+col. 009 
+blu
+blue
+col. 055
+nero
+black
+col. 004
+argento
+silver
+col. 061
+oro
+gold
+col. 072
+rosa
+pink
+soleil .meccanismo .meccanismo dial O click shift
 .capsule xmas
-26. O bag .capsule xmas 18 orologi watches 26. 
-code OCLKDC01 MES10 
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+code OCLKDC01 MES06
 descrizione meccanismo O click shift 
-glitter 
+tone on tone
 materiale 
-abbinamenti O click shift 
-description dial O click shift glitter 
+abbinamenti O click shift
+description dial O click shift tone on tone
 material 
-components O click shift 
+components O click shift
+col. 080 
+salvia
+sage
+col. 043
+lilla
+lilac
+col. 002
+amaranto
+amaranth
+tone on tone  .meccanismo .meccanismo dial O click shift
+.capsule xmas .capsule xmas .capsule xmas
+orologi watches   25. 25. O bag .capsule xmas 18
+code OCLKDC01 MES09
+descrizione meccanismo  O click shift 
+cristal
+materiale 
+abbinamenti O click shift
+description dial O click shift cristal
+material 
+components O click shift
+col. 137 
+bluette
+bluette
+col. 006
+avorio
+ivory
+col. 143
+neve
+snow
+col. 055
+nero
+black
+col. 008
+bianco
+white
+col. 081
+smeraldo
+emerald
+cristal  .meccanismo .meccanismo dial 
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+col. 077 
+rubino
+ruby
+.capsule xmas
+ 26. O bag .capsule xmas 18 orologi watches   26.
+code OCLKDC01 MES10
+descrizione meccanismo  O click shift 
+glitter
+materiale 
+abbinamenti O click shift
+description dial O click shift glitter
+material 
+components O click shift
 col. 061 
-oro 
-gold 
-col. 004 
-argento 
-silver 
+oro
+gold
+col. 004
+argento
+silver
 glitter .meccanismo .meccanismo dial 
-.capsule xmas .capsule xmas 
-code OCLKDC01 MESD2 
-descrizione meccanismo O click shift 
-sunlight tribal 
+.capsule xmas .capsule xmas
+code OCLKDC01 MESD2
+descrizione meccanismo  O click shift 
+sunlight tribal
 materiale 
-abbinamenti O click shift 
+abbinamenti O click shift
 description dial O click shift sunlight 
-tribal 
+tribal
 material 
-components O click shift 
+components O click shift
 col. 008 
-bianco 
-white 
+bianco
+white
 sunlight tribal .meccanismo .meccanismo dial 
 .capsule xmas
-orologi watches 27. 
-code OCLKDC01 MESD3 
-descrizione meccanismo O click shift 
-sunlight wave 
+orologi watches   27.
+code OCLKDC01 MESD3
+descrizione meccanismo  O click shift 
+sunlight wave
 materiale 
-abbinamenti O click shift 
+abbinamenti O click shift
 description dial O click shift sunlight 
-wave 
+wave
 material 
-components O click shift 
+components O click shift
 col. 137 
-bluette 
-bluette 
+bluette
+bluette
 sunlight wave .meccanismo .meccanismo dial 
 .capsule xmas
-28. O bag .capsule xmas 18 
-code OCLKEC01 MAS00 
-descrizione case O click shift 
+ 28. O bag .capsule xmas 18
+code OCLKEC01 MAS00
+descrizione case O click shift
 materiale 
-abbinamenti O click shift 
-description case O click shift 
+abbinamenti O click shift
+description case O click shift
 material 
-components O click shift 
+components O click shift
 col. 008 
-bianco 
-white 
-col. 061 
-oro 
-gold 
-col. 055 
-nero 
-black 
-col. 004 
-argento 
-silver 
+bianco
+white
+col. 061
+oro
+gold
+col. 055
+nero
+black
+col. 004
+argento
+silver
 .case .case case 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas .capsule xmas
-orologi watches 29. 
-code OCLKSC01 ECS01 
-descrizione cinturino slim doppio O click 
-shift martellata 
-materiale 
-abbinamenti O click shift 
-description slim strap double O click shift 
-martellata 
-material 
-components O click shift 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-col. 017 
-blu navy 
-blue navy 
-col. 133 
-grigio chiaro 
-light grey 
-col. 054 
-naturale 
-natural 
-col. 084 
-testa di moro 
-dark brown 
-martellata .cinturino .cinturino slim doppio strap 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
-.capsule xmas 
 .capsule xmas
-30. O bag .capsule xmas 18 
-code OCLKSC02 MAS00 
-descrizione cinturino bangle O click shift 
-materiale 
-abbinamenti O click shift 
-description strap bangle O click shift 
-material 
-components O click shift 
-col. 055 
-nero 
-black 
-GENER S 
-GENER S 
-GENER S GENER S 
-GENER M 
-GENER M 
-GENER M GENER M 
-col. 017 
-blu navy 
-blue navy 
-col. 008 
-bianco 
-white 
-col. 018 
-bordeaux 
-bordeaux 
-bangle .cinturino .cinturino bangle strap 
-.capsule xmas 
-.capsule xmas 
+.capsule xmas
 .capsule xmas .capsule xmas
-orologi watches 31.
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+orologi watches   29.
+code OCLKSC01 ECS01
+descrizione cinturino slim doppio O click 
+shift martellata
+materiale 
+abbinamenti O click shift
+description slim strap double O click shift 
+martellata
+material 
+components O click shift
+col. 055 
+nero
+black
+col. 076
+rosso
+red
+col. 017
+blu navy
+blue navy
+col. 133
+grigio chiaro
+light grey
+col. 054
+naturale
+natural
+col. 084
+testa di moro
+dark brown
+martellata .cinturino .cinturino slim doppio strap 
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+ 30. O bag .capsule xmas 18
+code OCLKSC02 MAS00
+descrizione cinturino bangle O click shift
+materiale 
+abbinamenti O click shift
+description strap bangle O click shift
+material 
+components O click shift
+col. 055 
+nero
+black
+GENER S
+GENER S
+GENER S GENER S
+GENER M
+GENER M
+GENER M GENER M
+col. 017
+blu navy
+blue navy
+col. 008
+bianco
+white
+col. 018
+bordeaux
+bordeaux
+bangle .cinturino .cinturino bangle strap 
+.capsule xmas
+.capsule xmas
+.capsule xmas .capsule xmas
+orologi watches   31.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+

@@ -1,327 +1,330 @@
-.01 
-indice / index 
-.borse bags 
-02 scocche body O bag 
-03 scocche body O bag mini 
+
+
+   .01
+indice / index
+ .borse bags
+02 scocche body O bag
+03 scocche body O bag mini
 04 manici lunghi long handles O bag 
-06 sacche interne inserts O bag 
-07 sacche interne inserts O bag mini 
-.accessori accessories 
-08 pendagli pendants 
-.scarpe shoes 
+06 sacche interne inserts O bag
+07 sacche interne inserts O bag mini
+ .accessori accessories
+08 pendagli pendants
+ .scarpe shoes
 10 O shoes accessories
-OBAGB001EVS100060000 
-descrizione description scocca O bag wavy 
-wavy texture O bag body 
-colore colour avorio ivory 
-materiale material EVA compound 
-abbinamenti components 
+OBAGB001EVS100060000
+descrizione description scocca O bag wavy
+wavy texture O bag body
+colore colour avorio ivory
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB001EVS100670000 
-descrizione description scocca O bag wavy 
-wavy texture O bag body 
-colore colour phard phard 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB001EVS100670000
+descrizione description scocca O bag wavy
+wavy texture O bag body
+colore colour phard phard
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB001EVS101190000 
-descrizione description scocca O bag wavy 
-wavy texture O bag body 
-colore colour fragola strawberry 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB001EVS101190000
+descrizione description scocca O bag wavy
+wavy texture O bag body
+colore colour fragola strawberry
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB001EVS100200000 
-descrizione description scocca O bag wavy 
-wavy texture O bag body 
-colore colour bronzo bronze 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB001EVS100200000
+descrizione description scocca O bag wavy
+wavy texture O bag body
+colore colour bronzo bronze
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB001EVS100550000 
-descrizione description scocca O bag wavy 
-wavy texture O bag body 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB001EVS100550000
+descrizione description scocca O bag wavy
+wavy texture O bag body
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-O bag scocche body 
-02. CHRISTMAS 2016 COLLECTION
-OBAGB002EVS090060000 
-descrizione description scocca O bag mini matelassè 
-matelass O bag mini body 
-colore colour avorio ivory 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+O bag scocche body
+02.   CHRISTMAS 2016 COLLECTION
+OBAGB002EVS090060000
+descrizione description scocca O bag mini matelassÃ¨
+matelass  O bag mini body
+colore colour avorio ivory
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB002EVS090670000 
-descrizione description scocca O bag mini matelassè 
-matelassè O bag mini body 
-colore colour phard phard 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB002EVS090670000
+descrizione description scocca O bag mini matelassÃ¨
+matelassÃ¨ O bag mini body
+colore colour phard phard
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB002EVS091190000 
-descrizione description scocca O bag mini matelassè 
-matelassè O bag mini body 
-colore colour fragola strawberry 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB002EVS091190000
+descrizione description scocca O bag mini matelassÃ¨
+matelassÃ¨ O bag mini body
+colore colour fragola strawberry
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB002EVS090200000 
-descrizione description scocca O bag mini matelassè 
-matelassè O bag mini body 
-colore colour bronzo bronze 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB002EVS090200000
+descrizione description scocca O bag mini matelassÃ¨
+matelassÃ¨ O bag mini body
+colore colour bronzo bronze
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-OBAGB002EVS090550000 
-descrizione description scocca O bag mini matelassè 
-matelassè O bag mini body 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
+handles and shoulder straps - trims - streets - inserts
+OBAGB002EVS090550000
+descrizione description scocca O bag mini matelassÃ¨
+matelassÃ¨ O bag mini body
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
 manici e tracolle - bordi - streets - sacche interne 
-handles and shoulder straps - trims - streets - inserts 
-O bag mini scocche body 
-ZAINI BACKPACKS .03
-manici lunghi long handles 
-HLESC200TES29055C001 
-descrizione description manico lungo con catena velluto 
-long velvet handle with chain 
-colore colour nero black 
+handles and shoulder straps - trims - streets - inserts
+O bag mini scocche body
+ZAINI BACKPACKS   .03
+manici lunghi long handles
+HLESC200TES29055C001
+descrizione description manico lungo con catena velluto
+long velvet handle with chain
+colore colour nero black
 materiale material velluto velvet 
-abbinamenti components 
-O bag - O bag mini 
-HLESC200TES29274C001 
-descrizione description manico lungo con catena velluto 
-long velvet handle with chain 
-colore colour skin skin 
+abbinamenti components
+O bag - O bag mini
+HLESC200TES29274C001
+descrizione description manico lungo con catena velluto
+long velvet handle with chain
+colore colour skin skin
 materiale material velluto velvet 
-abbinamenti components 
-O bag - O bag mini 
-HLESC200TES29018C001 
-descrizione description manico lungo con catena velluto 
-long velvet handle with chain 
-colore colour bordeaux bordeaux 
+abbinamenti components
+O bag - O bag mini
+HLESC200TES29018C001
+descrizione description manico lungo con catena velluto
+long velvet handle with chain
+colore colour bordeaux bordeaux
 materiale material velluto velvet 
-abbinamenti components 
-O bag - O bag mini 
-04. CHRISTMAS 2016 COLLECTION
-MANICI LUNGHI LONG HANDLES .05
-O bag sacche interne inserts 
-OBAGSZ01TES290550000 
-descrizione description sacca interna O bag velluto 
-velvet O bag insert 
-colore colour nero black 
+abbinamenti components
+O bag - O bag mini
+04.   CHRISTMAS 2016 COLLECTION
+MANICI LUNGHI LONG HANDLES   .05
+O bag sacche interne inserts
+OBAGSZ01TES290550000
+descrizione description sacca interna O bag velluto
+velvet O bag insert
+colore colour nero black
 materiale material velluto velvet 
-abbinamenti components 
-O bag 
-OBAGSZ01TES292740000 
-descrizione description sacca interna O bag velluto 
-velvet O bag insert 
-colore colour skin skin 
+abbinamenti components
+O bag
+OBAGSZ01TES292740000
+descrizione description sacca interna O bag velluto
+velvet O bag insert
+colore colour skin skin
 materiale material velluto velvet 
-abbinamenti components 
-O bag 
-OBAGSZ01TES290180000 
-descrizione description sacca interna O bag velluto 
-velvet O bag insert 
-colore colour bordeaux bordeaux 
+abbinamenti components
+O bag
+OBAGSZ01TES290180000
+descrizione description sacca interna O bag velluto
+velvet O bag insert
+colore colour bordeaux bordeaux
 materiale material velluto velvet 
-abbinamenti components 
-O bag 
-06. CHRISTMAS 2016 COLLECTION
-O bag mini sacche interne inserts 
-OBAGSZ02TES290550000 
-descrizione description sacca interna O bag mini velluto 
-velvet O bag mini insert 
-colore colour nero black 
+abbinamenti components
+O bag
+06.   CHRISTMAS 2016 COLLECTION
+O bag mini sacche interne inserts
+OBAGSZ02TES290550000
+descrizione description sacca interna O bag mini velluto
+velvet O bag mini insert
+colore colour nero black
 materiale material velluto velvet 
-abbinamenti components 
-O bag mini 
-OBAGSZ02TES292740000 
-descrizione description sacca interna O bag mini velluto 
-velvet O bag mini insert 
-colore colour skin skin 
+abbinamenti components
+O bag mini
+OBAGSZ02TES292740000
+descrizione description sacca interna O bag mini velluto
+velvet O bag mini insert
+colore colour skin skin
 materiale material velluto velvet 
-abbinamenti components 
-O bag mini 
-OBAGSZ02TES290180000 
-descrizione description sacca interna O bag mini velluto 
-velvet O bag mini insert 
-colore colour bordeaux bordeaux 
+abbinamenti components
+O bag mini
+OBAGSZ02TES290180000
+descrizione description sacca interna O bag mini velluto
+velvet O bag mini insert
+colore colour bordeaux bordeaux
 materiale material velluto velvet 
-abbinamenti components 
-O bag mini 
-SACCHE INTERNE INSERTS .07
-ACCEO001FAS020080000 
-materiale material ecopelliccia faux fur 
-colore colour bianco white 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020860000 
-materiale material ecopelliccia faux fur 
-colore colour tortora dove-grey 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020530000 
-materiale material ecopelliccia faux fur 
-colore colour narcissus narcissus 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020720000 
-materiale material ecopelliccia faux fur 
-colore colour rosa pink 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS021120000 
-materiale material ecopelliccia faux fur 
-colore colour purple purple 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020180000 
-materiale material ecopelliccia faux fur 
-colore colour bordeaux bordeaux 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-pendagli pendants 
-08. CHRISTMAS 2016 COLLECTION
-ACCEO001FAS020920000 
-materiale material ecopelliccia faux fur 
-colore colour verde scuro dark green 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020680000 
-materiale material ecopelliccia faux fur 
-colore colour polvere dust blue 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS021370000 
-materiale material ecopelliccia faux fur 
-colore colour bluette bright blue 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020170000 
-materiale material ecopelliccia faux fur 
-colore colour blu navy navy blue 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020390000 
-materiale material ecopelliccia faux fur 
-colore colour grigio grey 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-ACCEO001FAS020550000 
-materiale material ecopelliccia faux fur 
-colore colour nero black 
-descrizione description pendaglio pon pon 
-pon pon pendant 
-PENDAGLI PENDANTS .09
-descrizione description accessori O shoes eco lapin 
-O shoes faux lapin fur accessories 
-colore colour bianco - nero black - white 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS01055A002 
-descrizione description accessori O shoes eco lapin 
-O shoes faux lapin fur accessories 
-colore colour blu blue 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS01009A002 
-descrizione description accessori O shoes eco lapin 
-O shoes faux lapin fur accessories 
-colore colour purple purple 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS01112A002 
-descrizione description accessori O shoes eco lapin 
-O shoes faux lapin fur accessories 
-colore colour verde scuro dark green 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS01092A002 
-descrizione description accessori O shoes eco lapin 
-O shoes faux lapin fur accessories 
-colore colour grigio chiaro light grey 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS01133A002 
-descrizione description accessori O shoes eco volpe 
-O shoes faux fox fur accessories 
-colore colour nero black 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS02055A002 
-O shoes accessories 
-10. CHRISTMAS 2016 COLLECTION
-size M size L 
-OSHSA000FAS01055A003 OSHSA000FAS01055A004 
-size M size L 
-OSHSA000FAS01009A003 OSHSA000FAS01009A004 
-size M size L 
-OSHSA000FAS01112A003 OSHSA000FAS01112A004 
-size M size L 
-OSHSA000FAS01092A003 OSHSA000FAS01092A004 
-size M size L 
-OSHSA000FAS01133A003 OSHSA000FAS01133A004 
-size M size L 
-OSHSA000FAS02055A003 OSHSA000FAS02055A004 
-SCARPE SHOES .11
-descrizione description accessori O shoes eco volpe 
-O shoes faux fox fur accessories 
-colore colour bianco white 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS02008A002 
+abbinamenti components
+O bag mini
+SACCHE INTERNE INSERTS   .07
+ACCEO001FAS020080000
+materiale material ecopelliccia faux fur
+colore colour bianco white
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020860000
+materiale material ecopelliccia faux fur
+colore colour tortora dove-grey
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020530000
+materiale material ecopelliccia faux fur
+colore colour narcissus narcissus
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020720000
+materiale material ecopelliccia faux fur
+colore colour rosa pink
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS021120000
+materiale material ecopelliccia faux fur
+colore colour purple purple
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020180000
+materiale material ecopelliccia faux fur
+colore colour bordeaux bordeaux
+descrizione description pendaglio pon pon
+pon pon pendant
+pendagli pendants
+08.   CHRISTMAS 2016 COLLECTION
+ACCEO001FAS020920000
+materiale material ecopelliccia faux fur
+colore colour verde scuro dark green
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020680000
+materiale material ecopelliccia faux fur
+colore colour polvere dust blue
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS021370000
+materiale material ecopelliccia faux fur
+colore colour bluette bright blue
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020170000
+materiale material ecopelliccia faux fur
+colore colour blu navy navy blue
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020390000
+materiale material ecopelliccia faux fur
+colore colour grigio grey
+descrizione description pendaglio pon pon
+pon pon pendant
+ACCEO001FAS020550000
+materiale material ecopelliccia faux fur
+colore colour nero black
+descrizione description pendaglio pon pon
+pon pon pendant
+PENDAGLI PENDANTS   .09
+descrizione description accessori O shoes eco lapin
+O shoes faux lapin fur accessories
+colore colour bianco - nero black - white
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS01055A002
+descrizione description accessori O shoes eco lapin
+O shoes faux lapin fur accessories
+colore colour blu blue
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS01009A002
+descrizione description accessori O shoes eco lapin
+O shoes faux lapin fur accessories
+colore colour purple purple
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS01112A002
+descrizione description accessori O shoes eco lapin
+O shoes faux lapin fur accessories
+colore colour verde scuro dark green
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS01092A002
+descrizione description accessori O shoes eco lapin
+O shoes faux lapin fur accessories
+colore colour grigio chiaro light grey
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS01133A002
+descrizione description accessori O shoes eco volpe
+O shoes faux fox fur accessories
+colore colour nero black
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS02055A002
+O shoes accessories
+10.   CHRISTMAS 2016 COLLECTION
+size M size L
+OSHSA000FAS01055A003 OSHSA000FAS01055A004
+size M size L
+OSHSA000FAS01009A003 OSHSA000FAS01009A004
+size M size L
+OSHSA000FAS01112A003 OSHSA000FAS01112A004
+size M size L
+OSHSA000FAS01092A003 OSHSA000FAS01092A004
+size M size L
+OSHSA000FAS01133A003 OSHSA000FAS01133A004
+size M size L
+OSHSA000FAS02055A003 OSHSA000FAS02055A004
+SCARPE SHOES   .11
+descrizione description accessori O shoes eco volpe
+O shoes faux fox fur accessories
+colore colour bianco white
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS02008A002
 descrizione description accessori O shoes eco 
-mongolia 
-O shoes faux mongolia fur accessories 
-colore colour grigio - blu grey - blue 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS07010A002 
+mongolia
+O shoes faux mongolia fur accessories
+colore colour grigio - blu grey - blue
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS07010A002
 descrizione description accessori O shoes eco 
-mongolia 
-O shoes faux mongolia fur accessories 
-colore colour avorio - beige ivory - beige 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000FAS07274A002 
-O shoes accessories 
-12. CHRISTMAS 2016 COLLECTION
-size M size L 
-OSHSA000FAS02008A003 OSHSA000FAS02008A004 
-size M size L 
-OSHSA000FAS07010A003 OSHSA000FAS07010A004 
-size M size L 
-OSHSA000FAS07274A003 OSHSA000FAS07274A004 
-SCARPE SHOES .13
+mongolia
+O shoes faux mongolia fur accessories
+colore colour avorio - beige ivory - beige
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000FAS07274A002
+O shoes accessories
+12.   CHRISTMAS 2016 COLLECTION
+size M size L
+OSHSA000FAS02008A003 OSHSA000FAS02008A004
+size M size L
+OSHSA000FAS07010A003 OSHSA000FAS07010A004
+size M size L
+OSHSA000FAS07274A003 OSHSA000FAS07274A004
+SCARPE SHOES   .13
+

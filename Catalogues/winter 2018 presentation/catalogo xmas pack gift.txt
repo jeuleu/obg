@@ -1,57 +1,61 @@
-.xmas 
-pack gift
-.packaging packaging
-04. xmas pack gift 
-code OCLKP001 MTS47 
-descrizione lattine packaging xmas 
-abbinamenti O clock 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-col. 486 
-rosa 
-pink 
-col. 009 
-blu 
-blue 
-lattine O clock xmas .packaging packaging 
-.xmas 
-.xmas 
-.xmas .xmas
-packaging packaging 05. 
-code OCLKP001 MAS36 
-descrizione fascia lattine packaging 
-xmas trasparente con stampa bianca 
-abbinamenti O clock 
-esempio: 
-col. 184 
-trasparente + bianco 
-transparent + white 
-fascia packaging xmas .packaging packaging 
 .xmas
-.accessori 
+pack gift
+
+.packaging packaging
+04.   xmas pack gift
+code OCLKP001  MTS47
+descrizione lattine packaging xmas
+abbinamenti O clock
+col. 055 
+nero
+black
+col. 076 
+rosso
+red
+col. 486 
+rosa
+pink
+col. 009 
+blu
+blue
+lattine O clock xmas .packaging packaging
+.xmas
+.xmas
+.xmas .xmas
+packaging packaging   05.
+code OCLKP001  MAS36
+descrizione fascia lattine packaging 
+xmas trasparente con stampa bianca
+abbinamenti O clock
+esempio:
+col. 184 
+trasparente + bianco
+transparent + white
+fascia packaging xmas .packaging packaging
+.xmas
+
+.accessori
 accessories
-08. xmas pack gift 
+08.    xmas pack gift
 col. 004 
-argento 
-silver 
-.xmas 
+argento
+silver
+.xmas
 col. 061 
-oro 
-gold 
-.xmas 
-code ACCEO114 MAS00 
+oro
+gold
+.xmas
+code ACCEO114  MAS00
 descrizione accessorio portachiavi 
-lettering love 
-materiale plastico 
+lettering love
+materiale plastico
 portachiavi lettering love .accessori accessories
-accessori accessories 09.
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+accessori accessories   09.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

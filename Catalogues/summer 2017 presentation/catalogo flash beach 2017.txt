@@ -1,1208 +1,1239 @@
-‘17 beach collection
-.borse bags 
-03 scocche body 
-04 scocche body O beach 
-06 scocche body O beach mini 
-29 manici e tracolle 
-handles and shoulder straps 
-10 manici lunghi long handles 
-12 manici corti short handles 
-14 tracolle shoulder straps 
-17 bordi trims 
-18 bordi trims O bag 
-19 bordi trims O bag mini 
-20 bordi trims O chic 
-23 sacche interne inserts 
-24 sacche interne inserts O beach 
-25 sacche interne inserts O beach mini 
-27 patte flaps 
-28 patte flaps O pocket 
-.accessori accessories 
-32 pochette pochette 
-.scarpe shoes 
-38 O shoes high woman 
-42 O shoes low woman 
-45 O shoes low man 
-48 O shoes accessories 
-.indice index 
-.01
-02. FLASH BEACH 2017
-.borse bags 
-.03
-OBAGB012EVS031360000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour becco d'oca duck beack 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB012EVS031190000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour fragola strawberry 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB012EVS031370000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour bluette bright blue 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB012EVS031390000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour mela apple 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-O beach scocche body 
-OBAGB012EVS000860000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour bianco white 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-04. FLASH BEACH 2017
-OBAGB012EVS030920000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour verde scuro dark green 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB012EVS030170000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour blu navy navy blue 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB012EVS030550000 
-descrizione description scocca O bag beach 
-O bag beach body 
-colore colour blu navy navy blue 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-BORSE BAGS .05
-OBAGB018EVS031370000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour bluette bright blue 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB018EVS031360000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour becco d'oca duck beack 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB018EVS031190000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour fragola strawberry 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB018EVS030010000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour acqua aqua 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB018EVS030080000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour bianco white 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-O beach mini scocche body 
-06. FLASH BEACH 2017
-OBAGB018EVS031390000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour mela apple 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB018EVS031320000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour biscotto biscuit 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-OBAGB018EVS030550000 
-descrizione description scocca O bag beach mini 
-O bag beach mini body 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-manici - sacche interne handles - inserts 
-BORSE BAGS .07
-08. FLASH BEACH 2017
-.manici e tracolle 
-handles and shoulder straps 
-.09
-HLESG000TES42249C001 
+â€˜17 beach collection
+
+ .borse bags
+03 scocche body
+04 scocche body O beach
+06 scocche body O beach mini
+29 manici e tracolle
+ handles and shoulder straps
+10 manici lunghi long handles
+12 manici corti short handles
+14 tracolle shoulder straps
+17  bordi trims
+18 bordi trims O bag
+19 bordi trims O bag mini
+20 bordi trims O chic
+23 sacche interne inserts
+24 sacche interne inserts O beach
+25 sacche interne inserts O beach mini
+27 patte flaps
+28 patte flaps O pocket
+ .accessori accessories
+32 pochette pochette
+ .scarpe shoes
+38 O shoes high woman
+42 O shoes low woman
+45 O shoes low man
+48 O shoes accessories
+.indice index
+   .01
+02.   FLASH BEACH 2017
+.borse bags
+   .03
+OBAGB012EVS031360000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour becco d'oca duck beack
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB012EVS031190000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour fragola strawberry
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB012EVS031370000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour bluette bright blue
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB012EVS031390000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour mela apple
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+O beach scocche body
+OBAGB012EVS000860000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour bianco white
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+04.   FLASH BEACH 2017
+OBAGB012EVS030920000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour verde scuro dark green
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB012EVS030170000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour blu navy navy blue
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB012EVS030550000
+descrizione description scocca O bag beach
+O bag beach body
+colore colour blu navy navy blue
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+BORSE BAGS   .05
+OBAGB018EVS031370000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour bluette bright blue
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB018EVS031360000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour becco d'oca duck beack
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB018EVS031190000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour fragola strawberry
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB018EVS030010000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour acqua aqua
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB018EVS030080000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour bianco white
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+O beach mini scocche body
+06.   FLASH BEACH 2017
+OBAGB018EVS031390000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour mela apple
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB018EVS031320000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour biscotto biscuit
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+OBAGB018EVS030550000
+descrizione description scocca O bag beach mini
+O bag beach mini body
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+manici - sacche interne handles - inserts
+BORSE BAGS   .07
+08.   FLASH BEACH 2017
+.manici e tracolle
+handles and shoulder straps
+   .09
+HLESG000TES42249C001
 descrizione description manici lunghi juta + tessuto 
-gommato 
-long jute + rubber fabric handles 
-colore colour naturale - giallo fluo natural - fluo yellow 
+gommato
+long jute + rubber fabric handles
+colore colour naturale - giallo fluo natural - fluo yellow
 materiale material juta - tessuto gommato jute - rubber 
 fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000TES42250C001 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000TES42250C001
 descrizione description manici lunghi juta + tessuto 
-gommato 
-long jute + rubber fabric handles 
-colore colour naturale - verde fluo natural - fluo green 
+gommato
+long jute + rubber fabric handles
+colore colour naturale - verde fluo natural - fluo green
 materiale material juta - tessuto gommato jute - rubber 
 fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000TES42251C001 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000TES42251C001
 descrizione description manici lunghi juta + tessuto 
-gommato 
-long jute + rubber fabric handles 
+gommato
+long jute + rubber fabric handles
 colore colour naturale - arancione fluo natural - orange 
-yellow 
+yellow
 materiale material juta - tessuto gommato jute - rubber fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG200ROS02076C001 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG200ROS02076C001
 descrizione description manici lunghi a goccia corda + 
-tessuto gommato 
-long rope + rubber fabric handles 
-colore colour rosso red 
+tessuto gommato
+long rope + rubber fabric handles
+colore colour rosso red
 materiale material corda - tessuto gommato rope - rubber 
 fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG200ROS02036C001 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG200ROS02036C001
 descrizione description manici lunghi a goccia corda + 
-tessuto gommato 
-long rope + rubber fabric handles 
-colore colour giallo yellow 
+tessuto gommato
+long rope + rubber fabric handles
+colore colour giallo yellow
 materiale material corda - tessuto gommato rope - rubber 
 fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG200ROS02137C001 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG200ROS02137C001
 descrizione description manici lunghi a goccia corda + 
-tessuto gommato 
-long rope handles with raindrop ends 
-colore colour bluette bright blue 
+tessuto gommato
+long rope handles with raindrop ends
+colore colour bluette bright blue
 materiale material corda - tessuto gommato rope - rubber 
 fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-manici lunghi long handles 
-10. FLASH BEACH 2017
-HLESG200ROS02001C001 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+manici lunghi long handles
+10.   FLASH BEACH 2017
+HLESG200ROS02001C001
 descrizione description manici lunghi a goccia corda + 
-tessuto gommato 
-long rope handles with raindrop ends 
-colore colour blu - acqua blue - aqua 
+tessuto gommato
+long rope handles with raindrop ends
+colore colour blu - acqua blue - aqua
 materiale material corda - tessuto gommato rope - rubber 
 fabric 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00036C001 
-descrizione description manici lunghi corda 
-long rope handles 
-colore colour giallo yellow 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00036C001
+descrizione description manici lunghi corda
+long rope handles
+colore colour giallo yellow
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00076C001 
-descrizione description manici lunghi corda 
-long rope handles 
-colore colour rosso red 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00076C001
+descrizione description manici lunghi corda
+long rope handles
+colore colour rosso red
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00137C001 
-descrizione description manici lunghi corda 
-long rope handles 
-colore colour bluette bright blue 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00137C001
+descrizione description manici lunghi corda
+long rope handles
+colore colour bluette bright blue
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00039C001 
-descrizione description manici lunghi corda 
-long rope handles 
-colore colour grigio grey 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00039C001
+descrizione description manici lunghi corda
+long rope handles
+colore colour grigio grey
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-MANICI HANDLES .11
-HLESM400ECS00003C001 
-descrizione description micromanici ecopelle + catena 
-faux leather + rope micro handles 
-colore colour arancione orange 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+MANICI HANDLES   .11
+HLESM400ECS00003C001
+descrizione description micromanici ecopelle + catena
+faux leather + rope micro handles
+colore colour arancione orange
 materiale material ecopelle - metallo faux leather - metal 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESM400ECS00002C001 
-descrizione description micromanici ecopelle + catena 
-faux leather + rope micro handles 
-colore colour corallo coral 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESM400ECS00002C001
+descrizione description micromanici ecopelle + catena
+faux leather + rope micro handles
+colore colour corallo coral
 materiale material ecopelle - metallo faux leather - metal 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESM400ECS00137C001 
-descrizione description micromanici ecopelle + catena 
-faux leather + rope micro handles 
-colore colour bluette bright blue 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESM400ECS00137C001
+descrizione description micromanici ecopelle + catena
+faux leather + rope micro handles
+colore colour bluette bright blue
 materiale material ecopelle - metallo faux leather - metal 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESM400ECS00039C001 
-descrizione description micromanici ecopelle + catena 
-faux leather + rope micro handles 
-colore colour grigio grey 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESM400ECS00039C001
+descrizione description micromanici ecopelle + catena
+faux leather + rope micro handles
+colore colour grigio grey
 materiale material ecopelle - metallo faux leather - metal 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00036C002 
-descrizione description manici corti corda 
-short rope handles 
-colore colour giallo yellow 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00036C002
+descrizione description manici corti corda
+short rope handles
+colore colour giallo yellow
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00076C002 
-descrizione description manici corti corda 
-short rope handles 
-colore colour rosso red 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00076C002
+descrizione description manici corti corda
+short rope handles
+colore colour rosso red
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-manici corti short handles 
-12. FLASH BEACH 2017
-HLESG000ROS00137C002 
-descrizione description manici corti corda 
-short rope handles 
-colore colour bluette bright blue 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+manici corti short handles
+12.   FLASH BEACH 2017
+HLESG000ROS00137C002
+descrizione description manici corti corda
+short rope handles
+colore colour bluette bright blue
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-HLESG000ROS00039C002 
-descrizione description manici corti corda 
-short rope handles 
-colore colour grigio grey 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+HLESG000ROS00039C002
+descrizione description manici corti corda
+short rope handles
+colore colour grigio grey
 materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O chic - O bag '50 - O city 
-manici corti short handles 
-MANICI HANDLES .13
-SHOUC306ECS000030000 
-descrizione description tracolla O pocket active 
-active O pocket shoulder strap 
-colore colour arancio orange 
+abbinamenti components
+O bag - O bag mini - O chic - O bag '50 - O city
+manici corti short handles
+MANICI HANDLES   .13
+SHOUC306ECS000030000
+descrizione description tracolla O pocket active
+active O pocket shoulder strap
+colore colour arancio orange
 materiale material metallo + gocce ecopelle metal + faux 
 leather raindrop ends 
-abbinamenti components 
-O pocket 
-SHOUC306ECS001370000 
-descrizione description tracolla O pocket active 
-active O pocket shoulder strap 
-colore colour bluette bright blue 
+abbinamenti components
+O pocket
+SHOUC306ECS001370000
+descrizione description tracolla O pocket active
+active O pocket shoulder strap
+colore colour bluette bright blue
 materiale material metallo + gocce ecopelle metal + faux 
 leather raindrop ends 
-abbinamenti components 
-O pocket 
-SHOUC306ECS000390000 
-descrizione description tracolla O pocket active 
-active O pocket shoulder strap 
-colore colour grigio grey 
+abbinamenti components
+O pocket
+SHOUC306ECS000390000
+descrizione description tracolla O pocket active
+active O pocket shoulder strap
+colore colour grigio grey
 materiale material metallo + gocce ecopelle metal + faux 
 leather raindrop ends 
-abbinamenti components 
-O pocket 
-tracolle shoulder straps 
-14. FLASH BEACH 2017
-MANICI HANDLES .15
-16. FLASH BEACH 2017
-.bordi trims 
-.17
-OBAGT001TES460540000 
-descrizione description bordo O bag juta 
-jute O bag trim 
-colore colour naturale natural 
+abbinamenti components
+O pocket
+tracolle shoulder straps
+14.   FLASH BEACH 2017
+MANICI HANDLES   .15
+16.   FLASH BEACH 2017
+.bordi trims
+   .17
+OBAGT001TES460540000
+descrizione description bordo O bag juta
+jute O bag trim
+colore colour naturale natural
 materiale material juta jute 
-abbinamenti components 
-O bag 
-OBAGT001TES461110000 
-descrizione description bordo O bag juta 
-jute O bag trim 
-colore colour ocra ochre 
+abbinamenti components
+O bag
+OBAGT001TES461110000
+descrizione description bordo O bag juta
+jute O bag trim
+colore colour ocra ochre
 materiale material juta jute 
-abbinamenti components 
-O bag 
-OBAGT001TES460050000 
-descrizione description bordo O bag juta 
-jute O bag trim 
-colore colour blu avio air-blue 
+abbinamenti components
+O bag
+OBAGT001TES460050000
+descrizione description bordo O bag juta
+jute O bag trim
+colore colour blu avio air-blue
 materiale material juta jute 
-abbinamenti components 
-O bag 
-OBAGT001TES460390000 
-descrizione description bordo O bag juta 
-jute O bag trim 
-colore colour grigio grey 
+abbinamenti components
+O bag
+OBAGT001TES460390000
+descrizione description bordo O bag juta
+jute O bag trim
+colore colour grigio grey
 materiale material juta jute 
-abbinamenti components 
-O bag 
-O bag bordi trims 
-18. FLASH BEACH 2017
-OBAGT002TES460540000 
-descrizione description bordo O bag mini juta 
-jute O bag mini trim 
-colore colour naturale natural 
+abbinamenti components
+O bag
+O bag bordi trims
+18.   FLASH BEACH 2017
+OBAGT002TES460540000
+descrizione description bordo O bag mini juta
+jute O bag mini trim
+colore colour naturale natural
 materiale material juta jute 
-abbinamenti components 
-O bag mini 
-OBAGT002TES461110000 
-descrizione description bordo O bag mini juta 
-jute O bag mini trim 
-colore colour ocra ochre 
+abbinamenti components
+O bag mini
+OBAGT002TES461110000
+descrizione description bordo O bag mini juta
+jute O bag mini trim
+colore colour ocra ochre
 materiale material juta jute 
-abbinamenti components 
-O bag mini 
-OBAGT002TES460390000 
-descrizione description bordo O bag mini juta 
-jute O bag mini trim 
-colore colour grigio grey 
+abbinamenti components
+O bag mini
+OBAGT002TES460390000
+descrizione description bordo O bag mini juta
+jute O bag mini trim
+colore colour grigio grey
 materiale material juta jute 
-abbinamenti components 
-O bag mini 
-O bag mini bordi trims 
-BORDI TRIMS .19
-OBAGT004TES460540000 
-descrizione description bordo O chic juta 
-jute O chic trim 
-colore colour naturale natural 
+abbinamenti components
+O bag mini
+O bag mini bordi trims
+BORDI TRIMS   .19
+OBAGT004TES460540000
+descrizione description bordo O chic juta
+jute O chic trim
+colore colour naturale natural
 materiale material juta jute 
-abbinamenti components 
-O chic 
-OBAGT004TES461110000 
-descrizione description bordo O chic juta 
-jute O chic trim 
-colore colour ocra ochre 
+abbinamenti components
+O chic
+OBAGT004TES461110000
+descrizione description bordo O chic juta
+jute O chic trim
+colore colour ocra ochre
 materiale material juta jute 
-abbinamenti components 
-O chic 
-OBAGT004TES460050000 
-descrizione description bordo O chic juta 
-jute O chic trim 
-colore colour blu avio air-blue 
+abbinamenti components
+O chic
+OBAGT004TES460050000
+descrizione description bordo O chic juta
+jute O chic trim
+colore colour blu avio air-blue
 materiale material juta jute 
-abbinamenti components 
-O chic 
-O chic bordi trims 
-20. FLASH BEACH 2017
-BORDI TRIMS .21
-22. FLASH BEACH 2017
-.sacche interne inserts 
-.23
-OBAGS112MAS022270000 
+abbinamenti components
+O chic
+O chic bordi trims
+20.   FLASH BEACH 2017
+BORDI TRIMS   .21
+22.   FLASH BEACH 2017
+.sacche interne inserts
+   .23
+OBAGS112MAS022270000
 descrizione description sacca interna coulisse O bag 
-beach rete 
-net O bag beach insert 
-colore colour bianco - nero white - black 
+beach rete
+net O bag beach insert
+colore colour bianco - nero white - black
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach 
-OBAGS112MAS021990000 
+abbinamenti components
+O bag beach
+OBAGS112MAS021990000
 descrizione description sacca interna coulisse O bag 
-beach rete 
-net O bag beach insert 
-colore colour rosso - grigio red - grey 
+beach rete
+net O bag beach insert
+colore colour rosso - grigio red - grey
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach 
-OBAGS112MAS022330000 
+abbinamenti components
+O bag beach
+OBAGS112MAS022330000
 descrizione description sacca interna coulisse O bag 
-beach rete 
-net O bag beach insert 
-colore colour bluette - nero bright blue - black 
+beach rete
+net O bag beach insert
+colore colour bluette - nero bright blue - black
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach 
-OBAGS112MAS022340000 
+abbinamenti components
+O bag beach
+OBAGS112MAS022340000
 descrizione description sacca interna coulisse O bag 
-beach rete 
-net O bag beach insert 
-colore colour mela - grigio apple - grey 
+beach rete
+net O bag beach insert
+colore colour mela - grigio apple - grey
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach 
-O beach sacche interne inserts 
-24. FLASH BEACH 2017
-OBAGS118MAS022350000 
+abbinamenti components
+O bag beach
+O beach sacche interne inserts
+24.   FLASH BEACH 2017
+OBAGS118MAS022350000
 descrizione description sacca interna coulisse O bag 
-beach mini rete 
-drawstring net O bag beach mini insert 
-colore colour giallo - grigio yellow - grey 
+beach mini rete
+drawstring net O bag beach mini insert
+colore colour giallo - grigio yellow - grey
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach mini 
-OBAGS118MAS022360000 
+abbinamenti components
+O bag beach mini
+OBAGS118MAS022360000
 descrizione description sacca interna coulisse O bag 
-beach mini rete 
-drawstring net O bag beach mini insert 
-colore colour arancione - grigio orange - grey 
+beach mini rete
+drawstring net O bag beach mini insert
+colore colour arancione - grigio orange - grey
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach mini 
-OBAGS118MAS022370000 
+abbinamenti components
+O bag beach mini
+OBAGS118MAS022370000
 descrizione description sacca interna coulisse O bag 
-beach mini rete 
-drawstring net O bag beach mini insert 
-colore colour acqua - nero aqua - black 
+beach mini rete
+drawstring net O bag beach mini insert
+colore colour acqua - nero aqua - black
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach mini 
-OBAGS118MAS021590000 
+abbinamenti components
+O bag beach mini
+OBAGS118MAS021590000
 descrizione description sacca interna coulisse O bag 
-beach mini rete 
-drawstring net O bag beach mini insert 
-colore colour nero - nero black - black 
+beach mini rete
+drawstring net O bag beach mini insert
+colore colour nero - nero black - black
 materiale material fibra sintetica - tessuto gommato 
 synthetic fibre - rubber fabric 
-abbinamenti components 
-O bag beach mini 
-O beach mini sacche interne inserts 
-SACCHE INTERNE INSERTS .25
-26. FLASH BEACH 2017
-.patte flaps 
-.27
-OBAGP306TES270030000 
-descrizione description pattina O pocket active 
-active O pocket flap 
-colore colour arancione orange 
+abbinamenti components
+O bag beach mini
+O beach mini sacche interne inserts
+SACCHE INTERNE INSERTS   .25
+26.   FLASH BEACH 2017
+.patte flaps
+   .27
+OBAGP306TES270030000
+descrizione description pattina O pocket active
+active O pocket flap
+colore colour arancione orange
 materiale material ecopelle - fibra sintetica faux leather - 
 synthetic fibre 
-abbinamenti components 
-O pocket 
-OBAGP306TES271370000 
-descrizione description pattina O pocket active 
-active O pocket flap 
-colore colour bluette bright blue 
+abbinamenti components
+O pocket
+OBAGP306TES271370000
+descrizione description pattina O pocket active
+active O pocket flap
+colore colour bluette bright blue
 materiale material ecopelle - fibra sintetica faux leather - 
 synthetic fibre 
-abbinamenti components 
-O pocket 
-OBAGP306TES270390000 
-descrizione description pattina O pocket active 
-active O pocket flap 
-colore colour grigio grey 
+abbinamenti components
+O pocket
+OBAGP306TES270390000
+descrizione description pattina O pocket active
+active O pocket flap
+colore colour grigio grey
 materiale material ecopelle - fibra sintetica faux leather - 
 synthetic fibre 
-abbinamenti components 
-O pocket 
-O pocket patte flaps 
-28. FLASH BEACH 2017
-PATTE FLAPS .29
-30. FLASH BEACH 2017
-.accessori accessories 
-.31
-ACCEP001MAS022270000 
-descrizione description pochette rete 
-net pochette 
-colore colour bianco - nero white - black 
-materiale material fibra sintetica - pvc synthetic fibre - pvc 
-ACCEP001MAS021990000 
-descrizione description pochette rete 
-net pochette 
-colore colour rosso - grigio red - grey 
-materiale material fibra sintetica - pvc synthetic fibre - pvc 
-ACCEP001MAS022340000 
-descrizione description pochette rete 
-net pochette 
-colore colour mela - grigio apple - grey 
-materiale material fibra sintetica - pvc synthetic fibre - pvc 
-ACCEP001MAS022330000 
-descrizione description pochette rete 
-net pochette 
-colore colour bluette - nero bright blue - black 
-materiale material fibra sintetica - pvc synthetic fibre - pvc 
-ACCEP001MAS022350000 
-descrizione description pochette rete basic 
-basic net pochette 
-colore colour giallo - grigio yellow - grey 
+abbinamenti components
+O pocket
+O pocket patte flaps
+28.   FLASH BEACH 2017
+PATTE FLAPS   .29
+30.   FLASH BEACH 2017
+.accessori accessories
+   .31
+ACCEP001MAS022270000
+descrizione description pochette rete
+net pochette
+colore colour bianco - nero white - black
+materiale material fibra sintetica - pvc synthetic fibre - pvc
+ACCEP001MAS021990000
+descrizione description pochette rete
+net pochette
+colore colour rosso - grigio red - grey
+materiale material fibra sintetica - pvc synthetic fibre - pvc
+ACCEP001MAS022340000
+descrizione description pochette rete
+net pochette
+colore colour mela - grigio apple - grey
+materiale material fibra sintetica - pvc synthetic fibre - pvc
+ACCEP001MAS022330000
+descrizione description pochette rete
+net pochette
+colore colour bluette - nero bright blue - black
+materiale material fibra sintetica - pvc synthetic fibre - pvc
+ACCEP001MAS022350000
+descrizione description pochette rete basic
+basic net pochette
+colore colour giallo - grigio yellow - grey
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-pochette 
-32. FLASH BEACH 2017
-ACCEP001MAS022360000 
-descrizione description pochette rete basic 
-basic net pochette 
-colore colour arancione - grigio orange - grey 
+synthetic fibre - rubber fabric
+pochette
+32.   FLASH BEACH 2017
+ACCEP001MAS022360000
+descrizione description pochette rete basic
+basic net pochette
+colore colour arancione - grigio orange - grey
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-ACCEP001MAS020550000 
-descrizione description pochette rete basic 
-basic net pochette 
-colore colour acqua - nero aqua - black 
+synthetic fibre - rubber fabric
+ACCEP001MAS020550000
+descrizione description pochette rete basic
+basic net pochette
+colore colour acqua - nero aqua - black
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-ACCEP001MAS022270000 
-descrizione description pochette rete basic 
-basic net pochette 
-colore colour nero - nero black - black 
+synthetic fibre - rubber fabric
+ACCEP001MAS022270000
+descrizione description pochette rete basic
+basic net pochette
+colore colour nero - nero black - black
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-ACCEP009MAS022270000 
-descrizione description secchiello rete 
-net bag 
-colore colour bianco - nero white - black 
+synthetic fibre - rubber fabric
+ACCEP009MAS022270000
+descrizione description secchiello rete
+net bag
+colore colour bianco - nero white - black
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-ACCEP009MAS022430000 
-descrizione description secchiello rete 
-net bag 
-colore colour becco d'oca - grigio duck beack - grey 
+synthetic fibre - rubber fabric
+ACCEP009MAS022430000
+descrizione description secchiello rete
+net bag
+colore colour becco d'oca - grigio duck beack - grey
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-ACCESSORI ACCESSORIES .33
-ACCEP009MAS022340000 
-descrizione description secchiello rete 
-net bag 
-colore colour mela - grigio apple - grey 
+synthetic fibre - rubber fabric
+ACCESSORI ACCESSORIES   .33
+ACCEP009MAS022340000
+descrizione description secchiello rete
+net bag
+colore colour mela - grigio apple - grey
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-ACCEP009MAS022330000 
-descrizione description secchiello rete 
-net bag 
-colore colour bluette - nero bright blue - black 
+synthetic fibre - rubber fabric
+ACCEP009MAS022330000
+descrizione description secchiello rete
+net bag
+colore colour bluette - nero bright blue - black
 materiale material fibra sintetica - tessuto gommato 
-synthetic fibre - rubber fabric 
-pochette 
-34. FLASH BEACH 2017
-ACCESSORI ACCESSORIES .35
-36. FLASH BEACH 2017
-.scarpe shoes 
-.37
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour bianco white 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour phard phard 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour amaranto amaranth 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD001EVS00002B355 
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour verde antico antique green 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour verde scuro dark green 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD001EVS00009B355 
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour blu navy navy blue 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-O shoes high woman scarpe shoes 
-size 35 / 36 
-OSHSD001EVS00008B355 
-size 35 / 36 
-OSHSD001EVS00067B355 
-size 35 / 36 
-OSHSD001EVS00017B355 
-size 35 / 36 
-OSHSD001EVS00131B355 
-38. FLASH BEACH 2017
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00002B370 OSHSD001EVS00002B380 OSHSD001EVS00002B390 OSHSD001EVS00002B400 OSHSD001EVS00002B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00009B370 OSHSD001EVS00009B380 OSHSD001EVS00009B390 OSHSD001EVS00009B400 OSHSD001EVS00009B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00008B370 OSHSD001EVS00008B380 OSHSD001EVS00008B390 OSHSD001EVS00008B400 OSHSD001EVS00008B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00067B370 OSHSD001EVS00067B380 OSHSD001EVS00067B390 OSHSD001EVS00067B400 OSHSD001EVS00067B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00017B370 OSHSD001EVS00017B380 OSHSD001EVS00017B390 OSHSD001EVS00017B400 OSHSD001EVS00017B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00131B370 OSHSD001EVS00131B380 OSHSD001EVS00131B390 OSHSD001EVS00131B400 OSHSD001EVS00131B415 
-SCARPE SHOES .39
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-O shoes high woman scarpe shoes 
-descrizione description O shoes high donna 
-O shoes high woman 
-colore colour grigio chiaro light grey 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD001EVS00133B355 
-size 35 / 36 
-OSHSD001EVS00055B355 
-40. FLASH BEACH 2017
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00133B370 OSHSD001EVS00133B380 OSHSD001EVS00133B390 OSHSD001EVS00133B400 OSHSD001EVS00133B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD001EVS00055B370 OSHSD001EVS00055B380 OSHSD001EVS00055B390 OSHSD001EVS00055B400 OSHSD001EVS00055B415 
-SCARPE SHOES .41
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour bianco white 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD002EVS00008B355 
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour becco d'oca duck beack 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD002EVS00136B355 
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour fragola strawberry 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD002EVS00119B355 
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour mela apple 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD002EVS00139B355 
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour acqua aqua 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD002EVS00001B355 
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour bluette bright blue 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-OSHSD002EVS00137B355 
-O shoes low woman scarpe shoes 
-42. FLASH BEACH 2017
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD002EVS00008B370 OSHSD002EVS00008B380 OSHSD002EVS00008B390 OSHSD002EVS00008B400 OSHSD002EVS00008B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD002EVS00136B370 OSHSD002EVS00136B380 OSHSD002EVS00136B390 OSHSD002EVS00136B400 OSHSD002EVS00136B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD002EVS00119B370 OSHSD002EVS00119B380 OSHSD002EVS00119B390 OSHSD002EVS00119B400 OSHSD002EVS00119B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD002EVS00139B370 OSHSD002EVS00139B380 OSHSD002EVS00139B390 OSHSD002EVS00139B400 OSHSD002EVS00139B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD002EVS00001B370 OSHSD002EVS00001B380 OSHSD002EVS00001B390 OSHSD002EVS00001B400 OSHSD002EVS00001B415 
-size 37 size 38 size 39 size 40 size 41 / 42 
-OSHSD002EVS00137B370 OSHSD002EVS00137B380 OSHSD002EVS00137B390 OSHSD002EVS00137B400 OSHSD002EVS00137B415 
-SCARPE SHOES .43
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour grigio chiaro light grey 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-descrizione description O shoes low donna 
-O shoes low woman 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-size 35 / 36 
-size 35 / 36 
-OSHSD002EVS00133B355 
-OSHSD002EVS00055B355 
-O shoes low woman scarpe shoes 
-44. FLASH BEACH 2017
-size 37 
-size 37 
-size 38 
-size 38 
-size 39 
-size 39 
-size 40 
-size 40 
-size 41 / 42 
-size 41 / 42 
-OSHSD002EVS00133B370 
-OSHSD002EVS00055B370 
-OSHSD002EVS00133B380 
-OSHSD002EVS00055B380 
-OSHSD002EVS00133B390 
-OSHSD002EVS00055B390 
-OSHSD002EVS00133B400 
-OSHSD002EVS00055B400 
-OSHSD002EVS00133B415 
-OSHSD002EVS00055B415 
-SCARPE SHOES .45
-descrizione description O shoes low uomo 
-O shoes low man 
-colore colour bianco white 
-materiale material EVA compound 
-size 39 / 40 
-OSHSU002EVS00008B395 
-descrizione description O shoes low uomo 
-O shoes low man 
-colore colour verde scuro dark green 
-materiale material EVA compound 
-size 39 / 40 
-OSHSU002EVS00092B395 
-descrizione description O shoes low uomo 
-O shoes low man 
-colore colour blu navy navy blue 
-materiale material EVA compound 
-size 39 / 40 
-OSHSU002EVS00017B395 
-descrizione description O shoes low uomo 
-O shoes low man 
-colore colour nero black 
-materiale material EVA compound 
-size 39 / 40 
-OSHSU002EVS00055B395 
-O shoes low man scarpe shoes 
-46. FLASH BEACH 2017
-size 40 size 41 size 42 size 43 size 44 
-OSHSU002EVS00008B400 OSHSU002EVS00008B410 OSHSU002EVS00008B420 OSHSU002EVS00008B430 OSHSU002EVS00008B440 
-size 40 size 41 size 42 size 43 size 44 
-OSHSU002EVS00092B400 OSHSU002EVS00092B410 OSHSU002EVS00092B420 OSHSU002EVS00092B430 OSHSU002EVS00092B440 
-size 40 size 41 size 42 size 43 size 44 
-OSHSU002EVS00017B400 OSHSU002EVS00017B410 OSHSU002EVS00017B420 OSHSU002EVS00017B430 OSHSU002EVS00017B440 
-size 40 size 41 size 42 size 43 size 44 
-OSHSU002EVS00055B400 OSHSU002EVS00055B410 OSHSU002EVS00055B420 OSHSU002EVS00055B430 OSHSU002EVS00055B440 
-SCARPE SHOES .47
-descrizione description accessori O shoes fiori 
-flower O shoes accessories 
-colore colour fucsia - arancione fuchsia - orange 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000MAS01238A002 
-descrizione description accessori O shoes fiori 
-flower O shoes accessories 
-colore colour bianco - nero black - white 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000MAS01227A002 
-descrizione description accessori O shoes fiori 
-flower O shoes accessories 
-colore colour bluette - mela bright blue - apple 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000MAS01239A002 
-descrizione description accesori O shoes fiocco 
-bow O shoes accessories 
-colore colour avorio - nero ivory - black 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES38240A002 
-descrizione description accesori O shoes fiocco 
-bow O shoes accessories 
-colore colour blu navy - rosso navy blue - red 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES38241A002 
-descrizione description accessori O shoes nappine 
-mini tassels O shoes accessories 
-colore colour naturale natural 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES39054A002 
-O shoes accessories scarpe shoes 
-48. FLASH BEACH 2017
-size M size L 
-OSHSA000MAS01238A003 OSHSA000MAS01238A004 
-size M size L 
-OSHSA000MAS01227A003 OSHSA000MAS01227A004 
-size M size L 
-OSHSA000MAS01239A003 OSHSA000MAS01239A004 
-size M size L 
-OSHSA000TES38240A003 OSHSA000TES38240A004 
-size M size L 
-OSHSA000TES38241A003 OSHSA000TES38241A004 
-size M size L 
-OSHSA000TES39054A003 OSHSA000TES39054A004 
-SCARPE SHOES .49
-descrizione description accessori O shoes nappine 
-mini tassels O shoes accessories 
-colore colour blu blue 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES39009A002 
+synthetic fibre - rubber fabric
+pochette
+34.   FLASH BEACH 2017
+ACCESSORI ACCESSORIES   .35
+36.   FLASH BEACH 2017
+.scarpe shoes
+   .37
+descrizione description O shoes high donna
+O shoes high woman
+colore colour bianco white
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+descrizione description O shoes high donna
+O shoes high woman
+colore colour phard phard
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+descrizione description O shoes high donna
+O shoes high woman
+colore colour amaranto amaranth
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD001EVS00002B355
+descrizione description O shoes high donna
+O shoes high woman
+colore colour verde antico antique green
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+descrizione description O shoes high donna
+O shoes high woman
+colore colour verde scuro dark green
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD001EVS00009B355
+descrizione description O shoes high donna
+O shoes high woman
+colore colour blu navy navy blue
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+O shoes high woman scarpe shoes
+size 35 / 36
+OSHSD001EVS00008B355
+size 35 / 36
+OSHSD001EVS00067B355
+size 35 / 36
+OSHSD001EVS00017B355
+size 35 / 36
+OSHSD001EVS00131B355
+38.   FLASH BEACH 2017
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00002B370 OSHSD001EVS00002B380 OSHSD001EVS00002B390 OSHSD001EVS00002B400 OSHSD001EVS00002B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00009B370 OSHSD001EVS00009B380 OSHSD001EVS00009B390 OSHSD001EVS00009B400 OSHSD001EVS00009B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00008B370 OSHSD001EVS00008B380 OSHSD001EVS00008B390 OSHSD001EVS00008B400 OSHSD001EVS00008B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00067B370 OSHSD001EVS00067B380 OSHSD001EVS00067B390 OSHSD001EVS00067B400 OSHSD001EVS00067B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00017B370 OSHSD001EVS00017B380 OSHSD001EVS00017B390 OSHSD001EVS00017B400 OSHSD001EVS00017B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00131B370 OSHSD001EVS00131B380 OSHSD001EVS00131B390 OSHSD001EVS00131B400 OSHSD001EVS00131B415
+SCARPE SHOES   .39
+descrizione description O shoes high donna
+O shoes high woman
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+O shoes high woman scarpe shoes
+descrizione description O shoes high donna
+O shoes high woman
+colore colour grigio chiaro light grey
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD001EVS00133B355
+size 35 / 36
+OSHSD001EVS00055B355
+40.   FLASH BEACH 2017
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00133B370 OSHSD001EVS00133B380 OSHSD001EVS00133B390 OSHSD001EVS00133B400 OSHSD001EVS00133B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD001EVS00055B370 OSHSD001EVS00055B380 OSHSD001EVS00055B390 OSHSD001EVS00055B400 OSHSD001EVS00055B415
+SCARPE SHOES   .41
+descrizione description O shoes low donna
+O shoes low woman
+colore colour bianco white
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD002EVS00008B355
+descrizione description O shoes low donna
+O shoes low woman
+colore colour becco d'oca duck beack
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD002EVS00136B355
+descrizione description O shoes low donna
+O shoes low woman
+colore colour fragola strawberry
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD002EVS00119B355
+descrizione description O shoes low donna
+O shoes low woman
+colore colour mela apple
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD002EVS00139B355
+descrizione description O shoes low donna
+O shoes low woman
+colore colour acqua aqua
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD002EVS00001B355
+descrizione description O shoes low donna
+O shoes low woman
+colore colour bluette bright blue
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+OSHSD002EVS00137B355
+O shoes low woman scarpe shoes
+42.   FLASH BEACH 2017
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD002EVS00008B370 OSHSD002EVS00008B380 OSHSD002EVS00008B390 OSHSD002EVS00008B400 OSHSD002EVS00008B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD002EVS00136B370 OSHSD002EVS00136B380 OSHSD002EVS00136B390 OSHSD002EVS00136B400 OSHSD002EVS00136B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD002EVS00119B370 OSHSD002EVS00119B380 OSHSD002EVS00119B390 OSHSD002EVS00119B400 OSHSD002EVS00119B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD002EVS00139B370 OSHSD002EVS00139B380 OSHSD002EVS00139B390 OSHSD002EVS00139B400 OSHSD002EVS00139B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD002EVS00001B370 OSHSD002EVS00001B380 OSHSD002EVS00001B390 OSHSD002EVS00001B400 OSHSD002EVS00001B415
+size 37 size 38 size 39 size 40 size 41 / 42
+OSHSD002EVS00137B370 OSHSD002EVS00137B380 OSHSD002EVS00137B390 OSHSD002EVS00137B400 OSHSD002EVS00137B415
+SCARPE SHOES   .43
+descrizione description O shoes low donna
+O shoes low woman
+colore colour grigio chiaro light grey
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+descrizione description O shoes low donna
+O shoes low woman
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
+size 35 / 36
+size 35 / 36
+OSHSD002EVS00133B355
+OSHSD002EVS00055B355
+O shoes low woman scarpe shoes
+44.   FLASH BEACH 2017
+size 37
+size 37
+size 38
+size 38
+size 39
+size 39
+size 40
+size 40
+size 41 / 42
+size 41 / 42
+OSHSD002EVS00133B370
+OSHSD002EVS00055B370
+OSHSD002EVS00133B380
+OSHSD002EVS00055B380
+OSHSD002EVS00133B390
+OSHSD002EVS00055B390
+OSHSD002EVS00133B400
+OSHSD002EVS00055B400
+OSHSD002EVS00133B415
+OSHSD002EVS00055B415
+SCARPE SHOES   .45
+descrizione description O shoes low uomo
+O shoes low man
+colore colour bianco white
+materiale material EVA compound
+size 39 / 40
+OSHSU002EVS00008B395
+descrizione description O shoes low uomo
+O shoes low man
+colore colour verde scuro dark green
+materiale material EVA compound
+size 39 / 40
+OSHSU002EVS00092B395
+descrizione description O shoes low uomo
+O shoes low man
+colore colour blu navy navy blue
+materiale material EVA compound
+size 39 / 40
+OSHSU002EVS00017B395
+descrizione description O shoes low uomo
+O shoes low man
+colore colour nero black
+materiale material EVA compound
+size 39 / 40
+OSHSU002EVS00055B395
+O shoes low man scarpe shoes
+46.   FLASH BEACH 2017
+size 40 size 41 size 42 size 43 size 44
+OSHSU002EVS00008B400 OSHSU002EVS00008B410 OSHSU002EVS00008B420 OSHSU002EVS00008B430 OSHSU002EVS00008B440
+size 40 size 41 size 42 size 43 size 44
+OSHSU002EVS00092B400 OSHSU002EVS00092B410 OSHSU002EVS00092B420 OSHSU002EVS00092B430 OSHSU002EVS00092B440
+size 40 size 41 size 42 size 43 size 44
+OSHSU002EVS00017B400 OSHSU002EVS00017B410 OSHSU002EVS00017B420 OSHSU002EVS00017B430 OSHSU002EVS00017B440
+size 40 size 41 size 42 size 43 size 44
+OSHSU002EVS00055B400 OSHSU002EVS00055B410 OSHSU002EVS00055B420 OSHSU002EVS00055B430 OSHSU002EVS00055B440
+SCARPE SHOES   .47
+descrizione description accessori O shoes fiori
+flower O shoes accessories
+colore colour fucsia - arancione fuchsia - orange
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000MAS01238A002
+descrizione description accessori O shoes fiori
+flower O shoes accessories
+colore colour bianco - nero black - white
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000MAS01227A002
+descrizione description accessori O shoes fiori
+flower O shoes accessories
+colore colour bluette - mela bright blue - apple
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000MAS01239A002
+descrizione description accesori O shoes fiocco
+bow O shoes accessories
+colore colour avorio - nero ivory - black
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES38240A002
+descrizione description accesori O shoes fiocco
+bow O shoes accessories
+colore colour blu navy - rosso navy blue - red
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES38241A002
+descrizione description accessori O shoes nappine
+mini tassels O shoes accessories
+colore colour naturale natural
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES39054A002
+O shoes accessories scarpe shoes
+48.   FLASH BEACH 2017
+size M size L
+OSHSA000MAS01238A003 OSHSA000MAS01238A004
+size M size L
+OSHSA000MAS01227A003 OSHSA000MAS01227A004
+size M size L
+OSHSA000MAS01239A003 OSHSA000MAS01239A004
+size M size L
+OSHSA000TES38240A003 OSHSA000TES38240A004
+size M size L
+OSHSA000TES38241A003 OSHSA000TES38241A004
+size M size L
+OSHSA000TES39054A003 OSHSA000TES39054A004
+SCARPE SHOES   .49
+descrizione description accessori O shoes nappine
+mini tassels O shoes accessories
+colore colour blu blue
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES39009A002
 descrizione description accessori O shoes cover 
-sandalo denim 
-sandal denim cover O shoes accessories 
-colore colour denim blu blue denim 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES13009A002 
+sandalo denim
+sandal denim cover O shoes accessories
+colore colour denim blu blue denim
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES13009A002
 descrizione description accessori O shoes cover 
-sandalo denim 
-sandal denim cover O shoes accessories 
-colore colour denim azzurro azure denim 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES13130A002 
-descrizione description accessori O shoes pon pon 
-pon pon O shoes accessories 
-colore colour bianco - grigio white - grey 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES40242A002 
-descrizione description accessori O shoes pon pon 
-pon pon O shoes accessories 
-colore colour fucsia - arancione fuchsia - orange 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES40238A002 
-descrizione description accessori O shoes pon pon 
-pon pon O shoes accessories 
-colore colour giallo - blu yellow - blue 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES40176A002 
-O shoes accessories scarpe shoes 
-50. FLASH BEACH 2017
-size M size L 
-OSHSA000TES39009A003 OSHSA000TES39009A004 
-size M size L 
-OSHSA000TES13009A003 OSHSA000TES13009A004 
-size M size L 
-OSHSA000TES13130A003 OSHSA000TES13130A004 
-size M size L 
-OSHSA000TES40242A003 OSHSA000TES40242A004 
-size M size L 
-OSHSA000TES40238A003 OSHSA000TES40238A004 
-size M size L 
-OSHSA000TES40176A003 OSHSA000TES40176A004 
-SCARPE SHOES .51
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour bianco white 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20008A002 
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour roccia rock 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20071A002 
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour amaranto amaranth 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20002A002 
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour papaia papaja 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20065A002 
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour lime lime 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20044A002 
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour acqua aqua 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20001A002 
-O shoes accessories scarpe shoes .continuativo carry over 
-52. FLASH BEACH 2017
-size M size L 
-OSHSA000TES20008A003 OSHSA000TES20008A004 
-size M size L 
-OSHSA000TES20071A003 OSHSA000TES20071A004 
-size M size L 
-OSHSA000TES20002A003 OSHSA000TES20002A004 
-size M size L 
-OSHSA000TES20065A003 OSHSA000TES20065A004 
-size M size L 
-OSHSA000TES20044A003 OSHSA000TES20044A004 
-size M size L 
-OSHSA000TES20001A003 OSHSA000TES20001A004 
-SCARPE SHOES .53
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour blu iris iris blue 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20015A002 
-descrizione description accessori O shoes basic 
-basic O shoes accessories 
-colore colour nero black 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES20055A002 
-descrizione description accessori O shoes coachella 
-coachella O shoes accessories 
-colore colour bianco white 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES21008A002 
-descrizione description accessori O shoes coachella 
-coachella O shoes accessories 
-colore colour nero black 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES21055A002 
-descrizione description accessori O shoes natural 
-natural O shoes accessories 
-colore colour giallo yellow 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES22036A002 
-descrizione description accessori O shoes natural 
-natural O shoes accessories 
-colore colour rosa pink 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES22072A002 
-O shoes accessories scarpe shoes .continuativo carry over 
-54. FLASH BEACH 2017
-size M size L 
-OSHSA000TES20015A003 OSHSA000TES20015A004 
-size M size L 
-OSHSA000TES20055A003 OSHSA000TES20055A004 
-size M size L 
-OSHSA000TES21008A003 OSHSA000TES21008A004 
-size M size L 
-OSHSA000TES21055A003 OSHSA000TES21055A004 
-size M size L 
-OSHSA000TES22036A003 OSHSA000TES22036A004 
-size M size L 
-OSHSA000TES22072A003 OSHSA000TES22072A004 
-SCARPE SHOES .55
-descrizione description accessori O shoes raffia 
-raffia O shoes accessories 
-colore colour rosa smoke 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES23075A002 
-descrizione description accessori O shoes raffia 
-raffia O shoes accessories 
-colore colour roccia rock 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES23071A002 
-descrizione description accessori O shoes raffia 
-raffia O shoes accessories 
-colore colour acqua aqua 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES23001A002 
-descrizione description accessori O shoes raffia 
-raffia O shoes accessories 
-colore colour bluette bright blue 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES23137A002 
-descrizione description accessori O shoes crystal 
-crystal O shoes accessories 
-colore colour bianco white 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES24008A002 
-descrizione description accessori O shoes crystal 
-crystal O shoes accessories 
-colore colour nero black 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES24055A002 
-O shoes accessories scarpe shoes .continuativo carry over 
-56. FLASH BEACH 2017
-size M size L 
-OSHSA000TES23075A003 OSHSA000TES23075A004 
-size M size L 
-OSHSA000TES23071A003 OSHSA000TES23071A004 
-size M size L 
-OSHSA000TES23001A003 OSHSA000TES23001A004 
-size M size L 
-OSHSA000TES23137A003 OSHSA000TES23137A004 
-size M size L 
-OSHSA000TES24008A003 OSHSA000TES24008A004 
-size M size L 
-OSHSA000TES24055A003 OSHSA000TES24055A004 
-SCARPE SHOES .57
-descrizione description accessori O shoes metal 
-metal O shoes accessories 
-colore colour argento silver 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES25004A002 
-descrizione description accessori O shoes metal 
-metal O shoes accessories 
-colore colour oro gold 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES25061A002 
-descrizione description accessori O shoes treccia 
-plait O shoes accessories 
-colore colour rosa oro pink gold 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES05062A002 
-descrizione description accessori O shoes treccia 
-plait O shoes accessories 
-colore colour oro gold 
-abbinamenti components 
-O shoes high donna - O shoes low donna 
-O shoes high woman - O shoes low woman 
-size S 
-OSHSA000TES05061A002 
-O shoes accessories scarpe shoes .continuativo carry over 
-58. FLASH BEACH 2017
-size M size L 
-OSHSA000TES25004A003 OSHSA000TES25004A004 
-size M size L 
-OSHSA000TES25061A003 OSHSA000TES25061A004 
-size M size L 
-OSHSA000TES05062A003 OSHSA000TES05062A004 
-size M size L 
-OSHSA000TES05061A003 OSHSA000TES05061A004 
-SCARPE SHOES .59
-O bag Headquarters 
-Via Austria, 17 
-35127 Padova (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+sandalo denim
+sandal denim cover O shoes accessories
+colore colour denim azzurro azure denim
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES13130A002
+descrizione description accessori O shoes pon pon
+pon pon O shoes accessories
+colore colour bianco - grigio white - grey
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES40242A002
+descrizione description accessori O shoes pon pon
+pon pon O shoes accessories
+colore colour fucsia - arancione fuchsia - orange
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES40238A002
+descrizione description accessori O shoes pon pon
+pon pon O shoes accessories
+colore colour giallo - blu yellow - blue
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES40176A002
+O shoes accessories scarpe shoes
+50.   FLASH BEACH 2017
+OSHSA000TES39009A002
+OSHSA000TES13009A002
+OSHSA000TES13130A002
+OSHSA000TES40242A002
+OSHSA000TES40238A002
+OSHSA000TES40176A002
+size M size L
+OSHSA000TES39009A003 OSHSA000TES39009A004
+size M size L
+OSHSA000TES13009A003 OSHSA000TES13009A004
+size M size L
+OSHSA000TES13130A003 OSHSA000TES13130A004
+size M size L
+OSHSA000TES40242A003 OSHSA000TES40242A004
+size M size L
+OSHSA000TES40238A003 OSHSA000TES40238A004
+size M size L
+OSHSA000TES40176A003 OSHSA000TES40176A004
+SCARPE SHOES   .51
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour bianco white
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20008A002
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour roccia rock
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20071A002
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour amaranto amaranth
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20002A002
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour papaia papaja
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20065A002
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour lime lime
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20044A002
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour acqua aqua
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20001A002
+O shoes accessories scarpe shoes .continuativo carry over
+52.   FLASH BEACH 2017
+OSHSA000TES20008A002
+OSHSA000TES20071A002
+OSHSA000TES20002A002
+OSHSA000TES20065A002
+OSHSA000TES20044A002
+OSHSA000TES20001A002
+size M size L
+OSHSA000TES20008A003 OSHSA000TES20008A004
+size M size L
+OSHSA000TES20071A003 OSHSA000TES20071A004
+size M size L
+OSHSA000TES20002A003 OSHSA000TES20002A004
+size M size L
+OSHSA000TES20065A003 OSHSA000TES20065A004
+size M size L
+OSHSA000TES20044A003 OSHSA000TES20044A004
+size M size L
+OSHSA000TES20001A003 OSHSA000TES20001A004
+SCARPE SHOES   .53
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour blu iris iris blue
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20015A002
+descrizione description accessori O shoes basic
+basic O shoes accessories
+colore colour nero black
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES20055A002
+descrizione description accessori O shoes coachella
+coachella O shoes accessories
+colore colour bianco white
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES21008A002
+descrizione description accessori O shoes coachella
+coachella O shoes accessories
+colore colour nero black
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES21055A002
+descrizione description accessori O shoes natural
+natural O shoes accessories
+colore colour giallo yellow
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES22036A002
+descrizione description accessori O shoes natural
+natural O shoes accessories
+colore colour rosa pink
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES22072A002
+O shoes accessories scarpe shoes .continuativo carry over
+54.   FLASH BEACH 2017
+OSHSA000TES20015A002
+OSHSA000TES20055A002
+OSHSA000TES21008A002
+OSHSA000TES21055A002
+OSHSA000TES22036A002
+OSHSA000TES22072A002
+size M size L
+OSHSA000TES20015A003 OSHSA000TES20015A004
+size M size L
+OSHSA000TES20055A003 OSHSA000TES20055A004
+size M size L
+OSHSA000TES21008A003 OSHSA000TES21008A004
+size M size L
+OSHSA000TES21055A003 OSHSA000TES21055A004
+size M size L
+OSHSA000TES22036A003 OSHSA000TES22036A004
+size M size L
+OSHSA000TES22072A003 OSHSA000TES22072A004
+SCARPE SHOES   .55
+descrizione description accessori O shoes raffia
+raffia O shoes accessories
+colore colour rosa smoke
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES23075A002
+descrizione description accessori O shoes raffia
+raffia O shoes accessories
+colore colour roccia rock
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES23071A002
+descrizione description accessori O shoes raffia
+raffia O shoes accessories
+colore colour acqua aqua
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES23001A002
+descrizione description accessori O shoes raffia
+raffia O shoes accessories
+colore colour bluette bright blue
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES23137A002
+descrizione description accessori O shoes crystal
+crystal O shoes accessories
+colore colour bianco white
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES24008A002
+descrizione description accessori O shoes crystal
+crystal O shoes accessories
+colore colour nero black
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES24055A002
+O shoes accessories scarpe shoes .continuativo carry over
+56.   FLASH BEACH 2017
+OSHSA000TES23075A002
+OSHSA000TES23071A002
+OSHSA000TES23001A002
+OSHSA000TES23137A002
+OSHSA000TES24008A002
+OSHSA000TES24055A002
+size M size L
+OSHSA000TES23075A003 OSHSA000TES23075A004
+size M size L
+OSHSA000TES23071A003 OSHSA000TES23071A004
+size M size L
+OSHSA000TES23001A003 OSHSA000TES23001A004
+size M size L
+OSHSA000TES23137A003 OSHSA000TES23137A004
+size M size L
+OSHSA000TES24008A003 OSHSA000TES24008A004
+size M size L
+OSHSA000TES24055A003 OSHSA000TES24055A004
+SCARPE SHOES   .57
+descrizione description accessori O shoes metal
+metal O shoes accessories
+colore colour argento silver
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES25004A002
+descrizione description accessori O shoes metal
+metal O shoes accessories
+colore colour oro gold
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES25061A002
+descrizione description accessori O shoes treccia
+plait O shoes accessories
+colore colour rosa oro pink gold
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES05062A002
+descrizione description accessori O shoes treccia
+plait O shoes accessories
+colore colour oro gold
+abbinamenti components
+O shoes high donna - O shoes low donna
+O shoes high woman - O shoes low woman
+size S
+OSHSA000TES05061A002
+O shoes accessories scarpe shoes .continuativo carry over
+58.   FLASH BEACH 2017
+OSHSA000TES25004A002
+OSHSA000TES25061A002
+OSHSA000TES05062A002
+OSHSA000TES05061A002
+size M size L
+OSHSA000TES25004A003 OSHSA000TES25004A004
+size M size L
+OSHSA000TES25061A003 OSHSA000TES25061A004
+size M size L
+OSHSA000TES05062A003 OSHSA000TES05062A004
+size M size L
+OSHSA000TES05061A003 OSHSA000TES05061A004
+SCARPE SHOES   .59
+O bag Headquarters
+Via Austria, 17
+35127 Padova (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

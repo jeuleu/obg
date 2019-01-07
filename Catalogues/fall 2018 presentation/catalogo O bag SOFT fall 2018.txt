@@ -1,350 +1,350 @@
-O bag soft 
-Fall ‘18
-code OBAGB842_TES20 
+ O bag soft
+Fall â€˜18
+code OBAGB842_TES20
 descrizione scocca completa 
 con chiusura zip o tender tessuto 
-gommato 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-O bag soft .tender 
-.tender 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
-nero 
-code HLESX200_TES20 
-descrizione manico extra slim 
-goccia lungo tessuto gommato 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
+gommato
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+O bag soft .tender
+.tender
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 055
 nero
-code OBAGB840_TES20 
+nero
+code HLESX200_TES20
+descrizione manico extra slim 
+goccia lungo tessuto gommato
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 055
+nero
+nero
+code OBAGB840_TES20
 descrizione scocca completa con 
-chiusura zip o mild tessuto gommato 
-code HLESX800_TES20 
+chiusura zip o mild tessuto gommato
+code HLESX800_TES20
 descrizione manico extra slim goccia 
-corto tessuto gommato 
-code SHOUWF00_TES20 
+corto tessuto gommato
+code SHOUWF00_TES20
 descrizione tracolla new generico 
-larga tessuto gommato 
-O bag soft .mild 
-.mild 
-col. 077 
-rubino 
-rubino 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 541 
-verde bosco 
-verde bosco 
-col. 308 
-malva 
-malva 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
-nero 
-col. 055 
-nero 
-nero 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
+larga tessuto gommato
+O bag soft .mild
+.mild
+col. 077
+rubino
+rubino
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 541
+verde bosco
+verde bosco
+col. 308
+malva
+malva
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 093
+vino
+vino
+col. 055
 nero
-code OBAGB041_TES20 
+nero
+col. 055
+nero
+nero
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 055
+nero
+nero
+code OBAGB041_TES20
 descrizione scocca o sweet 
-tessuto gommato 
-code HLESX200_TES20 
+tessuto gommato
+code HLESX200_TES20
 descrizione manico extra slim 
-goccia lungo tessuto gommato 
-code OBAGS001_TES01 
+goccia lungo tessuto gommato
+code OBAGS001_TES01
 descrizione sacca interna zip 
-tessuto canvas 
-col. 055 
-nero 
-nero 
-O bag soft .sweet 
-.sweet 
-col. 077 
-rubino 
-rubino 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 541 
-verde bosco 
-verde bosco 
-col. 308 
-malva 
-malva 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
-nero 
-col. 055 
-nero 
+tessuto canvas
+col. 055
 nero
-code OBAGB943_TES20 
+nero
+O bag soft .sweet
+.sweet
+col. 077
+rubino
+rubino
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 541
+verde bosco
+verde bosco
+col. 308
+malva
+malva
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 093
+vino
+vino
+col. 055
+nero
+nero
+col. 055
+nero
+nero
+code OBAGB943_TES20
 descrizione scocca completa 
 con chiusura o smooth tessuto 
-gommato 
-code SHOUWG00_TES20 
+gommato
+code SHOUWG00_TES20
 descrizione tracolla new generico 
-stretta tessuto gommato 
-O bag soft .smooth 
-.smooth 
-col. 077 
-rubino 
-rubino 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 541 
-verde bosco 
-verde bosco 
-col. 308 
-malva 
-malva 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
-nero 
-col. 055 
-nero 
+stretta tessuto gommato
+O bag soft .smooth
+.smooth
+col. 077
+rubino
+rubino
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 541
+verde bosco
+verde bosco
+col. 308
+malva
+malva
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 093
+vino
+vino
+col. 055
 nero
-code OBAGB944_TES20 
+nero
+col. 055
+nero
+nero
+code OBAGB944_TES20
 descrizione scocca completa con 
-chiusura o easy tessuto gommato 
-code ACCEP044_TES20 
+chiusura o easy tessuto gommato
+code ACCEP044_TES20
 descrizione accessosrio pochette 
-o easy tessuto gommato 
-O bag soft .easy 
-.easycode 
-SHOUWG00_TES20 
+o easy tessuto gommato
+O bag soft .easy
+.easy
+code SHOUWG00_TES20
 descrizione tracolla new generico 
-stretta tessuto gommato 
-col. 077 
-rubino 
-rubino 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 541 
-verde bosco 
-verde bosco 
-col. 077 
-rubino 
-rubino 
-col. 559 
-rame 
-rame 
-col. 541 
-verde bosco 
-verde bosco 
-col. 308 
-malva 
-malva 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
-nero 
-col. 055 
-nero 
-nero 
-col. 308 
-malva 
-malva 
-col. 389 
-silver 
-silver 
-col. 017 
-blu navy 
-blu navy 
-col. 093 
-vino 
-vino 
-col. 055 
-nero 
+stretta tessuto gommato
+col. 077
+rubino
+rubino
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 541
+verde bosco
+verde bosco
+col. 077
+rubino
+rubino
+col. 559
+rame
+rame
+col. 541
+verde bosco
+verde bosco
+col. 308
+malva
+malva
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 093
+vino
+vino
+col. 055
 nero
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+nero
+col. 055
+nero
+nero
+col. 308
+malva
+malva
+col. 389
+silver
+silver
+col. 017
+blu navy
+blu navy
+col. 093
+vino
+vino
+col. 055
+nero
+nero
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it

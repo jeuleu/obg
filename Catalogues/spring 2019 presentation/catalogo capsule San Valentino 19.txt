@@ -1,243 +1,245 @@
-manici handles 01. 
-ë19 .capsule 
+manici  handles   01.
+‚Äò19 .capsule
 San Valentino
-.borse bags 
-05 scocche body 
-06 scocche body O bag 
-07 scocche body O bag mini 
-09 manici 
-handles 
-10 manici corti short handles 
-11 manici lunghi long handles 
-13 sacche interne inner bags 
-14 sacche interne inner bags O bag 
-15 sacche interne inner bags O bag mini 
-17 accessori accessories 
-18 portachiavi keychain 
+
+ .borse bags
+05 scocche body
+06 scocche body O bag
+07 scocche body O bag mini
+09 manici
+ handles
+10 manici corti short handles
+11 manici lunghi long handles
+13 sacche interne inner bags
+14 sacche interne inner bags O  bag
+15 sacche interne inner bags O  bag mini
+17 accessori accessories
+18 portachiavi keychain
 21 orologi watches
-04. O bag .capsule xmas 18
-manici handles 05. 
-.scocche 
+ 04. O bag .capsule xmas 18
+manici  handles   05.
+.scocche
 bodies
-06. O bag .capsule San Valentino 
-code OBAGB001 EVS59 
-descrizione scocca O bag 
-eva compound stampa love 
-materiale XL extralight 
-abbinamenti 
-description body O bag 
-eva compound print love 
-material XL extralight 
-components 
-col. 038 
-grafite 
-graphite 
-col. 076 
-rosso 
-red 
+ 06. O bag .capsule San Valentino
+code OBAGB001  EVS59
+descrizione scocca O bag
+eva compound stampa love
+materiale XL extralight
+abbinamenti
+description body O bag
+eva compound print love
+material XL extralight
+components
+col. 038
+grafite
+graphite
+col. 076
+rosso
+red
 O bag stampa love .scocca body 
 .capsule .capsule
-scocche bodies 07. 
-code OBAGB002 EVS59 
-descrizione scocca O bag mini 
-eva compound stampa love 
-materiale XL extralight 
-abbinamenti 
-description body O bag mini 
-eva compound print love 
-material XL extralight 
-components 
-col. 038 
-grafite 
-graphite 
-col. 076 
-rosso 
-red 
+scocche bodies   07.
+code OBAGB002  EVS59
+descrizione scocca O bag mini
+eva compound stampa love
+materiale XL extralight
+abbinamenti
+description body O bag mini
+eva compound print love
+material XL extralight
+components
+col. 038
+grafite
+graphite
+col. 076
+rosso
+red
 O bag mini stampa love .scocca body 
 .capsule .capsule
-08. O bag .capsule xmas 18
-manici handles 09. 
+ 08. O bag .capsule xmas 18
+manici  handles   09.
 .manici 
 handles
-10. O bag .capsule San Valentino 
-code HLESMD00 ECS46 
-descrizione micromanico tubolare corto 
-materiale ecopelle 
-abbinamenti 
-description 
-material faux leather 
-components 
-col. 055 
-nero 
-black 
-tubolare ecopelle .manico corto short handles 
+ 10. O bag .capsule San Valentino
+code HLESMD00  ECS46
+descrizione micromanico tubolare corto
+materiale ecopelle
+abbinamenti
+description
+material faux leather
+components
+col. 055
+nero
+black
+tubolare ecopelle .manico corto short handles
 .capsule
-manici handles 11. 
-code HLESCE01 ECS00 
-descrizione manico doppia catena a ìtî 
-materiale ecopelle 
-abbinamenti 
-description 
-material faux leather 
-components 
-col. 055 
-nero 
-black 
-ecopelle doppia catena .manico lungo long handles 
+manici  handles   11.
+code HLESCE01  ECS00
+descrizione manico doppia catena a ‚Äút‚Äù 
+materiale ecopelle
+abbinamenti
+description
+material faux leather
+components
+col. 055
+nero
+black
+ecopelle doppia catena .manico lungo long handles
 .capsule
-12. O bag .capsule xmas 18
-manici handles 13. 
-.sacche interne 
+ 12. O bag .capsule xmas 18
+manici  handles   13.
+.sacche interne
 inner bags
-14. O bag .capsule San Valentino 
-code OBAGS001 TESBV 
+ 14. O bag .capsule San Valentino
+code OBAGS001  TESBV
 descrizione sacca interna zip O bag 
-tessuto stampa love 
-materiale tessuto 
-abbinamenti 
-description 
-material fabric 
-components 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-stampa love .sacca interna zip inner zip up bag O bag 
+tessuto stampa love
+materiale tessuto
+abbinamenti
+description
+material fabric
+components
+col. 055
+nero
+black
+col. 076
+rosso
+red
+stampa love .sacca interna zip inner zip up bag O bag
 .capsule .capsule
-sacche interne inner bags 15. 
-code OBAGS002 TESBV 
+sacche interne  inner bags   15.
+code OBAGS002  TESBV
 descrizione sacca interna zip O bag mini 
-tessuto stampa love 
-materiale tessuto 
-abbinamenti 
-description 
-material fabric 
-components 
-col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-stampa love .sacca interna zip inner zip up bag O bag mini 
+tessuto stampa love
+materiale tessuto
+abbinamenti
+description
+material fabric
+components
+col. 055
+nero
+black
+col. 076
+rosso
+red
+stampa love .sacca interna zip inner zip up bag O bag mini
 .capsule .capsule
-16. O bag .capsule xmas 18
-manici handles 17. 
-.accessori 
+ 16. O bag .capsule xmas 18
+manici  handles   17.
+.accessori
 accessories
-18. O bag .capsule San Valentino 
-code ACCEP001 ECSE4 
-descrizione accessorio pochette 
-ecopelle stampa love 
-materiale ecopelle 
-abbinamenti 
-description 
-material faux leather 
-components 
-col. 076 
-rosso 
-red 
-col. 055 
-nero 
-black 
-col. 371 
-latte 
-milk 
-pochette stampa love .accessori accessories 
+ 18. O bag .capsule San Valentino
+code ACCEP001  ECSE4
+descrizione accessorio pochette  
+ecopelle stampa love
+materiale ecopelle
+abbinamenti
+description
+material faux leather
+components
+col. 076
+rosso
+red
+col. 055
+nero
+black
+col. 371
+latte
+milk
+pochette stampa love .accessori accessories
 .capsule .capsule .capsule
-accessori accessories 19. 
-code ACCEO117 EVS30 
+accessori  accessories   19.
+code ACCEO117  EVS30
 descrizione accessorio portachiavi 
-pierced heart 
-materiale eva compound + ecopelle 
-abbinamenti 
-description 
-material eva compound + faux leather 
-components 
-code ACCEO114 MAS00 
+pierced heart
+materiale eva compound + ecopelle
+abbinamenti
+description
+material eva compound + faux leather
+components
+code ACCEO114  MAS00
 descrizione aaccessorio portachiavi 
-lettering love materiale plastico 
-materiale materiale plastico 
-abbinamenti 
-description 
-material plastic 
-components 
-col. 076 
-rosso 
-red 
-col. 076 
-rosso 
-red 
-portachiavi pierced heart .accessori accessories 
-portachiavi lettering love .accessori accessories 
-.capsule 
+lettering love materiale plastico
+materiale materiale plastico
+abbinamenti
+description
+material plastic
+components
+col. 076
+rosso
+red
+col. 076
+rosso
+red
+portachiavi pierced heart .accessori accessories
+portachiavi lettering love .accessori accessories
 .capsule
-20. O bag .capsule xmas 18
-manici handles 21. 
-.orologi 
+.capsule
+ 20. O bag .capsule xmas 18
+manici  handles   21.
+.orologi
 watches
-22. O bag .capsule San Valentino 
-code OCLKD001 MESF6 
+ 22. O bag .capsule San Valentino 
+code OCLKD001  MESF6
+descrizione O clock meccanismo
+shiny hearts
+materiale
+abbinamenti
+description
+material
+components
+col. 076
+rosso
+red
+col. 008
+latte
+milk
+col. 004
+argento
+silver
+col. 025
+cipria
+cipria
+shiny hearts .meccanismo dial O clock
+.capsule
+code OCLKD001  MESF5
 descrizione O clock meccanismo 
-shiny hearts 
-materiale 
-abbinamenti 
-description 
-material 
-components 
-col. 076 
-rosso 
-red 
-col. 008 
-latte 
-milk 
-col. 004 
-argento 
-silver 
-col. 025 
-cipria 
-cipria 
-shiny hearts .meccanismo dial O clock 
-.capsule 
-code OCLKD001 MESF5 
-descrizione O clock meccanismo 
-sparkling heart 
-materiale 
-abbinamenti 
-description 
-material 
-components 
-sparkling heart .meccanismo dial O clock 
+sparkling heart
+materiale
+abbinamenti
+description
+material
+components
+sparkling heart .meccanismo dial O clock
 .capsule .capsule .capsule
-orologi watches 23. 
-code OCLKS007 SIS01 
-descrizione O clock meccanismo 
-shiny hearts 
-materiale 
-abbinamenti 
-description 
-material 
-components 
-col. 076 
-rosso 
-red 
-col. 055 
-nero 
-black 
-col. 025 
-cipria 
-cipria 
-.cinturino strap O clock 
-.capsule 
-GENER S 
-GENER M GENER M GENER M 
-GENER S GENER S 
+orologi  watches   23.
+code OCLKS007  SIS01
+descrizione O clock meccanismo
+shiny hearts
+materiale
+abbinamenti
+description
+material
+components
+col. 076
+rosso
+red
+col. 055
+nero
+black
+col. 025
+cipria
+cipria
+.cinturino strap O clock
+.capsule
+GENER S
+GENER M GENER M GENER M
+GENER S GENER S
 .capsule .capsule
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+

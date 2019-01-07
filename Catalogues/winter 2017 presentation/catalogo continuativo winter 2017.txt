@@ -1,2151 +1,2167 @@
-WINTER 
-2017 .continuativo carry over
-.borse bags 
-03 scocche body 
-04 scocche body O bag 
-06 scocche body O bag mini 
-08 scocche body O bag‘50 
-10 scocche body O city 
-11 scocche body O pocket 
-13 scocche body O folder mini 
-14 scocche body O moon 
-15 scocche body O moon light 
-16 scocche body O square 
-19 manici e tracolle 
-handles and shoulder straps 
-20 manici lunghi long handles 
-23 manici corti short handles 
-26 tracolle shoulder straps 
-33 bordi trims 
-34 bordi trims O bag 
-37 bordi trims O bag mini 
-41 sacche interne inserts 
-42 sacche interne inserts O bag 
-43 sacche interne inserts O bag mini 
-44 sacche interne inserts O bag '50 
-45 sacche interne inserts O city 
-46 sacche interne inserts O folder mini 
-47 sacche interne inserts O square 
-49 patte flaps 
-50 patte flaps O pocket 
-51 patte flaps O folder mini 
-.orologi clocks 
-54 quadranti dials O clock 
-58 cinturini straps O clock 
-60 quadranti dials O clock great 
-62 cinturini straps O clock great 
-.occhiali sunglasses 
-66 montatura frame O sun 
-67 lenti lenses O sun 
+WINTER2017
+.continuativo carry over
+
+ .borse bags
+03 scocche body
+04 scocche body O bag
+06 scocche body O bag mini
+08 scocche body O bagâ€˜50
+10 scocche body O city
+11 scocche body O pocket
+13 scocche body O folder mini
+14 scocche body O moon
+15 scocche body O moon light
+16 scocche body O square
+19 manici e tracolle
+ handles and shoulder straps
+20 manici lunghi long handles
+23 manici corti short handles
+26 tracolle shoulder straps
+33  bordi trims
+34 bordi trims O bag
+37 bordi trims O bag mini
+41 sacche interne inserts
+42 sacche interne inserts O bag
+43 sacche interne inserts O bag mini
+44 sacche interne inserts O bag '50
+45 sacche interne inserts O city
+46 sacche interne inserts O folder mini
+47 sacche interne inserts O square
+49 patte flaps
+50 patte flaps O pocket
+51 patte flaps O folder mini
+ .orologi clocks
+54 quadranti dials O clock
+58 cinturini straps O clock
+60 quadranti dials O clock great
+62 cinturini straps O clock great
+ .occhiali sunglasses
+66 montatura frame O sun
+67   lenti lenses O sun
 68 astine arms O sun 
-.bracciali bracelets 
+ .bracciali bracelets
 72 O bracelet flower 
-O bracelet daisy 
-74 O bracelet single knot 
-O bracelet double knot 
-.portafogli wallets 
-78 O hug donna woman 
-.scarpe shoes 
-82 O shoes donna woman 
-84 O shoes uomo man 
+ O bracelet daisy
+74 O bracelet single knot
+ O bracelet double knot
+ .portafogli wallets
+78 O hug donna woman
+ .scarpe shoes
+82 O shoes donna woman
+84 O shoes uomo man
 .indice index
-02. WINTER 2017 COLLECTION .continuativo carry over 
-.borse bags 
+02.   WINTER 2017 COLLECTION .continuativo carry over  
+.borse bags
 .03
-O bag scocche body 
-OBAGB001 EVS00 017 
+O bag scocche body
+OBAGB001 EVS00 017
 descrizione description scocca O bag EVA compound 
-O bag body EVA compound 
-colore colour blu navy navy blue 
+O bag body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB001 EVS00 371 
+inner bags
+OBAGB001 EVS00 371
 descrizione description scocca O bag EVA compound O 
-bag body EVA compound 
-colore colour latte milk 
+bag body EVA compound
+colore colour latte milk
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB001 EVS00 078 
+inner bags
+OBAGB001 EVS00 078
 descrizione description scocca O bag EVA compound O 
-bag body EVA compound 
-colore colour sabbia sand 
+bag body EVA compound
+colore colour sabbia sand
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB001 EVS00 084 
+inner bags
+OBAGB001 EVS00 084
 descrizione description scocca O bag EVA compound O 
-bag body EVA compound 
-colore colour testa di moro dark brown 
+bag body EVA compound
+colore colour testa di moro dark brown
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB001 EVS00 071 
+inner bags
+OBAGB001 EVS00 071
 descrizione description scocca O bag EVA compound O 
-bag body EVA compound 
-colore colour roccia rock 
+bag body EVA compound
+colore colour roccia rock
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-04. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGB001 EVS00 133 
+inner bags
+04.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGB001 EVS00 133
 descrizione description scocca O bag EVA compound O 
-bag body EVA compound 
-colore colour grigio chiaro light grey 
+bag body EVA compound
+colore colour grigio chiaro light grey
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB001 EVS00 055 
+inner bags
+OBAGB001 EVS00 055
 descrizione description scocca O bag EVA compound 
-O bag body EVA compound 
-colore colour nero black 
+O bag body EVA compound
+colore colour nero black
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB001 EVS00 158 
+inner bags
+OBAGB001 EVS00 158
 descrizione description scocca O bag EVA compound 
-O bag body EVA compound 
-colore colour vulcano volcano 
+O bag body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-BORSE BAGS .05
-OBAGB002 EVS00 017 
+inner bags
+BORSE BAGS   .05
+OBAGB002 EVS00 017
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour blu navy navy blue 
+O bag mini body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB002 EVS00 084 
+inner bags
+OBAGB002 EVS00 084
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour testa di moro dark brown 
+O bag mini body EVA compound
+colore colour testa di moro dark brown
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB002 EVS00 371 
+inner bags
+OBAGB002 EVS00 371
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour latte milk 
+O bag mini body EVA compound
+colore colour latte milk
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB002 EVS00 078 
+inner bags
+OBAGB002 EVS00 078
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour sabbia sand 
+O bag mini body EVA compound
+colore colour sabbia sand
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB002 EVS00 071 
+inner bags
+OBAGB002 EVS00 071
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour roccia rock 
+O bag mini body EVA compound
+colore colour roccia rock
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-O bag mini scocche body 
-06. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGB002 EVS00 158 
+inner bags
+O bag mini scocche body
+06.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGB002 EVS00 158
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour vulcano volcano 
+O bag mini body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB002 EVS00 133 
+inner bags
+OBAGB002 EVS00 133
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour grigio chiaro light grey 
+O bag mini body EVA compound
+colore colour grigio chiaro light grey
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-OBAGB002 EVS00 055 
+inner bags
+OBAGB002 EVS00 055
 descrizione description scocca O bag mini EVA compound 
-O bag mini body EVA compound 
-colore colour nero black 
+O bag mini body EVA compound
+colore colour nero black
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - chiusure street - sacche interne 
+abbinamenti components
+manici e tracolle - bordi - chiusure street - sacche interne
 handles and shoulder straps - trims - street fastening - 
-inner bags 
-BORSE BAGS .07
-OBAGB009 EVS00 078 
+inner bags
+BORSE BAGS   .07
+OBAGB009 EVS00 078
 descrizione description scocca O bag '50 EVA compound 
-O bag '50 body EVA compound 
-colore colour sabbia sand 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - sacche interne 
-handles and shoulder straps - trims - inserts 
-OBAGB009 EVS00 071 
+O bag '50 body EVA compound
+colore colour sabbia sand
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - bordi - sacche interne
+handles and shoulder straps - trims - inserts
+OBAGB009 EVS00 071
 descrizione description scocca O bag '50 EVA compound 
-O bag '50 body EVA compound 
-colore colour roccia rock 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - sacche interne 
-handles and shoulder straps - trims - inserts 
-OBAGB009 EVS00 133 
+O bag '50 body EVA compound
+colore colour roccia rock
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - bordi - sacche interne
+handles and shoulder straps - trims - inserts
+OBAGB009 EVS00 133
 descrizione description scocca O bag '50 EVA compound 
-O bag '50 body EVA compound 
-colore colour grigio chiaro light grey 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - sacche interne 
-handles and shoulder straps - trims - inserts 
-OBAGB009 EVS00 017 
+O bag '50 body EVA compound
+colore colour grigio chiaro light grey
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - bordi - sacche interne
+handles and shoulder straps - trims - inserts
+OBAGB009 EVS00 017
 descrizione description scocca O bag '50 EVA compound 
-O bag '50 body EVA compound 
-colore colour blu navy navy blue 
+O bag '50 body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - sacche interne 
-handles and shoulder straps - inner bags 
-OBAGB009 EVS00 158 
+abbinamenti components
+manici e tracolle - sacche interne
+handles and shoulder straps - inner bags
+OBAGB009 EVS00 158
 descrizione description scocca O bag '50 EVA compound 
-O bag '50 body EVA compound 
-colore colour vulcano volcano 
+O bag '50 body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - sacche interne 
-handles and shoulder straps - inner bags 
-O bag '50 scocche body 
-08. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGB009 EVS00 055 
+abbinamenti components
+manici e tracolle - sacche interne
+handles and shoulder straps - inner bags
+O bag '50 scocche body
+08.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGB009 EVS00 055
 descrizione description scocca O bag '50 EVA compound 
-O bag '50 body EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - sacche interne 
-handles and shoulder straps - trims - inserts 
-BORSE BAGS .09
-OBAGB010 EVS00 078 
+O bag '50 body EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - bordi - sacche interne
+handles and shoulder straps - trims - inserts
+BORSE BAGS   .09
+OBAGB010 EVS00 078
 descrizione description scocca O city EVA compound O 
-city body EVA compound 
-colore colour sabbia sand 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - pattine - sacche interne 
-handles and shoulder straps - flaps - inserts 
-OBAGB010 EVS00 071 
+city body EVA compound
+colore colour sabbia sand
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - pattine - sacche interne
+handles and shoulder straps - flaps - inserts
+OBAGB010 EVS00 071
 descrizione description scocca O city EVA compound O 
-city body EVA compound 
-colore colour roccia rock 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - pattine - sacche interne 
-handles and shoulder straps - flaps - inserts 
-OBAGB014 EVS00 055 
+city body EVA compound
+colore colour roccia rock
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - pattine - sacche interne
+handles and shoulder straps - flaps - inserts
+OBAGB014 EVS00 055
 descrizione description scocca O folder mini EVA 
-compound O folder mini body EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - pattine - sacche interne 
-handles and shoulder straps - flaps - inserts 
-OBAGB010 EVS00 017 
+compound O folder mini body EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - pattine - sacche interne
+handles and shoulder straps - flaps - inserts
+OBAGB010 EVS00 017
 descrizione description scocca O city EVA compound O 
-city body EVA compound 
-colore colour blu navy navy blue 
+city body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - pattine - sacche interne 
-handles and shoulder straps - trims - flaps - inner bags 
-OBAGB010 EVS00 158 
+abbinamenti components
+manici e tracolle - bordi - pattine - sacche interne
+handles and shoulder straps - trims - flaps - inner bags
+OBAGB010 EVS00 158
 descrizione description scocca O city EVA compound O 
-city body EVA compound 
-colore colour vulcano volcano 
+city body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - bordi - pattine - sacche interne 
-handles and shoulder straps - trims - flaps - inner bags 
-O city scocche body 
-10. WINTER 2017 COLLECTION .continuativo carry over 
+abbinamenti components
+manici e tracolle - bordi - pattine - sacche interne
+handles and shoulder straps - trims - flaps - inner bags
+O city scocche body
+10.   WINTER 2017 COLLECTION .continuativo carry over  
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour latte milk 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
+O pocket body EVA compound
+colore colour latte milk
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour sabbia sand 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
+O pocket body EVA compound
+colore colour sabbia sand
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour blu navy navy blue 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
+O pocket body EVA compound
+colore colour blu navy navy blue
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour testa di moro dark brown 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
-OBAGB206 EVS00 017 
-scocca sotto lower body 
-OBAGB206 EVS00 078 
-scocca sotto lower body 
-OBAGB206 EVS00 371 
-scocca sotto lower body 
-OBAGB206 EVS00 071 
-scocca sotto lower body 
-OBAGB206 EVS00 084 
-scocca sotto lower body 
-OBAGB106 EVS00 017 
-scocca sopra upper body 
-OBAGB106 EVS00 078 
-scocca sopra upper body 
-OBAGB106 EVS00 371 
-scocca sopra upper body 
-OBAGB106 EVS00 071 
-scocca sopra upper body 
-OBAGB106 EVS00 084 
-scocca sopra upper body 
+O pocket body EVA compound
+colore colour testa di moro dark brown
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
+OBAGB206 EVS00 017
+scocca sotto lower body
+OBAGB206 EVS00 078
+scocca sotto lower body
+OBAGB206 EVS00 371
+scocca sotto lower body
+OBAGB206 EVS00 071
+scocca sotto lower body
+OBAGB206 EVS00 084
+scocca sotto lower body
+OBAGB106 EVS00 017
+scocca sopra upper body
+OBAGB106 EVS00 078
+scocca sopra upper body
+OBAGB106 EVS00 371
+scocca sopra upper body
+OBAGB106 EVS00 071
+scocca sopra upper body
+OBAGB106 EVS00 084
+scocca sopra upper body
 .descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour roccia rock 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
-O pocket scocche body 
-BORSE BAGS .11
+O pocket body EVA compound
+colore colour roccia rock
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
+O pocket scocche body
+BORSE BAGS   .11
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour grigio chiaro light grey 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
+O pocket body EVA compound
+colore colour grigio chiaro light grey
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour vulcano volcano 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
+O pocket body EVA compound
+colore colour vulcano volcano
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
 descrizione description scocca O pocket EVA compound 
-O pocket body EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-tracolle - pattine 
-shoulder straps - flaps 
-OBAGB106 EVS00 158 
-scocca sopra upper body 
-O pocket scocche body 
-OBAGB206 EVS00 133 
-scocca sotto lower body 
-OBAGB206 EVS00 158 
-scocca sotto lower body 
-OBAGB206 EVS00 055 
-scocca sotto lower body 
-OBAGB106 EVS00 133 
-scocca sopra upper body 
-OBAGB106 EVS00 055 
-scocca sopra upper body 
-12. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGB016 EVS00 055 
+O pocket body EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+tracolle - pattine
+shoulder straps - flaps
+OBAGB106 EVS00 158
+scocca sopra upper body
+O pocket scocche body
+OBAGB206 EVS00 133
+scocca sotto lower body
+OBAGB206 EVS00 158
+scocca sotto lower body
+OBAGB206 EVS00 055
+scocca sotto lower body
+OBAGB106 EVS00 133
+scocca sopra upper body
+OBAGB106 EVS00 055
+scocca sopra upper body
+12.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGB016 EVS00 055
 descrizione description scocca O moon EVA compound O 
-moon body EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - patte - sacche interne 
-handles and shoulder straps - flaps - inserts 
-OBAGB014 EVS00 078 
+moon body EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - patte - sacche interne
+handles and shoulder straps - flaps - inserts
+OBAGB014 EVS00 078
 descrizione description scocca O folder mini EVA 
-compound O folder mini body EVA compound 
-colore colour sabbia sand 
-materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - patte - sacche interne 
-handles and shoulder straps - flaps - inserts 
-OBAGB014 EVS00 017 
+compound O folder mini body EVA compound
+colore colour sabbia sand
+materiale material EVA compound
+abbinamenti components
+manici e tracolle - patte - sacche interne
+handles and shoulder straps - flaps - inserts
+OBAGB014 EVS00 017
 descrizione description scocca O folder mini EVA 
-compound O folder mini body EVA compound 
-colore colour blu navy navy blue 
+compound O folder mini body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-tracolle - sacche interne - pattine 
-shoulder straps - inner bags - flaps 
-OBAGB014 EVS00 158 
+abbinamenti components
+tracolle - sacche interne - pattine
+shoulder straps - inner bags - flaps
+OBAGB014 EVS00 158
 descrizione description scocca O folder mini EVA 
-compound O folder mini body EVA compound 
-colore colour vulcano volcano 
+compound O folder mini body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-tracolle - sacche interne - pattine 
-shoulder straps - inner bags - flaps 
-O folder mini scocche body 
-BORSE BAGS .13
-OBAGB016 EVS00 071 
+abbinamenti components
+tracolle - sacche interne - pattine
+shoulder straps - inner bags - flaps
+O folder mini scocche body
+BORSE BAGS   .13
+OBAGB016 EVS00 071
 descrizione description scocca O moon EVA compound O 
-moon body EVA compound 
-colore colour roccia rock 
-materiale material EVA compound 
-abbinamenti components 
-tracolle O moon - sacche interne 
-O moon shoulder straps - inner bags 
-OBAGB016 EVS00 055 
+moon body EVA compound
+colore colour roccia rock
+materiale material EVA compound
+abbinamenti components
+tracolle O moon - sacche interne
+O moon shoulder straps - inner bags
+OBAGB016 EVS00 055
 descrizione description scocca O moon EVA compound O 
-moon body EVA compound 
-colore colour nero black 
+moon body EVA compound
+colore colour nero black
 materiale material EVA compound 
-abbinamenti components 
-tracolle O moon - sacche interne 
-O moon shoulder straps - inner bags 
-OBAGB016 EVS00 078 
+abbinamenti components
+tracolle O moon - sacche interne
+O moon shoulder straps - inner bags
+OBAGB016 EVS00 078
 descrizione description scocca O moon EVA compound O 
-moon body EVA compound 
-colore colour sabbia sand 
-materiale material EVA compound 
-abbinamenti components 
+moon body EVA compound
+colore colour sabbia sand
+materiale material EVA compound
+abbinamenti components
 tracolle O moon 
-O moon shoulder straps 
-OBAGB016 EVS00 017 
+O moon shoulder straps
+OBAGB016 EVS00 017
 descrizione description scocca O moon EVA compound 
-O moon body EVA compound 
-colore colour blu navy navy blue 
+O moon body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-manici e tracolle - sacche interne 
-handles and shoulder straps - inner bags 
-OBAGB016 EVS00 158 
+abbinamenti components
+manici e tracolle - sacche interne
+handles and shoulder straps - inner bags
+OBAGB016 EVS00 158
 descrizione description scocca O moon EVA compound 
-O moon body EVA compound 
-colore colour vulcano volcano 
+O moon body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-tracolle O moon - sacche interne 
-O moon shoulder straps - inner bags 
-O moon scocche body 
-14. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGB017 EVS00 055 
+abbinamenti components
+tracolle O moon - sacche interne
+O moon shoulder straps - inner bags
+O moon scocche body
+14.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGB017 EVS00 055
 descrizione description scocca O moon light EVA 
-compound O moon light body EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
+compound O moon light body EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
 manici e tracolle O moon baby 
-O moon baby handles and shoulder straps 
-OBAGB017 EVS00 071 
+O moon baby handles and shoulder straps
+OBAGB017 EVS00 071
 descrizione description scocca O moon light EVA 
-compound O moon light body EVA compound 
-colore colour roccia rock 
-materiale material EVA compound 
-abbinamenti components 
+compound O moon light body EVA compound
+colore colour roccia rock
+materiale material EVA compound
+abbinamenti components
 manici e tracolle O moon baby 
-O moon baby handles and shoulder straps 
-OBAGB017 EVS00 017 
+O moon baby handles and shoulder straps
+OBAGB017 EVS00 017
 descrizione description scocca O moon light EVA 
-compound O moon light body EVA compound 
-colore colour blu navy navy blue 
+compound O moon light body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 manici e tracolle O moon baby 
-O moon baby handles and shoulder straps 
-OBAGB017 EVS00 158 
+O moon baby handles and shoulder straps
+OBAGB017 EVS00 158
 descrizione description scocca O moon light EVA 
-compound O moon light body EVA compound 
-colore colour vulcano volcano 
+compound O moon light body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 manici e tracolle O moon baby 
-O moon baby handles and shoulder straps 
-O moon light scocche body 
-BORSE BAGS .15
-OBAGB019 EVS00 078 
+O moon baby handles and shoulder straps
+O moon light scocche body
+BORSE BAGS   .15
+OBAGB019 EVS00 078
 descrizione description scocca O square EVA compound 
-O square body EVA compound 
-colore colour sabbia sand 
-materiale material EVA compound 
-abbinamenti components 
-OBAGB019 EVS00 084 
+O square body EVA compound
+colore colour sabbia sand
+materiale material EVA compound
+abbinamenti components
+OBAGB019 EVS00 084
 descrizione description scocca O square EVA compound 
-O square body EVA compound 
-colore colour testa di moro dark brown 
-materiale material EVA compound 
-abbinamenti components 
+O square body EVA compound
+colore colour testa di moro dark brown
+materiale material EVA compound
+abbinamenti components
 manici e spallacci O bag square O bag square handles 
-and shoulder straps 
-OBAGB019 EVS00 055 
+and shoulder straps
+OBAGB019 EVS00 055
 descrizione description scocca O square EVA compound 
-O square body EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
+O square body EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
 manici e spallacci O bag square O bag square handles 
-and shoulder straps 
-OBAGB019 EVS00 017 
+and shoulder straps
+OBAGB019 EVS00 017
 descrizione description scocca O square EVA compound 
-O square body EVA compound 
-colore colour blu navy navy blue 
+O square body EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-manici e spallacci O bag square - sacche interne 
-O bag square handles and shoulder straps - inner bags 
-OBAGB019 EVS00 158 
+abbinamenti components
+manici e spallacci O bag square - sacche interne
+O bag square handles and shoulder straps - inner bags
+OBAGB019 EVS00 158
 descrizione description scocca O square EVA compound 
-O square body EVA compound 
-colore colour vulcano volcano 
+O square body EVA compound
+colore colour vulcano volcano
 materiale material EVA compound 
-abbinamenti components 
-manici e spallacci O bag square - sacche interne 
-O bag square handles and shoulder straps - inner bags 
-O square scocche body 
-16. WINTER 2017 COLLECTION .continuativo carry over 
-BORSE BAGS .17
-18. WINTER 2017 COLLECTION .continuativo carry over 
-.manici e tracolle 
-handles and shoulder straps 
+abbinamenti components
+manici e spallacci O bag square - sacche interne
+O bag square handles and shoulder straps - inner bags
+O square scocche body
+16.   WINTER 2017 COLLECTION .continuativo carry over  
+BORSE BAGS   .17
+18.   WINTER 2017 COLLECTION .continuativo carry over  
+.manici e tracolle
+handles and shoulder straps
 .19
-manici lunghi long handles 
-HLESG000 ECS01 008 
+manici lunghi long handles
+HLESG000 ECS01 008
 descrizione description manico lungo ecopelle martellato 
-textured leather long handle 
-colore colour bianco white 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESX200 ECS00 009 
+textured leather long handle
+colore colour bianco white
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESX200 ECS00 009
 descrizione description manico extra slim goccia lungo 
-ecopelle faux leather extra slim long tear drop handle 
-colore colour blu blue 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESX200 ECS00 028 
+ecopelle faux leather extra slim long tear drop handle
+colore colour blu blue
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESX200 ECS00 028
 descrizione description manico extra slim goccia lungo 
-ecopelle faux leather extra slim long tear drop handle 
-colore colour ecru ecru 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESX200 ECS00 039 
+ecopelle faux leather extra slim long tear drop handle
+colore colour ecru ecru
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESX200 ECS00 039
 descrizione description manico extra slim goccia lungo 
-ecopelle faux leather extra slim long tear drop handle 
-colore colour grigio grey 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESX200 ECS00 055 
+ecopelle faux leather extra slim long tear drop handle
+colore colour grigio grey
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESX200 ECS00 055
 descrizione description manico extra slim goccia lungo 
-ecopelle faux leather extra slim long tear drop handle 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESX200 ECS00 084 
+ecopelle faux leather extra slim long tear drop handle
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESX200 ECS00 084
 descrizione description manico extra slim goccia lungo 
-ecopelle faux leather extra slim long tear drop handle 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-20. WINTER 2017 COLLECTION .continuativo carry over 
-HLESG000 ECS01 084 
+ecopelle faux leather extra slim long tear drop handle
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+20.   WINTER 2017 COLLECTION .continuativo carry over  
+HLESG000 ECS01 084
 descrizione description manico lungo ecopelle martellato 
-textured leather long handle 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 ECS01 086 
+textured leather long handle
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 ECS01 086
 descrizione description manico lungo ecopelle martellato 
-textured leather long handle 
-colore colour tortora dove-grey 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 ECS01 055 
+textured leather long handle
+colore colour tortora dove-grey
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 ECS01 055
 descrizione description manico lungo ecopelle martellato 
-textured leather long handle 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 PES00 054 
+textured leather long handle
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 PES00 054
 descrizione description manico lungo pelle leather long 
-handle 
-colore colour naturale natural 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 PES00 055 
+handle
+colore colour naturale natural
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 PES00 055
 descrizione description manico lungo pelle leather long 
-handle 
-colore colour nero black 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 PES00 084 
+handle
+colore colour nero black
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 PES00 084
 descrizione description manico lungo pelle leather long 
-handle 
-colore colour testa di moro dark brown 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O city 
-MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .21
-HLESG000 ROS00 008 
+handle
+colore colour testa di moro dark brown
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O city
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS   .21
+HLESG000 ROS00 008
 descrizione description manico lungo corda rope long 
-handle 
-colore colour bianco white 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 ROS00 009 
+handle
+colore colour bianco white
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 ROS00 009
 descrizione description manico lungo corda rope long 
-handle 
-colore colour blu blue 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 ROS00 054 
+handle
+colore colour blu blue
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 ROS00 054
 descrizione description manico lungo corda rope long 
-handle 
-colore colour naturale natural 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city 
-HLESG000 ROS00 055 
+handle
+colore colour naturale natural
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city
+HLESG000 ROS00 055
 descrizione description manico lungo corda rope long 
-handle 
-colore colour nero black 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city 
-manici lunghi long handles 
-22. WINTER 2017 COLLECTION .continuativo carry over 
-HLESGC00 ECS01 008 
+handle
+colore colour nero black
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city
+manici lunghi long handles
+22.   WINTER 2017 COLLECTION .continuativo carry over  
+HLESGC00 ECS01 008
 descrizione description manico corto ecopelle martellato 
-textured faux leather short handle 
-colore colour bianco white 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESX800 ECS00 009 
+textured faux leather short handle
+colore colour bianco white
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESX800 ECS00 009
 descrizione description manico extra slim goccia corto 
-ecopelle faux leather extra slim short tear drop handle 
-colore colour blu blue 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESX800 ECS00 028 
+ecopelle faux leather extra slim short tear drop handle
+colore colour blu blue
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESX800 ECS00 028
 descrizione description manico extra slim goccia corto 
-ecopelle faux leather extra slim short tear drop handle 
-colore colour ecru ecru 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESX800 ECS00 039 
+ecopelle faux leather extra slim short tear drop handle
+colore colour ecru ecru
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESX800 ECS00 039
 descrizione description manico extra slim goccia corto 
-ecopelle faux leather extra slim short tear drop handle 
-colore colour grigio grey 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESX800 ECS00 055 
+ecopelle faux leather extra slim short tear drop handle
+colore colour grigio grey
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESX800 ECS00 055
 descrizione description manico extra slim goccia corto 
-ecopelle faux leather extra slim short tear drop handle 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESX800 ECS00 084 
+ecopelle faux leather extra slim short tear drop handle
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESX800 ECS00 084
 descrizione description manico extra slim goccia corto 
-ecopelle faux leather extra slim short tear drop handle 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-manici corti short handles 
-MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .23
-HLESGC00 ECS01 084 
+ecopelle faux leather extra slim short tear drop handle
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+manici corti short handles
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS   .23
+HLESGC00 ECS01 084
 descrizione description manico corto ecopelle martellato 
-textured faux leather short handle 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 ECS01 086 
+textured faux leather short handle
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 ECS01 086
 descrizione description manico corto ecopelle martellato 
-textured faux leather short handle 
-colore colour tortora dove-grey 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 ECS01 055 
+textured faux leather short handle
+colore colour tortora dove-grey
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 ECS01 055
 descrizione description manico corto ecopelle martellato 
-textured faux leather short handle 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 PES00 054 
+textured faux leather short handle
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 PES00 054
 descrizione description manico corto pelle leather short 
-handle 
-colore colour naturale natural 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 PES00 055 
+handle
+colore colour naturale natural
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 PES00 055
 descrizione description manico corto pelle leather short 
-handle 
-colore colour nero black 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 PES00 084 
+handle
+colore colour nero black
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 PES00 084
 descrizione description manico corto pelle leather short 
-handle 
-colore colour testa di moro dark brown 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-manici corti short handles 
-24. WINTER 2017 COLLECTION .continuativo carry over 
-HLESGC00 ROS00 008 
+handle
+colore colour testa di moro dark brown
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+manici corti short handles
+24.   WINTER 2017 COLLECTION .continuativo carry over  
+HLESGC00 ROS00 008
 descrizione description manico corto corda rope short 
-handle 
-colore colour bianco white 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 ROS00 009 
+handle
+colore colour bianco white
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 ROS00 009
 descrizione description manico corto corda rope short 
-handle 
-colore colour blu blue 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 ROS00 054 
+handle
+colore colour blu blue
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 ROS00 054
 descrizione description manico corto corda rope short 
-handle 
-colore colour naturale natural 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESGC00 ROS00 055 
+handle
+colore colour naturale natural
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESGC00 ROS00 055
 descrizione description manico corto corda rope short 
-handle 
-colore colour nero black 
-materiale material corda rope 
-abbinamenti components 
-O bag - O bag mini - O city - O bag '50 
-HLESZ817 ECS00 009 
+handle
+colore colour nero black
+materiale material corda rope
+abbinamenti components
+O bag - O bag mini - O city - O bag '50
+HLESZ817 ECS00 009
 descrizione description manico + spallaccio goccia corto 
 O square ecopelle faux leather O square handle+short 
-tear drop shoulder strap 
-colore colour blu blue 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O square 
-HLESZ817 ECS00 055 
+tear drop shoulder strap
+colore colour blu blue
+materiale material ecopelle faux leather
+abbinamenti components
+O square
+HLESZ817 ECS00 055
 descrizione description manico + spallaccio goccia corto 
 O square ecopelle faux leather O square handle+short 
-tear drop shoulder strap 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O square 
-MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .25
-SHOUC106 ECS00 055 
+tear drop shoulder strap
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O square
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS   .25
+SHOUC106 ECS00 055
 descrizione description tracolla catena con fascia lunga O 
 pocket ecopelle faux leather O pocket long strip chain 
-shoulder strap 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUC106 ECS08 055 
+shoulder strap
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUC106 ECS08 055
 descrizione description tracolla catena con fascia lunga 
 O pocket ecopelle vernice patent faux leather O pocket 
-long strip chain shoulder strap 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUC006 MTS01 061 
+long strip chain shoulder strap
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUC006 MTS01 061
 descrizione description tracolla catena O pocket metallo 
 galvanizzato galvanized metal O pocket chain shoulder 
-strap 
-colore colour oro gold 
-materiale material metallo metal 
-abbinamenti components 
-O pocket 
-SHOUC006 MTS01 004 
+strap
+colore colour oro gold
+materiale material metallo metal
+abbinamenti components
+O pocket
+SHOUC006 MTS01 004
 descrizione description tracolla catena O pocket metallo 
 galvanizzato galvanized metal O pocket chain shoulder 
-strap 
-colore colour argento silver 
-materiale material metallo metal 
-abbinamenti components 
-O pocket 
-tracolle shoulder straps 
-SHOUC006 MTS01 348 
+strap
+colore colour argento silver
+materiale material metallo metal
+abbinamenti components
+O pocket
+tracolle shoulder straps
+SHOUC006 MTS01 348
 descrizione description tracolla catena O pocket metallo 
 galvanizzato galvanized metal O pocket chain shoulder 
-strap 
-colore colour ottone invecchiato aged brass 
-materiale material metallo metal 
-abbinamenti components 
-O pocket 
-SHOUC400 MES01 004 
+strap
+colore colour ottone invecchiato aged brass
+materiale material metallo metal
+abbinamenti components
+O pocket
+SHOUC400 MES01 004
 descrizione description tracolla catena goccia forata 
 metallo galvanizzato galvanized metal chain pierced tear 
-drop shoulder strap 
-colore colour argento silver 
-materiale material metallo metal 
-abbinamenti components 
-O bag - O bag mini - O chic 
-26. WINTER 2017 COLLECTION .continuativo carry over 
-SHOUG006 ECS00 008 
+drop shoulder strap
+colore colour argento silver
+materiale material metallo metal
+abbinamenti components
+O bag - O bag mini - O chic
+26.   WINTER 2017 COLLECTION .continuativo carry over  
+SHOUG006 ECS00 008
 descrizione description tracolla lunga O pocket ecopelle 
-faux leather O pocket long shoulder strap 
-colore colour bianco white 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUG006 ECS00 055 
+faux leather O pocket long shoulder strap
+colore colour bianco white
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUG006 ECS00 055
 descrizione description tracolla lunga O pocket ecopelle 
-faux leather O pocket long shoulder strap 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUG006 ECS00 084 
+faux leather O pocket long shoulder strap
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUG006 ECS00 084
 descrizione description tracolla lunga O pocket ecopelle 
-faux leather O pocket long shoulder strap 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUG006 TES01 008 
+faux leather O pocket long shoulder strap
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUG006 TES01 008
 descrizione description tracolla lunga O pocket tessuto 
-canvas canvas fabric O pocket long shoulder strap 
-colore colour bianco white 
-materiale material tessuto fabric 
-abbinamenti components 
-O pocket 
-SHOUG006 TES01 054 
+canvas canvas fabric O pocket long shoulder strap
+colore colour bianco white
+materiale material tessuto fabric
+abbinamenti components
+O pocket
+SHOUG006 TES01 054
 descrizione description tracolla lunga O pocket tessuto 
-canvas canvas fabric O pocket long shoulder strap 
-colore colour naturale natural 
-materiale material tessuto fabric 
-abbinamenti components 
-O pocket 
-SHOUG006 TES01 055 
+canvas canvas fabric O pocket long shoulder strap
+colore colour naturale natural
+materiale material tessuto fabric
+abbinamenti components
+O pocket
+SHOUG006 TES01 055
 descrizione description tracolla lunga O pocket tessuto 
-canvas canvas fabric O pocket long shoulder strap 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O pocket 
-MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .27
-SHOUA306 ECS42 055 
+canvas canvas fabric O pocket long shoulder strap
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O pocket
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS   .27
+SHOUA306 ECS42 055
 descrizione description accessorio clip ecopelle opaca + 
-argento 
-faux leather clip accessory + silver 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
+argento
+faux leather clip accessory + silver
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
 SHOUA306 ECS39 055 
 descrizione description accessorio clip ecopelle vernice + 
-oro 
-varnish faux leather clip accessory + gold 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
+oro
+varnish faux leather clip accessory + gold
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
 SHOUA306 ECS40 054 
 descrizione description accessorio clip ecopelle opaca + 
-oro 
-faux leather clip accessory + gold 
-colore colour naturale natural 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUA306 ECS41 084 
+oro
+faux leather clip accessory + gold
+colore colour naturale natural
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUA306 ECS41 084
 descrizione description accessorio clip ecopelle opaca + 
-ottone 
-faux leather clip accessory + aged brass 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O pocket 
-SHOUA203 ECS00 084 
+ottone
+faux leather clip accessory + aged brass
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O pocket
+SHOUA203 ECS00 084
+descrizione description tracolla accessori goccia lunga O 
+basket ecopelle faux leather tear drop O basket shoulder 
+strap accessory
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components O basket - O bag (x2) - O bag 
+mini (x2) - O chic (x2) -  O bag â€˜50 (x2) - O city (x2)
+SHOUA203 ECS00 055
 descrizione description tracolla accessori goccia lunga O 
 basket ecopelle faux leather tear drop O basket shoulder 
 strap accessory 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
+colore colour nero black
+materiale material ecopelle faux leather
 abbinamenti components O basket - O bag (x2) - O bag 
-mini (x2) - O chic (x2) - O bag ‘50 (x2) - O city (x2) 
-SHOUA203 ECS00 055 
-descrizione description tracolla accessori goccia lunga O 
-basket ecopelle faux leather tear drop O basket shoulder 
-strap accessory 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components O basket - O bag (x2) - O bag 
-mini (x2) - O chic (x2) - O bag ‘50 (x2) - O city (x2) 
-tracolle shoulder straps 
-28. WINTER 2017 COLLECTION .continuativo carry over 
-SHOUG000 ECS01 008 
+mini (x2) - O chic (x2) - O bag â€˜50 (x2) - O city (x2)
+tracolle shoulder straps
+28.   WINTER 2017 COLLECTION .continuativo carry over  
+SHOUG000 ECS01 008
 descrizione description tracolla lunga ecopelle martellato 
-textured faux leather long shoulder strap 
-colore colour bianco white 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-SHOUG000 ECS01 054 
+textured faux leather long shoulder strap
+colore colour bianco white
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O chic
+SHOUG000 ECS01 054
 descrizione description tracolla lunga ecopelle martellato 
-textured faux leather long shoulder strap 
-colore colour naturale natural 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-SHOUG000 ECS01 055 
+textured faux leather long shoulder strap
+colore colour naturale natural
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O chic
+SHOUG000 ECS01 055
 descrizione description tracolla lunga ecopelle martellato 
-textured faux leather long shoulder strap 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-SHOUG000 ECS01 084 
+textured faux leather long shoulder strap
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O chic
+SHOUG000 ECS01 084
 descrizione description tracolla lunga ecopelle martellato 
-textured faux leather long shoulder strap 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-SHOUG000 PES00 054 
+textured faux leather long shoulder strap
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
+O bag - O bag mini - O chic
+SHOUG000 PES00 054
 descrizione description tracolla lunga pelle leather long 
-shoulder strap 
-colore colour naturale natural 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-SHOUA203 ECS08 055 
+shoulder strap
+colore colour naturale natural
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O chic
+SHOUA203 ECS08 055
 descrizione description tracolla accessori goccia lunga 
 O basket ecopelle vernice patent faux leather tear 
-drop O basket shoulder strap accessory 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
+drop O basket shoulder strap accessory
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
 O basket - O bag (x2) - O bag mini (x2) - O chic (x2) - 
-O bag ‘50 (x2) - O city (x2) 
-MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .29
-tracolle shoulder straps 
-SHOUG000 PES00 055 
+O bag â€˜50 (x2) - O city (x2)
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS   .29
+tracolle shoulder straps
+SHOUG000 PES00 055
 descrizione description tracolla lunga pelle leather long 
-shoulder strap 
-colore colour nero black 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-SHOUG000 PES00 084 
+shoulder strap
+colore colour nero black
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O chic
+SHOUG000 PES00 084
 descrizione description tracolla lunga pelle leather long 
-shoulder strap 
-colore colour testa di moro dark brown 
-materiale material pelle leather 
-abbinamenti components 
-O bag - O bag mini - O chic 
-30. WINTER 2017 COLLECTION .continuativo carry over 
-SHOUG014 ECS00 084 
+shoulder strap
+colore colour testa di moro dark brown
+materiale material pelle leather
+abbinamenti components
+O bag - O bag mini - O chic
+30.   WINTER 2017 COLLECTION .continuativo carry over  
+SHOUG014 ECS00 084
 descrizione description tracolla O folder mini ecopelle 
-basic faux leather basic O folder mini shoulder strap 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O folder mini 
-SHOUG014 ECS00 055 
-descrizione description tracolla O folder mini ecopelle 
-basic faux leather basic O folder mini shoulder strap 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
+basic faux leather basic O folder mini shoulder strap
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
+abbinamenti components
 O folder mini
-MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS .31
-32. FALL 2017 COLLECTION 
-.bordi trims 
+SHOUG014 ECS00 055
+descrizione description tracolla O folder mini ecopelle 
+basic faux leather basic O folder mini shoulder strap
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O folder mini
+MANICI E TRACOLLE HANDLES AND SHOULDER STRAPS   .31
+32.   FALL 2017 COLLECTION   
+.bordi trims
 .33
-O bag bordi trims 
-OBAGT001 FAS02 008 
+O bag bordi trims
+OBAGT001 FAS02 008
 descrizione description bordo O bag ecopelliccia volpe fox 
-faux fur O bag trim 
-colore colour bianco white 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS09 008 
+faux fur O bag trim
+colore colour bianco white
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS09 008
 descrizione description bordo O bag ecopelliccia lapin rex 
-rex lapin faux fur O bag trim 
-colore colour bianco white 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS09 039 
+rex lapin faux fur O bag trim
+colore colour bianco white
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS09 039
 descrizione description bordo O bag ecopelliccia lapin rex 
-rex lapin faux fur O bag trim 
-colore colour grigio grey 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS09 055 
+rex lapin faux fur O bag trim
+colore colour grigio grey
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS09 055
 descrizione description bordo O bag ecopelliccia lapin rex 
-rex lapin faux fur O bag trim 
-colore colour nero black 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS09 078 
+rex lapin faux fur O bag trim
+colore colour nero black
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS09 078
 descrizione description bordo O bag ecopelliccia lapin rex 
-rex lapin faux fur O bag trim 
-colore colour sabbia sand 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS02 086 
+rex lapin faux fur O bag trim
+colore colour sabbia sand
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS02 086
 descrizione description bordo O bag ecopelliccia volpe fox 
-faux fur O bag trim 
-colore colour tortora dove-grey 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-34. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGT001 FAS02 004 
+faux fur O bag trim
+colore colour tortora dove-grey
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+34.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGT001 FAS02 004
 descrizione description bordo O bag ecopelliccia volpe fox 
-faux fur O bag trim 
-colore colour argento silver 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS02 055 
+faux fur O bag trim
+colore colour argento silver
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS02 055
 descrizione description bordo O bag ecopelliccia volpe fox 
-faux fur O bag trim 
-colore colour nero black 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS04 039 
+faux fur O bag trim
+colore colour nero black
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS04 039
 descrizione description bordo O bag ecopelliccia 
-murmasky murmasky faux fur O bag trim 
-colore colour grigio grey 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 FAS30 134 
+murmasky murmasky faux fur O bag trim
+colore colour grigio grey
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 FAS30 134
 descrizione description bordo O bag ecopelliccia volpe 
-brinata frosted fox faux fur O bag trim 
-colore colour antracite anthracite 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag 
-OBAGT001 LAS04 008 
+brinata frosted fox faux fur O bag trim
+colore colour antracite anthracite
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag
+OBAGT001 LAS04 008
 descrizione description bordo O bag lana coste larghe 
-large ribbed wool O bag trim 
-colore colour bianco white 
-materiale material lana wool 
-abbinamenti components 
-O bag 
-OBAGT001 LAS04 086 
+large ribbed wool O bag trim
+colore colour bianco white
+materiale material lana wool
+abbinamenti components
+O bag
+OBAGT001 LAS04 086
 descrizione description bordo O bag lana coste larghe 
-large ribbed wool O bag trim 
-colore colour tortora dove-grey 
-materiale material lana wool 
-abbinamenti components 
-O bag 
-BORDI TRIMS .35
-OBAGT001 LAS04 055 
+large ribbed wool O bag trim
+colore colour tortora dove-grey
+materiale material lana wool
+abbinamenti components
+O bag
+BORDI TRIMS   .35
+OBAGT001 LAS04 055
 descrizione description bordo O bag lana coste larghe 
-large ribbed wool O bag trim 
-colore colour nero black 
-materiale material lana wool 
-abbinamenti components 
-O bag 
-O bag bordi trims 
-36. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGT002 FAS02 008 
+large ribbed wool O bag trim
+colore colour nero black
+materiale material lana wool
+abbinamenti components
+O bag
+O bag bordi trims
+36.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGT002 FAS02 008
 descrizione description bordo O bag mini ecopelliccia 
-volpe fox faux fur O bag mini trim 
-colore colour bianco white 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-OBAGT002 FAS09 008 
-descrizione description bordo O bag mini ecopelliccia 
-lapin rex rex lapin faux fur O bag mini trim 
-colore colour bianco white 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-OBAGT002 FAS09 039 
-descrizione description bordo O bag mini ecopelliccia 
-lapin rex rex lapin faux fur O bag mini trim 
-colore colour grigio grey 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-OBAGT002 FAS09 078 
-descrizione description bordo O bag mini ecopelliccia 
-lapin rex rex lapin faux fur O bag mini trim 
-colore colour sabbia sand 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-O bag mini bordi trims 
-OBAGT002 FAS02 004 
-descrizione description bordo O bag mini ecopelliccia 
-volpe fox faux fur O bag mini trim 
-colore colour argento silver 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-OBAGT002 FAS02 055 
-descrizione description bordo O bag mini ecopelliccia 
-volpe fox faux fur O bag mini trim 
-colore colour nero black 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-BORDI TRIMS .37
-O bag mini bordi trims 
-38. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGT002 FAS04 039 
-descrizione description bordo O bag mini ecopelliccia 
-murmasky murmasky faux fur O bag mini trim 
-colore colour grigio grey 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O bag mini 
-OBAGT002 FAS30 134 
-descrizione description bordo O bag mini ecopelliccia 
-volpe brinata frosted fox faux fur O bag mini trim 
-colore colour antracite anthracite 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
+volpe fox faux fur O bag mini trim
+colore colour bianco white
+materiale material ecopelliccia faux fur
+abbinamenti components
 O bag mini
-BORDI TRIMS .39
-40. FALL 2017 COLLECTION .continuativo carry over 
-.sacche interne inner bags 
-.41
-O bag sacche interne inserts 
-OBAGS001 TES01 008 
+OBAGT002 FAS09 008
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim
+colore colour bianco white
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+OBAGT002 FAS09 039
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim
+colore colour grigio grey
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+OBAGT002 FAS09 078
+descrizione description bordo O bag mini ecopelliccia 
+lapin rex rex lapin faux fur O bag mini trim
+colore colour sabbia sand
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+O bag mini bordi trims
+OBAGT002 FAS02 004
+descrizione description bordo O bag mini ecopelliccia 
+volpe fox faux fur O bag mini trim
+colore colour argento silver
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+OBAGT002 FAS02 055
+descrizione description bordo O bag mini ecopelliccia 
+volpe fox faux fur O bag mini trim
+colore colour nero black
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+BORDI TRIMS   .37
+O bag mini bordi trims
+38.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGT002 FAS04 039
+descrizione description bordo O bag mini ecopelliccia 
+murmasky murmasky faux fur O bag mini trim
+colore colour grigio grey
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+OBAGT002 FAS30 134
+descrizione description bordo O bag mini ecopelliccia 
+volpe brinata frosted fox faux fur O bag mini trim
+colore colour antracite anthracite
+materiale material ecopelliccia faux fur
+abbinamenti components
+O bag mini
+BORDI TRIMS   .39
+40.   FALL 2017 COLLECTION .continuativo carry over  
+.sacche interne inner bags
+  .41
+O bag sacche interne inserts
+OBAGS001 TES01 008
 descrizione description sacca interna zip O bag tessuto 
-canvas canvas fabric O bag inner zip up bag 
-colore colour bianco white 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag 
-OBAGS001 TES01 009 
+canvas canvas fabric O bag inner zip up bag
+colore colour bianco white
+materiale material tessuto fabric
+abbinamenti components
+O bag
+OBAGS001 TES01 009
 descrizione description sacca interna zip O bag tessuto 
-canvas canvas fabric O bag inner zip up bag 
-colore colour blu blue 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag 
-OBAGS001 TES01 054 
+canvas canvas fabric O bag inner zip up bag
+colore colour blu blue
+materiale material tessuto fabric
+abbinamenti components
+O bag
+OBAGS001 TES01 054
 descrizione description sacca interna zip O bag tessuto 
-canvas canvas fabric O bag inner zip up bag 
-colore colour naturale natural 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag 
-OBAGS001 TES01 055 
+canvas canvas fabric O bag inner zip up bag
+colore colour naturale natural
+materiale material tessuto fabric
+abbinamenti components
+O bag
+OBAGS001 TES01 055
 descrizione description sacca interna zip O bag tessuto 
-canvas canvas fabric O bag inner zip up bag 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag 
-42. WINTER 2017 COLLECTION .continuativo carry over 
-O bag mini sacche interne inserts 
-OBAGS002 TES01 008 
+canvas canvas fabric O bag inner zip up bag
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O bag
+42.   WINTER 2017 COLLECTION .continuativo carry over  
+O bag mini sacche interne inserts
+OBAGS002 TES01 008
 descrizione description sacca interna zip O bag mini 
 tessuto canvas canvas fabric O bag mini inner zip up 
-bag 
-colore colour bianco white 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag mini 
-OBAGS002 TES01 009 
+bag
+colore colour bianco white
+materiale material tessuto fabric
+abbinamenti components
+O bag mini
+OBAGS002 TES01 009
 descrizione description sacca interna zip O bag mini 
 tessuto canvas canvas fabric O bag mini inner zip up 
-bag 
-colore colour blu blue 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag mini 
-OBAGS002 TES01 054 
+bag
+colore colour blu blue
+materiale material tessuto fabric
+abbinamenti components
+O bag mini
+OBAGS002 TES01 054
 descrizione description sacca interna zip O bag mini 
 tessuto canvas canvas fabric O bag mini inner zip up 
-bag 
-colore colour naturale natural 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag mini 
-OBAGS002 TES01 055 
+bag
+colore colour naturale natural
+materiale material tessuto fabric
+abbinamenti components
+O bag mini
+OBAGS002 TES01 055
 descrizione description sacca interna zip O bag mini 
 tessuto canvas canvas fabric O bag mini inner zip up 
-bag 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag mini 
-SACCHE INTERNE INNER BAGS .43
-OBAGS009 TES01 008 
+bag
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O bag mini
+SACCHE INTERNE INNER BAGS   .43
+OBAGS009 TES01 008
 descrizione description sacca interna zip O bag '50 
-tessuto canvas canvas fabric O bag '50 zip up bag 
-colore colour bianco white 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag '50 
-OBAGS009 TES01 039 
+tessuto canvas canvas fabric O bag '50 zip up bag
+colore colour bianco white
+materiale material tessuto fabric
+abbinamenti components
+O bag '50
+OBAGS009 TES01 039
 descrizione description sacca interna zip O bag '50 
-tessuto canvas canvas fabric O bag '50 zip up bag 
-colore colour grigio grey 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag '50 
-OBAGS009 TES01 055 
+tessuto canvas canvas fabric O bag '50 zip up bag
+colore colour grigio grey
+materiale material tessuto fabric
+abbinamenti components
+O bag '50
+OBAGS009 TES01 055
 descrizione description sacca interna zip O bag '50 
-tessuto canvas canvas fabric O bag '50 zip up bag 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag '50 
-OBAGS009 TES01 084 
+tessuto canvas canvas fabric O bag '50 zip up bag
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O bag '50
+OBAGS009 TES01 084
 descrizione description sacca interna zip O bag '50 
-tessuto canvas canvas fabric O bag '50 zip up bag 
-colore colour testa di moro dark brown 
-materiale material tessuto fabric 
-abbinamenti components 
-O bag '50 
-O bag '50 sacche interne inserts 
-44. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGS010 TES28 054 
+tessuto canvas canvas fabric O bag '50 zip up bag
+colore colour testa di moro dark brown
+materiale material tessuto fabric
+abbinamenti components
+O bag '50
+O bag '50 sacche interne inserts
+44.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGS010 TES28 054
 descrizione description sacca interna zip O city tessuto 
-nylon nylon fabric O city inner zip up bag 
-colore colour naturale natural 
-materiale material tessuto fabric 
-abbinamenti components 
-O city 
-OBAGS010 TES28 134 
+nylon nylon fabric O city inner zip up bag
+colore colour naturale natural
+materiale material tessuto fabric
+abbinamenti components
+O city
+OBAGS010 TES28 134
 descrizione description sacca interna zip O city tessuto 
-nylon nylon fabric O city inner zip up bag 
-colore colour antracite anthracite 
-materiale material tessuto fabric 
-abbinamenti components 
-O city 
-O city sacche interne inserts 
-SACCHE INTERNE INNER BAGS .45
-OBAGS314 TES26 017 
+nylon nylon fabric O city inner zip up bag
+colore colour antracite anthracite
+materiale material tessuto fabric
+abbinamenti components
+O city
+O city sacche interne inserts
+SACCHE INTERNE INNER BAGS   .45
+OBAGS314 TES26 017
 descrizione description sacca interna senza zip O folder 
 mini tessuto cordura cordura fabric O folder mini inner 
-bag without zip 
-colore colour blu navy navy blue 
-materiale material tessuto fabric 
-abbinamenti components 
-O folder mini 
-OBAGS314 TES26 055 
+bag without zip
+colore colour blu navy navy blue
+materiale material tessuto fabric
+abbinamenti components
+O folder mini
+OBAGS314 TES26 055
 descrizione description sacca interna senza zip O folder 
 mini tessuto cordura cordura fabric O folder mini inner 
-bag without zip 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O folder mini 
-OBAGS314 TES26 086 
+bag without zip
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O folder mini
+OBAGS314 TES26 086
 descrizione description sacca interna senza zip O folder 
 mini tessuto cordura cordura fabric O folder mini inner 
-bag without zip 
-colore colour tortora dove-grey 
-materiale material tessuto fabric 
-abbinamenti components 
-O folder mini 
-OBAGS314 TES26 134 
+bag without zip
+colore colour tortora dove-grey
+materiale material tessuto fabric
+abbinamenti components
+O folder mini
+OBAGS314 TES26 134
 descrizione description sacca interna senza zip O folder 
 mini tessuto cordura cordura fabric O folder mini inner 
-bag without zip 
-colore colour antracite anthracite 
-materiale material tessuto fabric 
-abbinamenti components 
-O folder mini 
-O folder mini sacche interne inserts 
-46. WINTER 2017 COLLECTION .continuativo carry over 
-OBAGS019 TES26 055 
+bag without zip
+colore colour antracite anthracite
+materiale material tessuto fabric
+abbinamenti components
+O folder mini
+O folder mini sacche interne inserts
+46.   WINTER 2017 COLLECTION .continuativo carry over  
+OBAGS019 TES26 055
 descrizione description sacca interna zip O square tessuto 
-cordura cordura fabric O square inner zip up bag 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O square 
-O square sacche interne inserts 
-SACCHE INTERNE INNER BAGS .47
-48. FALL 2017 COLLECTION 
-.patte flaps 
-.49 O pocket patte flaps 
-OBAGP006 FAS01 006 
+cordura cordura fabric O square inner zip up bag
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O square
+O square sacche interne inserts
+SACCHE INTERNE INNER BAGS   .47
+48.   FALL 2017 COLLECTION   
+.patte flaps
+.49  
+O pocket patte flaps
+OBAGP006 FAS01 006
 descrizione description pattina O pocket ecopelliccia lapin 
-lapin faux fur O pocket flap 
-colore colour avorio ivory 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O pocket 
-OBAGP006 FAS09 055 
+lapin faux fur O pocket flap
+colore colour avorio ivory
+materiale material ecopelliccia faux fur
+abbinamenti components
+O pocket
+OBAGP006 FAS09 055
 descrizione description pattina O pocket ecopelliccia lapin 
-rex rex lapin faux fur O pocket flap 
-colore colour nero black 
-materiale material ecopelliccia faux fur 
-abbinamenti components 
-O pocket 
-50. WINTER 2017 COLLECTION .continuativo carry over 
-O folder mini patte flaps 
-PATTE FLAPS .51 
-OBAGP014 ECS35 084 
+rex rex lapin faux fur O pocket flap
+colore colour nero black
+materiale material ecopelliccia faux fur
+abbinamenti components
+O pocket
+50.   WINTER 2017 COLLECTION .continuativo carry over  
+O folder mini patte flaps
+PATTE FLAPS   .51
+OBAGP014 ECS35 084
 descrizione description pattina O folder mini ecopelle 
-basic faux leather O folder mini flap 
-colore colour testa di moro dark brown 
-materiale material ecopelle faux leather 
+basic faux leather O folder mini flap
+colore colour testa di moro dark brown
+materiale material ecopelle faux leather
 abbinamenti components O folder mini 
-OBAGP014 ECS35 055 
+OBAGP014 ECS35 055
 descrizione description pattina O folder mini ecopelle 
-basic faux leather O folder mini flap 
-colore colour nero black 
-materiale material ecopelle faux leather 
+basic faux leather O folder mini flap
+colore colour nero black
+materiale material ecopelle faux leather
 abbinamenti components O folder mini 
-52. WINTER 2017 COLLECTION .continuativo carry over 
-.orologi clocks 
+52.   WINTER 2017 COLLECTION .continuativo carry over  
+.orologi clocks
 .53
-OCLKD001 MES02 061 
-descrizione description O clock meccanismo pavé pavé O 
-clock dial 
-colore colour oro gold 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES02 004 
-descrizione description O clock meccanismo pavé pavé O 
-clock dial 
-colore colour argento silver 
-abbinamenti components 
-cinturino O clock O clock strap 
-O clock quadranti dials 
-OCLKD001 MES06 008 
+OCLKD001 MES02 061
+descrizione description O clock meccanismo pavÃ© pavÃ© O 
+clock dial
+colore colour oro gold
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES02 004
+descrizione description O clock meccanismo pavÃ© pavÃ© O 
+clock dial
+colore colour argento silver
+abbinamenti components
+cinturino O clock O clock strap
+O clock quadranti dials
+OCLKD001 MES06 008
 descrizione description O clock meccanismo tone on tone 
-tone on tone O clock dial 
-colore colour bianco white 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES06 059 
+tone on tone O clock dial
+colore colour bianco white
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES06 059
 descrizione description O clock meccanismo tone on tone 
-tone on tone O clock dial 
-colore colour oceano ocean 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES06 086 
+tone on tone O clock dial
+colore colour oceano ocean
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES06 086
 descrizione description O clock meccanismo tone on tone 
-tone on tone O clock dial 
-colore colour tortora dove-grey 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES06 071 
+tone on tone O clock dial
+colore colour tortora dove-grey
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES06 071
 descrizione description O clock meccanismo tone on tone 
-tone on tone O clock dial 
-colore colour roccia rock 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES06 041 
+tone on tone O clock dial
+colore colour roccia rock
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES06 041
 descrizione description O clock meccanismo tone on tone 
-tone on tone O clock dial 
-colore colour grigio scuro dark grey 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES06 055 
+tone on tone O clock dial
+colore colour grigio scuro dark grey
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES06 055
 descrizione description O clock meccanismo tone on tone 
-tone on tone O clock dial 
-colore colour nero black 
-abbinamenti components 
-cinturino O clock O clock strap 
-54. WINTER 2017 COLLECTION .continuativo carry over 
-OCLKD001 MES03 004 
+tone on tone O clock dial
+colore colour nero black
+abbinamenti components
+cinturino O clock O clock strap
+54.   WINTER 2017 COLLECTION .continuativo carry over  
+OCLKD001 MES03 004
 descrizione description O clock meccanismo mirror mirror 
-O clock dial 
-colore colour argento silver 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES03 044 
+O clock dial
+colore colour argento silver
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES03 044
 descrizione description O clock meccanismo mirror mirror 
-O clock dial 
-colore colour lime lime 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES03 183 
+O clock dial
+colore colour lime lime
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES03 183
 descrizione description O clock meccanismo mirror mirror 
-O clock dial 
-colore colour viola violet 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES03 063 
+O clock dial
+colore colour viola violet
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES03 063
 descrizione description O clock meccanismo mirror mirror 
-O clock dial 
-colore colour ottanio teal 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES09 186 
+O clock dial
+colore colour ottanio teal
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES09 186
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour bianco mix white mix 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES09 077 
+O clock dial
+colore colour bianco mix white mix
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES09 077
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour rubino ruby 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES09 014 
+O clock dial
+colore colour rubino ruby
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES09 014
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour blu elettrico electric blue 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES09 059 
+O clock dial
+colore colour blu elettrico electric blue
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES09 059
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour oceano ocean 
-abbinamenti components 
-cinturino O clock O clock strap 
-OROLOGI CLOCKS .55
-OCLKD001 MES09 086 
+O clock dial
+colore colour oceano ocean
+abbinamenti components
+cinturino O clock O clock strap
+OROLOGI CLOCKS   .55
+OCLKD001 MES09 086
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour tortora dove-grey 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES09 039 
+O clock dial
+colore colour tortora dove-grey
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES09 039
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour grigio grey 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES09 055 
+O clock dial
+colore colour grigio grey
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES09 055
 descrizione description O clock meccanismo cristal crystal 
-O clock dial 
-colore colour nero black 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES10 061 
+O clock dial
+colore colour nero black
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES10 061
 descrizione description O clock meccanismo glitter glitter 
-O clock dial 
-colore colour oro gold 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES10 004 
+O clock dial
+colore colour oro gold
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES10 004
 descrizione description O clock meccanismo glitter glitter 
-O clock dial 
-colore colour argento silver 
-abbinamenti components 
-cinturino O clock O clock strap 
-O clock quadranti dials 
-OCLKD001 MES07 004 
+O clock dial
+colore colour argento silver
+abbinamenti components
+cinturino O clock O clock strap
+O clock quadranti dials
+OCLKD001 MES07 004
 descrizione description O clock meccanismo numeri 
-numbers O clock dial 
-colore colour argento silver 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES07 008 
+numbers O clock dial
+colore colour argento silver
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES07 008
 descrizione description O clock meccanismo numeri 
-numbers O clock dial 
-colore colour bianco white 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES07 013 
+numbers O clock dial
+colore colour bianco white
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES07 013
 descrizione description O clock meccanismo numeri 
-numbers O clock dial 
-colore colour blu capri capri blue 
-abbinamenti components 
-cinturino O clock O clock strap 
-56. WINTER 2017 COLLECTION .continuativo carry over 
-OCLKD001 MES07 041 
+numbers O clock dial
+colore colour blu capri capri blue
+abbinamenti components
+cinturino O clock O clock strap
+56.   WINTER 2017 COLLECTION .continuativo carry over  
+OCLKD001 MES07 041
 descrizione description O clock meccanismo numeri 
-numbers O clock dial 
-colore colour grigio scuro dark grey 
-abbinamenti components 
-cinturino O clock O clock strap 
-OCLKD001 MES07 055 
+numbers O clock dial
+colore colour grigio scuro dark grey
+abbinamenti components
+cinturino O clock O clock strap
+OCLKD001 MES07 055
 descrizione description O clock meccanismo numeri 
-numbers O clock dial 
-colore colour nero black 
-abbinamenti components 
-cinturino O clock O clock strap 
-OROLOGI CLOCKS .57 
-OCLKD001 MES04 004 .riproposto proposed again 
+numbers O clock dial
+colore colour nero black
+abbinamenti components
+cinturino O clock O clock strap
+OROLOGI CLOCKS   .57
+OCLKD001 MES04 004  .riproposto proposed again
 descrizione description O clock meccanismo soleil soleil 
-O clock dial 
-colore colour argento silver 
-abbinamenti components cinturino O clock O clock strap 
-crossing 
-OCLKD001 MES04 020 .riproposto proposed again 
-descrizione description O clock meccanismo soleil soleil 
-O clock dial 
-colore colour bronzo bronze 
-abbinamenti components cinturino O clock O clock strap 
-crossing 
-OCLKD001 MES04 061 .riproposto proposed again 
-descrizione description O clock meccanismo soleil soleil 
-O clock dial 
-colore colour oro gold 
-abbinamenti components cinturino O clock O clock strap 
+O clock dial
+colore colour argento silver
+abbinamenti components cinturino O clock O clock strap
 crossing
-O clock cinturini straps 
-OCLKS007 SIS01 008 
+OCLKD001 MES04 020  .riproposto proposed again
+descrizione description O clock meccanismo soleil soleil 
+O clock dial
+colore colour bronzo bronze
+abbinamenti components cinturino O clock O clock strap
+crossing
+OCLKD001 MES04 061  .riproposto proposed again
+descrizione description O clock meccanismo soleil soleil 
+O clock dial
+colore colour oro gold
+abbinamenti components cinturino O clock O clock strap
+crossing
+O clock cinturini straps
+OCLKS007 SIS01 008
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
-colore colour bianco white 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-GENER L 
-GENER S 
-GENER M 
-GENER XS 
-OCLKS007 SIS01 059 
+cinturino silicone
+silicone O clock strap
+colore colour bianco white
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+GENER L
+GENER S
+GENER M
+GENER XS
+OCLKS007 SIS01 059
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
-colore colour oceano ocean 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-GENER L 
-GENER S 
-GENER M 
-OCLKS007 SIS01 086 
+cinturino silicone
+silicone O clock strap
+colore colour oceano ocean
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+GENER L
+GENER S
+GENER M
+OCLKS007 SIS01 086
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
-colore colour tortora dove grey 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-OCLKS007 SIS01 071 
+cinturino silicone
+silicone O clock strap
+colore colour tortora dove grey
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+OCLKS007 SIS01 071
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
-colore colour roccia rock 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-GENER L 
-GENER L 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-OCLKS007 SIS01 041 
+cinturino silicone
+silicone O clock strap
+colore colour roccia rock
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+GENER L
+GENER L
+GENER S
+GENER S
+GENER M
+GENER M
+OCLKS007 SIS01 041
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
+cinturino silicone
+silicone O clock strap
 colore colour grigio scuro dark 
-grey 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-OCLKS007 SIS01 133 
+grey
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+OCLKS007 SIS01 133
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
+cinturino silicone
+silicone O clock strap
 colore colour grigio chiaro light 
-grey 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-GENER L 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-58. WINTER 2017 COLLECTION .continuativo carry over 
-OCLKS007 SIS01 055 
+grey
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+GENER L
+GENER S
+GENER S
+GENER M
+GENER M
+58.   WINTER 2017 COLLECTION .continuativo carry over  
+OCLKS007 SIS01 055
 descrizione description O clock 
-cinturino silicone 
-silicone O clock strap 
-colore colour nero black 
-materiale material silicone 
-abbinamenti components 
-meccanismo O clock O clock dial 
-GENER L 
-GENER S 
-GENER M 
-GENER XS 
-OROLOGI CLOCKS .59
-OCLKD101 MES04 009 
+cinturino silicone
+silicone O clock strap
+colore colour nero black
+materiale material silicone
+abbinamenti components
+meccanismo O clock O clock dial
+GENER L
+GENER S
+GENER M
+GENER XS
+OROLOGI CLOCKS   .59
+OCLKD101 MES04 009
+ 
 descrizione description meccanismo great soleil 
-great soleil dial 
-colore colour blu silver 
-abbinamenti components great straps 
-OCLKD101 MES04 004 
+great soleil dial
+colore colour blu silver
+abbinamenti components great straps
+OCLKD101 MES04 004
+ 
 descrizione description meccanismo great soleil 
-great soleil dial 
-colore colour argento silver 
-abbinamenti components great straps 
-OCLKD101 MES04 020 
+great soleil dial  
+colore colour argento silver
+abbinamenti components great straps
+OCLKD101 MES04 020
+ 
 descrizione description meccanismo great soleil 
-great soleil dial 
-colore colour bronzo bronze 
-abbinamenti components great straps 
-O clock great quadranti dials 
-OCLKD101 MES06 008 
+great soleil dial
+colore colour bronzo bronze
+abbinamenti components great straps
+O clock great quadranti dials
+OCLKD101 MES06 008
+ 
 descrizione description meccanismo great tone on tone 
-tone on tone dial 
-colore colour bianco white 
-abbinamenti components great straps 
-OCLKD101 MES06 039 
+tone on tone dial
+colore colour bianco white
+abbinamenti components great straps
+OCLKD101 MES06 039
+ 
 descrizione description meccanismo great tone on tone 
-tone on tone dial 
-colore colour grigio grey 
-abbinamenti components great straps 
-OCLKD101 MES06 055 
+tone on tone dial
+colore colour grigio grey
+abbinamenti components great straps
+OCLKD101 MES06 055
+ 
 descrizione description meccanismo great tone on tone 
-tone on tone dial 
-colore colour nero black 
-abbinamenti components great straps 
-OCLKD101 MES04 055 
+tone on tone dial
+colore colour nero black
+abbinamenti components great straps
+OCLKD101 MES04 055
+ 
 descrizione description meccanismo great soleil 
-great soleil dial 
-colore colour black gold 
-abbinamenti components great straps 
-OCLKD104 MES04 009 
+great soleil dial
+colore colour black gold
+abbinamenti components great straps
+OCLKD104 MES04 009
+ 
 descrizione description meccanismo great soleil con datario 
-great soleil dial with calendar 
-colore colour blu silver 
-abbinamenti components great straps 
-60. WINTER 2017 COLLECTION .continuativo carry over 
-OCLKD104 MES04 055 
+great soleil dial with calendar
+colore colour blu silver
+abbinamenti components great straps
+60.   WINTER 2017 COLLECTION .continuativo carry over  
+OCLKD104 MES04 055
+ 
 descrizione description meccanismo great soleil con datario 
-great soleil dial with calendar 
-colore colour black gold 
-abbinamenti components great straps 
-OCLKD104 MES06 008 
+great soleil dial with calendar
+colore colour black gold
+abbinamenti components great straps
+OCLKD104 MES06 008
+ 
 descrizione description meccanismo great tone on tone 
 con datario 
-tone on tone dial with calendar 
-colore colour bianco white 
-abbinamenti components great straps 
-OCLKD104 MES06 039 
+tone on tone dial with calendar
+colore colour bianco white
+abbinamenti components great straps
+OCLKD104 MES06 039
+ 
 descrizione description meccanismo great tone on tone 
 con datario 
-tone on tone dial with calendar 
-colore colour grigio grey 
-abbinamenti components great straps 
-OCLKD104 MES06 055 
+tone on tone dial with calendar
+colore colour grigio grey
+abbinamenti components great straps
+OCLKD104 MES06 055
+ 
 descrizione description meccanismo great tone on tone 
 con datario 
-tone on tone dial with calendar 
-colore colour nero black 
-abbinamenti components great straps 
-OROLOGI CLOCKS .61
-O clock great cinturini straps 
-OCLKS107 SIS01 008 
+tone on tone dial with calendar
+colore colour nero black
+abbinamenti components great straps
+OROLOGI CLOCKS   .61
+O clock great cinturini straps
+OCLKS107 SIS01 008
 descrizione description O clock 
-cinturino great silicone 
-silicone O clock great strap 
-colore colour bianco white 
-materiale material silicone 
-abbinamenti components 
+cinturino great silicone
+silicone O clock great strap
+colore colour bianco white
+materiale material silicone
+abbinamenti components
 meccanismo O clock great 
-O clock great dial 
-GENER L 
-GENER S 
-GENER M 
-OCLKS107 SIS01 059 
+O clock great dial
+GENER L
+GENER S
+GENER M
+OCLKS107 SIS01 059
 descrizione description O clock 
-cinturino great silicone 
-silicone O clock great strap 
-colore colour oceano ocean 
-materiale material silicone 
-abbinamenti components 
+cinturino great silicone
+silicone O clock great strap
+colore colour oceano ocean
+materiale material silicone
+abbinamenti components
 meccanismo O clock great 
-O clock great dial 
-GENER L 
-GENER S 
-GENER M 
-OCLKS107 SIS01 071 
+O clock great dial
+GENER L
+GENER S
+GENER M
+OCLKS107 SIS01 071
 descrizione description O clock 
-cinturino great silicone 
-silicone O clock great strap 
-colore colour roccia rock 
-materiale material silicone 
-abbinamenti components 
+cinturino great silicone
+silicone O clock great strap
+colore colour roccia rock
+materiale material silicone
+abbinamenti components
 meccanismo O clock great 
-O clock great dial 
-OCLKS107 SIS01 055 
+O clock great dial
+OCLKS107 SIS01 055
 descrizione description O clock 
-cinturino great silicone 
-silicone O clock great strap 
-colore colour nero black 
-materiale material silicone 
-abbinamenti components 
+cinturino great silicone
+silicone O clock great strap
+colore colour nero black
+materiale material silicone
+abbinamenti components
 meccanismo O clock great 
-O clock great dial 
-OCLKS107 SIS01 041 
+O clock great dial
+OCLKS107 SIS01 041
 descrizione description O clock 
-cinturino great silicone 
-silicone O clock great strap 
-colore colour grigio scuro dark grey 
-materiale material silicone 
-abbinamenti components 
+cinturino great silicone
+silicone O clock great strap
+colore colour grigio scuro dark grey
+materiale material silicone
+abbinamenti components
 meccanismo O clock great 
-O clock great dial 
-GENER L 
-GENER L 
-GENER L 
-GENER S 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-GENER M 
-62. WINTER 2017 COLLECTION .continuativo carry over 
-OROLOGI CLOCKS .63
-64. WINTER 2017 COLLECTION .continuativo carry over 
-.occhiali sun glasses 
+O clock great dial
+GENER L
+GENER L
+GENER L
+GENER S
+GENER S
+GENER S
+GENER M
+GENER M
+GENER M
+62.   WINTER 2017 COLLECTION .continuativo carry over  
+OROLOGI CLOCKS   .63
+64.   WINTER 2017 COLLECTION .continuativo carry over  
+.occhiali sun glasses
 .65
-OSUNC003 INS00 181 
+OSUNC003 INS00 181
 descrizione description O sun front generico generic O sun 
-front 
-colore colour titanium titanium 
-abbinamenti components 
-O sun astine e lenti 
-O sun sticks and lenses 
-OSUNC003 INS00 060 
+front
+colore colour titanium titanium
+abbinamenti components
+O sun astine e lenti
+O sun sticks and lenses
+OSUNC003 INS00 060
 descrizione description O sun front generico generic O sun 
-front 
-colore colour oliva olive 
-abbinamenti components 
-O sun astine e lenti 
-O sun sticks and lenses 
-OSUNC003 INS00 055 
+front
+colore colour oliva olive
+abbinamenti components
+O sun astine e lenti
+O sun sticks and lenses
+OSUNC003 INS00 055
 descrizione description O sun front generico generic O sun 
-front 
-colore colour nero black 
-abbinamenti components 
-O sun astine e lenti 
-O sun sticks and lenses 
-OSUNC003 INS00 184 
+front
+colore colour nero black
+abbinamenti components
+O sun astine e lenti
+O sun sticks and lenses
+OSUNC003 INS00 184
 descrizione description O sun front generico generic O sun 
-front 
-colore colour trasparente transparent 
-abbinamenti components 
-O sun astine e lenti 
-O sun sticks and lenses 
-O sun montatura frame 
-OSUNC003 INS04 009 
-descrizione description O sun front turtle turtle O sun front 
-colore colour blu blue 
-bbinamenti components 
-O sun astine e lenti 
-O sun sticks and lenses 
-OSUNC003 INS04 084 
-descrizione description O sun front turtle turtle O sun front 
-colore colour testa di moro dark brown 
-abbinamenti components 
-O sun astine e lenti 
-O sun sticks and lenses 
-66. WINTER 2017 COLLECTION .continuativo carry over 
-OSUNC001 INS00 181 
+front
+colore colour trasparente transparent
+abbinamenti components
+O sun astine e lenti
+O sun sticks and lenses
+O sun montatura frame
+OSUNC003 INS04 009
+descrizione description O sun front turtle turtle O sun front
+colore colour blu blue
+bbinamenti components
+O sun astine e lenti
+O sun sticks and lenses
+OSUNC003 INS04 084
+descrizione description O sun front turtle turtle O sun front
+colore colour testa di moro dark brown
+abbinamenti components
+O sun astine e lenti
+O sun sticks and lenses
+66.   WINTER 2017 COLLECTION .continuativo carry over  
+OSUNC001 INS00 181
 descrizione description O sun lenti generico generic O sun 
-lenses 
-colore colour titanium titanium 
-abbinamenti components 
-O sun montature e astine 
-O sun frames and sticks 
-OSUNC001 INS00 060 
+lenses
+colore colour titanium titanium
+abbinamenti components
+O sun montature e astine
+O sun frames and sticks
+OSUNC001 INS00 060
 descrizione description O sun lenti generico generic O sun 
-lenses 
-colore colour oliva olive 
-abbinamenti components 
-O sun montature e astine 
-O sun frames and sticks 
-OSUNC001 INS00 055 
+lenses
+colore colour oliva olive
+abbinamenti components
+O sun montature e astine
+O sun frames and sticks
+OSUNC001 INS00 055
 descrizione description O sun lenti generico generic O sun 
-lenses 
-colore colour nero black 
-abbinamenti components 
-O sun montature e astine 
-O sun frames and sticks 
-O sun lenti lenses 
-OSUNC001 INS05 009 
+lenses
+colore colour nero black
+abbinamenti components
+O sun montature e astine
+O sun frames and sticks
+O sun lenti lenses
+OSUNC001 INS05 009
 descrizione description O sun lenti trasparente-mirror 
-trasparent-mirror O sun lenses 
-colore colour blu blue 
-abbinamenti components 
-O sun montature e astine 
-O sun frames and sticks 
-OSUNC001 INS04 084 
+trasparent-mirror O sun lenses
+colore colour blu blue
+abbinamenti components
+O sun montature e astine
+O sun frames and sticks
+OSUNC001 INS04 084
 descrizione description O sun lenti turtle turtle O sun 
-lenses 
-colore colour testa di moro dark brown 
-abbinamenti components 
-O sun montature e astine 
-O sun frames and sticks 
-OSUNC001 INS04 009 
+lenses
+colore colour testa di moro dark brown
+abbinamenti components
+O sun montature e astine
+O sun frames and sticks
+OSUNC001 INS04 009
 descrizione description O sun lenti turtle turtle O sun 
-lenses 
-colore colour blu blue 
-abbinamenti components 
-O sun montature e astine 
-O sun frames and sticks 
-OCCHIALI SUN GLASSES .67
-OSUNC002 INS00 181 
+lenses
+colore colour blu blue
+abbinamenti components
+O sun montature e astine
+O sun frames and sticks
+OCCHIALI SUN GLASSES   .67
+OSUNC002 INS00 181
 descrizione description O sun astina generico generic O 
-sun sticks 
-colore colour titanium titanium 
-abbinamenti components 
-O sun montature e lenti 
-O sun frames and lenses 
-OSUNC002 INS00 060 
+sun sticks
+colore colour titanium titanium
+abbinamenti components
+O sun montature e lenti
+O sun frames and lenses
+OSUNC002 INS00 060
 descrizione description O sun astina generico generic O 
-sun sticks 
-colore colour oliva olive 
-abbinamenti components 
-O sun montature e lenti 
-O sun frames and lenses 
-OSUNC002 INS00 055 
+sun sticks
+colore colour oliva olive
+abbinamenti components
+O sun montature e lenti
+O sun frames and lenses
+OSUNC002 INS00 055
 descrizione description O sun astina generico generic O 
-sun sticks 
-colore colour nero black 
-abbinamenti components 
-O sun montature e lenti 
-O sun frames and lenses 
-OSUNC002 INS00 184 
+sun sticks
+colore colour nero black
+abbinamenti components
+O sun montature e lenti
+O sun frames and lenses
+OSUNC002 INS00 184
 descrizione description O sun astina generico generic O 
-sun sticks 
-colore colour trasparente transparent 
-abbinamenti components 
-O sun montature e lenti 
-O sun frames and lenses 
-O sun astine sticks 
-OSUNC002 INS04 084 
+sun sticks
+colore colour trasparente transparent
+abbinamenti components
+O sun montature e lenti
+O sun frames and lenses
+O sun astine sticks
+OSUNC002 INS04 084
 descrizione description O sun astina turtle turtle O sun 
-sticks 
-colore colour testa di moro dark brown 
-abbinamenti components 
-O sun montature e lenti 
-O sun frames and lenses 
-OSUNC002 INS04 009 
+sticks
+colore colour testa di moro dark brown
+abbinamenti components
+O sun montature e lenti
+O sun frames and lenses
+OSUNC002 INS04 009
 descrizione description O sun astina turtle turtle O sun 
-sticks 
-colore colour blu blue 
-abbinamenti components 
-O sun montature e lenti 
-O sun frames and lenses 
-68. WINTER 2017 COLLECTION .continuativo carry over 
-OCCHIALI SUN GLASSES .69
-70. WINTER 2017 COLLECTION .continuativo carry over 
-.bracciali bracelets 
+sticks
+colore colour blu blue
+abbinamenti components
+O sun montature e lenti
+O sun frames and lenses
+68.   WINTER 2017 COLLECTION .continuativo carry over  
+OCCHIALI SUN GLASSES   .69
+70.   WINTER 2017 COLLECTION .continuativo carry over  
+.bracciali bracelets
 .71
-O bracelet 
-OBRCF002 SIS01 008 
-descrizione description O bracelet flower silicone 
-silicone O bracelet flower 
-colore colour bianco white 
-materiale material silicone 
-OBRCF002 SIS01 059 
-descrizione description O bracelet flower silicone 
-silicone O bracelet flower 
-colore colour oceano ocean 
-materiale material silicone 
-OBRCF002 SIS01 086 
-descrizione description O bracelet flower silicone 
-silicone O bracelet flower 
-colore colour tortora dove grey 
-materiale material silicone 
-OBRCF002 SIS01 071 
-descrizione description O bracelet flower silicone 
-silicone O bracelet flower 
-colore colour roccia rock 
-materiale material silicone 
-OBRCF002 SIS01 055 
-descrizione description O bracelet flower silicone 
-silicone O bracelet flower 
-colore colour nero black 
-materiale material silicone 
-OBRCD003 SIS00 143 
-descrizione description O bracelet daisy big silicone 
-silicone big O bracelet daisy 
-colore colour neve snow 
-materiale material silicone 
-OBRCD003 SIS00 086 
-descrizione description O bracelet daisy big silicone 
-silicone big O bracelet daisy 
-colore colour tortora dove grey 
-materiale material silicone 
-OBRCD003 SIS00 055 
-descrizione description O bracelet daisy big silicone 
-silicone big O bracelet daisy 
-colore colour nero black 
-materiale material silicone 
-72. WINTER 2017 COLLECTION .continuativo carry over 
-.big .slim 
-GENER S GENER S GENER M GENER M 
-.big .slim 
-GENER S GENER S GENER M GENER M 
-.big 
-.big 
-.big 
-.slim 
-.slim 
-.slim 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER S 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-GENER M 
-BRACCIALI BRACELETS .73
-O bracelet 
-OBRCK004 SIS00 086 
-descrizione description O bracelet single knot 
-colore colour tortora dove-grey 
-materiale material silicone 
-OBRCK005 SIS00 143 
-descrizione description O bracelet double knot 
-colore colour neve snow 
-materiale material silicone 
-OBRCK004 SIS00 055 
-descrizione description O bracelet single knot 
-colore colour nero black 
-materiale material silicone 
-OBRCK004 SIS00 143 
-descrizione description O bracelet single knot 
-colore colour neve snow 
-materiale material silicone 
-OBRCK005 SIS00 086 
-descrizione description O bracelet double knot 
-colore colour tortora dove-grey 
-materiale material silicone 
-OBRCK005 SIS00 055 
-descrizione description O bracelet double knot 
-colore colour nero black 
-materiale material silicone 
-74. WINTER 2017 COLLECTION .continuativo carry over 
-GENER S 
-GENER S 
-GENER S 
-GENER L 
-GENER L 
-GENER L 
-GENER M 
-GENER M 
-GENER M 
-GENER S GENER L GENER M 
-GENER S 
-GENER S 
-GENER L 
-GENER L 
-GENER M 
-GENER M 
-BRACCIALI BRACELETS .75
-76. FALL 2017 COLLECTION 
-.portafogli wallets 
+O bracelet
+OBRCF002 SIS01 008
+descrizione description O bracelet flower silicone
+silicone O bracelet flower
+colore colour bianco white
+materiale material silicone
+OBRCF002 SIS01 059
+descrizione description O bracelet flower silicone
+silicone O bracelet flower
+colore colour oceano ocean
+materiale material silicone
+OBRCF002 SIS01 086
+descrizione description O bracelet flower silicone
+silicone O bracelet flower
+colore colour tortora dove grey
+materiale material silicone
+OBRCF002 SIS01 071
+descrizione description O bracelet flower silicone
+silicone O bracelet flower
+colore colour roccia rock
+materiale material silicone
+OBRCF002 SIS01 055
+descrizione description O bracelet flower silicone
+silicone O bracelet flower
+colore colour nero black
+materiale material silicone
+OBRCD003 SIS00 143
+descrizione description O bracelet daisy big silicone
+silicone big O bracelet daisy
+colore colour neve snow
+materiale material silicone
+OBRCD003 SIS00 086
+descrizione description O bracelet daisy big silicone
+silicone big O bracelet daisy
+colore colour tortora dove grey
+materiale material silicone
+OBRCD003 SIS00 055
+descrizione description O bracelet daisy big silicone
+silicone big O bracelet daisy
+colore colour nero black
+materiale material silicone
+72.   WINTER 2017 COLLECTION .continuativo carry over  
+.big .slim
+GENER S GENER SGENER M GENER M
+.big .slim
+GENER S GENER SGENER M GENER M
+.big
+.big
+.big
+.slim
+.slim
+.slim
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+GENER S
+GENER S
+GENER S
+GENER M
+GENER M
+GENER M
+BRACCIALI BRACELETS   .73
+O bracelet
+OBRCK004 SIS00 086
+descrizione description O bracelet single knot
+colore colour tortora dove-grey
+materiale material silicone
+OBRCK005 SIS00 143
+descrizione description O bracelet double knot
+colore colour neve snow
+materiale material silicone
+OBRCK004 SIS00 055
+descrizione description O bracelet single knot
+colore colour nero black
+materiale material silicone
+OBRCK004 SIS00 143
+descrizione description O bracelet single knot
+colore colour neve snow
+materiale material silicone
+OBRCK005 SIS00 086
+descrizione description O bracelet double knot
+colore colour tortora dove-grey
+materiale material silicone
+OBRCK005 SIS00 055
+descrizione description O bracelet double knot
+colore colour nero black
+materiale material silicone
+74.   WINTER 2017 COLLECTION .continuativo carry over  
+GENER S
+GENER S
+GENER S
+GENER L
+GENER L
+GENER L
+GENER M
+GENER M
+GENER M
+GENER S GENER LGENER M
+GENER S
+GENER S
+GENER L
+GENER L
+GENER M
+GENER M
+BRACCIALI BRACELETS   .75
+76.   FALL 2017 COLLECTION   
+.portafogli wallets
 .77
-O hug portafogli donna woman wallets 
-OHUGB002 EVS06 133 
+O hug portafogli donna woman wallets
+OHUGB002 EVS06 133
 descrizione description O hug scocca portafoglio donna 
 EVA compound texture greca O hug EVA compound 
-greek texture body woman's wallet 
-colore colour grigio chiaro light grey 
+greek texture body woman's wallet
+colore colour grigio chiaro light grey
 materiale material EVA compound 
-abbinamenti components 
-O hug donna O hug woman 
-OHUGB002 EVS06 017 
+abbinamenti components
+O hug donna O hug woman
+OHUGB002 EVS06 017
 descrizione description O hug scocca portafoglio donna 
 EVA compound texture greca O hug EVA compound 
-greek texture body woman's wallet 
-colore colour blu navy navy blue 
+greek texture body woman's wallet
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-O hug donna O hug woman 
-OHUGB002 EVS06 078 
+abbinamenti components
+O hug donna O hug woman
+OHUGB002 EVS06 078
 descrizione description O hug scocca portafoglio donna 
 EVA compound texture greca O hug EVA compound 
-greek texture body woman's wallet 
-colore colour sabbia sand 
+greek texture body woman's wallet
+colore colour sabbia sand
 materiale material EVA compound 
-abbinamenti components 
-O hug donna O hug woman 
-OHUGB002 EVS06 055 
+abbinamenti components
+O hug donna O hug woman
+OHUGB002 EVS06 055
 descrizione description O hug scocca portafoglio donna 
 EVA compound texture greca O hug EVA compound 
-greek texture body woman's wallet 
-colore colour nero black 
+greek texture body woman's wallet
+colore colour nero black
 materiale material EVA compound 
-abbinamenti components 
-O hug donna O hug woman 
-78. WINTER 2017 COLLECTION .continuativo carry over 
-OHUGI002 ECS00 006 
+abbinamenti components
+O hug donna O hug woman
+78.   WINTER 2017 COLLECTION .continuativo carry over  
+OHUGI002 ECS00 006
 descrizione description O hug interno portafoglio donna 
-ecopelle faux leather O hug inner bag woman's wallet 
-colore colour avorio ivory 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O hug donna O hug woman 
-OHUGI002 ECS00 071 
+ecopelle faux leather O hug inner bag woman's wallet
+colore colour avorio ivory
+materiale material ecopelle faux leather
+abbinamenti components
+O hug donna O hug woman
+OHUGI002 ECS00 071
 descrizione description O hug interno portafoglio donna 
-ecopelle faux leather O hug inner bag woman's wallet 
-colore colour roccia rock 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O hug donna O hug woman 
-OHUGI002 ECS00 055 
+ecopelle faux leather O hug inner bag woman's wallet
+colore colour roccia rock
+materiale material ecopelle faux leather
+abbinamenti components
+O hug donna O hug woman
+OHUGI002 ECS00 055
 descrizione description O hug interno portafoglio donna 
-ecopelle faux leather O hug inner bag woman's wallet 
-colore colour nero black 
-materiale material ecopelle faux leather 
-abbinamenti components 
-O hug donna O hug woman 
-PORTAFOGLI WALLETS .79
-80. FALL 2017 COLLECTION 
-.scarpe shoes 
+ecopelle faux leather O hug inner bag woman's wallet
+colore colour nero black
+materiale material ecopelle faux leather
+abbinamenti components
+O hug donna O hug woman
+PORTAFOGLI WALLETS   .79
+80.   FALL 2017 COLLECTION   
+.scarpe shoes
 .81
-O shoes low woman scarpe shoes 
-OSHSD002 EVS00 055 
+O shoes low woman scarpe shoes
+OSHSD002 EVS00 055
 descrizione description O shoes donna low EVA 
-compound women O shoes low EVA compound 
-colore colour nero black 
+compound women O shoes low EVA compound
+colore colour nero black
 materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-OSHSD002 EVS00 017 
+abbinamenti components
+accessori O shoes
+O shoes accessories
+OSHSD002 EVS00 017
 descrizione description O shoes donna low EVA 
-compound women O shoes low EVA compound 
-colore colour blu navy navy blue 
+compound women O shoes low EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-OSHSD002 EVS00 008 
+abbinamenti components
+accessori O shoes
+O shoes accessories
+OSHSD002 EVS00 008
 descrizione description O shoes donna low EVA 
-compound women O shoes low EVA compound 
-colore colour bianco white 
+compound women O shoes low EVA compound
+colore colour bianco white
 materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-GENER 35 / 36 
-GENER 35 / 36 
-GENER 35 / 36 
-82. WINTER 2017 COLLECTION .continuativo carry over 
-GENER 37 
-GENER 37 
-GENER 37 
-GENER 38 
-GENER 38 
-GENER 38 
-GENER 39 
-GENER 39 
-GENER 39 
-GENER 40 
-GENER 40 
-GENER 40 
-GENER 41 / 42 
-GENER 41 / 42 
-GENER 41 / 42 
-SCARPE SHOES .83
-84. WINTER 2017 COLLECTION .continuativo carry over 
-OSHSU002 EVS00 017 
+abbinamenti components
+accessori O shoes
+O shoes accessories
+GENER 35 / 36
+GENER 35 / 36
+GENER 35 / 36
+82.   WINTER 2017 COLLECTION .continuativo carry over  
+GENER 37
+GENER 37
+GENER 37
+GENER 38
+GENER 38
+GENER 38
+GENER 39
+GENER 39
+GENER 39
+GENER 40
+GENER 40
+GENER 40
+GENER 41 / 42
+GENER 41 / 42
+GENER 41 / 42
+SCARPE SHOES   .83
+84.   WINTER 2017 COLLECTION .continuativo carry over  
+OSHSU002 EVS00 017
 descrizione description O shoes uomo low EVA 
-compound men O shoes low EVA compound 
-colore colour blu navy navy blue 
+compound men O shoes low EVA compound
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
-GENER 39 / 40 
-GENER 39 / 40 
-OSHSU002 EVS00 055 
+abbinamenti components
+accessori O shoes
+O shoes accessories
+GENER 39 / 40
+GENER 39 / 40
+OSHSU002 EVS00 055
 descrizione description O shoes uomo low EVA 
-compound men O shoes low EVA compound 
-colore colour nero black 
-materiale material EVA compound 
-abbinamenti components 
-accessori O shoes 
-O shoes accessories 
+compound men O shoes low EVA compound
+colore colour nero black
+materiale material EVA compound
+abbinamenti components
+accessori O shoes
+O shoes accessories
 O shoes low man scarpe shoes
-SCARPE SHOES .85 
-GENER 40 
-GENER 40 
-GENER 41 
-GENER 41 
-GENER 42 
-GENER 42 
-GENER 43 
-GENER 43 
-GENER 44 
+SCARPE SHOES   .85
+GENER 40
+GENER 40
+GENER 41
+GENER 41
+GENER 42
+GENER 42
+GENER 43
+GENER 43
 GENER 44
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+GENER 44
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

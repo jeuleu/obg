@@ -4,24 +4,24 @@
 8050846060678;ACCEC022-MAS05-486; O bag spring 19;100; accessorio Portachiavi fiore;ACCEC022;MAS05;486;pink;pink
 8050846060685;ACCEC022-MAS05-588; O bag spring 19;100; accessorio Portachiavi fiore;ACCEC022;MAS05;588;orchidea;orchid
 8050846014909;HLESAD00-ECS00-017; O bag fall 2018;25; manichetto tubolare ecopelle;HLESAD00;ECS00;17;blu navy;navy blue
-8050846014909;HLESAD00-ECS00-017; O bag winter 2018;27; manichetto tubolare ecopelle;HLESAD00;ECS00;17;blu navy;navy blue
+8050846014909;HLESAD00-ECS00-017; O bag winter 2018;p027-01; manichetto tubolare ecopelle;HLESAD00;ECS00;017;blu navy;navy blue
 8050846035089;HLESAD00-ECS00-018; O bag fall 2018;25; manichetto tubolare ecopelle;HLESAD00;ECS00;18;bordeaux;burgundy
-8050846035089;HLESAD00-ECS00-018; O bag winter 2018;27; manichetto tubolare ecopelle;HLESAD00;ECS00;18;bordeaux;burgundy
-8050846002586;HLESAD00-ECS00-055; O bag winter 2018;27; manichetto tubolare ecopelle;HLESAD00;ECS00;55;nero;black
-8050846045750;HLESAD00-ECS00-084; O bag winter 2018;27; manichetto tubolare ecopelle;HLESAD00;ECS00;84;testa di moro;dark brown
+8050846035089;HLESAD00-ECS00-018; O bag winter 2018;p027-02; manichetto tubolare ecopelle;HLESAD00;ECS00;018;bordeaux;burgundy
+8050846002586;HLESAD00-ECS00-055; O bag winter 2018;p027-03; manichetto tubolare ecopelle;HLESAD00;ECS00;055;nero;black
+8050846045750;HLESAD00-ECS00-084; O bag winter 2018;p027-04; manichetto tubolare ecopelle;HLESAD00;ECS00;084;testa di moro;dark brown
 8050846035096;HLESAD00-ECS00-541; O bag fall 2018;25; manichetto tubolare ecopelle;HLESAD00;ECS00;541;verde bosco;green forest
 8050846034358;HLESAD00-ECS84-227; O bag fall 2018;25; manichetto tubolare ecopelle;HLESAD00;ECS84;227;bianco/nero;white - black
 8050846030947;HLESAD01-FAS09-002; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;2;amaranto;amaranth
 8050846030909;HLESAD01-FAS09-008; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;8;bianco;white
-8050846030909;HLESAD01-FAS09-008; O bag winter 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;8;bianco;white
+8050846030909;HLESAD01-FAS09-008; O bag winter 2018;p026-01; manichetto tubolare corto +;HLESAD01;FAS09;008;bianco;white
 8050846038905;HLESAD01-FAS09-018; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;18;bordeaux;burgundy
-8050846038905;HLESAD01-FAS09-018; O bag winter 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;18;bordeaux;burgundy
+8050846038905;HLESAD01-FAS09-018; O bag winter 2018;p026-02; manichetto tubolare corto +;HLESAD01;FAS09;018;bordeaux;burgundy
 8050846030916;HLESAD01-FAS09-055; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;55;nero;black
-8050846030916;HLESAD01-FAS09-055; O bag winter 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;55;nero;black
-8050846044937;HLESAD01-FAS09-075; O bag winter 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;75;rosa smoke;rose smoke
+8050846030916;HLESAD01-FAS09-055; O bag winter 2018;p026-03; manichetto tubolare corto +;HLESAD01;FAS09;055;nero;black
+8050846044937;HLESAD01-FAS09-075; O bag winter 2018;p026-04; manichetto tubolare corto +;HLESAD01;FAS09;075;rosa smoke;rose smoke
 8050846038912;HLESAD01-FAS09-086; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;86;tortora;dove-grey
-8050846038912;HLESAD01-FAS09-086; O bag winter 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;86;tortora;dove - grey
-8050846044845;HLESAD01-FAS09-133; O bag winter 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;133;grigio chiaro;light grey
+8050846038912;HLESAD01-FAS09-086; O bag winter 2018;p026-05; manichetto tubolare corto +;HLESAD01;FAS09;086;tortora;dove - grey
+8050846044845;HLESAD01-FAS09-133; O bag winter 2018;p026-06; manichetto tubolare corto +;HLESAD01;FAS09;133;grigio chiaro;light grey
 8050846030923;HLESAD01-FAS09-137; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;137;bluette;bright blue
 8050846038929;HLESAD01-FAS09-379; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;379;blu notte;night blue
 8050846038936;HLESAD01-FAS09-541; O bag fall 2018;26; manichetto tubolare corto +;HLESAD01;FAS09;541;verde bosco;green forest
@@ -36,8 +36,8 @@
 8050846060968;HLESAG01-ECS07-587; O bag spring 19;26; Manichetto piatto + clip;HLESAG01;ECS07;587;celery green;celery green
 8050846060975;HLESAG01-ECS07-588; O bag spring 19;26; Manichetto piatto + clip;HLESAG01;ECS07;588;orchidea;orchid
 8050846061026;HLESAG01-ECS07-589; O bag spring 19;26; Manichetto piatto + clip;HLESAG01;ECS07;589;lily grey;lily grey
-8050846043336;HLESAH00-PLS00-055; O bag winter 2018;31; manichetto maxi catena;HLESAH00;PLS00;55;nero;black
-8050846043299;HLESAH00-PLS00-564; O bag winter 2018;31; manichetto maxi catena;HLESAH00;PLS00;564;tartarugato;tartarugato
+8050846043336;HLESAH00-PLS00-055; O bag winter 2018;p031-01; manichetto maxi catena;HLESAH00;PLS00;055;nero;black
+8050846043299;HLESAH00-PLS00-564; O bag winter 2018;p031-02; manichetto maxi catena;HLESAH00;PLS00;564;tartarugato;tartarugato
 8050846060906;HLESAH02-PLS00-008; O bag spring 19;31; manichetto maxi catena;HLESAH02;PLS00;8;bianco;white
 8050846060883;HLESAH02-PLS00-017; O bag spring 19;31; manichetto maxi catena;HLESAH02;PLS00;17;blu navy;blue navy
 8050846060876;HLESAH02-PLS00-055; O bag spring 19;31; manichetto maxi catena;HLESAH02;PLS00;55;nero;black
@@ -45,43 +45,43 @@
 8050846060890;HLESAH02-PLS00-224; O bag spring 19;31; manichetto maxi catena;HLESAH02;PLS00;224;verde inglese;english green
 8050846060920;HLESAH02-PLS00-588; O bag spring 19;31; manichetto maxi catena;HLESAH02;PLS00;588;orchidea;orchid
 8050846035126;HLESCE01-ECS00-017; O bag fall 2018;18; scocca O pocket micro EVA;HLESCE01;ESC00;17;blu navy;navy blue
-8050846035126;HLESCE01-ECS00-017; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS00;17;blu navy + oro;navy blue + gold
+8050846035126;HLESCE01-ECS00-017; O bag winter 2018;p034-01; manico doppia catena a “t”;HLESCE01;ECS00;017;blu navy + oro;navy blue + gold
 8050846035140;HLESCE01-ECS00-018; O bag fall 2018;18; scocca O pocket micro EVA;HLESCE01;ESC00;18;bordeaux;burgundy
-8050846035140;HLESCE01-ECS00-018; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS00;18;bordeaux + oro;burgundy + gold
+8050846035140;HLESCE01-ECS00-018; O bag winter 2018;p034-02; manico doppia catena a “t”;HLESCE01;ECS00;018;bordeaux + oro;burgundy + gold
 8050846038943;HLESCE01-ECS00-020; O bag fall 2018;18; scocca O pocket micro EVA;HLESCE01;ESC00;20;bronzo;bronze
-8050846043404;HLESCE01-ECS00-020; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS00;20;bronzo + oro;bronze + gold
+8050846043404;HLESCE01-ECS00-020; O bag winter 2018;p034-03; manico doppia catena a “t”;HLESCE01;ECS00;020;bronzo + oro;bronze + gold
 8050846035133;HLESCE01-ECS00-055; O bag fall 2018;18; scocca O pocket micro EVA;HLESCE01;ESC00;55;nero;black
 8050846035133;HLESCE01-ECS00-055; O bag spring 19;22;" Manico doppia catena a ""t""";HLESCE01;ECS00;55;nero + argento;black + silver
-8050846045699;HLESCE01-ECS00-055; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS00;55;nero + silver;black + silver
-8050846045699;HLESCE01-ECS00-084; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS00;84;testa di moro + oro;dark brown + gold
+8050846045699;HLESCE01-ECS00-055; O bag winter 2018;p034-05; manico doppia catena a “t”;HLESCE01;ECS00;055;nero + silver;black + silver
+8050846045699;HLESCE01-ECS00-084; O bag winter 2018;p034-04; manico doppia catena a “t”;HLESCE01;ECS00;084;testa di moro + oro;dark brown + gold
 8050846061163;HLESCE01-ECS07-017; O bag spring 19;23;" Manico doppia catena a ""t""";HLESCE01;ECS07;17;blu navy + argento;blue navy + silver
 8050846061194;HLESCE01-ECS07-048; O bag spring 19;23;" Manico doppia catena a ""t""";HLESCE01;ECS07;48;mattone + argento;brick + silver
-8050846042896;HLESCE01-ECS07-075; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS07;75;rosa smoke + silver;rose smoke + silver
+8050846042896;HLESCE01-ECS07-075; O bag winter 2018;p034-01; manico doppia catena a “t”;HLESCE01;ECS07;075;rosa smoke + silver;rose smoke + silver
 8050846061170;HLESCE01-ECS07-078; O bag spring 19;23;" Manico doppia catena a ""t""";HLESCE01;ECS07;78;sabbia + argento;sand + silver
-8050846042889;HLESCE01-ECS07-133; O bag winter 2018;34;" manico doppia catena a ""t""";HLESCE01;ECS07;133;grigio chiaro + silver;light grey + silver
+8050846042889;HLESCE01-ECS07-133; O bag winter 2018;p034-03; manico doppia catena a “t”;HLESCE01;ECS07;133;grigio chiaro + silver;light grey + silver
 8050846061187;HLESCE01-ECS07-224; O bag spring 19;23;" Manico doppia catena a ""t""";HLESCE01;ECS07;224;verde inglese + argento;english green + silver
 8050846061149;HLESCE01-ECSA1-017; O bag spring 19;23;" Manico doppia catena a ""t""";HLESCE01;ECSA1;17;blu navy + catena blu;blue navy + blue chain
 8050846061156;HLESCE01-ECSA1-055; O bag spring 19;23;" Manico doppia catena a ""t""";HLESCE01;ECSA1;55;nero + catena nera;black + black chain
-8050846035058;HLESD000-ECS35-017; O bag winter 2018;33; manico lungo componibile;HLESD000;ECS35;17;blu navy;navy blue
-8050846035065;HLESD000-ECS35-018; O bag winter 2018;33; manico lungo componibile;HLESD000;ECS35;18;bordeaux;burgundy
-8050846035164;HLESD000-ECS35-055; O bag winter 2018;33; manico lungo componibile;HLESD000;ECS35;55;nero;black
+8050846035058;HLESD000-ECS35-017; O bag winter 2018;p033-01; manico lungo componibile;HLESD000;ECS35;017;blu navy;navy blue
+8050846035065;HLESD000-ECS35-018; O bag winter 2018;p033-02; manico lungo componibile;HLESD000;ECS35;018;bordeaux;burgundy
+8050846035164;HLESD000-ECS35-055; O bag winter 2018;p033-03; manico lungo componibile;HLESD000;ECS35;055;nero;black
 8050450217444;HLESF300-PES00-009; O bag fall 2018;18; manico con fibbia rombo;HLESF300;PES00;9;blu;blue
 8058983596531;HLESF300-PES00-093; O bag fall 2018;18; manico con fibbia rombo;HLESF300;PES00;93;vino;wine
-8050846042384;HLESF800-ECS94-017; O bag winter 2018;28; manico con fibbia a goccia;HLESF800;ECS94;17;blu navy;navy blue
-8050846049154;HLESF800-ECS94-055; O bag winter 2018;28; manico con fibbia a goccia;HLESF800;ECS94;55;nero;black
-8050846042407;HLESF800-ECS94-075; O bag winter 2018;28; manico con fibbia a goccia;HLESF800;ECS94;75;rosa smoke;rose smoke
-8050846042391;HLESF800-ECS94-133; O bag winter 2018;28; manico con fibbia a goccia;HLESF800;ECS94;133;grigio chiaro;light grey
-8050846042377;HLESF800-ECS94-134; O bag winter 2018;28; manico con fibbia a goccia;HLESF800;ECS94;134;antracite;anthracite
-8050846049215;HLESF800-ECS94-559; O bag winter 2018;28; manico con fibbia a goccia;HLESF800;ECS94;559;rame;copper
+8050846042384;HLESF800-ECS94-017; O bag winter 2018;p028-01; manico con fibbia a goccia;HLESF800;ECS94;017;blu navy;navy blue
+8050846049154;HLESF800-ECS94-055; O bag winter 2018;p028-02; manico con fibbia a goccia;HLESF800;ECS94;055;nero;black
+8050846042407;HLESF800-ECS94-075; O bag winter 2018;p028-03; manico con fibbia a goccia;HLESF800;ECS94;075;rosa smoke;rose smoke
+8050846042391;HLESF800-ECS94-133; O bag winter 2018;p028-04; manico con fibbia a goccia;HLESF800;ECS94;133;grigio chiaro;light grey
+8050846042377;HLESF800-ECS94-134; O bag winter 2018;p028-05; manico con fibbia a goccia;HLESF800;ECS94;134;antracite;anthracite
+8050846049215;HLESF800-ECS94-559; O bag winter 2018;p028-06; manico con fibbia a goccia;HLESF800;ECS94;559;rame;copper
 8050538591503;HLESFC00-ECS08-009; O bag fall 2018;27; manico con fibbia corto;HLESFC00;ECS08;9;blu;blue
-8050846009875;HLESFC00-ECS08-009; O bag winter 2018;27; manico con fibbia corto;HLESFC00;ECS08;9;blu;blue
+8050846009875;HLESFC00-ECS08-009; O bag winter 2018;p027-01; manico con fibbia corto;HLESFC00;ECS08;009;blu;blue
 8050450212388;HLESFC00-ECS08-018; O bag fall 2018;27; manico con fibbia corto;HLESFC00;ECS08;18;bordeaux;burgundy
-8050450212388;HLESFC00-ECS08-018; O bag winter 2018;27; manico con fibbia corto;HLESFC00;ECS08;18;bordeaux;burgundy
+8050450212388;HLESFC00-ECS08-018; O bag winter 2018;p027-02; manico con fibbia corto;HLESFC00;ECS08;018;bordeaux;burgundy
 8050538591534;HLESFC00-ECS08-055; O bag fall 2018;27; manico con fibbia corto;HLESFC00;ECS08;55;nero;black
-8050450212395;HLESFC00-ECS08-055; O bag winter 2018;27; manico con fibbia corto;HLESFC00;ECS08;55;nero;black
+8050450212395;HLESFC00-ECS08-055; O bag winter 2018;p027-03; manico con fibbia corto;HLESFC00;ECS08;055;nero;black
 8050538591541;HLESFC00-ECS08-084; O bag fall 2018;27; manico con fibbia corto;HLESFC00;ECS08;84;testa di moro;dark brown
-8050450212401;HLESFC00-ECS08-084; O bag winter 2018;27; manico con fibbia corto;HLESFC00;ECS08;84;testa di moro;dark brown
-8050450212418;HLESFC00-ECS08-089; O bag winter 2018;27; manico con fibbia corto;HLESFC00;ECS08;89;verde;green
+8050450212401;HLESFC00-ECS08-084; O bag winter 2018;p027-04; manico con fibbia corto;HLESFC00;ECS08;084;testa di moro;dark brown
+8050450212418;HLESFC00-ECS08-089; O bag winter 2018;p027-05; manico con fibbia corto;HLESFC00;ECS08;089;verde;green
 8050450212425;HLESFC00-ECS08-183; O bag fall 2018;27; manico con fibbia corto;HLESFC00;ECS08;183;viola;violet
 8058983594889;HLESG000-ECS04-026; O bag spring 19;24; Manico lungo nappina;HLESG000;ECS04;26;cobalto;cobalt blue
 8058333583648;HLESG000-ECS04-183; O bag spring 19;24; Manico lungo nappina;HLESG000;ECS04;183;viola;violet
@@ -478,11 +478,8 @@
 8050846061293;SHOUCH02-PLS00-088; O bag spring 19;22; Tracolla maxi catena;SHOUCH02;PLS00;88;turchese;turquoise
 8050846061279;SHOUCH02-PLS00-224; O bag spring 19;22; Tracolla maxi catena;SHOUCH02;PLS00;224;verde inglese;english green
 8050846061309;SHOUCH02-PLS00-588; O bag spring 19;22; Tracolla maxi catena;SHOUCH02;PLS00;588;orchidea;orchid
-8050846031081;SHOUG800-FAS09-055; O bag winter 2018;37; tracolla 80/120 tessuto;SHOUG800;FAS09;55;nero;black
-8050846031074;SHOUG800-FAS09-099; O bag winter 2018;37; tracolla 80/120 tessuto;SHOUG800;FAS09;99;grigio-tortora;grey - dove-grey
-8050846031111;SHOUG800-FAS09-371; O bag winter 2018;37; tracolla 80/120 tessuto;SHOUG800;FAS09;371;latte;milk
-8050846043251;SHOUGB00-TESK9-075; O bag winter 2018;37; tracolla 80/120 tessuto;SHOUGB00;TESK9;75;rosa smoke;rose smoke
-8050846014008;SHOUGB00-TESK9-130; O bag winter 2018;37; tracolla 80/120 tessuto;SHOUGB00;TESK9;130;azzurro;light blue
+8050846043251;SHOUGB00-TESK9-075; O bag winter 2018;p037-05; tracolla 80/120 tessuto;SHOUGB00;TESK9;075;rosa smoke;rose smoke
+8050846014008;SHOUGB00-TESK9-130; O bag winter 2018;p037-04; tracolla 80/120 tessuto;SHOUGB00;TESK9;130;azzurro;light blue
 8050846061200;SHOUGB19-TESW8-224; O bag spring 19;19; Tracolla 80/120 nastro riga;SHOUGB19;TESW8;224;verde inglese;english green
 8050846061217;SHOUGB19-TESW8-486; O bag spring 19;19; Tracolla 80/120 nastro riga;SHOUGB19;TESW8;486;pink;pink
 8050846061224;SHOUGB19-TESX4-590; O bag spring 19;34; Tracolla 80/120 stampa;SHOUGB19;TESX4;590;mattone/nero;brick/black
@@ -499,11 +496,11 @@
 8050846061361;SHOUX000-ECS07-588; O bag spring 19;36; tracolla extraslim 110;SHOUX000;ECS07;588;orchidea;orchid
 8050846061408;SHOUX000-ECS07-589; O bag spring 19;36; tracolla extraslim 110;SHOUX000;ECS07;589;lily grey;lily grey
 8050846045705;SHOUX101-ECS07-017; O bag spring 19;19; Tracolla extraslim 110;SHOUX101;ECS07;17;blu navy;blue navy
-8050846045705;SHOUX101-ECS07-017; O bag winter 2018;39; tracolla extraslim 110 +;SHOUX101;ECS07;17;blu navy;navy blue
+8050846045705;SHOUX101-ECS07-017; O bag winter 2018;p039-01; tracolla extraslim 110 +;SHOUX101;ECS07;017;blu navy;navy blue
 8050846049161;SHOUX101-ECS07-055; O bag spring 19;19; Tracolla extraslim 110;SHOUX101;ECS07;55;nero;black
-8050846049161;SHOUX101-ECS07-055; O bag winter 2018;39; tracolla extraslim 110 +;SHOUX101;ECS07;55;nero;black
-8050846045743;SHOUX101-ECS07-075; O bag winter 2018;39; tracolla extraslim 110 +;SHOUX101;ECS07;75;rosa smoke;rose smoke
-8050846045682;SHOUX101-ECS07-134; O bag winter 2018;39; tracolla extraslim 110 +;SHOUX101;ECS07;134;antracite;anthracite
+8050846049161;SHOUX101-ECS07-055; O bag winter 2018;p039-02; tracolla extraslim 110 +;SHOUX101;ECS07;055;nero;black
+8050846045743;SHOUX101-ECS07-075; O bag winter 2018;p039-03; tracolla extraslim 110 +;SHOUX101;ECS07;075;rosa smoke;rose smoke
+8050846045682;SHOUX101-ECS07-134; O bag winter 2018;p039-05; tracolla extraslim 110 +;SHOUX101;ECS07;134;antracite;anthracite
 8050846061415;SHOUX101-ECS07-183; O bag spring 19;19; Tracolla extraslim 110;SHOUX101;ECS07;183;viola;violet
-8050846049222;SHOUX101-ECS07-559; O bag winter 2018;39; tracolla extraslim 110 +;SHOUX101;ECS07;559;rame;copper
+8050846049222;SHOUX101-ECS07-559; O bag winter 2018;p039-06; tracolla extraslim 110 +;SHOUX101;ECS07;559;rame;copper
 8050846061422;SHOUX101-ECS07-589; O bag spring 19;19; Tracolla extraslim 110;SHOUX101;ECS07;589;lily grey;lily grey

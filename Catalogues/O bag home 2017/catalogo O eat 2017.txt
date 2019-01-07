@@ -1,246 +1,250 @@
-O eat 
+O eat
 .taste it easy
-.O eat 
-03 O eat scocca / vassoio divisorio body / dividing panel 
-06 O eat maniglia handle 
-07 O eat contenitore food container 
-.indice index 
-O eat .01
-O eat 
+
+ .O eat
+03 O eat scocca / vassoio divisorio body / dividing panel
+06 O eat maniglia handle
+07 O eat contenitore food container
+.indice index
+O eat  .01
+O eat
 A. 
 D. 
 A. 
 D. 
 B. 
 C. 
-A. OEATS000 MAS06 
-B. OEATD000 MAS07 
-C. OEATM001 SIS03 
-D. OEATC000 MAS07 
-02. 2017 home collection 
-A. OEATS000 MAS06 136 
-descrizione description O eat scocca O eat body 
-colore colour becco d'oca duck beak 
+A. OEATS000 MAS06
+B. OEATD000 MAS07
+C. OEATM001 SIS03
+D. OEATC000 MAS07
+02.   2017 home collection   
+A. OEATS000 MAS06 136
+descrizione description O eat scocca O eat body
+colore colour becco d'oca duck beak
 materiale material materiale plastico ABS ABS plastic 
-material 
-B. OEATD000 MAS07 008 
+material
+B. OEATD000 MAS07 008
 descrizione description O eat vassoio divisorio 
 materiale plastico alimentare O eat dividing panel in 
 food plastic 
-colore colour bianco white 
+colore colour bianco white
 materiale material materiale plastico ABS ABS plastic 
-material 
-B. OEATD000 MAS07 008 
+material
+B. OEATD000 MAS07 008
 descrizione description O eat vassoio divisorio 
 materiale plastico alimentare O eat dividing panel in 
 food plastic 
-colore colour bianco white 
+colore colour bianco white
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 136 
-descrizione description O eat scocca O eat body 
-colore colour becco d'oca duck beak 
+material
+A. OEATS000 MAS06 136
+descrizione description O eat scocca O eat body
+colore colour becco d'oca duck beak
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 076 
-descrizione description O eat scocca O eat body 
-colore colour rosso red 
+material
+A. OEATS000 MAS06 076
+descrizione description O eat scocca O eat body
+colore colour rosso red
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 076 
-descrizione description O eat scocca O eat body 
-colore colour rosso red 
+material
+A. OEATS000 MAS06 076
+descrizione description O eat scocca O eat body
+colore colour rosso red
 materiale material materiale plastico ABS ABS plastic 
-material 
-O eat scocca body 
+material
+ 
+O eat scocca body
 A. 
-A. A. 
-A. B. 
-B. 
-abbinamenti components 
+A. A.
+A.B.
+B.
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 
-vassoio divisorio + 2 contenitori 
+vassoio divisorio + 2 contenitori
 1 O eat = 2 bodies + 1 handle + 1 
-dividing panel + 2 food containers 
-abbinamenti components 
+dividing panel + 2 food containers
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 
-vassoio divisorio + 2 contenitori 
+vassoio divisorio + 2 contenitori
 1 O eat = 2 bodies + 1 handle + 1 
-dividing panel + 2 food containers 
-O eat .03
-B. OEATD000 MAS07 008 
+dividing panel + 2 food containers
+O eat  .03
+B. OEATD000 MAS07 008
 descrizione description O eat vassoio divisorio 
 materiale plastico alimentare O eat dividing panel in 
 food plastic 
-colore colour bianco white 
+colore colour bianco white
 materiale material materiale plastico ABS ABS plastic 
-material 
-B. OEATD000 MAS07 008 
+material
+B. OEATD000 MAS07 008
 descrizione description O eat vassoio divisorio 
 materiale plastico alimentare O eat dividing panel in 
 food plastic 
-colore colour bianco white 
+colore colour bianco white
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 422 
-descrizione description O eat scocca O eat body 
-colore colour sangria sangria 
+material
+A. OEATS000 MAS06 422
+descrizione description O eat scocca O eat body
+colore colour sangria sangria
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 422 
-descrizione description O eat scocca O eat body 
-colore colour sangria sangria 
+material
+A. OEATS000 MAS06 422
+descrizione description O eat scocca O eat body
+colore colour sangria sangria
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 137 
-descrizione description O eat scocca O eat body 
-colore colour bluette light blue 
+material
+A. OEATS000 MAS06 137
+descrizione description O eat scocca O eat body
+colore colour bluette light blue
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 137 
-descrizione description O eat scocca O eat body 
-colore colour bluette light blue 
+material
+A. OEATS000 MAS06 137
+descrizione description O eat scocca O eat body
+colore colour bluette light blue
 materiale material materiale plastico ABS ABS plastic 
-material 
+material
 A. 
 A. 
-A. 
-A. 
-B. 
-B. 
-abbinamenti components 
+A.
+A.
+B.
+B.
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 
-vassoio divisorio + 2 contenitori 
+vassoio divisorio + 2 contenitori
 1 O eat = 2 bodies + 1 handle + 1 
-dividing panel + 2 food containers 
-abbinamenti components 
+dividing panel + 2 food containers
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 
-vassoio divisorio + 2 contenitori 
+vassoio divisorio + 2 contenitori
 1 O eat = 2 bodies + 1 handle + 1 
-dividing panel + 2 food containers 
-04. 2017 home collection 
-A. OEATS000 MAS06 139 
-descrizione description O eat scocca O eat body 
-colore colour mela apple green 
+dividing panel + 2 food containers
+04.   2017 home collection   
+A. OEATS000 MAS06 139
+descrizione description O eat scocca O eat body
+colore colour mela apple green
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 139 
-descrizione description O eat scocca O eat body 
-colore colour mela apple green 
+material
+A. OEATS000 MAS06 139
+descrizione description O eat scocca O eat body
+colore colour mela apple green
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 134 
-descrizione description O eat scocca O eat body 
-colore colour antracite anthracite 
+material
+A. OEATS000 MAS06 134
+descrizione description O eat scocca O eat body
+colore colour antracite anthracite
 materiale material materiale plastico ABS ABS plastic 
-material 
-A. OEATS000 MAS06 134 
-descrizione description O eat scocca O eat body 
-colore colour antracite anthracite 
+material
+A. OEATS000 MAS06 134
+descrizione description O eat scocca O eat body
+colore colour antracite anthracite
 materiale material materiale plastico ABS ABS plastic 
-material 
+material
 A. 
 A. 
-A. 
-A. 
-B. 
-B. 
-B. OEATD000 MAS07 008 
+A.
+A.
+B.
+B.
+B. OEATD000 MAS07 008
 descrizione description O eat vassoio divisorio 
 materiale plastico alimentare O eat dividing panel in 
 food plastic 
-colore colour bianco white 
+colore colour bianco white
 materiale material materiale plastico ABS ABS plastic 
-material 
-B. OEATD000 MAS07 008 
+material
+B. OEATD000 MAS07 008
 descrizione description O eat vassoio divisorio 
 materiale plastico alimentare O eat dividing panel in 
 food plastic 
-colore colour bianco white 
+colore colour bianco white
 materiale material materiale plastico ABS ABS plastic 
-material 
-abbinamenti components 
+material
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 
-vassoio divisorio + 2 contenitori 
+vassoio divisorio + 2 contenitori
 1 O eat = 2 bodies + 1 handle + 1 
-dividing panel + 2 food containers 
-abbinamenti components 
+dividing panel + 2 food containers
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 
-vassoio divisorio + 2 contenitori 
+vassoio divisorio + 2 contenitori
 1 O eat = 2 bodies + 1 handle + 1 
-dividing panel + 2 food containers 
-O eat .05
-C. OEATM001 SIS03 002 
-descrizione description O eat maniglia più aggancio 
-O eat handle + hook 
-colore colour amaranto amaranth 
-materiale material silicone + plastica silicone + plastic 
-abbinamenti components 
+dividing panel + 2 food containers
+O eat  .05
+C. OEATM001 SIS03 002
+descrizione description O eat maniglia piÃ¹ aggancio 
+O eat handle + hook
+colore colour amaranto amaranth
+materiale material silicone + plastica silicone + plastic
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-C. OEATM001 SIS03 063 
-descrizione description O eat maniglia più aggancio 
-O eat handle + hook 
-colore colour ottanio teal 
-materiale material silicone + plastica silicone + plastic 
-abbinamenti components 
+panel + 2 food containers
+C. OEATM001 SIS03 063
+descrizione description O eat maniglia piÃ¹ aggancio 
+O eat handle + hook
+colore colour ottanio teal
+materiale material silicone + plastica silicone + plastic
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-C. OEATM001 SIS03 014 
-descrizione description O eat maniglia più aggancio 
-O eat handle + hook 
-colore colour blu elettrico electric blue 
-materiale material silicone + plastica silicone + plastic 
-abbinamenti components 
+panel + 2 food containers
+C. OEATM001 SIS03 014
+descrizione description O eat maniglia piÃ¹ aggancio 
+O eat handle + hook
+colore colour blu elettrico electric blue
+materiale material silicone + plastica silicone + plastic
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-C. OEATM001 SIS03 059 
-descrizione description O eat maniglia più aggancio 
-O eat handle + hook 
-colore colour oceano ocean blue 
-materiale material silicone + plastica silicone + plastic 
-abbinamenti components 
+panel + 2 food containers
+C. OEATM001 SIS03 059
+descrizione description O eat maniglia piÃ¹ aggancio 
+O eat handle + hook
+colore colour oceano ocean blue
+materiale material silicone + plastica silicone + plastic
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-C. OEATM001 SIS03 041 
-descrizione description O eat maniglia più aggancio 
-O eat handle + hook 
-colore colour grigio scuro dark grey 
-materiale material silicone + plastica silicone + plastic 
-abbinamenti components 
+panel + 2 food containers
+C. OEATM001 SIS03 041
+descrizione description O eat maniglia piÃ¹ aggancio 
+O eat handle + hook
+colore colour grigio scuro dark grey
+materiale material silicone + plastica silicone + plastic
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-C. OEATM001 SIS03 044 
-descrizione description O eat maniglia più aggancio 
-O eat handle + hook 
-colore colour lime lime 
-materiale material silicone + plastica silicone + plastic 
-abbinamenti components 
+panel + 2 food containers
+C. OEATM001 SIS03 044
+descrizione description O eat maniglia piÃ¹ aggancio
+O eat handle + hook
+colore colour lime lime
+materiale material silicone + plastica silicone + plastic
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-O eat maniglia handle 
-06. 2017 home collection 
-D. OEATC000 MAS07 008 
+panel + 2 food containers
+O eat maniglia handle
+06.   2017 home collection   
+D. OEATC000 MAS07 008
 descrizione description O eat contenitore O eat food 
-container 
-colore colour bianco white 
+container
+colore colour bianco white
 materiale material materiale plastico alimentare food 
-plastic material 
-abbinamenti components 
+plastic material
+abbinamenti components
 1 O eat = 2 scocche + 1 maniglia + 1 vassoio divisorio + 
 2 contenitori / 1 O eat = 2 bodies + 1 handle + 1 dividing 
-panel + 2 food containers 
-O eat contenitore food container 
-O eat .07
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+panel + 2 food containers
+O eat contenitore food container
+O eat  .07
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

@@ -1,711 +1,720 @@
-‘17.new products
-.O bag flower power 
-04 scocche body O bag mini flower power 
-05 scocche body O moon light flower power 
-06 sacche interne inner bags O bag mini righe + fiori stripes + flowers 
-07 sacche interne inner bags O moon light righe + fiori stripes + flowers 
-08 scarpe shoes O shoes high woman flower power 
-10 fiori flowers big 
-11 fiori flowers small 
-.O bag flower hole 
-15 scocche body O bag flower hole 
-16 sacche interne inner bags O bag cordura 
-.O bag sacche interne e tracolle 
-inner bags and shoulder straps 
-18 sacche interne inner bags O bag righe stripes 
-19 tracolla shoulder strap O bag righe stripes 
-19 tracolla shoulder strap O bag fantasia etnica 
-20 tracolla shoulder strap O bag fantasia optical 
-20 tracolla shoulder strap O bag fantasia effetto perline 
-.O swing sacche interne e tracolle 
-inner bags and shoulder straps 
-24 sacche interne inner bags O swing fantasia etnica 
-24 sacche interne inner bags O swing fantasia righe 
-25 sacche interne inner bags O swing fantasia optical 
-25 sacche interne inner bags O swing canvas 
-26 tracolla shoulder strap O swing fantasia optical 
-26 tracolla shoulder strap O swing fantasia etnica 
-27 tracolla shoulder strap O swing fantasia effetto perline 
-.O clock shift 
-30 orologio watch O clock shift case 
-31 orologio watch O clock shift cinturino band 
-.O clock cinturini opalini opal straps 
-34 cinturino strap O clock cinturino opalino 
+â€˜17.new products
+
+ .O bag flower power
+04 scocche body O bag mini flower power
+05 scocche body O moon light flower power
+06 sacche interne inner bags O bag mini righe + fiori stripes + flowers
+07 sacche interne inner bags O moon light righe + fiori stripes + flowers
+08 scarpe shoes O shoes high woman flower power
+10 fiori flowers big
+11 fiori flowers small
+ .O bag flower hole
+15 scocche body O bag flower hole
+16 sacche interne inner bags O bag cordura
+ .O bag sacche interne e tracolle
+ inner bags and shoulder straps
+18 sacche interne inner bags O bag righe stripes
+19 tracolla shoulder strap O bag righe stripes
+19 tracolla shoulder strap O bag fantasia etnica
+20 tracolla shoulder strap O bag fantasia optical
+20 tracolla shoulder strap O bag fantasia effetto perline
+ .O swing sacche interne e tracolle
+ inner bags and shoulder straps
+24 sacche interne inner bags O swing fantasia etnica
+24 sacche interne inner bags O swing fantasia righe
+25 sacche interne inner bags O swing fantasia optical
+25 sacche interne inner bags O swing canvas
+26 tracolla shoulder strap O swing fantasia optical
+26 tracolla shoulder strap O swing fantasia etnica
+27 tracolla shoulder strap O swing fantasia effetto perline
+ .O clock shift
+30 orologio watch O clock shift case
+31 orologio watch O clock shift cinturino band
+ .O clock cinturini opalini opal straps
+34 cinturino strap O clock cinturino opalino
 35 cinturino strap O clock cinturino opalino sorbetto
+
 .O bag flower power
-04. O bag new products 2017 
-code OBAGB002 EVS15 
+04.   O bag new products 2017
+code OBAGB002 EVS15
 descrizione scocca O bag mini flower 
-power 
-materiale EVA compound 
+power
+materiale EVA compound
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description O bag mini body flower 
-power 
-material EVA compound 
+power
+material EVA compound
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
-O bag mini flower power .scocche bodies 
+bags
+O bag mini flower power .scocche bodies
 col. 067 
-phard 
-phard 
-col. 136 
-becco d’oca 
-duck beack 
+phard
+phard
+col. 136
+becco dâ€™oca
+duck beack
 col. 131 
-verde antico 
-antique green 
+verde antico
+antique green
 col. 006 
-avorio 
+avorio
 ivory
-O bag flower power 05. 
-code OBAGB017 EVS15 
+O bag flower power   05.
+code OBAGB017 EVS15
 descrizione scocca O moon light flower 
-power 
-materiale EVA compound 
+power
+materiale EVA compound
 abbinamenti manici e tracolle - sacche 
-interne 
-description O moon light body 
-material EVA compound 
+interne
+description O moon light body
+material EVA compound
 components handles and shoulder 
-straps - inner bags 
-O moon light flower power.scocche bodies 
+straps - inner bags
+O moon light flower power.scocche bodies
 col. 067 
-phard 
-phard 
+phard
+phard
 col. 131 
-verde antico 
-antique green 
+verde antico
+antique green
 col. 108 
-terracotta 
-terracotta 
+terracotta
+terracotta
 col. 006 
-avorio 
+avorio
 ivory
-06. O bag new products 2017 
-col. 130 
-righe + fiori 
-stripes + flowers 
-code OBAGS002 TESE1 
-descrizione sacca interna O bag mini 
-materiale tessuto 
-abbinamenti O bag mini 
+06.   O bag new products 2017
+col. 130
+righe + fiori
+stripes + flowers
+code OBAGS002 TESE1
+descrizione sacca interna O bag mini
+materiale tessuto
+abbinamenti O bag mini
 description O bag mini inner 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 righe + fiori .sacca interna inner bag O bag mini
-O bag flower power 07. 
-col. 130 
-righe + fiori 
-stripes + flowers 
-code OBAGS002 TESE1 
+O bag flower power   07.
+col. 130
+righe + fiori
+stripes + flowers
+code OBAGS002 TESE1
 descrizione sacca interna O bag moon 
-light 
-materiale tessuto 
-abbinamenti O bag moon light 
+light
+materiale tessuto
+abbinamenti O bag moon light
 description O bag moon light inner 
-material fabric 
+material fabric
 components O bag moon light 
 righe + fiori .sacca interna inner bag O bag moon light 
-08. O bag new products 2017 
-gener 35/36 gener 35/36 gener 35/36 
-gener 39 gener 39 gener 39 
-gener 40 gener 40 gener 40 
-gener 41/42 gener 41/42 gener 41/42 
-gener 37 gener 37 gener 37 
-gener 38 gener 38 gener 38 
-col. 008 
-bianco 
-white 
+08.   O bag new products 2017
+gener 35/36 gener 35/36 gener 35/36
+gener 39 gener 39 gener 39
+gener 40 gener 40 gener 40
+gener 41/42 gener 41/42 gener 41/42
+gener 37 gener 37 gener 37
+gener 38 gener 38 gener 38
+col. 008
+bianco
+white
 col. 136 
-becco d’oca 
-duck beack 
-col. 067 
-phard 
-phard 
-code OSHSD002 EVS15 
+becco dâ€™oca
+duck beack
+col. 067
+phard
+phard
+code OSHSD002 EVS15
 descrizione O shoes donna high EVA 
-compound 
-materiale EVA compound 
+compound
+materiale EVA compound
 description women O shoes high EVA 
-compound 
-material EVA compound 
+compound
+material EVA compound
 high .donna woman O shoes flower power
-O bag flower power 09. 
-gener 35/36 gener 35/36 
-gener 39 gener 39 
-gener 40 gener 40 
-gener 41/42 gener 41/42 
-gener 37 gener 37 
-gener 38 gener 38 
-col. 131 
-verde antico 
-antique green 
-col. 139 
-mela 
+O bag flower power   09.
+gener 35/36 gener 35/36
+gener 39 gener 39
+gener 40 gener 40
+gener 41/42 gener 41/42
+gener 37 gener 37
+gener 38 gener 38
+col. 131
+verde antico
+antique green
+col. 139
+mela
 apple
-10. O bag new products 2017 
+10.   O bag new products 2017
 col. 139 
-mela 
-apple 
-col. 136 
-becco d’oca 
-duck beack 
-col. 108 
-terracotta 
-terracotta 
+mela
+apple
+col. 136
+becco dâ€™oca
+duck beack
+col. 108
+terracotta
+terracotta
 col. 067 
-phard 
-phard 
-col. 133 
-grigio chiaro 
-light grey 
-col. 119 
-fragola 
-strawberry 
+phard
+phard
+col. 133
+grigio chiaro
+light grey
+col. 119
+fragola
+strawberry
 col. 008 
-bianco 
-white 
+bianco
+white
 col. 017 
-blu navy 
-navy blue 
-col. 055 
-nero 
-black 
+blu navy
+navy blue
+col. 055
+nero
+black
 col. 069 
-porpora 
-purple 
+porpora
+purple
 col. 002 
-amaranto 
-amaranth 
+amaranto
+amaranth
 col. 001 
-acqua 
-water 
+acqua
+water
 col. 137 
-bluette 
-bright blue 
-code ACCEC007 EVS00 
+bluette
+bright blue
+code ACCEC007 EVS00
 descrizione accessorio fiori grandi in EVA 
-compound 
-materiale EVA compound 
-abbinamenti O shoes 
+compound
+materiale EVA compound
+abbinamenti O shoes
 description accessories big flowers in 
-EVA compund 
-materiale EVA compund 
-components O shoes 
-big .fiori flowers 
-big 
-big 
-big 
-big 
-big 
-big big 
-big 
-big 
-big 
-big big 
-big 
-big 
-col. 131 
-verde antico 
+EVA compund
+materiale EVA compund
+components O shoes
+big .fiori flowers
+big
+big
+big
+big
+big
+bigbig
+big
+big
+big
+bigbig
+big
+big
+col. 131
+verde antico
 antique green
-O bag flower power 11. 
+O bag flower power   11.
 col. 067 
-phard 
-phard 
+phard
+phard
 col. 139 
-mela 
-apple 
-col. 133 
-grigio chiaro 
-light grey 
-col. 119 
-fragola 
-strawberry 
+mela
+apple
+col. 133
+grigio chiaro
+light grey
+col. 119
+fragola
+strawberry
 col. 008 
-bianco 
-white 
-col. 136 
-becco d’oca 
-duck beack 
-col. 108 
-terracotta 
-terracotta 
+bianco
+white
+col. 136
+becco dâ€™oca
+duck beack
+col. 108
+terracotta
+terracotta
 col. 017 
-blu navy 
-navy blue 
-col. 055 
-nero 
-black 
+blu navy
+navy blue
+col. 055
+nero
+black
 col. 069 
-porpora 
-purple 
+porpora
+purple
 col. 002 
-amaranto 
-amaranth 
+amaranto
+amaranth
 col. 001 
-acqua 
-water 
+acqua
+water
 col. 137 
-bluette 
-bright blue 
-code ACCEC007 EVS00 
+bluette
+bright blue
+code ACCEC007 EVS00
 descrizione accessorio fiori piccoli in 
-EVA compound 
-materiale EVA compound 
-abbinamenti O shoes 
+EVA compound
+materiale EVA compound
+abbinamenti O shoes
 description accessories small flowers in 
-EVA compund 
-materiale EVA compund 
-components O shoes 
-small .fiori flowers 
-small 
-small 
-small small 
-small 
-small 
-small 
-small small 
-small 
-small 
-small 
-small 
-small 
-col. 131 
-verde antico 
+EVA compund
+materiale EVA compund
+components O shoes
+small .fiori flowers
+small
+small
+smallsmall
+small
+small
+small
+smallsmall
+small
+small
+small
+small
+small
+col. 131
+verde antico
 antique green
+
 .O bag flower hole
-14. O bag new products 2017 
-code OBAGB002 EVS15 
-descrizione scocca O bag flower Hole 
-materiale EVA compound 
+14.   O bag new products 2017
+code OBAGB002 EVS15
+descrizione scocca O bag flower Hole
+materiale EVA compound
 abbinamenti manici e tracolle - bordi - 
-chiusure street - sacche interne 
+chiusure street - sacche interne
 description O bag mini body flower 
-power 
-material EVA compound 
+power
+material EVA compound
 components handles and shoulder 
 straps - trims - street fastening - inner 
-bags 
-O bag flower hole .scocche bodies 
+bags
+O bag flower hole .scocche bodies
 col. 067 
-phard 
-phard 
-col. 008 
-bianco 
-white 
+phard
+phard
+col. 008
+bianco
+white
 col. 131 
-verde antico 
-antique green 
+verde antico
+antique green
 col. 001 
-acqua 
-water 
-col. 108 
-terracotta 
-terracotta 
-col. 133 
-grigio chiaro 
-light gray 
-col. 137 
-bluette 
-bright blue 
-col. 017 
-blu navy 
-navy blue 
-col. 119 
-fragola 
-strawberry 
-col. 136 
-becco d’oca 
-duck beack 
-col. 055 
-nero 
-black 
-col. 139 
-mela 
-apple 
+acqua
+water
+col. 108
+terracotta
+terracotta
+col. 133
+grigio chiaro
+light gray
+col. 137
+bluette
+bright blue
+col. 017
+blu navy
+navy blue
+col. 119
+fragola
+strawberry
+col. 136
+becco dâ€™oca
+duck beack
+col. 055
+nero
+black
+col. 139
+mela
+apple
 col. 002 
-amaranto 
-amaranth 
+amaranto
+amaranth
 col. 069 
-porpora 
+porpora
 purple
-O bag flower hole 15. 
-col. 262 
-fucsia fluo 
-fluo fuchsia 
-col. 261 
-lime fluo 
-fluo lime 
-col. 496 
-turchese fluo 
-fluo turquoise 
-code OBAGS001 TES26 
+O bag flower hole   15.
+col. 262
+fucsia fluo
+fluo fuchsia
+col. 261
+lime fluo
+fluo lime
+col. 496
+turchese fluo
+fluo turquoise
+code OBAGS001 TES26
 descrizione sacca interna O bag tessuto 
-cordura 
-materiale tessuto 
-abbinamenti O bag 
+cordura
+materiale tessuto
+abbinamenti O bag
 description cordura fabric O bag inner 
-bag 
-material fabric 
-components O bag 
+bag
+material fabric
+components O bag
 cordura .sacca interna inner bag O bag
-.O bag sacche interne e tracolle 
-O bag inner bags and shoulder straps 
-18. O bag new products 2017 
-col. 248 
-ecru/blu 
-ecru/blue 
-col. 439 
-bluette/arancione 
-bright blue/orange 
-code OBAGS001 TESA5 
+
+.O bag sacche interne e tracolle
+ O bag inner bags and shoulder straps 
+18.   O bag new products 2017
+col. 248
+ecru/blu
+ecru/blue
+col. 439
+bluette/arancione
+bright blue/orange
+code OBAGS001 TESA5
 descrizione sacca interna zip O bag 
-tessuto righe 
-materiale tessuto 
-abbinamenti O bag 
+tessuto righe
+materiale tessuto
+abbinamenti O bag
 description stripes fabric O bag inner zip 
-up bag 
-material fabric 
-components O bag 
+up bag
+material fabric
+components O bag
 righe .sacca interna inner bag O bag
-O bag righe O bag stripes 19. 
-code SHOUWA00 ECS36 
+O bag righe O bag stripes   19.
+code SHOUWA00 ECS36
 descrizione tracolla new goccia forata 
-corta ecopelle + tessuto righe 
-materiale ecopelle + tessuto 
+corta ecopelle + tessuto righe
+materiale ecopelle + tessuto
 abbinamenti O bag - O bag mini - O bag 
-‘50 - O city 
+â€˜50 - O city
 description new shoulder strap pierced 
-tear drop faux leather + stripes fabric 
-material faux leather + fabric 
+tear drop faux leather + stripes fabric
+material faux leather + fabric
 components O bag - O bag mini - O bag 
-‘50 - O city 
-code SHOUWC00 ECS23 
+â€˜50 - O city
+code SHOUWC00 ECS23
 descrizione tracolla new goccia forata 
-corta ecopelle + fantasia etnica 
-materiale ecopelle + tessuto 
+corta ecopelle + fantasia etnica
+materiale ecopelle + tessuto
 abbinamenti O bag - O bag mini - O bag 
-‘50 - O city 
+â€˜50 - O city
 description new shoulder strap pierced 
-tear drop faux leather + stripes fabric 
-material faux leather + fabric 
+tear drop faux leather + stripes fabric
+material faux leather + fabric
 components O bag - O bag mini - O bag 
-‘50 - O city 
-righe .tracolla shoulder strap O bag 
-fantasia etnica .tracolla shoulder strap O bag 
-col. 248 
-ecru/blu 
-ecru/blue 
-col. 009 
-blu 
-blue 
-col. 439 
-bluette/arancione 
-bright blue/orange 
-col. 371 
-latte 
+â€˜50 - O city
+righe .tracolla shoulder strap O bag
+fantasia etnica .tracolla shoulder strap O bag
+col. 248
+ecru/blu
+ecru/blue
+col. 009
+blu
+blue
+col. 439
+bluette/arancione
+bright blue/orange
+col. 371
+latte
 milk
-20. O bag new products 2017 
-code SHOUWC00 ECS48 
+20.   O bag new products 2017
+code SHOUWC00 ECS48
 descrizione tracolla new goccia forata 
-corta O swing ecopelle + tessuto optical 
-materiale ecopelle + tessuto 
-abbinamenti O swing 
+corta O swing ecopelle + tessuto optical
+materiale ecopelle + tessuto
+abbinamenti O swing
 description new shoulder strap pierced 
 tear drop O swing faux leather + optical 
-fabric 
-material faux leather + fabric 
-components O swing 
-code SHOUWC00 ECS49 
+fabric
+material faux leather + fabric
+components O swing
+code SHOUWC00 ECS49
 descrizione maxi tracolla new goccia 
 forata corta O swing ecopelle + fantasia 
-ecopelle perline 
-materiale ecopelle + tessuto 
-abbinamenti O swing 
+ecopelle perline
+materiale ecopelle + tessuto
+abbinamenti O swing
 description new maxi shoulder strap 
 pierced tear drop O swing faux leather + 
-faux leather pearls texture 
-material faux leather + fabric 
-components O swing 
-fantasia optical .tracolla shoulder strap O bag 
-fantasia effetto perline .tracolla shoulder strap O bag 
-col. 093 
-vino 
+faux leather pearls texture
+material faux leather + fabric
+components O swing
+fantasia optical .tracolla shoulder strap O bag
+fantasia effetto perline .tracolla shoulder strap O bag
+col. 093
+vino
 wine 
-col. 444 
-black/white 
-col. 439 
-smeraldo/giallo 
-emerald/yellow
-O bag righe O bag stripes 21.
-.O swing sacche interne e tracolle 
-O swing inner bags and shoulder straps 
-24. O bag new products 2017 
-col. 009 
-blu 
-blue 
-col. 009 
-blu 
-blue 
-col. 371 
-latte 
-milk 
-code OBAGS121 TES74 
-descrizione sacca interna coulisse 
-O swing fantasia etnica 
-materiale tessuto 
-abbinamenti O swing 
-description ethnic pattern O swing 
-drawstring inner bag 
-material fabric 
-components O swing 
-code OBAGS121 TESA5 
-descrizione sacca interna coulisse 
-O swing fantasia righe 
-materiale tessuto 
-abbinamenti O swing 
-description stripes pattern O swing 
-drawstring inner bag 
-material fabric 
-components O swing 
-fantasia etnica .sacca interna inner bag O swing 
-fantasia righe .sacca interna inner bag O swing
-O bag righe O bag stripes 25. 
-col. 093 
-vino 
-wine 
-col. 055 
-nero 
-black 
-code OBAGS121 TESD4 
-descrizione sacca interna coulisse 
-O swing fantasia optical 
-materiale tessuto 
-abbinamenti O swing 
-description optical pattern O swing 
-drawstring inner bag 
-material fabric 
-components O swing 
-code OBAGS121 TES01 
-descrizione sacca interna coulisse 
-O swing canvas 
-materiale tessuto 
-abbinamenti O swing 
-description canvas O swing drawstring 
-inner bag 
-material fabric 
-components O swing 
-fantasia optical .sacca interna inner bag O swing 
-canvas .sacca interna inner bag O swing
-26. O bag new products 2017 
-code SHOUW300 ECS48 
-descrizione tracolla new clip lunga 
-ecopelle + fantasia optical 
-materiale ecopelle + tessuto 
-abbinamenti O swing - accessori 
-O swing 
-description faux leather new clip long 
-shoulder strap + optical pattern 
-material faux leather + fabric 
-components O swing bodies - inner bags 
-- accessories 
-fantasia optical .tracolla shoulder strap O swing 
-col. 093 
-vino 
-wine 
-code SHOUW300 ECS23 
-descrizione tracolla new clip lunga 
-ecopelle + fantasia etnica 
-materiale ecopelle + tessuto 
-abbinamenti O swing - accessori0 
-O swing 
-description faux leather new clip long 
-shoulder strap + ethnic pattern 
-material faux leather + fabric 
-components O swing bodies - inner bags 
-- accessories 
-fantasia etnica .tracolla shoulder strap O swing 
-col. 009 
-blu 
-blue 
-col. 371 
-latte 
-milk
-O bag righe O bag stripes 27. 
-code SHOUW300 ECS23 
-descrizione tracolla new clip lunga 
-ecopelle + fantasia effetto perline 
-materiale ecopelle + tessuto 
-abbinamenti O swing - accessori 
-O swing 
-description faux leather new clip long 
-shoulder strap + small pearls effect 
-material faux leather + fabric 
-components O swing bodies - inner bags 
-- accessories 
-fantasia effetto perline .tracolla shoulder strap O swing 
-col. 444 
-smeraldo/giallo 
-emerald/yellow 
-col. 227 
-bianco/nero 
+col. 444
 black/white
-.O clock shift
-30. O bag new products 2017 
-col. 008 
-bianco 
-white 
-col. 063 
-ottanio 
-teal 
-col. 059 
-oceano 
-ocean 
-col. 422 
-sangria 
-sangria 
-col. 060 
-oliva 
-olive 
-col. 036 
-giallo 
-yellow 
-col. 076 
-rosso 
-red 
-col. 055 
-nero 
-black 
-code OCLKE013 MAS00 
-descrizione case O clock shift classic 
-slim plastic material 
-abbinamenti cinturino band O clock shift 
-- meccanismo O clock 
-description O clock shift case classic 
-slim plastic material 
-components O clock shift band strap - 
-O clock dial 
-classic slim .case case O clock shift
-O clock shift 31. 
-col. 008 
-bianco 
-white 
-col. 063 
-ottanio 
-teal 
-col. 059 
-oceano 
-ocean 
-col. 422 
-sangria 
-sangria 
-col. 060 
-oliva 
-olive 
-col. 036 
-giallo 
-yellow 
-col. 076 
-rosso 
-red 
-col. 055 
-nero 
-black 
-code OCLKSB01 MAS 
-descrizione cinturino band O clock shift 
-abbinamenti case O clock shift - 
-meccanismo O clock 
-description O clock shift band strap 
-components O clock shift case - O clock 
-dial 
-band .cinturino strap O clock shift
-.cinturini opalini opal straps
-34. O bag new products 2017 
-gener S 
-gener S 
-gener S 
-gener S 
-gener S 
-gener M 
-gener M 
-gener M 
-gener M 
-gener M 
-gener L 
-gener L 
-gener L 
-gener L 
-gener L 
-col. 003 
-arancione 
-orange 
-col. 076 
-rosso 
-red 
-col. 009 
-blu 
+col. 439
+smeraldo/giallo
+emerald/yellow
+O bag righe O bag stripes   21.
+
+.O swing sacche interne e tracolle
+ O swing inner bags and shoulder straps 
+24.   O bag new products 2017
+col. 009
+blu
+blue
+col. 009
+blu
+blue
+col. 371
+latte
+milk
+code OBAGS121 TES74
+descrizione sacca interna coulisse 
+O swing fantasia etnica
+materiale tessuto
+abbinamenti O swing
+description ethnic pattern O swing 
+drawstring inner bag
+material fabric
+components O swing
+code OBAGS121 TESA5
+descrizione sacca interna coulisse 
+O swing fantasia righe
+materiale tessuto
+abbinamenti O swing
+description stripes pattern O swing 
+drawstring inner bag
+material fabric
+components O swing
+fantasia etnica .sacca interna inner bag O swing
+fantasia righe .sacca interna inner bag O swing
+O bag righe O bag stripes   25.
+col. 093
+vino
+wine
+col. 055
+nero
+black
+code OBAGS121 TESD4
+descrizione sacca interna coulisse 
+O swing fantasia optical
+materiale tessuto
+abbinamenti O swing
+description optical pattern O swing 
+drawstring inner bag
+material fabric
+components O swing
+code OBAGS121 TES01
+descrizione sacca interna coulisse 
+O swing canvas
+materiale tessuto
+abbinamenti O swing
+description canvas O swing drawstring 
+inner bag
+material fabric
+components O swing
+fantasia optical .sacca interna inner bag O swing
+canvas .sacca interna inner bag O swing
+26.   O bag new products 2017
+code SHOUW300 ECS48
+descrizione tracolla new clip lunga 
+ecopelle + fantasia optical
+materiale ecopelle + tessuto
+abbinamenti O swing - accessori 
+O swing
+description faux leather new clip long 
+shoulder strap + optical pattern
+material faux leather + fabric
+components O swing bodies - inner bags 
+- accessories
+fantasia optical .tracolla shoulder strap O swing
+col. 093
+vino
+wine 
+code SHOUW300 ECS23
+descrizione tracolla new clip lunga 
+ecopelle + fantasia etnica
+materiale ecopelle + tessuto
+abbinamenti O swing - accessori0 
+O swing
+description faux leather new clip long 
+shoulder strap + ethnic pattern
+material faux leather + fabric
+components O swing bodies - inner bags 
+- accessories
+fantasia etnica .tracolla shoulder strap O swing 
+col. 009
+blu
 blue 
+col. 371
+latte
+milk
+O bag righe O bag stripes   27.
+code SHOUW300 ECS23
+descrizione tracolla new clip lunga 
+ecopelle + fantasia effetto perline
+materiale ecopelle + tessuto
+abbinamenti O swing - accessori 
+O swing
+description faux leather new clip long 
+shoulder strap + small pearls effect
+material faux leather + fabric
+components O swing bodies - inner bags 
+- accessories
+fantasia effetto perline .tracolla shoulder strap O swing
+col. 444
+smeraldo/giallo
+emerald/yellow 
+col. 227
+bianco/nero
+black/white
+
+.O clock shift
+30.   O bag new products 2017
+col. 008 
+bianco
+white
+col. 063 
+ottanio
+teal
+col. 059 
+oceano
+ocean
+col. 422 
+sangria
+sangria
+col. 060 
+oliva
+olive
+col. 036
+giallo
+yellow
+col. 076 
+rosso
+red
+col. 055 
+nero
+black
+code OCLKE013 MAS00
+descrizione case O clock shift classic 
+slim plastic material
+abbinamenti cinturino band O clock shift 
+- meccanismo O clock
+description O clock shift case classic 
+slim plastic material
+components O clock shift band strap - 
+O clock dial
+classic slim .case case O clock shift
+O clock shift   31.
+col. 008 
+bianco
+white
+col. 063 
+ottanio
+teal
+col. 059 
+oceano
+ocean
+col. 422 
+sangria
+sangria
+col. 060 
+oliva
+olive
+col. 036
+giallo
+yellow
+col. 076 
+rosso
+red
+col. 055 
+nero
+black
+code OCLKSB01 MAS
+descrizione cinturino band  O clock shift
+abbinamenti case O clock shift - 
+meccanismo O clock
+description O clock shift band strap
+components O clock shift case - O clock 
+dial
+band .cinturino strap O clock shift
+
+.cinturini opalini opal straps
+34.   O bag new products 2017
+gener S
+gener S
+gener S
+gener S
+gener S
+gener M
+gener M
+gener M
+gener M
+gener M
+gener L
+gener L
+gener L
+gener L
+gener L
+col. 003 
+arancione
+orange
+col. 076 
+rosso
+red
+col. 009 
+blu
+blue
 col. 184 
-trasparente 
-transparent 
+trasparente
+transparent
 col. 044 
-lime 
-lime 
-code OCLKS007 SIS04 
+lime
+lime
+code OCLKS007 SIS04
 descrizione O clock cinturino silicone 
 opalino 
-materiale silicone 
-abbinamenti meccanismo O clock 
-description opal silicone O clock strap 
-material silicone 
-components O clock dial 
-opalino .cinturino strap O clock 
-cinturini opalini opal straps 35. 
-gener S 
-gener S 
-gener S 
-gener S 
-gener S 
-gener M 
-gener M 
-gener M 
-gener M 
-gener M 
-gener L 
-gener L 
-gener L 
-gener L 
-gener L 
+materiale silicone
+abbinamenti meccanismo O clock
+description opal silicone O clock strap
+material silicone
+components O clock dial
+opalino .cinturino strap O clock  
+cinturini opalini opal straps   35.
+gener S
+gener S
+gener S
+gener S
+gener S
+gener M
+gener M
+gener M
+gener M
+gener M
+gener L
+gener L
+gener L
+gener L
+gener L
 col. 119 
-fragola 
-strawberry 
+fragola
+strawberry
 col. 212 
-limone 
-lemon 
+limone
+lemon
 col. 495 
-arancia 
-orange 
+arancia
+orange
 col. 493 
-puffo 
-smurf blue 
+puffo
+smurf blue
 col. 494 
-menta 
-mint 
-code OCLKS007 SIS05 
+menta
+mint
+code OCLKS007 SIS05
 descrizione O clock cinturino silicone 
 opalino sorbetto 
-materiale silicone 
-abbinamenti meccanismo O clock 
+materiale silicone
+abbinamenti meccanismo O clock
 description opal sorbet silicone O clock 
-strap 
-material silicone 
-components O clock dial 
-opalino sorbetto .cinturino strap O clock 
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+strap
+material silicone
+components O clock dial
+opalino sorbetto .cinturino strap O clock  
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

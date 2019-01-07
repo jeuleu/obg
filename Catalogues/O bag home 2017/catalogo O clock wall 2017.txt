@@ -1,47 +1,48 @@
-O clock wall 
+O clock wall
 .it's time to watch
-OCLKM001 MES04 004 
+OCLKM001 MES04 004
 descrizione description O clock da parete soleil O clock 
-wall soleil 
-colore colour argento silver 
+wall soleil
+colore colour argento silver
 materiale material materiale plastico, vetro, lamierino di 
-metallo plastic material, glass, metal sheet 
-OCLKM001 MES04 061 
+metallo plastic material, glass, metal sheet
+OCLKM001 MES04 061
 descrizione description O clock da parete soleil O clock 
-wall soleil 
-colore colour oro gold 
+wall soleil
+colore colour oro gold
 materiale material materiale plastico, vetro, lamierino di 
-metallo plastic material, glass, metal sheet 
-OCLKM104 MES00 420 
+metallo plastic material, glass, metal sheet
+OCLKM104 MES00 420
 descrizione description O clock great date da parete O 
-clock great date wall 
-colore colour argento su nero silver on black 
+clock great date wall
+colore colour argento su nero silver on black
 materiale material materiale plastico, vetro, lamierino di 
-metallo plastic material, glass, metal sheet 
-OCLKM104 MES00 198 
+metallo plastic material, glass, metal sheet
+OCLKM104 MES00 198
+descrizione description  O clock great date da parete O 
+clock great date walll
+colore colour nero su bianco white on black
+materiale material materiale plastico, vetro, lamierino di 
+metallo plastic material, glass, metal sheet
+OCLKM104 MES00 421
+descrizione description  O clock great date da parete O 
+clock great date wall
+colore colour bianco su nero white on black
+materiale material materiale plastico, vetro, lamierino di 
+metallo plastic material, glass, metal sheet
+OCLKM104 MES00 419
 descrizione description O clock great date da parete O 
-clock great date walll 
-colore colour nero su bianco white on black 
+clock great date wall
+colore colour nero su argento black on silver
 materiale material materiale plastico, vetro, lamierino di 
-metallo plastic material, glass, metal sheet 
-OCLKM104 MES00 421 
-descrizione description O clock great date da parete O 
-clock great date wall 
-colore colour bianco su nero white on black 
-materiale material materiale plastico, vetro, lamierino di 
-metallo plastic material, glass, metal sheet 
-OCLKM104 MES00 419 
-descrizione description O clock great date da parete O 
-clock great date wall 
-colore colour nero su argento black on silver 
-materiale material materiale plastico, vetro, lamierino di 
-metallo plastic material, glass, metal sheet 
-O clock wall 
-2. 2017 home collection 
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+metallo plastic material, glass, metal sheet
+O clock wall
+2.   2017 home collection   
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
-OROLOGI CLOCKS .05
+
+OROLOGI CLOCKS   .05

@@ -1,1298 +1,1307 @@
-.borse bags 
-03 scocche body 
-04 scocche body O bag twist 
-05 scocche body O bag twist mini 
-06 scocche body O bag sand 
-09 manici handles 
-10 manici lunghi long handles 
-14 manici corti short handles 
-17 sacche interne inserts 
-18 sacche interne inner bags O bag 
-21 sacche interne inner bags O bag mini 
-24 sacche interne inner bags O bag beach 
-29 sacche interne inner bags O bag beach mini 
-30 sacche interne inner bags O bag beach micro 
-33 sacche interne inner bags O bag twist 
-36 sacche interne inner bags O bag twist mini 
-39 sacche interne inner bags O swing 
-43 zaini backpacks 
-44 O bag roll 
-45 O bag soft 
-47 accessori accessories 
-48 pouch zip zip pouch 
+
+
+ .borse bags
+03 scocche body
+04 scocche body O bag twist
+05 scocche body O bag twist mini
+06 scocche body O bag sand
+09 manici handles
+10 manici lunghi long handles
+14 manici corti short handles
+17 sacche interne inserts
+18 sacche interne inner bags O bag
+21 sacche interne inner bags O bag mini
+24 sacche interne inner bags O bag beach
+29 sacche interne inner bags O bag beach mini
+30 sacche interne inner bags O bag beach micro
+33 sacche interne inner bags O bag twist
+36 sacche interne inner bags O bag twist mini
+39 sacche interne inner bags O swing
+43 zaini backpacks
+44 O bag roll
+45 O bag soft
+47 accessori accessories
+48 pouch zip zip pouch
 51 pochette pochette 
 52 portachiavi key rings 
 53 teli mare beach towels
-scocche 
+
+scocche
 bodies
-04. O bag 4 SEASONS | ss ‘18 
-code OBAGB036 EVS00 
+04.   O bag   4 SEASONS | ss â€˜18
+code OBAGB036 EVS00
 descrizione scocca O bag twist EVA 
-compound 
-materiale EVA compound 
+compound
+materiale EVA compound
 abbinamenti manici - sacche interne O 
-bag twist 
+bag twist
 description O bag twist EVA compound 
-body 
-material EVA compound 
+body
+material EVA compound
 components handles - O bag twist inner 
-bags 
+bags
 col. 055 
-nero 
-black 
-col. 486 
-pink 
-pink 
-col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
-col. 479 
-skyway 
-skyway 
-col. 347 
-cedro 
-cedro 
-EVA compound .scocca body O bag twist 
-col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
-sangria 
-col. 139 
-mela 
-apple 
-col. 001 
-acqua 
-aqua
-scocche bodies 05. 
-code OBAGB037 EVS00 
-descrizione scocca O bag twist mini EVA 
-compound 
-materiale EVA compound 
-abbinamenti manici - sacche interne O 
-bag twist mini 
-description O bag twist mini EVA 
-compound body 
-material EVA compound 
-components handles - O bag twist inner 
-bags 
-col. 055 
-nero 
-black 
-col. 486 
-pink 
-pink 
-col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
-col. 479 
-skyway 
-skyway 
-col. 347 
-cedro 
-cedro 
-EVA compound .scocca body O bag twist mini 
-col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
-sangria 
-col. 017 
-blu navy 
-navy blue 
-col. 076 
-rosso 
-red
-06. O bag 4 SEASONS | ss ‘18 
-code OBAGB038 EVS00 
-descrizione scocca O bag sand EVA 
-compound 
-materiale EVA compound 
-abbinamenti manici - pouch zip O bag 
-sand 
-description O bag sand EVA compound 
-body 
-material EVA compound 
-components handles - O bag sand zip 
-pouch 
-col. 055 
-nero 
-black 
-col. 017 
-blu navy 
-navy blue 
-col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
-col. 479 
-skyway 
-skyway 
-col. 347 
-cedro 
-cedro 
-EVA compound .scocca body O bag sand 
-col. 485 
-atlantic 
-atlantic 
-col. 422 
-sangria 
-sangria 
-col. 486 
-pink 
+nero
+black
+col. 486
 pink
-scocche bodies 07.
-manici 
+pink
+col. 371
+latte
+milk
+col. 484
+coral
+coral
+col. 479
+skyway
+skyway
+col. 347
+cedro
+cedro
+EVA compound .scocca body O bag twist
+col. 026 
+cobalto
+cobalt blue
+col. 422
+sangria
+sangria
+col. 139
+mela
+apple
+col. 001
+acqua
+aqua
+scocche bodies   05.
+code OBAGB037 EVS00
+descrizione scocca O bag twist mini EVA 
+compound
+materiale EVA compound
+abbinamenti manici - sacche interne O 
+bag twist mini
+description O bag twist mini EVA 
+compound body
+material EVA compound
+components handles - O bag twist inner 
+bags
+col. 055 
+nero
+black
+col. 486
+pink
+pink
+col. 371
+latte
+milk
+col. 484
+coral
+coral
+col. 479
+skyway
+skyway
+col. 347
+cedro
+cedro
+EVA compound .scocca body O bag twist mini
+col. 026 
+cobalto
+cobalt blue
+col. 422
+sangria
+sangria
+col. 017
+blu navy
+navy blue
+col. 076
+rosso
+red
+06.   O bag   4 SEASONS | ss â€˜18
+code OBAGB038 EVS00
+descrizione scocca O bag sand EVA 
+compound
+materiale EVA compound
+abbinamenti manici - pouch zip O bag 
+sand
+description O bag sand EVA compound 
+body
+material EVA compound
+components handles - O bag sand zip 
+pouch
+col. 055 
+nero
+black
+col. 017
+blu navy
+navy blue
+col. 371
+latte
+milk
+col. 484
+coral
+coral
+col. 479
+skyway
+skyway
+col. 347
+cedro
+cedro
+EVA compound .scocca body O bag sand
+col. 485 
+atlantic
+atlantic
+col. 422
+sangria
+sangria
+col. 486
+pink
+pink
+scocche bodies   07.
+
+manici
 handles
-10. O bag 4 SEASONS | ss ‘18 
-code HLESG000 ROS10 
+10.   O bag   4 SEASONS | ss â€˜18
+code HLESG000 ROS10
 descrizione manico lungo corda cotone 
-intrecciato 
-materiale corda 
+intrecciato
+materiale corda
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description long weaved cotton rope 
-handle 
-material rope 
+handle
+material rope
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 055 
-nero 
-black 
-col. 486 
-pink 
-pink 
-col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
-col. 479 
-skyway 
-skyway 
-col. 347 
-cedro 
-cedro 
+nero
+black
+col. 486
+pink
+pink
+col. 371
+latte
+milk
+col. 484
+coral
+coral
+col. 479
+skyway
+skyway
+col. 347
+cedro
+cedro
 corda .manici lunghi long handles 
 col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
-sangria 
-col. 017 
-blu navy 
+cobalto
+cobalt blue
+col. 422
+sangria
+sangria
+col. 017
+blu navy
 navy blue
-manici handles 11. 
-code HLESU200 TESP5 
+manici handles   11.
+code HLESU200 TESP5
 descrizione manico foulard goccia 
-tessuto ocean waves 
-materiale tessuto 
+tessuto ocean waves
+materiale tessuto
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description long tear drop foulard ocean 
-waves fabric handle 
-material fabric 
+waves fabric handle
+material fabric
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 017 
-blu navy 
-navy blue 
+blu navy
+navy blue
 tessuto ocean waves .manici lunghi long handles 
-code HLESU200 TESP6 
+code HLESU200 TESP6
 descrizione manico foulard goccia 
-tessuto all over ibiscus 
-materiale tessuto 
+tessuto all over ibiscus
+materiale tessuto
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description long tear drop foulard all over 
-hibiscus fabric handle 
-material fabric 
+hibiscus fabric handle
+material fabric
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 422 
-sangria 
-sangria 
+sangria
+sangria
 tessuto all over ibiscus .manici lunghi long handles 
-12. O bag 4 SEASONS | ss ‘18 
-code HLESU200 TESP7 
+12.   O bag   4 SEASONS | ss â€˜18
+code HLESU200 TESP7
 descrizione manico foulard goccia 
-tessuto fireworks 
-materiale tessuto 
+tessuto fireworks
+materiale tessuto
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description long tear drop foulard 
-fireworks fabric handle 
-material fabric 
+fireworks fabric handle
+material fabric
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 125 
-multicolor 
-multicolor 
+multicolor
+multicolor
 tessuto fireworks .manici lunghi long handles 
-code HLESU200 TESP8 
+code HLESU200 TESP8
 descrizione manico foulard goccia 
-tessuto fruit mix 
-materiale tessuto 
+tessuto fruit mix
+materiale tessuto
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description long tear drop foulard fruit 
-mix fabric handle 
-material fabric 
+mix fabric handle
+material fabric
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 055 
-nero 
-black 
+nero
+black
 tessuto fruit mix .manici lunghi long handles 
-manici handles 13. 
-code HLESU200 TESQ7 
+manici handles   13.
+code HLESU200 TESQ7
 descrizione manico foulard goccia 
-tessuto tropical flowers 
-materiale tessuto 
+tessuto tropical flowers
+materiale tessuto
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description long tear drop foulard tropical 
-flowers fabric handle 
-material fabric 
+flowers fabric handle
+material fabric
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 125 
-multicolor 
-multicolor 
+multicolor
+multicolor
 tessuto tropical flowers .manici lunghi long handles 
-14. O bag 4 SEASONS | ss ‘18 
-code HLESGC00 PLS00 
+14.   O bag   4 SEASONS | ss â€˜18
+code HLESGC00 PLS00
 descrizione manico corto plexiglass + 
-goccia 
-materiale plexiglass 
+goccia
+materiale plexiglass
 abbinamenti O bag sand - O bag twist - 
 O bag twist mini - O bag beach - O bag 
 beach mini - O bag beach micro / O bag 
-- O bag mini 
+- O bag mini
 description short plexiglass handle + tear 
-drop 
-material plexiglass 
+drop
+material plexiglass
 components O bag sand - O bag twist - 
 O bag twist mini - O bag beach - O bag 
 beach mini - O bag beach micro / O bag 
-- O bag mini 
+- O bag mini
 col. 055 
-nero 
-black 
-col. 017 
-blu navy 
-navy blue 
-col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
-col. 479 
-skyway 
-skyway 
-col. 347 
-cedro 
-cedro 
-plexiglass .manici corti short handles O bag sand 
+nero
+black
+col. 017
+blu navy
+navy blue
+col. 371
+latte
+milk
+col. 484
+coral
+coral
+col. 479
+skyway
+skyway
+col. 347
+cedro
+cedro
+plexiglass .manici corti short handles O bag sand
 col. 485 
-atlantic 
-atlantic 
-col. 486 
-pink 
+atlantic
+atlantic
+col. 486
 pink
-manici handles 15. 
-code HLESGC00 ROS10 
+pink
+manici handles   15.
+code HLESGC00 ROS10
 descrizione manico corto corda cotone 
-intrecciato 
-materiale corda 
+intrecciato
+materiale corda
 abbinamenti O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 description short weaved cotton rope 
 handle 
-material rope 
+material rope
 components O bag twist - O bag twist 
 mini - O bag beach - O bag beach mini - 
-O bag beach micro / O bag - O bag mini 
+O bag beach micro / O bag - O bag mini
 col. 055 
-nero 
-black 
-col. 486 
-pink 
-pink 
-col. 371 
-latte 
-milk 
-col. 484 
-coral 
-coral 
-col. 479 
-skyway 
-skyway 
-col. 347 
-cedro 
-cedro 
+nero
+black
+col. 486
+pink
+pink
+col. 371
+latte
+milk
+col. 484
+coral
+coral
+col. 479
+skyway
+skyway
+col. 347
+cedro
+cedro
 corda .manici corti short handles 
 col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
-sangria 
-col. 017 
-blu navy 
-navy blue
-sacche interne 
-inner bags
-18. O bag 4 SEASONS | ss ‘18 
-code OBAGS001 TESP5 
-descrizione sacca interna zip O bag 
-tessuto ocean waves 
-materiale tessuto 
-abbinamenti O bag 
-description O bag ocean waves fabric 
-inner zip-up bag 
-material fabric 
-components O bag 
-col. 017 
-blu navy 
-navy blue 
-tessuto ocean waves .sacca interna zip inner zip up bag O bag 
-code OBAGS001 TESQ7 
-descrizione sacca interna zip O bag 
-tessuto tropical flowers 
-materiale tessuto 
-abbinamenti O bag 
-description O bag tropical flowers fabric 
-inner zip-up bag 
-material fabric 
-components O bag 
-col. 125 
-multicolor 
-multicolor 
-tessuto tropical flowers .sacca interna zip inner zip up bag O bag
-sacche interne inner bags 19. 
-code OBAGS001 TESP6 
-descrizione sacca interna zip O bag 
-tessuto all over ibiscus 
-materiale tessuto 
-abbinamenti O bag 
-description O bag all over hibiscus fabric 
-inner zip-up bag 
-material fabric 
-components O bag 
-col. 422 
-sangria 
-sangria 
-tessuto all over ibiscus .sacca interna zip inner zip up bag O bag 
-code OBAGS001 TESP7 
-descrizione sacca interna zip O bag 
-tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag 
-description O bag fireworks fabric inner 
-zip-up bag 
-material fabric 
-components O bag 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag
-20. O bag 4 SEASONS | ss ‘18 
-code OBAGS001 TESQ1 
-descrizione sacca interna zip O bag 
-tessuto popsicle optical 
-materiale tessuto 
-abbinamenti O bag 
-description O bag popsicle optical fabric 
-inner zip-up bag 
-material fabric 
-components O bag 
-col. 486 
-pink 
-pink 
-tessuto popsicle optical .sacca interna zip inner zip up bag O bag 
-code OBAGS001 TESQ4 
-descrizione sacca interna zip O bag 
-tessuto ice cream 
-materiale tessuto 
-abbinamenti O bag 
-description O bag ice cream fabric inner 
-zip-up bag 
-material fabric 
-components O bag 
-col. 215 
-crema 
-cream 
-tessuto ice cream .sacca interna zip inner zip up bag O bag
-sacche interne inner bags 21. 
-code OBAGS002 TESP5 
-descrizione sacca interna zip O bag mini 
-tessuto ocean waves 
-materiale tessuto 
-abbinamenti O bag mini 
-description O bag mini ocean waves 
-fabric inner zip-up bag 
-material fabric 
-components O bag mini 
-col. 017 
-blu navy 
-navy blue 
-tessuto ocean waves .sacca interna zip inner zip up bag O bag mini 
-code OBAGS002 TESQ7 
-descrizione sacca interna zip O bag mini 
-tessuto tropical flowers 
-materiale tessuto 
-abbinamenti O bag mini 
-description O bag mini tropical flowers 
-fabric inner zip-up bag 
-material fabric 
-components O bag mini 
-col. 125 
-multicolor 
-multicolor 
-tessuto tropical flowers .sacca interna zip inner zip up bag O bag mini
-22. O bag 4 SEASONS | ss ‘18 
-code OBAGS002 TESP7 
-descrizione sacca interna zip O bag mini 
-tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag mini 
-description O bag mini fireworks fabric 
-inner zip-up bag 
-material fabric 
-components O bag mini 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag mini 
-code OBAGS002 TESQ1 
-descrizione sacca interna zip O bag mini 
-tessuto popsicle optical 
-materiale tessuto 
-abbinamenti O bag mini 
-description O bag mini popsicle optical 
-fabric inner zip-up bag 
-material fabric 
-components O bag mini 
-col. 486 
-pink 
-pink 
-tessuto popsicle optical .sacca interna zip inner zip up bag O bag mini
-sacche interne inner bags 23. 
-code OBAGS002 TESQ4 
-descrizione sacca interna zip O bag mini 
-tessuto ice cream 
-materiale tessuto 
-abbinamenti O bag mini 
-description O bag mini ice cream fabric 
-inner zip-up bag 
-material fabric 
-components O bag mini 
-col. 215 
-crema 
-cream 
-tessuto ice cream .sacca interna zip inner zip up bag O bag mini
-24. O bag 4 SEASONS | ss ‘18 
-code OBAGS012 TES01 
-descrizione sacca interna zip O bag 
-beach tessuto canvas 
-materiale tessuto 
-abbinamenti O bag beach 
-description O bag beach canvas fabric 
-inner zip-up bag 
-material fabric 
-components O bag beach 
-col. 054 
-naturale 
-natural 
-col. 055 
-nero 
-black 
-tessuto canvas .sacca interna zip inner zip up bag O bag beach 
-code OBAGS012 TESP6 
-descrizione sacca interna zip O bag 
-beach tessuto all over ibiscus 
-materiale tessuto 
-abbinamenti O bag beach 
-description O bag beach all over hibiscus 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach 
-col. 422 
-sangria 
-sangria 
-tessuto all over ibiscus .sacca interna zip inner zip up bag O bag beach
-sacche interne inner bags 25. 
-code OBAGS012 TESP7 
-descrizione sacca interna zip O bag 
-beach tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag beach 
-description O bag beach fireworks fabric 
-inner zip-up bag 
-material fabric 
-components O bag beach 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag beach 
-code OBAGS012 TESQ7 
-descrizione sacca interna zip O bag 
-beach tessuto tropical flowers 
-materiale tessuto 
-abbinamenti O bag beach 
-description O bag beach tropical flowers 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach 
-col. 125 
-multicolor 
-multicolor 
-tessuto tropical flowers .sacca interna zip inner zip up bag O bag beach
-26. O bag 4 SEASONS | ss ‘18 
-code OBAGS112 MAS02 
-descrizione sacca interna coulisse O bag 
-beach tessuto gommato 
-materiale tessuto gommato 
-abbinamenti O bag beach 
-description O bag beach rubber-coated 
-fabric inner drawstring bag 
-material rubber fabric 
-components O bag beach 
-col. 227 
-bianco/nero 
-white/black 
-col. 233 
-bluette/nero 
-bluette/black 
-col. 234 
-mela/grigio 
-mela/grey 
-tessuto gommato .sacca interna coulisse drawstring inner bag O bag beach
-sacche interne inner bags 27. 
-code OBAGS018 TES01 
-descrizione sacca interna zip O bag 
-beach mini tessuto canvas 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description O bag beach mini canvas 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach mini 
-col. 054 
-naturale 
-natural 
-col. 055 
-nero 
-black 
-tessuto canvas .sacca interna zip inner zip up bag O bag beach mini 
-code OBAGS018 TESP5 
-descrizione sacca interna zip O bag 
-beach mini tessuto ocean waves 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description O bag beach mini ocean 
-waves fabric inner zip-up bag 
-material fabric 
-components O bag beach mini 
-col. 017 
-blu navy 
-navy blue 
-tessuto ocean waves .sacca interna zip inner zip up bag O bag beach mini
-28. O bag 4 SEASONS | ss ‘18 
-code OBAGS018 TESP6 
-descrizione sacca interna zip O bag 
-beach mini tessuto all over ibiscus 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description O bag beach mini all over 
-hibiscus fabric inner zip-up bag 
-material fabric 
-components O bag beach mini 
-col. 422 
-sangria 
-sangria 
-tessuto all over ibiscus .sacca interna zip inner zip up bag O bag beach mini 
-code OBAGS018 TESP7 
-descrizione sacca interna zip O bag 
-beach mini tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description O bag beach mini fireworks 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach mini 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag beach mini
-sacche interne inner bags 29. 
-code OBAGS018 TESP8 
-descrizione sacca interna zip O bag 
-beach mini tessuto fruit mix 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description O bag beach mini fruit mix 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach mini 
-col. 055 
-nero 
-black 
-tessuto fruit mix .sacca interna zip inner zip up bag O bag beach mini 
-code OBAGS118 MAS02 
-descrizione sacca interna coulisse O bag 
-beach mini tessuto gommato 
-materiale tessuto 
-abbinamenti O bag beach mini 
-description O bag beach mini rubber-coated 
-fabric inner drawstring bag 
-material fabric 
-components O bag beach mini 
-col. 159 
-total black 
-total black 
-col. 237 
-arancione/nero 
-orange/black 
-col. 235 
-giallo/grigio 
-yellow/grey 
-col. 236 
-arancione/grigio 
-orange/grey 
-tessuto gommato .sacca interna coulisse drawstring inner bag O bag beach mini
-30. O bag 4 SEASONS | ss ‘18 
-code OBAGS028 TES01 
-descrizione sacca interna zip O bag 
-beach micro tessuto canvas 
-materiale tessuto 
-abbinamenti O bag beach micro 
-description O bag beach micro canvas 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach micro 
-col. 054 
-naturale 
-natural 
-col. 055 
-nero 
-black 
-tessuto canvas .sacca interna zip inner zip up bag O bag beach micro 
-code OBAGS028 TESP5 
-descrizione sacca interna zip O bag 
-beach micro tessuto ocean waves 
-materiale tessuto 
-abbinamenti O bag beach micro 
-description O bag beach micro ocean 
-waves fabric inner zip-up bag 
-material fabric 
-components O bag beach micro 
-col. 017 
-blu navy 
-navy blue 
-tessuto ocean waves .sacca interna zip inner zip up bag O bag beach micro
-sacche interne inner bags 31. 
-code OBAGS028 TESP7 
-descrizione sacca interna zip O bag 
-beach micro tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag beach micro 
-description O bag beach micro fireworks 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach micro 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag beach micro 
-code OBAGS028 TESQ1 
-descrizione sacca interna zip O bag 
-beach micro tessuto popsicle optical 
-materiale tessuto 
-abbinamenti O bag beach micro 
-description O bag beach micro popsicle 
-optical fabric inner zip-up bag 
-material fabric 
-components O bag beach micro 
-col. 486 
-pink 
-pink 
-tessuto popsicle optical .sacca interna zip inner zip up bag O bag beach micro
-32. O bag 4 SEASONS | ss ‘18 
-code OBAGS028 TESQ4 
-descrizione sacca interna zip O bag 
-beach micro tessuto ice cream 
-materiale tessuto 
-abbinamenti O bag beach micro 
-description O bag beach micro ice cream 
-fabric inner zip-up bag 
-material fabric 
-components O bag beach micro 
-col. 215 
-crema 
-cream 
-tessuto ice cream .sacca interna zip inner zip up bag O bag beach micro
-33. O bag 4 SEASONS | ss ‘18 
-code OBAGS036 TES01 
-descrizione sacca interna zip O bag twist 
-tessuto canvas 
-materiale tessuto 
-abbinamenti O bag twist 
-description O bag twist canvas fabric 
-inner zip-up bag 
-material fabric 
-components O bag twist 
-col. 054 
-naturale 
-natural 
-col. 347 
-cedro 
-cedro 
-col. 008 
-bianco 
-white 
-col. 486 
-pink 
-pink 
-col. 055 
-nero 
-black 
-col. 484 
-coral 
-coral 
-tessuto canvas .sacca interna zip inner zip up bag O bag twist 
-col. 479 
-skyway 
-skyway 
-col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
+cobalto
+cobalt blue
+col. 422
 sangria
-34. O bag 4 SEASONS | ss ‘18 
-code OBAGS036 TESP7 
-descrizione sacca interna zip O bag twist 
-tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag twist 
-description O bag twist fireworks fabric 
-inner zip-up bag 
-material fabric 
-components O bag twist 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag twist 
-code OBAGS036 TESP8 
-descrizione sacca interna zip O bag twist 
-tessuto fruit mix 
-materiale tessuto 
-abbinamenti O bag twist 
-description O bag twist fruit mix fabric 
-inner zip-up bag 
-material fabric 
-components O bag twist 
-col. 055 
-nero 
-black 
-tessuto fruit mix .sacca interna zip inner zip up bag O bag twist
-sacche interne inner bags 35. 
-code OBAGS036 TESQ1 
-descrizione sacca interna zip O bag twist 
-tessuto popsicle optical 
-materiale tessuto 
-abbinamenti O bag twist 
-description O bag twist popsicle optical 
-fabric inner zip-up bag 
-material fabric 
-components O bag twist 
-col. 486 
-pink 
-pink 
-tessuto popsicle optical .sacca interna zip inner zip up bag O bag twist 
-code OBAGS036 TESQ7 
-descrizione sacca interna zip O bag twist 
-tessuto tropical flowers 
-materiale tessuto 
-abbinamenti O bag twist 
-description O bag twist tropical flowers 
-fabric inner zip-up bag 
-material fabric 
-components O bag twist 
-col. 125 
-multicolor 
-multicolor 
-tessuto tropical flowers .sacca interna zip inner zip up bag O bag twist
-sacche interne inner bags 36. 
-code OBAGS037 TES01 
-descrizione sacca interna zip O bag twist 
-mini tessuto canvas 
-materiale tessuto 
-abbinamenti O bag twist mini 
-description O bag twist mini canvas 
-fabric inner zip-up bag 
-material fabric 
-components O bag twist mini 
-col. 054 
-naturale 
-natural 
-col. 486 
-pink 
-pink 
-col. 008 
-bianco 
-white 
-col. 484 
-coral 
-coral 
-col. 055 
-nero 
-black 
-col. 479 
-skyway 
-skyway 
-tessuto canvas .sacca interna zip inner zip up bag O bag twist mini 
-col. 026 
-cobalto 
-cobalt blue 
-col. 076 
-rosso 
-red 
-col. 422 
-sangria 
-sangria 
-col. 017 
-blu navy 
+sangria
+col. 017
+blu navy
 navy blue
-sacche interne inner bags 37. 
-code OBAGS037 TESP6 
-descrizione sacca interna zip O bag twist 
-mini tessuto all over ibiscus 
-materiale tessuto 
-abbinamenti O bag twist mini 
-description O bag twist mini all over 
-hibiscus fabric inner zip-up bag 
-material fabric 
-components O bag twist mini 
-col. 422 
-sangria 
-sangria 
-tessuto all over ibiscus .sacca interna zip inner zip up bag O bag twist mini 
-code OBAGS037 TESP7 
-descrizione sacca interna zip O bag twist 
-mini tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag twist mini 
-description O bag twist mini fireworks 
-fabric inner zip-up bag 
-material fabric 
-components O bag twist mini 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna zip inner zip up bag O bag twist mini
-38. O bag 4 SEASONS | ss ‘18 
-code OBAGS037 TESP8 
-descrizione sacca interna zip O bag twist 
-mini tessuto fruit mix 
-materiale tessuto 
-abbinamenti O bag twist mini 
-description O bag twist mini fruit mix 
-fabric inner zip-up bag 
-material fabric 
-components O bag twist mini 
-col. 055 
-nero 
-black 
-tessuto fruit mix .sacca interna zip inner zip up bag O bag twist mini 
-code OBAGS037 TESQ4 
-descrizione sacca interna zip O bag twist 
-mini tessuto ice cream 
-materiale tessuto 
-abbinamenti O bag twist mini 
-description O bag twist mini ice cream 
-fabric inner zip-up bag 
-material fabric 
-components O bag twist mini 
-col. 215 
-crema 
-cream 
-tessuto ice cream .sacca interna zip inner zip up bag O bag twist mini
-sacche interne inner bags 39. 
-code OBAGS121 TESP6 
-descrizione sacca interna coulisse O 
-swing tessuto all over ibiscus 
-materiale tessuto 
-abbinamenti O swing 
-description O bag swing all over hibiscus 
-fabric inner drawstring bag 
-material fabric 
-components O swing 
-col. 422 
-sangria 
-sangria 
-tessuto all over ibiscus .sacca interna coulisse drawstring inner bag O swing 
-code OBAGS121 TESP8 
-descrizione sacca interna coulisse O 
-swing tessuto fruit mix 
-materiale tessuto 
-abbinamenti O swing 
-description O bag swing fruit mix fabric 
-inner drawstring bag 
-material fabric 
-components O swing 
-col. 055 
-nero 
-black 
-tessuto fruit mix .sacca interna coulisse drawstring inner bag O swing
-40. O bag 4 SEASONS | ss ‘18 
-code OBAGS121 TESQ1 
-descrizione sacca interna coulisse O 
-swing tessuto popsicle optical 
-materiale tessuto 
-abbinamenti O swing 
-description O bag swing popsicle optical 
-fabric inner drawstring bag 
-material fabric 
-components O swing 
-col. 486 
-pink 
-pink 
-tessuto popsicle optical .sacca interna coulisse drawstring inner bag O swing 
-code OBAGS121 TESQ4 
-descrizione sacca interna coulisse O 
-swing tessuto ice cream 
-materiale tessuto 
-abbinamenti O swing 
-description O bag swing ice cream fabric 
-inner drawstring bag 
-material fabric 
-components O swing 
-col. 215 
-crema 
-cream 
-tessuto ice cream .sacca interna coulisse drawstring inner bag O swing
-sacche interne inner bags 41. 
-code OBAGS121 TESP7 
-descrizione sacca interna coulisse O 
-swing tessuto fireworks 
-materiale tessuto 
-abbinamenti O swing 
-description O bag swing fireworks fabric 
-inner drawstring bag 
-material fabric 
-components O swing 
-col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .sacca interna coulisse drawstring inner bag O swing
-zaini 
-backpacks
-44. O bag 4 SEASONS | ss ‘18 
-code OBAGB439 EVS33 
-descrizione scocca completo O bag roll 
-EVA compound + tessuto gommato 
-materiale EVA compound + tessuto 
-abbinamenti spallaccio + chiusura O bag 
-roll 
-description O bag roll EVA compound + 
-rubber-coated fabric complete body 
-material EVA compound + fabric 
-components O bag roll shoulder strap + 
-fastening 
-col. 008 
-bianco 
-white 
+
+sacche interne
+inner bags
+18.   O bag   4 SEASONS | ss â€˜18
+code OBAGS001 TESP5
+descrizione sacca interna zip O bag 
+tessuto ocean waves
+materiale tessuto
+abbinamenti O bag
+description O bag ocean waves fabric 
+inner zip-up bag
+material fabric
+components O bag
 col. 017 
-blu navy 
-navy blue 
-col. 039 
-grigio 
-grey 
-col. 076 
-rosso 
-red 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-EVA compound + tessuto gommato .scocca body O bag roll 
-col. 347 
-cedro 
-cedro
-zaini backpack 45. 
-col. 484 
-coral 
-coral 
-code OBAGB413 TES20 
-descrizione scocca completo O bag soft 
-tessuto gommato 
-materiale tessuto 
-description O bag 50 soft rubber-coated 
-fabric complete body 
-material fabric 
-col. 055 
-nero 
-black 
-col. 008 
-bianco 
-white 
-col. 041 
-grigio scuro 
-dark grey 
-col. 347 
-cedro 
-cedro 
-col. 078 
-sabbia 
-sand 
-col. 485 
-atlantic 
-atlantic 
-col. 026 
-cobalto 
-cobalt blue 
-tessuto gommato .scocca completa complete body O bag soft
-accessori 
-accessories
-48. O bag 4 SEASONS | ss ‘18 
-code OBAGS438 TES01 
-descrizione pouch zip O bag sand 
-tessuto canvas 
-materiale tessuto 
-abbinamenti O bag sand 
-description O bag sand canvas fabric zip 
-pouch 
-material fabric 
-components O bag sand 
-col. 054 
-naturale 
-natural 
-col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
-tessuto canvas .pouch zip zip pouch 
-code OBAGS438 TESP6 
-descrizione pouch zip O bag sand 
-tessuto all over ibiscus 
-materiale tessuto 
-abbinamenti O bag sand 
-description O bag sand all over hibiscus 
-fabric zip pouch 
-material fabric 
-components O bag sand 
+blu navy
+navy blue
+tessuto ocean waves .sacca interna zip inner zip up bag O bag
+code OBAGS001 TESQ7
+descrizione sacca interna zip O bag 
+tessuto tropical flowers
+materiale tessuto
+abbinamenti O bag
+description O bag tropical flowers fabric 
+inner zip-up bag
+material fabric
+components O bag
+col. 125 
+multicolor
+multicolor
+tessuto tropical flowers .sacca interna zip inner zip up bag O bag
+sacche interne inner bags   19.
+code OBAGS001 TESP6
+descrizione sacca interna zip O bag 
+tessuto all over ibiscus
+materiale tessuto
+abbinamenti O bag
+description O bag all over hibiscus fabric 
+inner zip-up bag
+material fabric
+components O bag
 col. 422 
-sangria 
-sangria 
-tessuto all over ibiscus .pouch zip zip pouch 
-accessori accessories 49. 
-code OBAGS438 TESP7 
-descrizione pouch zip O bag sand 
-tessuto fireworks 
-materiale tessuto 
-abbinamenti O bag sand 
-description O bag sand fireworks fabric 
-zip pouch 
-material fabric 
-components O bag sand 
+sangria
+sangria
+tessuto all over ibiscus .sacca interna zip inner zip up bag O bag
+code OBAGS001 TESP7
+descrizione sacca interna zip O bag 
+tessuto fireworks
+materiale tessuto
+abbinamenti O bag
+description O bag fireworks fabric inner 
+zip-up bag
+material fabric
+components O bag
 col. 125 
-multicolor 
-multicolor 
-tessuto fireworks .pouch zip zip pouch 
-code OBAGS438 TESP8 
-descrizione pouch zip O bag sand 
-tessuto fruit mix 
-materiale tessuto 
-abbinamenti O bag sand 
-description O bag sand fruit mix fabric 
-zip pouch 
-material fabric 
-components O bag sand 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag
+20.   O bag   4 SEASONS | ss â€˜18
+code OBAGS001 TESQ1
+descrizione sacca interna zip O bag 
+tessuto popsicle optical
+materiale tessuto
+abbinamenti O bag
+description O bag popsicle optical fabric 
+inner zip-up bag
+material fabric
+components O bag
+col. 486 
+pink
+pink
+tessuto popsicle optical .sacca interna zip inner zip up bag O bag
+code OBAGS001 TESQ4
+descrizione sacca interna zip O bag 
+tessuto ice cream
+materiale tessuto
+abbinamenti O bag
+description O bag ice cream fabric inner 
+zip-up bag
+material fabric
+components O bag
+col. 215 
+crema
+cream
+tessuto ice cream .sacca interna zip inner zip up bag O bag
+sacche interne inner bags   21.
+code OBAGS002 TESP5
+descrizione sacca interna zip O bag mini 
+tessuto ocean waves
+materiale tessuto
+abbinamenti O bag mini
+description O bag mini ocean waves 
+fabric inner zip-up bag
+material fabric
+components O bag mini
+col. 017 
+blu navy
+navy blue
+tessuto ocean waves .sacca interna zip inner zip up bag O bag mini
+code OBAGS002 TESQ7
+descrizione sacca interna zip O bag mini 
+tessuto tropical flowers
+materiale tessuto
+abbinamenti O bag mini
+description O bag mini tropical flowers 
+fabric inner zip-up bag
+material fabric
+components O bag mini
+col. 125 
+multicolor
+multicolor
+tessuto tropical flowers .sacca interna zip inner zip up bag O bag mini
+22.   O bag   4 SEASONS | ss â€˜18
+code OBAGS002 TESP7
+descrizione sacca interna zip O bag mini 
+tessuto fireworks
+materiale tessuto
+abbinamenti O bag mini
+description O bag mini fireworks fabric 
+inner zip-up bag
+material fabric
+components O bag mini
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag mini
+code OBAGS002 TESQ1
+descrizione sacca interna zip O bag mini 
+tessuto popsicle optical
+materiale tessuto
+abbinamenti O bag mini
+description O bag mini popsicle optical 
+fabric inner zip-up bag
+material fabric
+components O bag mini
+col. 486 
+pink
+pink
+tessuto popsicle optical .sacca interna zip inner zip up bag O bag mini
+sacche interne inner bags   23.
+code OBAGS002 TESQ4
+descrizione sacca interna zip O bag mini 
+tessuto ice cream
+materiale tessuto
+abbinamenti O bag mini
+description O bag mini ice cream fabric 
+inner zip-up bag
+material fabric
+components O bag mini
+col. 215 
+crema
+cream
+tessuto ice cream .sacca interna zip inner zip up bag O bag mini
+24.   O bag   4 SEASONS | ss â€˜18
+code OBAGS012 TES01
+descrizione sacca interna zip O bag 
+beach tessuto canvas
+materiale tessuto
+abbinamenti O bag beach
+description O bag beach canvas fabric 
+inner zip-up bag
+material fabric
+components O bag beach
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+tessuto canvas .sacca interna zip inner zip up bag O bag beach
+code OBAGS012 TESP6
+descrizione sacca interna zip O bag 
+beach tessuto all over ibiscus
+materiale tessuto
+abbinamenti O bag beach
+description O bag beach all over hibiscus 
+fabric inner zip-up bag
+material fabric
+components O bag beach
+col. 422 
+sangria
+sangria
+tessuto all over ibiscus .sacca interna zip inner zip up bag O bag beach
+sacche interne inner bags   25.
+code OBAGS012 TESP7
+descrizione sacca interna zip O bag 
+beach tessuto fireworks
+materiale tessuto
+abbinamenti O bag beach
+description O bag beach fireworks fabric 
+inner zip-up bag
+material fabric
+components O bag beach
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag beach
+code OBAGS012 TESQ7
+descrizione sacca interna zip O bag 
+beach tessuto tropical flowers
+materiale tessuto
+abbinamenti O bag beach
+description O bag beach tropical flowers 
+fabric inner zip-up bag
+material fabric
+components O bag beach
+col. 125 
+multicolor
+multicolor
+tessuto tropical flowers .sacca interna zip inner zip up bag O bag beach
+26.   O bag   4 SEASONS | ss â€˜18
+code OBAGS112 MAS02
+descrizione sacca interna coulisse O bag 
+beach tessuto gommato
+materiale tessuto gommato
+abbinamenti O bag beach
+description O bag beach rubber-coated 
+fabric inner drawstring bag
+material rubber fabric
+components O bag beach
+col. 227 
+bianco/nero
+white/black
+col. 233
+bluette/nero
+bluette/black
+col. 234
+mela/grigio
+mela/grey
+tessuto gommato .sacca interna coulisse drawstring inner bag O bag beach
+sacche interne inner bags   27.
+code OBAGS018 TES01
+descrizione sacca interna zip O bag 
+beach mini tessuto canvas
+materiale tessuto
+abbinamenti O bag beach mini
+description O bag beach mini canvas 
+fabric inner zip-up bag
+material fabric
+components O bag beach mini
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+tessuto canvas .sacca interna zip inner zip up bag O bag beach mini
+code OBAGS018 TESP5
+descrizione sacca interna zip O bag 
+beach mini tessuto ocean waves
+materiale tessuto
+abbinamenti O bag beach mini
+description O bag beach mini ocean 
+waves fabric inner zip-up bag
+material fabric
+components O bag beach mini
+col. 017 
+blu navy
+navy blue
+tessuto ocean waves .sacca interna zip inner zip up bag O bag beach mini
+28.   O bag   4 SEASONS | ss â€˜18
+code OBAGS018 TESP6
+descrizione sacca interna zip O bag 
+beach mini tessuto all over ibiscus
+materiale tessuto
+abbinamenti O bag beach mini
+description O bag beach mini all over 
+hibiscus fabric inner zip-up bag
+material fabric
+components O bag beach mini
+col. 422 
+sangria
+sangria
+tessuto all over ibiscus .sacca interna zip inner zip up bag O bag beach mini
+code OBAGS018 TESP7
+descrizione sacca interna zip O bag 
+beach mini tessuto fireworks
+materiale tessuto
+abbinamenti O bag beach mini
+description O bag beach mini fireworks 
+fabric inner zip-up bag
+material fabric
+components O bag beach mini
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag beach mini
+sacche interne inner bags   29.
+code OBAGS018 TESP8
+descrizione sacca interna zip O bag 
+beach mini tessuto fruit mix
+materiale tessuto
+abbinamenti O bag beach mini
+description O bag beach mini fruit mix 
+fabric inner zip-up bag
+material fabric
+components O bag beach mini
 col. 055 
-nero 
-black 
-tessuto fruit mix .pouch zip zip pouch 
-50. O bag 4 SEASONS | ss ‘18 
-code OBAGS438 TESQ1 
-descrizione pouch zip O bag sand 
-tessuto popsicle optical 
-materiale tessuto 
-abbinamenti O bag sand 
-description O bag sand popsicle optical 
-fabric zip pouch 
-material fabric 
-components O bag sand 
-col. 486 
-pink 
-pink 
-tessuto popsicle optical .pouch zip zip pouch 
-code OBAGS438 TESQ7 
-descrizione pouch zip O bag sand 
-tessuto tropical flowers 
-materiale tessuto 
-abbinamenti O bag sand 
-description O bag sand tropical flowers 
-fabric zip pouch 
-material fabric 
-components O bag sand 
+nero
+black
+tessuto fruit mix .sacca interna zip inner zip up bag O bag beach mini
+code OBAGS118 MAS02
+descrizione sacca interna coulisse O bag 
+beach mini tessuto gommato
+materiale tessuto
+abbinamenti O bag beach mini
+description O bag beach mini rubber-
+coated fabric inner drawstring bag
+material fabric
+components O bag beach mini
+col. 159 
+total black
+total black
+col. 237
+arancione/nero
+orange/black
+col. 235
+giallo/grigio
+yellow/grey
+col. 236
+arancione/grigio
+orange/grey
+tessuto gommato .sacca interna coulisse drawstring inner bag O bag beach mini
+30.   O bag   4 SEASONS | ss â€˜18
+code OBAGS028 TES01
+descrizione sacca interna zip O bag 
+beach micro tessuto canvas
+materiale tessuto
+abbinamenti O bag beach micro
+description O bag beach micro canvas 
+fabric inner zip-up bag
+material fabric
+components O bag beach micro
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+tessuto canvas .sacca interna zip inner zip up bag O bag beach micro
+code OBAGS028 TESP5
+descrizione sacca interna zip O bag 
+beach micro tessuto ocean waves
+materiale tessuto
+abbinamenti O bag beach micro
+description O bag beach micro ocean 
+waves fabric inner zip-up bag
+material fabric
+components O bag beach micro
+col. 017 
+blu navy
+navy blue
+tessuto ocean waves .sacca interna zip inner zip up bag O bag beach micro
+sacche interne inner bags   31.
+code OBAGS028 TESP7
+descrizione sacca interna zip O bag 
+beach micro tessuto fireworks
+materiale tessuto
+abbinamenti O bag beach micro
+description O bag beach micro fireworks 
+fabric inner zip-up bag
+material fabric
+components O bag beach micro
 col. 125 
-multicolor 
-multicolor 
-tessuto tropical flowers .pouch zip zip pouch 
-accessori accessories 51. 
-code ACCEP001 TES20 
-descrizione accessorio pochette tessuto 
-gommato 
-materiale tessuto 
-description rubber-coated fabric 
-pochette accessory 
-material fabric 
-col. 485 
-atlantic 
-atlantic 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag beach micro
+code OBAGS028 TESQ1
+descrizione sacca interna zip O bag 
+beach micro tessuto popsicle optical
+materiale tessuto
+abbinamenti O bag beach micro
+description O bag beach micro popsicle 
+optical fabric inner zip-up bag
+material fabric
+components O bag beach micro
 col. 486 
-pink 
-pink 
+pink
+pink
+tessuto popsicle optical .sacca interna zip inner zip up bag O bag beach micro
+32.   O bag   4 SEASONS | ss â€˜18
+code OBAGS028 TESQ4
+descrizione sacca interna zip O bag 
+beach micro tessuto ice cream
+materiale tessuto
+abbinamenti O bag beach micro
+description O bag beach micro ice cream 
+fabric inner zip-up bag
+material fabric
+components O bag beach micro
+col. 215 
+crema
+cream
+tessuto ice cream .sacca interna zip inner zip up bag O bag beach micro
+33.   O bag   4 SEASONS | ss â€˜18
+code OBAGS036 TES01
+descrizione sacca interna zip O bag twist 
+tessuto canvas
+materiale tessuto
+abbinamenti O bag twist
+description O bag twist canvas fabric 
+inner zip-up bag
+material fabric
+components O bag twist
+col. 054 
+naturale
+natural
+col. 347
+cedro
+cedro
+col. 008
+bianco
+white
+col. 486
+pink
+pink
+col. 055
+nero
+black
+col. 484
+coral
+coral
+tessuto canvas .sacca interna zip inner zip up bag O bag twist
+col. 479 
+skyway
+skyway
+col. 026
+cobalto
+cobalt blue
+col. 422
+sangria
+sangria
+34.   O bag   4 SEASONS | ss â€˜18
+code OBAGS036 TESP7
+descrizione sacca interna zip O bag twist 
+tessuto fireworks
+materiale tessuto
+abbinamenti O bag twist
+description O bag twist fireworks fabric 
+inner zip-up bag
+material fabric
+components O bag twist
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag twist
+code OBAGS036 TESP8
+descrizione sacca interna zip O bag twist 
+tessuto fruit mix
+materiale tessuto
+abbinamenti O bag twist
+description O bag twist fruit mix fabric 
+inner zip-up bag
+material fabric
+components O bag twist
+col. 055 
+nero
+black
+tessuto fruit mix .sacca interna zip inner zip up bag O bag twist
+sacche interne inner bags   35.
+code OBAGS036 TESQ1
+descrizione sacca interna zip O bag twist 
+tessuto popsicle optical
+materiale tessuto
+abbinamenti O bag twist
+description O bag twist popsicle optical 
+fabric inner zip-up bag
+material fabric
+components O bag twist
+col. 486 
+pink
+pink
+tessuto popsicle optical .sacca interna zip inner zip up bag O bag twist
+code OBAGS036 TESQ7
+descrizione sacca interna zip O bag twist 
+tessuto tropical flowers
+materiale tessuto
+abbinamenti O bag twist
+description O bag twist tropical flowers 
+fabric inner zip-up bag
+material fabric
+components O bag twist
+col. 125 
+multicolor
+multicolor
+tessuto tropical flowers .sacca interna zip inner zip up bag O bag twist
+sacche interne inner bags   36.
+code OBAGS037 TES01
+descrizione sacca interna zip O bag twist 
+mini tessuto canvas
+materiale tessuto
+abbinamenti O bag twist mini
+description O bag twist mini canvas 
+fabric inner zip-up bag
+material fabric
+components O bag twist mini
+col. 054 
+naturale
+natural
+col. 486
+pink
+pink
+col. 008
+bianco
+white
+col. 484
+coral
+coral
+col. 055
+nero
+black
+col. 479
+skyway
+skyway
+tessuto canvas .sacca interna zip inner zip up bag O bag twist mini
 col. 026 
-cobalto 
-cobalt blue 
+cobalto
+cobalt blue
+col. 076
+rosso
+red
+col. 422
+sangria
+sangria
+col. 017
+blu navy
+navy blue
+sacche interne inner bags   37.
+code OBAGS037 TESP6
+descrizione sacca interna zip O bag twist 
+mini tessuto all over ibiscus
+materiale tessuto
+abbinamenti O bag twist mini
+description O bag twist mini all over 
+hibiscus fabric inner zip-up bag
+material fabric
+components O bag twist mini
+col. 422 
+sangria
+sangria
+tessuto all over ibiscus .sacca interna zip inner zip up bag O bag twist mini
+code OBAGS037 TESP7
+descrizione sacca interna zip O bag twist 
+mini tessuto fireworks
+materiale tessuto
+abbinamenti O bag twist mini
+description O bag twist mini fireworks 
+fabric inner zip-up bag
+material fabric
+components O bag twist mini
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .sacca interna zip inner zip up bag O bag twist mini
+38.   O bag   4 SEASONS | ss â€˜18
+code OBAGS037 TESP8
+descrizione sacca interna zip O bag twist 
+mini tessuto fruit mix
+materiale tessuto
+abbinamenti O bag twist mini
+description O bag twist mini fruit mix 
+fabric inner zip-up bag
+material fabric
+components O bag twist mini
+col. 055 
+nero
+black
+tessuto fruit mix .sacca interna zip inner zip up bag O bag twist mini
+code OBAGS037 TESQ4
+descrizione sacca interna zip O bag twist 
+mini tessuto ice cream
+materiale tessuto
+abbinamenti O bag twist mini
+description O bag twist mini ice cream 
+fabric inner zip-up bag
+material fabric
+components O bag twist mini
+col. 215 
+crema
+cream
+tessuto ice cream .sacca interna zip inner zip up bag O bag twist mini
+sacche interne inner bags   39.
+code OBAGS121 TESP6
+descrizione sacca interna coulisse O 
+swing tessuto all over ibiscus
+materiale tessuto
+abbinamenti O swing
+description O bag swing all over hibiscus 
+fabric inner drawstring bag
+material fabric
+components O swing
+col. 422 
+sangria
+sangria
+tessuto all over ibiscus .sacca interna coulisse drawstring inner bag O swing
+code OBAGS121 TESP8
+descrizione sacca interna coulisse O 
+swing tessuto fruit mix
+materiale tessuto
+abbinamenti O swing
+description O bag swing fruit mix fabric 
+inner drawstring bag
+material fabric
+components O swing
+col. 055 
+nero
+black
+tessuto fruit mix .sacca interna coulisse drawstring inner bag O swing
+40.   O bag   4 SEASONS | ss â€˜18
+code OBAGS121 TESQ1
+descrizione sacca interna coulisse O 
+swing tessuto popsicle optical
+materiale tessuto
+abbinamenti O swing
+description O bag swing popsicle optical 
+fabric inner drawstring bag
+material fabric
+components O swing
+col. 486 
+pink
+pink
+tessuto popsicle optical .sacca interna coulisse drawstring inner bag O swing
+code OBAGS121 TESQ4
+descrizione sacca interna coulisse O 
+swing tessuto ice cream
+materiale tessuto
+abbinamenti O swing
+description O bag swing ice cream fabric 
+inner drawstring bag
+material fabric
+components O swing
+col. 215 
+crema
+cream
+tessuto ice cream .sacca interna coulisse drawstring inner bag O swing
+sacche interne inner bags   41.
+code OBAGS121 TESP7
+descrizione sacca interna coulisse O 
+swing tessuto fireworks
+materiale tessuto
+abbinamenti O swing
+description O bag swing fireworks fabric 
+inner drawstring bag
+material fabric
+components O swing
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .sacca interna coulisse drawstring inner bag O swing
+
+zaini
+backpacks
+44.   O bag   4 SEASONS | ss â€˜18
+code OBAGB439 EVS33
+descrizione scocca completo O bag roll 
+EVA compound + tessuto gommato
+materiale EVA compound + tessuto
+abbinamenti spallaccio + chiusura O bag 
+roll
+description O bag roll EVA compound + 
+rubber-coated fabric complete body
+material EVA compound + fabric
+components O bag roll shoulder strap + 
+fastening
+col. 008 
+bianco
+white
+col. 017
+blu navy
+navy blue
+col. 039
+grigio
+grey
+col. 076
+rosso
+red
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+EVA compound + tessuto gommato .scocca body O bag roll
 col. 347 
-cedro 
-cedro 
+cedro
+cedro
+zaini backpack   45.
 col. 484 
-coral 
-coral 
-col. 078 
-sabbia 
-sand 
+coral
+coral
+code OBAGB413 TES20
+descrizione scocca completo O bag soft  
+tessuto gommato
+materiale tessuto
+description O bag 50 soft rubber-coated 
+fabric complete body
+material fabric
+col. 055 
+nero
+black
+col. 008 
+bianco
+white
+col. 041 
+grigio scuro
+dark grey
+col. 347
+cedro
+cedro
+col. 078
+sabbia
+sand
+col. 485
+atlantic
+atlantic
+col. 026
+cobalto
+cobalt blue
+tessuto gommato .scocca completa complete body O bag soft
+
+accessori
+accessories
+48.   O bag   4 SEASONS | ss â€˜18
+code OBAGS438 TES01
+descrizione pouch zip O bag sand 
+tessuto canvas
+materiale tessuto
+abbinamenti O bag sand
+description O bag sand canvas fabric zip 
+pouch
+material fabric
+components O bag sand
+col. 054 
+naturale
+natural
+col. 008
+bianco
+white
+col. 055
+nero
+black
+tessuto canvas .pouch zip zip pouch 
+code OBAGS438 TESP6
+descrizione pouch zip O bag sand 
+tessuto all over ibiscus
+materiale tessuto
+abbinamenti O bag sand
+description O bag sand all over hibiscus 
+fabric zip pouch
+material fabric
+components O bag sand
+col. 422 
+sangria
+sangria
+tessuto all over ibiscus .pouch zip zip pouch 
+accessori accessories   49.
+code OBAGS438 TESP7
+descrizione pouch zip O bag sand 
+tessuto fireworks
+materiale tessuto
+abbinamenti O bag sand
+description O bag sand fireworks fabric 
+zip pouch
+material fabric
+components O bag sand
+col. 125 
+multicolor
+multicolor
+tessuto fireworks .pouch zip zip pouch 
+code OBAGS438 TESP8
+descrizione pouch zip O bag sand 
+tessuto fruit mix
+materiale tessuto
+abbinamenti O bag sand
+description O bag sand fruit mix fabric 
+zip pouch
+material fabric
+components O bag sand
+col. 055 
+nero
+black
+tessuto fruit mix .pouch zip zip pouch 
+50.   O bag   4 SEASONS | ss â€˜18
+code OBAGS438 TESQ1
+descrizione pouch zip O bag sand 
+tessuto popsicle optical
+materiale tessuto
+abbinamenti O bag sand
+description O bag sand popsicle optical 
+fabric zip pouch
+material fabric
+components O bag sand
+col. 486 
+pink
+pink
+tessuto popsicle optical .pouch zip zip pouch 
+code OBAGS438 TESQ7
+descrizione pouch zip O bag sand 
+tessuto tropical flowers
+materiale tessuto
+abbinamenti O bag sand
+description O bag sand tropical flowers 
+fabric zip pouch
+material fabric
+components O bag sand
+col. 125 
+multicolor
+multicolor
+tessuto tropical flowers .pouch zip zip pouch 
+accessori accessories   51.
+code ACCEP001 TES20
+descrizione accessorio pochette tessuto 
+gommato
+materiale tessuto
+description rubber-coated fabric 
+pochette accessory
+material fabric
+col. 485 
+atlantic
+atlantic
+col. 486
+pink
+pink
+col. 026
+cobalto
+cobalt blue
+col. 347
+cedro
+cedro
+col. 484
+coral
+coral
+col. 078
+sabbia
+sand
 tessuto gommato .pochette pochette 
 col. 055 
-nero 
+nero
 black
-52. O bag 4 SEASONS | ss ‘18 
-code ACCEC013 EVS34 
+52.   O bag   4 SEASONS | ss â€˜18
+code ACCEC013 EVS34
 descrizione accessorio portachiavi 
-cavalluccio marino EVA compound + plex 
-materiale EVA compound + plexi 
+cavalluccio marino EVA compound + plex
+materiale EVA compound + plexi
 description accessory EVA compound + 
-plex seahorse keyring 
-material EVA compound + plexi 
+plex seahorse keyring
+material EVA compound + plexi
 col. 485 
-atlantic 
-atlantic 
-col. 486 
-pink 
-pink 
-col. 479 
-skyway 
-skyway 
-col. 371 
-latte 
-milk 
+atlantic
+atlantic
+col. 486
+pink
+pink
+col. 479
+skyway
+skyway
+col. 371
+latte
+milk
 portachiavi cavalluccio marino .portachiavi key rings 
-code ACCEC014 EVS34 
+code ACCEC014 EVS34
 descrizione accessorio portachiavi stella 
-marina EVA compound + plex 
-materiale EVA compound + plexi 
+marina EVA compound + plex
+materiale EVA compound + plexi
 description accessory EVA compound + 
-plex starfish keyring 
-material EVA compound + plexi 
+plex starfish keyring
+material EVA compound + plexi
 col. 484 
-coral 
-coral 
-col. 017 
-blu navy 
-navy blue 
-col. 486 
-pink 
-pink 
-col. 347 
-cedro 
-cedro 
+coral
+coral
+col. 017
+blu navy
+navy blue
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
 portachiavi stella marina .portachiavi key rings 
-accessori accessories 53. 
-code ACCEC015 EVS34 
+accessori accessories   53.
+code ACCEC015 EVS34
 descrizione accessorio portachiavi 
-pesciolino EVA compound + plex 
-materiale EVA compound + plexi 
+pesciolino EVA compound + plex
+materiale EVA compound + plexi
 description accessory EVA compound + 
-plex fish keyring 
-material EVA compound + plexi 
+plex fish keyring
+material EVA compound + plexi
 col. 422 
-sangria 
-sangria 
-col. 055 
-nero 
-black 
-col. 017 
-blu navy 
-navy blue 
-col. 484 
-coral 
-coral 
+sangria
+sangria
+col. 055
+nero
+black
+col. 017
+blu navy
+navy blue
+col. 484
+coral
+coral
 portachiavi pesciolino .portachiavi key rings 
-code OBAGAD00 TESP3 
+code OBAGAD00 TESP3
 descrizione accessorio telo mare tessuto 
-cotone jaquard 
-materiale cotone 
+cotone jaquard
+materiale cotone
 description accessory jacquard cotton 
-fabric beach towel 
-material cotton 
+fabric beach towel
+material cotton
 col. 486 
-pink 
-pink 
-col. 422 
-sangria 
-sangria 
-col. 347 
-cedro 
-cedro 
-col. 026 
-cobalto 
-cobalt blue 
-col. 485 
-atlantic 
-atlantic 
-col. 484 
-coral 
-coral 
+pink
+pink
+col. 422
+sangria
+sangria
+col. 347
+cedro
+cedro
+col. 026
+cobalto
+cobalt blue
+col. 485
+atlantic
+atlantic
+col. 484
+coral
+coral
 tessuto cotone jaquard .teli mare beach towels 
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

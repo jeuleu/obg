@@ -1,6247 +1,6259 @@
-ë19 .spring
-.borse bags 
-05 scocche body 
-06 scocche body O bag 
-08 scocche body O bag mini 
-10 scocche body O moon 
-11 scocche body O bag urban 
-12 scocche body O bag glam 
-14 scocche body O bag reverse 
-15 scocche body O bag queen 
-16 scocche body O bag sheen 
-17 scocche body O pocket 
-18 scocche body O bag double 
-21 manici e tracolle 
-handles and shoulder straps 
-22 manici lunghi long handles 
-26 manici corti short handles 
-31 tracolle shoulder straps 
-35 clip clip 
-41 bordi trims 
-42 bordi trims O bag 
-45 bordi trims O bag mini 
-51 sacche interne inner bags 
-52 sacche interne inner bags O bag 
-58 sacche interne inner bags O bag mini 
-63 sacche interne inner bags O moon 
-67 sacche interne inner bags O bag urban 
-71 sacche interne inner bags O bag glam 
-73 sacche interne inner bags O bag reverse 
-79 chiusure closure 
-80 chiusura closure O bag 
-83 pattine flaps 
-84 pattine flaps O pocket 
-88 pattine flaps O bag glam 
-90 pattine flaps O bag queen 
-95 zaini backpacks 
-96 O square 
-103 accessori accessories 
-104 portachiavi keyring 
-.orologi clocks 
-108 O clock 
-130 O clock great 
-152 O clock shift 
-.occhiali sunglasses 
-158 O sun 
-168 O sun flat 
-169 O sunshine 
-177 O sun aviator 
-.bracciali bracelets 
+‚Äò19 .spring
+
+ .borse bags
+05 scocche body
+06 scocche body O bag
+08 scocche body O bag mini
+10 scocche body O moon
+11 scocche body O bag urban
+12 scocche body O bag glam
+14 scocche body O bag reverse
+15 scocche body O bag queen
+16 scocche body O bag sheen
+17 scocche body O pocket
+18 scocche body O bag double
+21 manici e tracolle
+ handles and shoulder straps
+22 manici lunghi long handles
+26 manici corti short handles
+31 tracolle shoulder straps
+35 clip clip
+41  bordi trims
+42 bordi trims O bag
+45 bordi trims O bag mini
+51 sacche interne inner bags
+52 sacche interne inner bags O bag
+58 sacche interne inner bags O bag mini
+63 sacche interne inner bags O moon
+67 sacche interne inner bags O bag urban
+71 sacche interne inner bags O bag glam
+73          sacche interne inner bags O bag reverse
+79 chiusure closure
+80 chiusura closure O bag
+83 pattine flaps
+84 pattine flaps O pocket
+88 pattine flaps O bag glam
+90 pattine flaps O bag queen
+95 zaini backpacks
+96 O square
+103 accessori accessories
+104 portachiavi keyring
+ .orologi clocks
+108 O clock
+130 O clock great
+152 O clock shift
+           
+           .occhiali sunglasses
+158 O sun
+168 O sun flat
+169 O sunshine
+177 O sun aviator
+               .bracciali bracelets
 182 O bracelet
-.scocche 
+
+.scocche
 bodies
-06. O bag spring 19 
+ 06. O bag spring 19  
 col. 422 
-sangria 
-sangria 
-col. 588 
-orchidea 
-orchid 
-col. 486 
-pink 
-pink 
-col. 589 
-lily grey 
-lily grey 
-col. 587 
-celery green 
-celery green 
-.spring bloom 
-.ultraviolet .spring bloom 
-.ultraviolet 
-.ultraviolet 
-code OBAGB001 EVS00 
-descrizione scocca O bag XL extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - bordi - 
-sacche interne 
-description O bag 
-material XL extralight 
-components handles and shoulder 
-straps - trims - inner bags 
-col. 026 
-cobalto 
-cobalt blue 
-col. 048 
-mattone 
-brick 
-col. 075 
-rosa smoke 
-rosa smoke 
-O bag .scocca body 
-.spring bloom .tangerine 
-.tangerine 
-col. 224 
-verde inglese 
-english green 
-col. 088 
-turchese 
-turquoise 
-col. 347 
-cedro 
-cedro 
-col. 119 
-fragola 
-strawberry 
-.spring bloom 
-.ultraviolet 
-.tangerine 
+sangria
+sangria
+col. 588
+orchidea
+orchid
+col. 486
+pink
+pink
+col. 589
+lily grey
+lily grey
+col. 587
+celery green
+celery green
 .spring bloom
-scocche bodies 07. 
-col. 602 
-viola scuro 
-dark violet 
+.ultraviolet .spring bloom
+.ultraviolet
+.ultraviolet
+code OBAGB001 EVS00
+descrizione scocca O bag  XL extralight
+materiale XL extralight
+abbinamenti manici e tracolle - bordi - 
+sacche interne
+description O bag
+material XL extralight
+components handles and shoulder 
+straps - trims - inner bags
+col. 026
+cobalto
+cobalt blue
+col. 048
+mattone
+brick
+col. 075
+rosa smoke
+rosa smoke
 O bag .scocca body 
-.ultraviolet 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 071 
-roccia 
-rock 
-.spring bloom/ 
-ultraviolet/continuativo 
-.tangerine/continuativo 
-.tangerine/continuativo 
-col. 078 
-sabbia 
-sand 
-col. 371 
-latte 
-milk 
-.tangerine/continuativo 
-.tangerine/ultraviolet/ 
-continuativo 
-col. 158 
-vulcano 
-vulcano 
+.spring bloom .tangerine
 .tangerine
-08. O bag spring 19 
-col. 422 
-sangria 
-sangria 
-col. 588 
-orchidea 
-orchid 
-col. 486 
-pink 
-pink 
-col. 587 
-celery green 
-celery green 
-.spring bloom 
-.ultraviolet 
-.spring bloom .ultraviolet 
-code OBAGB002 EVS00 
-descrizione scocca O bag mini XL 
-extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - bordi - 
-sacche interne 
-description O bag mini 
-material XL extralight 
-components handles and shoulder 
-straps - trims - inner bags 
-col. 026 
-cobalto 
-cobalt blue 
-col. 048 
-mattone 
-brick 
-col. 075 
-rosa smoke 
-rosa smoke 
-O bag mini .scocca body 
-.spring bloom .tangerine 
-.tangerine 
-col. 224 
-verde inglese 
-english green 
-col. 088 
-turchese 
-turquoise 
-col. 347 
-cedro 
-cedro 
-col. 119 
-fragola 
-strawberry 
-.spring bloom 
-.ultraviolet 
-.tangerine 
-.spring bloom 
-col. 158 
-vulcano 
-vulcano 
+col. 224
+verde inglese
+english green
+col. 088
+turchese
+turquoise
+col. 347
+cedro
+cedro
+col. 119
+fragola
+strawberry
+.spring bloom
+.ultraviolet
 .tangerine
-col. 078 
-sabbia 
-sand 
-.tangerine/continuativo 
-scocche bodies 09. 
-O bag mini .scocca body 
-col. 589 
-lily grey 
-lily grey 
-col. 602 
-viola scuro 
-dark violet 
-.ultraviolet .ultraviolet 
+.spring bloom
+scocche bodies   07.
+col. 602
+viola scuro
+dark violet
+O bag .scocca body 
+.ultraviolet
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 071 
-roccia 
-rock 
-.spring bloom/ 
-ultraviolet/continuativo 
-.tangerine/continuativo .tangerine/continuativo 
-col. 371 
-latte 
-milk 
-.tangerine/ultraviolet/ 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 071
+roccia
+rock
+.spring bloom/
+ultraviolet/continuativo
+.tangerine/continuativo
+.tangerine/continuativo
+col. 078 
+sabbia
+sand
+col. 371
+latte
+milk
+.tangerine/continuativo
+.tangerine/ultraviolet/
 continuativo
-10. O bag spring 19 
-code OBAGB002 EVS51 
-descrizione scocca O bag mini stampa 
-fiore dipinto a mano XL extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - bordi - 
-sacche interne 
-description O bag mini flower 
-handprinted 
-material XL extralight 
-components handles and shoulder 
-straps - trims - inner bags 
-code OBAGB002 EVS52 
-descrizione scocca O bag mini stampa 
-fiore dipinto a mano XL extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - bordi - 
-sacche interne 
-description O bag mini flower 
-handprinted 
-material XL extralight 
-components handles and shoulder 
-straps - trims - inner bags 
-col. 371 
-latte 
-milk 
-col. 125 
-multicolor 
-multicolor 
-.tangerine 
-.tangerine 
-O bag mini flower handprinted .scocca .scocca body 
-O bag mini flower handprinted .scocca .scocca body 
-scocche bodies 11. 
-code OBAGB016 EVS00 
-descrizione scocca O moon XL 
-extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - sacche 
-interne 
-description O moon 
-material XL extralight 
-components handles and shoulder 
-straps - inner bags 
-col. 017 
-blu navy 
-blue navy 
-col. 075 
-rosa smoke 
-rosa smoke 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 055 
-nero 
-black 
-col. 071 
-roccia 
-rock 
-col. 088 
-turchese 
-turquoise 
-O moon .scocca body 
-.spring bloom/ 
-continuativo 
-.tangerine 
-.spring bloom 
-.tangerine/continuativo 
-.tangerine 
-.tangerine/continuativo .tangerine/continuativo 
-.ultraviolet 
-col. 371 
-latte 
-milk 
-col. 602 
-viola scuro 
-dark violet 
-col. 486 
-pink 
-pink 
-col. 589 
-lily grey 
-lily grey 
-.tangerine/continuativo 
-.ultraviolet 
-.spring bloom .ultraviolet 
 col. 158 
-vulcano 
-vulcano 
-col. 347 
-cedro 
-cedro 
+vulcano
+vulcano
+.tangerine
+ 08. O bag spring 19  
 col. 422 
-sangria 
-sangria 
+sangria
+sangria
+col. 588
+orchidea
+orchid
+col. 486
+pink
+pink
+col. 587
+celery green
+celery green
+.spring bloom
+.ultraviolet
+.spring bloom .ultraviolet
+code OBAGB002 EVS00
+descrizione scocca O bag mini   XL 
+extralight
+materiale XL extralight
+abbinamenti manici e tracolle - bordi - 
+sacche interne
+description O bag mini
+material XL extralight
+components handles and shoulder 
+straps - trims - inner bags
+col. 026
+cobalto
+cobalt blue
+col. 048
+mattone
+brick
+col. 075
+rosa smoke
+rosa smoke
+O bag mini .scocca body 
+.spring bloom .tangerine
+.tangerine
+col. 224
+verde inglese
+english green
+col. 088
+turchese
+turquoise
+col. 347
+cedro
+cedro
+col. 119
+fragola
+strawberry
+.spring bloom
+.ultraviolet
+.tangerine
+.spring bloom
+col. 158 
+vulcano
+vulcano
+.tangerine
+col. 078 
+sabbia
+sand
+.tangerine/continuativo
+scocche bodies   09.
+O bag mini .scocca body 
+col. 589
+lily grey
+lily grey
+col. 602
+viola scuro
+dark violet
+.ultraviolet .ultraviolet
+col. 017 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 071
+roccia
+rock
+.spring bloom/
+ultraviolet/continuativo
+.tangerine/continuativo .tangerine/continuativo
+col. 371
+latte
+milk
+.tangerine/ultraviolet/
+continuativo
+ 10. O bag spring 19  
+code OBAGB002 EVS51
+descrizione scocca O bag mini  stampa 
+fiore dipinto a mano  XL extralight
+materiale XL extralight
+abbinamenti manici e tracolle - bordi - 
+sacche interne
+description O bag mini flower 
+handprinted
+material XL extralight
+components handles and shoulder 
+straps - trims - inner bags
+code OBAGB002 EVS52
+descrizione scocca O bag mini  stampa 
+fiore dipinto a mano  XL extralight
+materiale XL extralight
+abbinamenti manici e tracolle - bordi - 
+sacche interne
+description O bag mini flower 
+handprinted
+material XL extralight
+components handles and shoulder 
+straps - trims - inner bags
+col. 371 
+latte
+milk
+col. 125
+multicolor
+multicolor
+.tangerine
+.tangerine
+O bag mini flower handprinted .scocca .scocca body 
+O bag mini flower handprinted .scocca .scocca body 
+scocche bodies   11.
+code OBAGB016 EVS00
+descrizione scocca O moon  XL 
+extralight
+materiale XL extralight
+abbinamenti manici e tracolle - sacche 
+interne
+description O moon
+material XL extralight
+components handles and shoulder 
+straps - inner bags
+col. 017 
+blu navy
+blue navy
+col. 075
+rosa smoke
+rosa smoke
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 055
+nero
+black
+col. 071
+roccia
+rock
+col. 088
+turchese
+turquoise
+O moon .scocca body 
+.spring bloom/
+continuativo
+.tangerine
+.spring bloom
+.tangerine/continuativo
+.tangerine
+.tangerine/continuativo.tangerine/continuativo
+.ultraviolet
+col. 371 
+latte
+milk
+col. 602
+viola scuro
+dark violet
+col. 486
+pink
+pink
+col. 589
+lily grey
+lily grey
+.tangerine/continuativo
+.ultraviolet
+.spring bloom .ultraviolet
+col. 158 
+vulcano
+vulcano
+col. 347
+cedro
+cedro
+col. 422
+sangria
+sangria
 .tangerine .tangerine .spring bloom
-12. O bag spring 19 
-code OBAGB033 EVS00 
-descrizione scocca O bag urban XL 
-extralight 
-materiale XL extralight 
+ 12. O bag spring 19  
+code OBAGB033 EVS00
+descrizione scocca O bag urban   XL 
+extralight
+materiale XL extralight
 abbinamenti manici e tracolle - sacche 
-interne 
-description O bag urban 
-material XL extralight 
+interne
+description O bag urban
+material XL extralight
 components handles and shoulder 
-straps - inner bags 
+straps - inner bags
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 075 
-rosa smoke 
-rosa smoke 
-col. 048 
-mattone 
-brick 
-col. 078 
-sabbia 
-sand 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 075
+rosa smoke
+rosa smoke
+col. 048
+mattone
+brick
+col. 078
+sabbia
+sand
 O bag urban .scocca body 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.tangerine 
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.tangerine
 col. 224 
-verde inglese 
-english green 
-col. 588 
-orchidea 
-orchid 
-col. 371 
-latte 
-milk 
-col. 589 
-lily grey 
-lily grey 
-col. 486 
-pink 
-pink 
-col. 602 
-viola scuro 
-dark violet 
-.spring bloom 
-.ultraviolet 
-.tangerine/ultraviolet 
-.ultraviolet 
-.spring bloom 
+verde inglese
+english green
+col. 588
+orchidea
+orchid
+col. 371
+latte
+milk
+col. 589
+lily grey
+lily grey
+col. 486
+pink
+pink
+col. 602
+viola scuro
+dark violet
+.spring bloom
 .ultraviolet
-scocche bodies 13. 
-code OBAGB034 EVS00 
-descrizione scocca O bag glam XL 
-extralight 
-materiale XL extralight 
+.tangerine/ultraviolet
+.ultraviolet
+.spring bloom
+.ultraviolet
+scocche bodies   13.
+code OBAGB034 EVS00
+descrizione scocca O bag glam   XL 
+extralight
+materiale XL extralight
 abbinamenti manici e tracolle - sacche 
-interne 
-description O bag glam 
-material XL extralight 
+interne
+description O bag glam
+material XL extralight
 components handles and shoulder 
-straps - inner bags 
+straps - inner bags
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 224 
-verde inglese 
-english green 
-O bag glam .scocca body 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.spring bloom 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 224
+verde inglese
+english green
+O bag glam  .scocca body 
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.spring bloom
 col. 371 
-latte 
-milk 
-col. 486 
-pink 
-pink 
-col. 589 
-lily grey 
-lily grey 
-col. 588 
-orchidea 
-orchid 
-col. 602 
-viola scuro 
-dark violet 
-.tangerine/ultraviolet .spring bloom 
-.ultraviolet 
-.ultraviolet 
+latte
+milk
+col. 486
+pink
+pink
+col. 589
+lily grey
+lily grey
+col. 588
+orchidea
+orchid
+col. 602
+viola scuro
+dark violet
+.tangerine/ultraviolet .spring bloom
 .ultraviolet
-14. O bag spring 19 
-code OBAGB034 EVS50 
+.ultraviolet
+.ultraviolet
+ 14. O bag spring 19  
+code OBAGB034 EVS50
 descrizione scocca O bag glam stampa 
-botanical maxi XL extralight 
-materiale XL extralight 
+botanical maxi XL extralight
+materiale XL extralight
 abbinamenti manici e tracolle - sacche 
-interne 
+interne
 description O bag glam print botanical 
-maxi 
-material XL extralight 
+maxi
+material XL extralight
 components handles and shoulder 
-straps - inner bags 
+straps - inner bags
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
+blu navy
+blue navy
+col. 371
+latte
+milk
 O bag glam print botanical maxi .scocca body 
 .spring bloom .spring bloom
-scocche bodies 15. 
-code OBAGB046 EVS00 
-descrizione scocca O bag reverse XL 
-extralight 
-materiale XL extralight 
+scocche bodies   15.
+code OBAGB046 EVS00
+descrizione scocca O bag reverse   XL 
+extralight
+materiale XL extralight
 abbinamenti manici e tracolle - sacche 
-interne 
-description O bag reverse 
-material XL extralight 
+interne
+description O bag reverse
+material XL extralight
 components handles and shoulder 
-straps - inner bags 
+straps - inner bags
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 088 
-turchese 
-turquoise 
-col. 048 
-mattone 
-brick 
-col. 224 
-verde inglese 
-english green 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 088
+turchese
+turquoise
+col. 048
+mattone
+brick
+col. 224
+verde inglese
+english green
 O bag reverse .scocca body 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.ultraviolet 
-.tangerine 
-.spring bloom 
-col. 371 
-latte 
-milk 
-col. 078 
-sabbia 
-sand 
-col. 588 
-orchidea 
-orchid 
-col. 589 
-lily grey 
-lily grey 
-.tangerine/ultraviolet 
-.tangerine 
-.ultraviolet .ultraviolet
-16. O bag spring 19 
-code OBAGB047 EVS00 
-descrizione scocca O Bag Queen XL 
-extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - pattine 
-description O Bag Queen 
-material XL extralight 
-components handles and shoulder 
-straps + flaps 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 088 
-turchese 
-turquoise 
-col. 048 
-mattone 
-brick 
-col. 224 
-verde inglese 
-english green 
-O Bag Queen .scocca body 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.ultraviolet 
-.tangerine 
-.spring bloom 
-col. 371 
-latte 
-milk 
-col. 588 
-orchidea 
-orchid 
-col. 589 
-lily grey 
-lily grey 
-col. 602 
-viola scuro 
-dark violet 
-.tangerine/ultraviolet 
-.tangerine/ultraviolet 
-.ultraviolet .ultraviolet
-scocche bodies 17. 
-code OBAGB048 EVS00 
-descrizione scocca O bag sheen XL 
-extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle 
-description O bag sheen 
-material XL extralight 
-components handles and shoulder 
-straps 
-col. 017 
-blu navy 
-blue navy 
-col. 088 
-turchese 
-turquoise 
-col. 026 
-cobalto 
-cobalt blue 
-col. 371 
-latte 
-milk 
-col. 055 
-nero 
-black 
-col. 422 
-sangria 
-sangria 
-O bag sheen .scocca body 
-.spring bloom/ultraviolet 
-.ultraviolet 
-.spring bloom 
-.tangerine/ultraviolet 
-.tangerine 
-.spring bloom 
-col. 587 
-celery green 
-celery green 
-col. 588 
-orchidea 
-orchid 
-.ultraviolet .ultraviolet
-18. O bag spring 19 
-code OBAGB206 EVS00 
-descrizione scocca O pocket 
-XL extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle 
-- pattine 
-description O pocket 
-material XL extralight 
-components handles and shoulder 
-straps + flaps 
-col. 026 
-cobalto 
-cobalt blue 
-col. 075 
-rosa smoke 
-rosa smoke 
-col. 048 
-mattone 
-brick 
-O pocket .scocca body 
-.spring bloom 
-.ultraviolet 
-.tangerine 
-col. 224 
-verde inglese 
-english green 
-col. 486 
-pink 
-pink 
-col. 347 
-cedro 
-cedro 
-col. 587 
-celery green 
-celery green 
-col. 588 
-orchidea 
-orchid 
-.spring bloom .spring bloom .tangerine .ultraviolet 
-.ultraviolet 
-col. 589 
-lily grey 
-lily grey 
-col. 071 
-roccia 
-rock 
-col. 602 
-viola scuro 
-dark violet 
-.ultraviolet .tangerine/continuativo 
-.ultraviolet 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 078 
-sabbia 
-sand 
-.spring bloom/ 
-ultraviolet/continuativo 
-.tangerine/continuativo .tangerine/continuativo 
-col. 371 
-latte 
-milk 
-.tangerine/ultraviolet/ 
-continuativo 
-col. 158 
-vulcano 
-vulcano 
-col. 422 
-sangria 
-sangria 
-.tangerine 
+.spring bloom/ultraviolet
+.tangerine
 .spring bloom
-scocche bodies 19. 
-code OBAGB451 ECS07 
-descrizione scocca completo O bag 
-double saffiano tessuto 
-materiale tessuto 
-abbinamenti 
-description O bag double 
-material fabric 
-components 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 088 
-turchese 
-turquoise 
-O bag double .scocca completo complete body 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.ultraviolet 
-col. 347 
-cedro 
-cedro 
-col. 587 
-celery green 
-celery green 
-col. 371 
-latte 
-milk 
-col. 588 
-orchidea 
-orchid 
-col. 422 
-sangria 
-sangria 
-col. 589 
-lily grey 
-lily grey 
-.tangerine 
-.ultraviolet 
-.tangerine/ultraviolet 
-.ultraviolet 
-.spring bloom 
 .ultraviolet
-.manici e tracolle 
+.tangerine
+.spring bloom
+col. 371 
+latte
+milk
+col. 078 
+sabbia
+sand
+col. 588
+orchidea
+orchid
+col. 589
+lily grey
+lily grey
+.tangerine/ultraviolet
+.tangerine
+.ultraviolet .ultraviolet
+ 16. O bag spring 19  
+code OBAGB047 EVS00
+descrizione scocca O Bag Queen   XL 
+extralight
+materiale XL extralight
+abbinamenti manici e tracolle - pattine
+description O Bag Queen
+material XL extralight
+components handles and shoulder 
+straps + flaps
+col. 017 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 088
+turchese
+turquoise
+col. 048
+mattone
+brick
+col. 224
+verde inglese
+english green
+O Bag Queen  .scocca body 
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.ultraviolet
+.tangerine
+.spring bloom
+col. 371 
+latte
+milk
+col. 588 
+orchidea
+orchid
+col. 589
+lily grey
+lily grey
+col. 602
+viola scuro
+dark violet
+.tangerine/ultraviolet
+.tangerine/ultraviolet
+.ultraviolet .ultraviolet
+scocche bodies   17.
+code OBAGB048 EVS00
+descrizione scocca O bag sheen   XL 
+extralight
+materiale XL extralight
+abbinamenti manici e tracolle
+description O bag sheen
+material XL extralight
+components handles and shoulder 
+straps
+col. 017 
+blu navy
+blue navy
+col. 088
+turchese
+turquoise
+col. 026
+cobalto
+cobalt blue
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 422
+sangria
+sangria
+O bag sheen .scocca body 
+.spring bloom/ultraviolet
+.ultraviolet
+.spring bloom
+.tangerine/ultraviolet
+.tangerine
+.spring bloom
+col. 587 
+celery green
+celery green
+col. 588
+orchidea
+orchid
+.ultraviolet .ultraviolet
+ 18. O bag spring 19  
+code OBAGB206 EVS00
+descrizione scocca O pocket  
+XL extralight
+materiale XL extralight
+abbinamenti manici e tracolle 
+- pattine
+description O pocket
+material XL extralight
+components handles and shoulder 
+straps + flaps
+col. 026
+cobalto
+cobalt blue
+col. 075
+rosa smoke
+rosa smoke
+col. 048
+mattone
+brick
+O pocket .scocca body 
+.spring bloom
+.ultraviolet
+.tangerine
+col. 224 
+verde inglese
+english green
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+col. 587
+celery green
+celery green
+col. 588
+orchidea
+orchid
+.spring bloom .spring bloom.tangerine .ultraviolet
+.ultraviolet
+col. 589 
+lily grey
+lily grey
+col. 071 
+roccia
+rock
+col. 602
+viola scuro
+dark violet
+.ultraviolet.tangerine/continuativo
+.ultraviolet
+col. 017 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 078
+sabbia
+sand
+.spring bloom/
+ultraviolet/continuativo
+.tangerine/continuativo.tangerine/continuativo
+col. 371
+latte
+milk
+.tangerine/ultraviolet/
+continuativo
+col. 158 
+vulcano
+vulcano
+col. 422
+sangria
+sangria
+.tangerine
+.spring bloom
+scocche bodies   19.
+code OBAGB451 ECS07
+descrizione scocca completo  O bag 
+double  saffiano  tessuto
+materiale tessuto
+abbinamenti 
+description O bag double
+material fabric
+components 
+col. 017 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 088
+turchese
+turquoise
+O bag double .scocca completo complete body 
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.ultraviolet
+col. 347 
+cedro
+cedro
+col. 587
+celery green
+celery green
+col. 371
+latte
+milk
+col. 588
+orchidea
+orchid
+col. 422
+sangria
+sangria
+col. 589
+lily grey
+lily grey
+.tangerine
+.ultraviolet
+.tangerine/ultraviolet
+.ultraviolet
+.spring bloom
+.ultraviolet
+
+.manici e tracolle
 handles and shoulder strap
-22. O bag spring 19 
+ 22. O bag spring 19  
 maxi catena groumette .manico lungo long handle 
-code HLESCE01 ECS00 
-descrizione Manico doppia catena a ìtî 
-materiale ecopelle 
+code HLESCE01 ECS00
+descrizione Manico doppia catena a ‚Äút‚Äù
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 055 
-nero + argento 
-black + silver 
-col. 017 
-blu navy + oro 
-blue navy + gold 
+nero + argento
+black + silver
+col. 017
+blu navy + oro
+blue navy + gold
 doppia catena ecopelle .manico lungo long handle 
-.tangerine .ultraviolet 
-code SHOUCH02 PLS00 
+.tangerine .ultraviolet
+code SHOUCH02 PLS00
 descrizione Tracolla maxi catena 
-groumette 110 
-materiale plexiglass 
+groumette 110
+materiale plexiglass
 abbinamenti 
 description 
-material plexiglass 
+material plexiglass
 components 
 col. 008 
-bianco 
-white 
-col. 088 
-turchese 
-turquoise 
-col. 017 
-blu navy 
-blue navy 
-col. 224 
-verde inglese 
-english green 
-col. 055 
-nero 
-black 
-col. 588 
-orchidea 
-orchid 
-.ultraviolet 
-.ultraviolet 
-.spring bloom 
-.spring bloom 
-.tangerine 
+bianco
+white
+col. 088
+turchese
+turquoise
+col. 017
+blu navy
+blue navy
+col. 224
+verde inglese
+english green
+col. 055
+nero
+black
+col. 588
+orchidea
+orchid
 .ultraviolet
-manici e tracolle handles and shoulder straps 23. 
-code HLESCE01 ECS07 
-descrizione Manico doppia catena a ìtî 
-saffiano 
-materiale ecopelle 
+.ultraviolet
+.spring bloom
+.spring bloom
+.tangerine
+.ultraviolet
+manici e tracolle handles and shoulder straps   23.
+code HLESCE01 ECS07
+descrizione Manico doppia catena a ‚Äút‚Äù 
+saffiano
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy + argento 
-blue navy + silver 
-col. 224 
-verde inglese + argento 
-english green + silver 
-col. 048 
-mattone + argento 
-brick + silver 
-col. 048 
-rosa smoke + argento 
-rosa smoke + silver 
-col. 048 
-grigio chiaro + argento 
-grigio chiaro + silver 
-col. 078 
-sabbia + argento 
-sand + silver 
+blu navy + argento
+blue navy + silver
+col. 224
+verde inglese + argento
+english green  + silver
+col. 048
+mattone + argento
+brick  + silver
+col. 048
+rosa smoke + argento
+rosa smoke  + silver
+col. 048
+grigio chiaro + argento
+grigio chiaro  + silver
+col. 078
+sabbia + argento
+sand  + silver
 doppia catena saffiano .manico lungo long handle 
-.spring bloom/ultraviolet 
-.spring bloom 
-.tangerine 
-.tangerine .ultraviolet 
-.tangerine 
-code HLESCE01 ECSA1 
-descrizione Manico doppia catena a ìtî 
-saffiano + catena smaltata 
-materiale ecopelle 
+.spring bloom/ultraviolet
+.spring bloom
+.tangerine
+.tangerine .ultraviolet
+.tangerine
+code HLESCE01 ECSA1
+descrizione Manico doppia catena a ‚Äút‚Äù 
+saffiano + catena smaltata
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy + catena blu 
-blue navy + blue chain 
-col. 055 
-nero + catena nera 
-black + black chain 
+blu navy + catena blu
+blue navy + blue chain
+col. 055
+nero + catena nera
+black + black chain
 doppia catena smaltata .manico lungo long handle 
 .spring bloom .tangerine
-24. O bag spring 19 
-code HLESG000 ECS04 
-descrizione Manico lungo nappina 
-materiale ecopelle 
+ 24. O bag spring 19  
+code HLESG000 ECS04
+descrizione Manico lungo  nappina
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
-col. 026 
-cobalto 
-cobalt blue 
-col. 183 
-viola 
-violet 
+col. 026
+cobalto
+cobalt blue
+col. 183
+viola
+violet
 nappina ecopelle .manico lungo long handle 
-.spring bloom .ultraviolet 
+.spring bloom.ultraviolet
 col. 017 
-blu navy 
-blu navy 
-col. 038 
-grafite 
-graphite 
-col. 135 
-peltro 
-peltro 
-.spring bloom .tangerine 
-.tangerine 
-code HLESD000 ECS35 
+blu navy
+blu navy
+col. 038
+grafite
+graphite
+col. 135
+peltro
+peltro
+.spring bloom .tangerine
+.tangerine
+code HLESD000 ECS35
 descrizione manico lungo componibile 
-ecopelle basic 
-materiale ecopelle 
+ecopelle basic
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
-sangria 
-col. 036 
-giallo 
-yellow 
-col. 371 
-latte 
-milk 
+cobalto
+cobalt blue
+col. 422
+sangria
+sangria
+col. 036
+giallo
+yellow
+col. 371
+latte
+milk
 ecopelle basic .manici e tracolle handles and shoulder strap 
-.spring bloom 
-.spring bloom 
+.spring bloom
+.spring bloom
 .tangerine .tangerine/ultraviolet
-manici e tracolle handles and shoulder straps 25. 
-code HLESLL01 ECS07 
+manici e tracolle handles and shoulder straps   25.
+code HLESLL01 ECS07
 descrizione Manico linear lungo con 
-fibbietta saffiano 
-materiale ecopelle 
+fibbietta saffiano
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 088 
-turchese 
-turquoise 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 088
+turchese
+turquoise
 fibbietta saffiano .manico lungo long handle 
-.spring bloom 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.ultraviolet 
+.spring bloom
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.ultraviolet
 col. 588 
-orchidea 
-orchid 
-col. 589 
-lily grey 
-lily grey 
+orchidea
+orchid
+col. 589
+lily grey
+lily grey
 .ultraviolet .ultraviolet
-26. O bag spring 19 
-code HLESAG01 ECS07 
+ 26. O bag spring 19  
+code HLESAG01 ECS07
 descrizione Manichetto piatto + clip 
-saffiano 
-materiale ecopelle 
+saffiano
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 224 
-verde inglese 
-english green 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 224
+verde inglese
+english green
 manicheto piatto + clip .manico corto short handle 
-.spring bloom 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.spring bloom 
+.spring bloom
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.spring bloom
 col. 486 
-pink 
-pink 
-col. 589 
-lily grey 
-lily grey 
-col. 587 
-celery green 
-celery green 
-col. 588 
-orchidea 
-orchid 
-.spring bloom 
-.ultraviolet 
+pink
+pink
+col. 589
+lily grey
+lily grey
+col. 587
+celery green
+celery green
+col. 588
+orchidea
+orchid
+.spring bloom
+.ultraviolet
 .ultraviolet .ultraviolet
-manici e tracolle handles and shoulder straps 27. 
-code HLESGC00 ECS04 
-descrizione Manico corto nappina 
-materiale ecopelle 
+manici e tracolle handles and shoulder straps   27.
+code HLESGC00 ECS04
+descrizione Manico corto nappina
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 code HLESGC00 PLS14 
 descrizione Manico corto plexiglass 
-opaco + goccia 
-materialeplexiglass 
+opaco + goccia
+materialeplexiglass
 abbinamenti 
 description 
-material plexiglass 
+material plexiglass
 components 
-col. 026 
-cobalto 
-cobalt blue 
-col. 183 
-viola 
-violet 
+col. 026
+cobalto
+cobalt blue
+col. 183
+viola
+violet
 nappina ecopelle .manico corto short handle 
 plexiglass opaco + goccia .manico corto short handle 
-.spring bloom .ultraviolet 
-col. 055 
-nero 
-black 
-.tangerine .tangerine 
-col. 564 
-tartarugato 
-tortoise 
-col. 017 
-blu navy 
-blu navy 
-col. 038 
-grafite 
-graphite 
-.spring bloom .tangerine 
+.spring bloom.ultraviolet
+col. 055
+nero
+black
+.tangerine .tangerine
+col. 564
+tartarugato
+tortoise
+col. 017
+blu navy
+blu navy
+col. 038
+grafite
+graphite
+.spring bloom.tangerine
 col. 135 
-peltro 
-peltro 
+peltro
+peltro
 .tangerine
-code HLESGC00 PLS00 
+code HLESGC00 PLS00
 descrizione Manico corto plexiglass 
-trasparente+ goccia 
-materiale plexiglass 
+trasparente+ goccia
+materiale plexiglass
 abbinamenti 
 description 
-material plexiglass 
+material plexiglass
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt blue 
-col. 088 
-turchese 
-turquoise 
-col. 048 
-mattone 
-brick 
-col. 347 
-cedro 
-cedro 
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt blue
+col. 088
+turchese
+turquoise
+col. 048
+mattone
+brick
+col. 347
+cedro
+cedro
 plexiglass + goccia .manico corto short handle 
-.spring bloom .spring bloom 
-.ultraviolet 
-.tangerine 
-.tangerine 
+.spring bloom .spring bloom
+.ultraviolet
+.tangerine
+.tangerine
 col. 371 
-latte 
-milk 
-col. 589 
-lily grey 
-lily grey 
-col. 422 
-sangria 
-sangria 
-col. 588 
-orchidea 
-orchid 
-.tangerine 
-.ultraviolet 
-.spring bloom .ultraviolet 
+latte
+milk
+col. 589
+lily grey
+lily grey
+col. 422
+sangria
+sangria
+col. 588
+orchidea
+orchid
+.tangerine
+.ultraviolet
+.spring bloom .ultraviolet
 col. 486 
-pink 
-pink 
+pink
+pink
 .spring bloom
-manici e tracolle handles and shoulder straps 29. 
-code HLESGC19 MAS29 
+manici e tracolle handles and shoulder straps   29.
+code HLESGC19 MAS29
 descrizione Manico corto + goccia 
-effetto bamboo 
-materiale materiale plastico 
+effetto bamboo
+materiale materiale plastico
 abbinamenti 
 description 
-material plastic material 
+material plastic material
 components 
 col. 054 
-naturale 
-natural 
+naturale
+natural
 effetto bamboo + goccia .manico corto short handle 
-.tangerine 
-code HLESMD00 ECS46 
-descrizione Micromanico tubolare corto 
-liscia 
-materiale ecopelle 
-abbinamenti 
-description 
-material faux leather 
-components 
-col. 017 
-blu navy 
-blue navy 
-col. 221 
-cognac 
-cognac 
-col. 026 
-cobalto 
-cobalt blue 
-col. 055 
-nero 
-black 
-micromanico tubolare .manico corto short handle 
-.spring bloom 
-.tangerine 
-.spring bloom .tangerine 
-col. 422 
-sangria 
-sangria 
-col. 479 
-skyway 
-skywyay 
-.spring bloom .ultraviolet
-30. O bag spring 19 
-code HLESMD01 TESX3 
-descrizione Micromanico tubolare corto 
-+ foulard stampa japan 
-materiale tessuto 
-abbinamenti 
-description 
-material fabric 
-components 
-col. 017 
-blu navy 
-blue navy 
-col. 088 
-turchese 
-turquoise 
-foulard stampa japan .manico corto short handle 
-.ultraviolet .ultraviolet 
-code HLESAD00 ECS00 
-descrizione manichetto tubolare ecopelle 
-materiale ecopelle 
-abbinamenti 
-description 
-material faux leather 
-components 
-col. 017 
-blu navy 
-blu navy 
-col. 371 
-latte 
-milk 
-col. 026 
-cobalto 
-cobalt blue 
-col. 422 
-sangria 
-sangria 
-col. 036 
-giallo 
-yellow 
-tubolare .manici e tracolle handles and shoulder strap 
-.spring bloom 
-.tangerine/ultraviolet 
-.spring bloom 
-.spring bloom 
 .tangerine
-manici e tracolle handles and shoulder straps 31. 
-maxi catena groumette .manico corto short handle 
-code HLESAH02 PLS00 
-descrizione manichetto maxi catena 
-groumette 
-materiale plexiglass 
+code HLESMD00 ECS46
+descrizione Micromanico tubolare corto 
+liscia
+materiale ecopelle
 abbinamenti 
 description 
-material plexiglass 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
-col. 224 
-verde inglese 
-english green 
-col. 088 
-turchese 
-turquoise 
-col. 588 
-orchidea 
-orchid 
-.spring bloom 
-.tangerine 
-.tangerine 
-.spring bloom 
-.ultraviolet 
-.ultraviolet 
-code HLESGC00 ROS10 
-descrizione manico corto corda cotone 
-intrecciato 
-materiale corda cotone 
+blu navy
+blue navy
+col. 221
+cognac
+cognac
+col. 026
+cobalto
+cobalt blue
+col. 055
+nero
+black
+micromanico tubolare .manico corto short handle 
+.spring bloom
+.tangerine
+.spring bloom .tangerine
+col. 422 
+sangria
+sangria
+col. 479
+skyway
+skywyay
+.spring bloom .ultraviolet
+ 30. O bag spring 19  
+code HLESMD01 TESX3
+descrizione Micromanico tubolare corto 
++ foulard stampa japan
+materiale tessuto
 abbinamenti 
 description 
-material cotton 
+material fabric
+components 
+col. 017 
+blu navy
+blue navy
+col. 088
+turchese
+turquoise
+foulard stampa japan .manico corto short handle  
+.ultraviolet .ultraviolet
+code HLESAD00 ECS00
+descrizione manichetto tubolare ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 017 
+blu navy
+blu navy
+col. 371
+latte
+milk
+col. 026
+cobalto
+cobalt blue
+col. 422
+sangria
+sangria
+col. 036
+giallo
+yellow
+tubolare .manici e tracolle handles and shoulder strap 
+.spring bloom
+.tangerine/ultraviolet
+.spring bloom
+.spring bloom
+.tangerine
+manici e tracolle handles and shoulder straps   31.
+maxi catena groumette .manico corto short handle  
+code HLESAH02 PLS00
+descrizione manichetto maxi catena 
+groumette
+materiale plexiglass
+abbinamenti 
+description 
+material plexiglass
+components 
+col. 017 
+blu navy
+blue navy
+col. 008
+bianco
+white
+col. 055
+nero
+black
+col. 224
+verde inglese
+english green
+col. 088
+turchese
+turquoise
+col. 588
+orchidea
+orchid
+.spring bloom
+.tangerine
+.tangerine
+.spring bloom
+.ultraviolet
+.ultraviolet
+code HLESGC00 ROS10
+descrizione manico corto corda cotone 
+intrecciato
+materiale corda cotone
+abbinamenti 
+description 
+material cotton
 components 
 col. 371 
-latte 
-milk 
-col. 422 
-sangria 
-sangria 
-col. 486 
-pink 
-pink 
+latte
+milk
+col. 422
+sangria
+sangria
+col. 486
+pink
+pink
 cotone intrecciato .manici e tracolle handles and shoulder strap 
 .tangerine .spring bloom .spring bloom
-32. O bag spring 19 
-code HLESX600 ECS00 
+ 32. O bag spring 19  
+code HLESX600 ECS00
 descrizione manico extraslim goccia 
-corto con mezzo anello ecopelle ecopelle 
-materiale ecopelle 
+corto con mezzo anello ecopelle  ecopelle
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 055 
-nero 
-black 
+nero
+black
 corto con mezzo anello .manici e tracolle handles and shoulder strap 
-.tangerine 
-code HLESMD00 TES20 
+.tangerine
+code HLESMD00 TES20
 descrizione micromanico tubolare corto 
-tessuto gommato 
-materiale tessuto gommato 
+tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
 material 
 components 
 col. 509 
-moka 
-moka 
+moka
+moka
 corto tessuto gommato .manici e tracolle handles and shoulder strap 
 .tangerine
-manici e tracolle handles and shoulder straps 33. 33. O bag spring 19 
-code SHOUGB19 TESX8 
+manici e tracolle handles and shoulder straps   33. 33. O bag spring 19  
+code SHOUGB19 TESX8
 descrizione Tracolla 80/120 + terminale 
-decorato nastro riga larga 
-materiale tessuto 
+decorato  nastro riga larga
+materiale tessuto
 abbinamenti 
 description 
-material fabric 
+material fabric
 components 
 col. 227 
-bianco/nero 
-white/black 
-col. 590 
-mattone/nero 
-brick/black 
+bianco/nero
+white/black
+col. 590
+mattone/nero
+brick/black
 nastro riga larga .tracolla shoulder strap 
-.tangerine .tangerine 
-code SHOUGB19 TESW8 
+.tangerine .tangerine
+code SHOUGB19 TESW8
 descrizione Tracolla 80/120 nastro riga 
-stretta 
-materiale tessuto 
+stretta
+materiale tessuto
 abbinamenti 
 description 
-material fabric 
+material fabric
 components 
 col. 224 
-verde inglese 
-english green 
-col. 486 
-pink 
-pink 
+verde inglese
+english green
+col. 486
+pink
+pink
 nastro riga stretta .tracolla shoulder strap 
 .spring bloom .spring bloom
-34. O bag spring 19 manici e tracolle handles and shoulder straps 34. 
-code SHOUGB19 TESX4 
+ 34. O bag spring 19  manici e tracolle handles and shoulder straps   34.
+code SHOUGB19 TESX4
 descrizione Tracolla 80/120 stampa 
-masai 
-materiale tessuto 
+masai
+materiale tessuto
 abbinamenti 
 description 
-material fabric 
+material fabric
 components 
 col. 590 
-mattone/nero 
-brick/black 
-stampa masai .tracolla shoulder strap 
+mattone/nero
+brick/black
+stampa masai .tracolla shoulder strap  
 .tangerine
-manici e tracolle handles and shoulder straps 35. 35. O bag spring 19 
-code SHOUX101 ECS07 
+manici e tracolle handles and shoulder straps   35. 35. O bag spring 19  
+code SHOUX101 ECS07
 descrizione Tracolla extraslim 110 
-+manichetto tubolare + clip saffiano 
-materiale ecopelle 
++manichetto tubolare + clip saffiano
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 589 
-lily grey 
-lily grey 
-col. 133 
-grigio chiaro 
-light grey 
-col. 055 
-nero 
-black 
-col. 075 
-rosa smoke 
-rosa smoke 
-col. 183 
-viola 
-violet 
+blu navy
+blue navy
+col. 589
+lily grey
+lily grey
+col. 133
+grigio chiaro
+light grey
+col. 055
+nero
+black
+col. 075
+rosa smoke
+rosa smoke
+col. 183
+viola
+violet
 extraslim + manichetto + clip .manici e tracolle handles and shoulder straps 
-.spring bloom 
-.ultraviolet .ultraviolet 
-.tangerine 
-.tangerine 
+.spring bloom
+.ultraviolet .ultraviolet
+.tangerine
+.tangerine
 .ultraviolet
-36. O bag spring 19 manici e tracolle handles and shoulder straps 36. 
-code SHOUX000 ECS07 
+ 36. O bag spring 19  manici e tracolle handles and shoulder straps   36.
+code SHOUX000 ECS07
 descrizione tracolla extraslim 110 
-saffiano 
-materiale ecopelle 
+saffiano
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 224 
-verde inglese 
-english green 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 224
+verde inglese
+english green
 extraslim saffiano .tracolla shoulder strap 
-.spring bloom 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.spring bloom 
+.spring bloom
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.spring bloom
 col. 486 
-pink 
-pink 
-col. 589 
-lily grey 
-lily grey 
-col. 587 
-celery green 
-celery green 
-col. 588 
-orchidea 
-orchid 
-.spring bloom 
-.ultraviolet 
+pink
+pink
+col. 589
+lily grey
+lily grey
+col. 587
+celery green
+celery green
+col. 588
+orchidea
+orchid
+.spring bloom
+.ultraviolet
 .ultraviolet .ultraviolet
-manici e tracolle handles and shoulder straps 37. 
-opaca argento .clip clip 
-opaca oro .clip clip 
-code OBAGA000 ECS42 
-descrizione accessorio Clip opaca + 
-argento ecopelle 
-materiale ecopelle 
+manici e tracolle handles and shoulder straps   37.
+opaca argento .clip clip
+opaca oro .clip clip
+code OBAGA000 ECS42
+descrizione accessorio Clip  opaca + 
+argento  ecopelle
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
-code OBAGA000 ECS40 
-descrizione accessorio Clip + oro 
-ecopelle 
-materiale ecopelle 
+code OBAGA000 ECS40
+descrizione accessorio Clip + oro  
+ecopelle
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
+blu navy
+blue navy
 col. 422 
-sangria 
-sangria 
+sangria
+sangria
 col. 026 
-cobalto 
-cobalt 
+cobalto
+cobalt
 col. 479 
-skyway 
-skyway 
+skyway
+skyway
 col. 075 
-rosa smoke + oro 
-rosa smoke + gold 
+rosa smoke + oro
+rosa smoke + gold
 col. 017 
-blu navy + oro 
-blue navy + gold 
+blu navy + oro
+blue navy + gold
 col. 036 
-giallo 
-yellow 
-.spring bloom/ultraviolet .spring bloom 
-.spring bloom .ultraviolet 
-.ultraviolet ..spring bloom/ 
-ultraviolet 
-.tangerine 
+giallo
+yellow
+.spring bloom/ultraviolet .spring bloom
+.spring bloom.ultraviolet
+.ultraviolet ..spring bloom/
+ultraviolet
+.tangerine
 col. 371 
-latte 
-milk 
+latte
+milk
 .tangerine/ultraviolet
-38. O bag spring 19 
-code OBAGA000 ECS07 
-descrizione accessorio Clip saffiano 
-ecopelle 
-materiale ecopelle 
+ 38. O bag spring 19  
+code OBAGA000 ECS07
+descrizione accessorio Clip  saffiano  
+ecopelle
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 026 
-cobalto 
-cobalt blue 
-col. 224 
-verde inglese 
-english green 
-col. 048 
-mattone 
-brick 
-col. 486 
-pink 
-pink 
-col. 078 
-sabbia 
-sand 
-col. 587 
-celery green 
-celery green 
-saffiano ecopelle .clip clip 
-.spring bloom 
-.spring bloom 
-.tangerine 
-.spring bloom 
-.tangerine 
-.ultraviolet 
+cobalto
+cobalt blue
+col. 224
+verde inglese
+english green
+col. 048
+mattone
+brick
+col. 486
+pink
+pink
+col. 078
+sabbia
+sand
+col. 587
+celery green
+celery green
+saffiano ecopelle .clip clip
+.spring bloom
+.spring bloom
+.tangerine
+.spring bloom
+.tangerine
+.ultraviolet
 col. 588 
-orchidea 
-orchid 
-col. 589 
-lily grey 
-lily grey 
+orchidea
+orchid
+col. 589
+lily grey
+lily grey
 .ultraviolet .ultraviolet
-manici e tracolle handles and shoulder straps 39. 
-code OBAGA000 TES20 
-descrizione accessorio clip tessuto 
-gommato 
-materiale tessuto gommato 
+manici e tracolle handles and shoulder straps   39.
+code OBAGA000 TES20
+descrizione accessorio clip  tessuto 
+gommato
+materiale tessuto gommato
 abbinamenti 
 description 
 material 
 components 
 col. 078 
-sabbia 
-sand 
-col. 486 
-pink 
-pink 
-col. 509 
-moka 
-moka 
+sabbia
+sand
+col. 486
+pink
+pink
+col. 509
+moka
+moka
 clip tessuto gommato .clip clip 
 .tangerine .spring bloom .tangerine
-.bordi 
+
+.bordi
 trim
-42. O bag spring 19 
-code OBAGT001 TESW9 
-descrizione bordo O bag stampa 
-botanical maxi tessuto 
-materiale tessuto 
-abbinamenti O bag 
+ 42. O bag spring 19  
+code OBAGT001 TESW9
+descrizione bordo O bag  stampa 
+botanical maxi tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 017 
-blu navy 
-blue navy 
+blu navy
+blue navy
 botanical maxi .bordo trim 
-.spring bloom 
-code OBAGT001 TESX3 
-descrizione bordo O bag stampa japan 
-tessuto 
-materiale tessuto 
-abbinamenti O bag 
+.spring bloom
+code OBAGT001 TESX3
+descrizione bordo O bag  stampa japan 
+tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
+blu navy
+blue navy
+col. 371
+latte
+milk
 japan .bordo trim 
 .ultraviolet .ultraviolet
-bordi trims 43. 
-code OBAGT001 TESX5 
-descrizione bordo O bag stampa stones 
-tessuto 
-materiale tessuto 
-abbinamenti O bag 
+bordi trims   43.
+code OBAGT001 TESX5
+descrizione bordo  O bag stampa stones 
+tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 590 
-mattone/nero 
-brick/black 
+mattone/nero
+brick/black
 stones .bordo trim 
-.tangerine 
-code OBAGT001 TESX6 
-descrizione bordo O bag stampa 
-tangerine tessuto 
-materiale tessuto 
-abbinamenti O bag 
+.tangerine
+code OBAGT001 TESX6
+descrizione bordo  O bag stampa 
+tangerine tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 125 
-multicolor 
-multicolor 
+multicolor
+multicolor
 tangerine .bordo trim 
 .tangerine
-44. O bag spring 19 
-code OBAGT001 TESY2 
-descrizione bordo O bag stampa leaves 
-tessuto 
-materiale tessuto 
-abbinamenti O bag 
+ 44. O bag spring 19  
+code OBAGT001 TESY2
+descrizione bordo  O bag stampa leaves 
+tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 075 
-rosa smoke 
-rosa smoke 
+rosa smoke
+rosa smoke
 leaves .bordo trim 
-.tangerine 
-code OBAGT001 TESY3 
-descrizione bordo O bag stampa flower 
-camouflage tessuto 
-materiale tessuto 
-abbinamenti O bag 
+.tangerine
+code OBAGT001 TESY3
+descrizione bordo  O bag stampa flower 
+camouflage tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 026 
-cobalto 
-cobalt blue 
+cobalto
+cobalt blue
 flower camouflage .bordo trim 
 .spring bloom
-bordi trims 45. 
-code OBAGT001 TESY4 
-descrizione bordo O bag stampa iris 
-tessuto 
-materiale tessuto 
-abbinamenti O bag 
+bordi trims   45.
+code OBAGT001 TESY4
+descrizione bordo  O bag stampa iris 
+tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
+material fabric
+components O bag
 col. 588 
-orchidea 
-orchid 
+orchidea
+orchid
 iris .bordo trim 
-.ultraviolet 
-code OBAGT002 TESX1 
-descrizione bordo O bag mini stampa 
-botanical mini tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+.ultraviolet
+code OBAGT002 TESX1
+descrizione bordo O bag mini  stampa 
+botanical mini tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 017 
-blu navy 
-blue navy 
+blu navy
+blue navy
 botanical mini .bordo trim 
 .spring bloom
-46. O bag spring 19 
-code OBAGT002 TESX3 
-descrizione bordo O bag mini stampa 
-japan tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+ 46. O bag spring 19  
+code OBAGT002 TESX3
+descrizione bordo O bag mini  stampa 
+japan tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
+blu navy
+blue navy
+col. 371
+latte
+milk
 japan .bordo trim 
-.ultraviolet .ultraviolet 
-code OBAGT002 TESX5 
-descrizione bordo O bag mini stampa 
-stones tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+.ultraviolet .ultraviolet
+code OBAGT002 TESX5
+descrizione bordo  O bag mini  stampa 
+stones tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 590 
-mattone/nero 
-brick/black 
+mattone/nero
+brick/black
 stones .bordo trim 
 .tangerine
-bordi trims 47. 
-code OBAGT002 TESX6 
-descrizione bordo O bag mini stampa 
-tangerine tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+bordi trims   47.
+code OBAGT002 TESX6
+descrizione bordo  O bag mini  stampa 
+tangerine tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 125 
-multicolor 
-multicolor 
+multicolor
+multicolor
 tangerine .bordo trim 
-.tangerine 
-code OBAGT002 TESY2 
-descrizione bordo O bag mini stampa 
-leaves tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+.tangerine
+code OBAGT002 TESY2
+descrizione bordo  O bag mini  stampa 
+leaves tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 075 
-rosa smoke 
-rosa smoke 
+rosa smoke
+rosa smoke
 leaves .bordo trim 
 .tangerine
-48. O bag spring 19 
-code OBAGT002 TESY3 
-descrizione bordo O bag mini stampa 
-flower camouflage tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+ 48. O bag spring 19  
+code OBAGT002 TESY3
+descrizione bordo  O bag mini  stampa 
+flower camouflage tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 026 
-cobalto 
-cobalt blue 
+cobalto
+cobalt blue
 flower camouflage .bordo trim 
-.spring bloom 
-code OBAGT002 TESY4 
-descrizione bordo O bag mini stampa 
-iris tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
+.spring bloom
+code OBAGT002 TESY4
+descrizione bordo  O bag mini  stampa 
+iris tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag mini 
+material fabric
+components O bag mini
 col. 588 
-orchidea 
-orchid 
+orchidea
+orchid
 iris .bordo trim 
 .ultraviolet
-bordi trims 49.
-.sacche interne 
+bordi trims   49.
+
+.sacche interne
 inner bags
-52. O bag spring 19 
-code OBAGS001 TES01 
-descrizione sacca interna zip O bag 
-canvas tessuto 
-materiale tessuto 
-abbinamenti O bag 
+ 52. O bag spring 19  
+code OBAGS001 TES01
+descrizione sacca interna zip O bag  
+canvas tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag 
-col. 026 
-cobalto 
-cobalt blue 
-col. 075 
-rosa smoke 
-rosa smoke 
-tessuto canvas .sacca interna zip inner zip up bag O bag 
-.spring bloom 
-.tangerine 
-col. 088 
-turchese 
-turquoise 
-col. 588 
-orchidea 
-orchid 
-col. 347 
-cedro 
-cedro 
-col. 589 
-lily grey 
-lily grey 
-col. 486 
-pink 
-pink 
-.ultraviolet 
-.ultraviolet 
-.tangerine 
-.ultraviolet 
-.spring bloom 
-col. 130 
-azzurro 
-light blue 
-col. 422 
-sangria 
-sangria 
-.ultraviolet .spring bloom
-sacche interne inner bags 53. 
-code OBAGS501 TESX2 
-descrizione sacca interna over O bag 
-stampa fiore dipinto a mano tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 371 
-latte 
-milk 
-fiore dipinto a mano .sacca interna over inner bag over O bag 
-.tangerine 
-code OBAGS501 TESX6 
-descrizione sacca interna over O bag 
-stampa tangerine tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 125 
-multicolor 
-multicolor 
-tangerine .sacca interna over inner bag over O bag 
-.tangerine
-54. O bag spring 19 
-code OBAGS601 TESW9 
-descrizione sacca interna switch O bag 
-stampa botanical maxi tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-botanical maxi .sacca interna switch inner bag switch O bag 
-.spring bloom .spring bloom 
-code OBAGS601 TESX3 
-descrizione sacca interna switch O bag 
-stampa japan tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-japan .sacca interna switch inner bag switch O bag 
-.ultraviolet .ultraviolet
-sacche interne inner bags 55. 
-code OBAGS601 TESX5 
-descrizione sacca interna switch O bag 
-stampa stones tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 590 
-mattone/nero 
-brick/black 
-stones .sacca interna switch inner bag switch O bag 
-.tangerine 
-code OBAGS601 TESY2 
-descrizione sacca interna switch O bag 
-stampa leaves tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 075 
-rosa smoke 
-rosa smoke 
-leaves .sacca interna switch inner bag switch O bag 
-.tangerine
-56. O bag spring 19 
-code OBAGS601 TESY3 
-descrizione sacca interna switch O bag 
-stampa flower camouflage tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 026 
-cobalto 
-cobalt blue 
-flower camouflage .sacca interna switch inner bag switch O bag 
-.spring bloom 
-code OBAGS601 TESY4 
-descrizione sacca interna switch O bag 
-stampa iris tessuto 
-materiale tessuto 
-abbinamenti O bag 
-description 
-material fabric 
-components O bag 
-col. 588 
-orchidea 
-orchid 
-iris .sacca interna switch inner bag switch O bag 
-.ultraviolet
-sacche interne inner bags 57.
-58. O bag spring 19 sacche interne inner bags 58. 
-code OBAGS002 TES01 
-descrizione sacca interna zip O bag mini 
-canvas tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 026 
-cobalto 
-cobalt blue 
-col. 075 
-rosa smoke 
-rosa smoke 
-tessuto canvas .sacca interna zip inner zip up bag O bag mini 
-.spring bloom 
-.tangerine 
-col. 088 
-turchese 
-turquoise 
-col. 588 
-orchidea 
-orchid 
-col. 347 
-cedro 
-cedro 
-col. 589 
-lily grey 
-lily grey 
-col. 486 
-pink 
-pink 
-.ultraviolet 
-.ultraviolet 
-.tangerine 
-.ultraviolet 
-.spring bloom 
-col. 130 
-azzurro 
-light blue 
-col. 422 
-sangria 
-sangria 
-.ultraviolet .spring bloom
-sacche interne inner bags 59. 
-code OBAGS502 TESX2 
-descrizione sacca interna over O bag 
-mini stampa fiore dipinto a mano tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 371 
-latte 
-milk 
-fiore dipinto a mano .sacca interna over inner bag over O bag mini 
-.tangerine 
-code OBAGS502 TESX6 
-descrizione sacca interna over O bag 
-mini stampa tangerine tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 125 
-multicolor 
-multicolor 
-tangerine .sacca interna over inner bag over O bag mini 
-.tangerine
-60. O bag spring 19 
-code OBAGS602 TESX1 
-descrizione sacca interna switch O bag 
-mini stampa botanical mini tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-botanical mini .sacca interna switch inner bag switch O bag mini 
-.spring bloom .spring bloom 
-code OBAGS602 TESX3 
-descrizione sacca interna switch O bag 
-mini stampa japan tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-japan .sacca interna switch inner bag switch O bag mini 
-.ultraviolet .ultraviolet
-sacche interne inner bags 61. 
-code OBAGS602 TESX5 
-descrizione sacca interna switch O bag 
-mini stampa stones tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 590 
-mattone/nero 
-brick/black 
-stones .sacca interna switch inner bag switch O bag mini 
-.tangerine 
-code OBAGS602 TESY2 
-descrizione sacca interna switch O bag 
-mini stampa leaves tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 075 
-rosa smoke 
-rosa smoke 
-leaves .sacca interna switch inner bag switch O bag mini 
-.tangerine
-62. O bag spring 19 
-code OBAGS602 TESY3 
-descrizione sacca interna switch O bag 
-mini stampa flower camouflage tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 026 
-cobalto 
-cobalt blue 
-flower camouflage .sacca interna switch inner bag switch O bag mini 
-.spring bloom 
-code OBAGS602 TESY4 
-descrizione sacca interna switch O bag 
-mini stampa iris tessuto 
-materiale tessuto 
-abbinamenti O bag mini 
-description 
-material fabric 
-components O bag mini 
-col. 588 
-orchidea 
-orchid 
-iris .sacca interna switch inner bag switch O bag mini 
-.ultraviolet
-sacche interne inner bags 63. 63. O bag spring 19 
-code OBAGS016 TES01 
-descrizione sacca interna zip O moon 
-canvas tessuto 
-materiale tessuto 
-abbinamenti O moon 
-description 
-material fabric 
-components O moon 
-col. 009 
-blu 
-blue 
-col. 088 
-turchese 
-turquoise 
-col. 026 
-cobalto 
-cobalt blue 
-col. 589 
-lily grey 
-lily grey 
-col. 075 
-rosa smoke 
-rosa smoke 
-tessuto canvas .sacca interna zip inner zip up bag O moon 
-.spring bloom/ultraviolet 
-.ultraviolet 
-.spring bloom 
-.ultraviolet 
-.tangerine 
-col. 347 
-cedro 
-cedro 
-col. 422 
-sangria 
-sangria 
-.tangerine 
-.spring bloom 
-col. 486 
-pink 
-pink 
+material fabric
+components O bag
+col. 026
+cobalto
+cobalt blue
+col. 075
+rosa smoke
+rosa smoke
+tessuto canvas .sacca interna zip inner zip up bag  O bag 
 .spring bloom
-64. O bag spring 19 sacche interne inner bags 64. 
-code OBAGS616 TESX1 
-descrizione sacca interna switch O moon 
-stampa botanical mini tessuto 
-materiale tessuto 
-abbinamenti O moon 
-description 
-material fabric 
-components O moon 
-col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-botanical mini .sacca interna switch inner bag switch O moon 
-.spring bloom .spring bloom 
-code OBAGS616 TESY4 
-descrizione sacca interna switch O moon 
-stampa iris tessuto 
-materiale tessuto 
-abbinamenti O moon 
-description 
-material fabric 
-components O moon 
-col. 588 
-orchidea 
-orchid 
-iris .sacca interna switch inner bag switch O moon 
-.ultraviolet
-sacche interne inner bags 65. 
-code OBAGS616 TESX5 
-descrizione sacca interna switch O moon 
-stampa stones tessuto 
-materiale tessuto 
-abbinamenti O moon 
-description 
-material fabric 
-components O moon 
-col. 590 
-mattone/nero 
-brick/black 
-stones .sacca interna switch inner bag switch O moon 
-.tangerine 
-code OBAGS616 TESY2 
-descrizione sacca interna switch O moon 
-stampa leaves tessuto 
-materiale tessuto 
-abbinamenti O moon 
-description 
-material fabric 
-components O moon 
-col. 075 
-rosa smoke 
-rosa smoke 
-leaves .sacca interna switch inner bag switch O moon 
 .tangerine
-66. O bag spring 19 
-code OBAGS616 TESY3 
-descrizione sacca interna switch O moon 
-stampa flower camouflage tessuto 
-materiale tessuto 
-abbinamenti O moon 
+col. 088 
+turchese
+turquoise
+col. 588
+orchidea
+orchid
+col. 347
+cedro
+cedro
+col. 589
+lily grey
+lily grey
+col. 486
+pink
+pink
+.ultraviolet
+.ultraviolet
+.tangerine
+.ultraviolet
+.spring bloom
+col. 130 
+azzurro
+light blue
+col. 422
+sangria
+sangria
+.ultraviolet .spring bloom
+sacche interne inner bags   53.
+code OBAGS501 TESX2
+descrizione sacca interna over O bag  
+stampa fiore dipinto a mano  tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O moon 
-col. 026 
-cobalto 
-cobalt blue 
-flower camouflage .sacca interna switch inner bag switch O moon 
-.spring bloom 
-code OBAGS616 TESX3 
-descrizione sacca interna switch O moon 
-stampa japan tessuto 
-materiale tessuto 
-abbinamenti O moon 
-description 
-material fabric 
-components O moon 
-col. 017 
-blu navy 
-blue navy 
+material fabric
+components O bag
 col. 371 
-latte 
-milk 
-japan .sacca interna switch inner bag switch O moon 
-.ultraviolet .ultraviolet
-sacche interne inner bags 67. 
-code OBAGS033 TES01 
-descrizione sacca interna zip O bag 
-urban canvas tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+latte
+milk
+fiore dipinto a mano .sacca interna over inner bag over  O bag
+.tangerine
+code OBAGS501 TESX6
+descrizione sacca interna over O bag  
+stampa tangerine tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
-col. 008 
-bianco 
-white 
-col. 054 
-naturale 
-natural 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 075 
-rosa smoke 
-rosa smoke 
-tessuto canvas .sacca interna zip inner zip up bag O bag urban 
-.tangerine 
-.tangerine 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.tangerine 
-code OBAGS033 TES01 
-descrizione sacca interna zip O bag 
-urban canvas tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
-description 
-material fabric 
-components O bag urban 
-col. 486 
-pink 
-pink 
-col. 588 
-orchidea 
-orchid 
-col. 589 
-lily grey 
-lily grey 
-tessuto canvas .sacca interna zip inner zip up bag O bag urban 
-.spring bloom .ultraviolet .ultraviolet
-68. O bag spring 19 
-code OBAGS533 TESX6 
-descrizione sacca interna over O bag 
-urban stampa tangerine tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
-description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 125 
-multicolor 
-multicolor 
-tangerine .sacca interna over inner bag over O bag urban 
-.tangerine 
-code OBAGS633 TESW9 
-descrizione sacca interna switch O bag 
-urban stampa botanical maxi tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+multicolor
+multicolor
+tangerine .sacca interna over inner bag over  O bag
+.tangerine
+ 54. O bag spring 19  
+code OBAGS601 TESW9
+descrizione sacca interna switch O bag  
+stampa botanical maxi tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-botanical maxi .sacca interna switch inner bag switch O bag urban 
+blu navy
+blue navy
+col. 371
+latte
+milk
+botanical maxi .sacca interna switch inner bag switch  O bag
 .spring bloom .spring bloom
-sacche interne inner bags 69. 
-code OBAGS633 TESX3 
-descrizione sacca interna switch O bag 
-urban stampa japan tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+code OBAGS601 TESX3
+descrizione sacca interna switch O bag  
+stampa japan tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-japan .sacca interna switch inner bag switch O bag urban 
-.ultraviolet .ultraviolet 
-code OBAGS633 TESX5 
-descrizione sacca interna switch O bag 
-urban stampa stones tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan .sacca interna switch inner bag switch  O bag
+.ultraviolet .ultraviolet
+sacche interne inner bags   55.
+code OBAGS601 TESX5
+descrizione sacca interna switch O bag  
+stampa stones tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 590 
-mattone/nero 
-brick/black 
-stones .sacca interna switch inner bag switch O bag urban 
+mattone/nero
+brick/black
+stones .sacca interna switch inner bag switch  O bag
 .tangerine
-70. O bag spring 19 
-code OBAGS633 TESY2 
-descrizione sacca interna switch O bag 
-urban stampa leaves tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+code OBAGS601 TESY2
+descrizione sacca interna switch O bag  
+stampa leaves tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 075 
-rosa smoke 
-rosa smoke 
-leaves .sacca interna switch inner bag switch O bag urban 
-.tangerine 
-code OBAGS633 TESY3 
-descrizione sacca interna switch O bag 
-urban stampa flower camouflage tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+rosa smoke
+rosa smoke
+leaves .sacca interna switch inner bag switch  O bag
+.tangerine
+ 56. O bag spring 19  
+code OBAGS601 TESY3
+descrizione sacca interna switch O bag  
+stampa flower camouflage tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 026 
-cobalto 
-cobalt blue 
-flower camouflage .sacca interna switch inner bag switch O bag urban 
+cobalto
+cobalt blue
+flower camouflage .sacca interna switch inner bag switch  O bag
 .spring bloom
-sacche interne inner bags 71. 
-code OBAGS633 TESY4 
-descrizione sacca interna switch O bag 
-urban stampa iris tessuto 
-materiale tessuto 
-abbinamenti O bag urban 
+code OBAGS601 TESY4
+descrizione sacca interna switch O bag  
+stampa iris tessuto
+materiale tessuto
+abbinamenti O bag
 description 
-material fabric 
-components O bag urban 
+material fabric
+components O bag
 col. 588 
-orchidea 
-orchid 
-iris .sacca interna switch inner bag switch O bag urban 
-.ultraviolet 
-code OBAGS634 TESX1 
-descrizione sacca interna switch O bag 
-glam stampa botanical mini tessuto 
-materiale tessuto 
-abbinamenti O bag glam 
+orchidea
+orchid
+iris .sacca interna switch inner bag switch  O bag
+.ultraviolet
+sacche interne inner bags   57.
+ 58. O bag spring 19  sacche interne inner bags   58.
+code OBAGS002 TES01
+descrizione sacca interna zip O bag mini  
+canvas tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag glam 
-col. 017 
-blu navy 
-blue navy 
-botanical mini .sacca interna switch inner bag switch O bag glam 
-.spring bloom 
-col. 371 
-latte 
-milk 
+material fabric
+components O bag mini
+col. 026
+cobalto
+cobalt blue
+col. 075
+rosa smoke
+rosa smoke
+tessuto canvas .sacca interna zip inner zip up bag  O bag mini
 .spring bloom
-72. O bag spring 19 
-code OBAGS034 TES01 
-descrizione sacca interna zip O bag glam 
-canvas tessuto 
-materiale tessuto 
-abbinamenti O bag glam 
-description 
-material fabric 
-components O bag glam 
-col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
-col. 017 
-blu navy 
-blue navy 
-col. 588 
-orchidea 
-orchid 
-col. 054 
-naturale 
-natural 
-col. 589 
-lily grey 
-lily grey 
-tessuto canvas .sacca interna zip inner zip up bag O bag glam 
-.tangerine 
-.tangerine 
-.spring bloom/ultraviolet 
-.ultraviolet 
-.tangerine 
-.ultraviolet 
-code OBAGS634 TESX3 
-descrizione sacca interna switch O bag 
-glam stampa japan tessuto 
-materiale tessuto 
-abbinamenti O bag glam 
-description 
-material fabric 
-components O bag glam 
-col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-japan .sacca interna switch inner bag switch O bag glam 
-.ultraviolet .ultraviolet
-sacche interne inner bags 73. 
-code OBAGS046 TES01 
-descrizione sacca interna zip O bag 
-reverse canvas tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
-description 
-material fabric 
-components O bag reverse 
-col. 008 
-bianco 
-white 
-col. 054 
-naturale 
-natural 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
+.tangerine
 col. 088 
-turchese 
-turquoise 
-tessuto canvas .sacca interna zip inner zip up bag O bag reverse 
-.tangerine 
-.tangerine 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.ultraviolet 
-col. 588 
-orchidea 
-orchid 
-col. 589 
-lily grey 
-lily grey 
-.ultraviolet .ultraviolet
-74. O bag spring 19 
-code OBAGS646 TESY4 
-descrizione sacca interna switch O bag 
-reverse stampa iris tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
-description 
-material fabric 
-components O bag reverse 
-col. 588 
-orchidea 
-orchid 
-iris .sacca interna switch inner bag switch O bag reverse 
-.ultraviolet 
-code OBAGS646 TESY2 
-descrizione sacca interna switch O bag 
-reverse stampa leaves tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
-description 
-material fabric 
-components O bag reverse 
-col. 075 
-rosa smoke 
-rosa smoke 
-leaves .sacca interna switch inner bag switch O bag reverse 
+turchese
+turquoise
+col. 588
+orchidea
+orchid
+col. 347
+cedro
+cedro
+col. 589
+lily grey
+lily grey
+col. 486
+pink
+pink
+.ultraviolet
+.ultraviolet
 .tangerine
-sacche interne inner bags 75. 
-code OBAGS646 TESW9 
-descrizione sacca interna switch O bag 
-reverse stampa botanical maxi tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
+.ultraviolet
+.spring bloom
+col. 130 
+azzurro
+light blue
+col. 422
+sangria
+sangria
+.ultraviolet .spring bloom
+sacche interne inner bags   59.
+code OBAGS502 TESX2
+descrizione sacca interna over O bag 
+mini  stampa fiore dipinto a mano  tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag reverse 
-col. 017 
-blu navy 
-blue navy 
+material fabric
+components O bag mini
 col. 371 
-latte 
-milk 
-botanical .sacca interna switch inner bag switch O bag reverse 
-.spring bloom .spring bloom 
-code OBAGS646 TESX3 
-descrizione sacca interna switch O bag 
-reverse stampa japan tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
+latte
+milk
+fiore dipinto a mano .sacca interna over inner bag over  O bag mini
+.tangerine
+code OBAGS502 TESX6
+descrizione sacca interna over O bag 
+mini  stampa tangerine tessuto
+materiale tessuto
+abbinamenti O bag mini
 description 
-material fabric 
-components O bag reverse 
+material fabric
+components O bag mini
+col. 125 
+multicolor
+multicolor
+tangerine .sacca interna over inner bag over  O bag mini
+.tangerine
+ 60. O bag spring 19  
+code OBAGS602 TESX1
+descrizione sacca interna switch O bag 
+mini  stampa botanical mini tessuto
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-japan .sacca interna switch inner bag switch O bag reverse 
+blu navy
+blue navy
+col. 371
+latte
+milk
+botanical mini .sacca interna switch inner bag switch  O bag mini
+.spring bloom .spring bloom
+code OBAGS602 TESX3
+descrizione sacca interna switch O bag 
+mini  stampa japan tessuto
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan .sacca interna switch inner bag switch  O bag mini
 .ultraviolet .ultraviolet
-76. O bag spring 19 
-code OBAGS646 TESY3 
+sacche interne inner bags   61.
+code OBAGS602 TESX5
+descrizione sacca interna switch O bag 
+mini  stampa stones tessuto
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
+col. 590 
+mattone/nero
+brick/black
+stones .sacca interna switch inner bag switch  O bag mini
+.tangerine
+code OBAGS602 TESY2
+descrizione sacca interna switch O bag 
+mini  stampa leaves tessuto
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
+col. 075 
+rosa smoke
+rosa smoke
+leaves .sacca interna switch inner bag switch  O bag mini
+.tangerine
+ 62. O bag spring 19  
+code OBAGS602 TESY3
+descrizione sacca interna switch O bag 
+mini  stampa flower camouflage tessuto
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
+col. 026 
+cobalto
+cobalt blue
+flower camouflage .sacca interna switch inner bag switch  O bag mini
+.spring bloom
+code OBAGS602 TESY4
+descrizione sacca interna switch O bag 
+mini  stampa iris tessuto
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
+col. 588 
+orchidea
+orchid
+iris .sacca interna switch inner bag switch  O bag mini
+.ultraviolet
+sacche interne inner bags   63. 63. O bag spring 19  
+code OBAGS016 TES01
+descrizione sacca interna zip O moon 
+canvas tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 009 
+blu
+blue
+col. 088
+turchese
+turquoise
+col. 026
+cobalto
+cobalt blue
+col. 589
+lily grey
+lily grey
+col. 075
+rosa smoke
+rosa smoke
+tessuto canvas .sacca interna zip inner zip up bag  O moon
+.spring bloom/ultraviolet
+.ultraviolet
+.spring bloom
+.ultraviolet
+.tangerine
+col. 347 
+cedro
+cedro
+col. 422
+sangria
+sangria
+.tangerine
+.spring bloom
+col. 486
+pink
+pink
+.spring bloom
+ 64. O bag spring 19  sacche interne inner bags   64.
+code OBAGS616 TESX1
+descrizione sacca interna switch O moon 
+stampa botanical mini tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+botanical mini .sacca interna switch inner bag switch  O moon
+.spring bloom .spring bloom
+code OBAGS616 TESY4
+descrizione sacca interna switch O moon 
+stampa iris tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 588 
+orchidea
+orchid
+iris .sacca interna switch inner bag switch  O moon
+.ultraviolet
+sacche interne inner bags   65.
+code OBAGS616 TESX5
+descrizione sacca interna switch O moon 
+stampa stones tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 590 
+mattone/nero
+brick/black
+stones .sacca interna switch inner bag switch  O moon
+.tangerine
+code OBAGS616 TESY2
+descrizione sacca interna switch O moon 
+stampa leaves tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 075 
+rosa smoke
+rosa smoke
+leaves .sacca interna switch inner bag switch  O moon
+.tangerine
+ 66. O bag spring 19  
+code OBAGS616 TESY3
+descrizione sacca interna switch O moon 
+stampa flower camouflage tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 026 
+cobalto
+cobalt blue
+flower camouflage .sacca interna switch inner bag switch  O moon
+.spring bloom
+code OBAGS616 TESX3
+descrizione sacca interna switch O moon 
+stampa japan tessuto
+materiale tessuto
+abbinamenti O moon
+description 
+material fabric
+components O moon
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan .sacca interna switch inner bag switch  O moon
+.ultraviolet .ultraviolet
+sacche interne inner bags   67.
+code OBAGS033 TES01
+descrizione sacca interna zip O bag 
+urban canvas tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 008 
+bianco
+white
+col. 054
+naturale
+natural
+col. 017
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 075
+rosa smoke
+rosa smoke
+tessuto canvas .sacca interna zip inner zip up bag  O bag urban
+.tangerine
+.tangerine
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.tangerine
+code OBAGS033 TES01
+descrizione sacca interna zip O bag 
+urban canvas tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 486 
+pink
+pink
+col. 588
+orchidea
+orchid
+col. 589
+lily grey
+lily grey
+tessuto canvas .sacca interna zip inner zip up bag  O bag urban
+.spring bloom .ultraviolet .ultraviolet
+ 68. O bag spring 19  
+code OBAGS533 TESX6
+descrizione sacca interna over O bag 
+urban  stampa tangerine tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 125 
+multicolor
+multicolor
+tangerine .sacca interna over inner bag over  O bag urban
+.tangerine
+code OBAGS633 TESW9
+descrizione sacca interna switch O bag 
+urban stampa botanical maxi tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+botanical maxi .sacca interna switch inner bag switch  O bag urban
+.spring bloom .spring bloom
+sacche interne inner bags   69.
+code OBAGS633 TESX3
+descrizione sacca interna switch O bag 
+urban stampa japan tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan .sacca interna switch inner bag switch  O bag urban
+.ultraviolet .ultraviolet
+code OBAGS633 TESX5
+descrizione sacca interna switch O bag 
+urban stampa stones tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 590 
+mattone/nero
+brick/black
+stones .sacca interna switch inner bag switch  O bag urban
+.tangerine
+ 70. O bag spring 19  
+code OBAGS633 TESY2
+descrizione sacca interna switch O bag 
+urban stampa leaves tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 075 
+rosa smoke
+rosa smoke
+leaves .sacca interna switch inner bag switch  O bag urban 
+.tangerine
+code OBAGS633 TESY3
+descrizione sacca interna switch O bag 
+urban stampa flower camouflage tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 026 
+cobalto
+cobalt blue
+flower camouflage .sacca interna switch inner bag switch  O bag urban
+.spring bloom
+sacche interne inner bags   71.
+code OBAGS633 TESY4
+descrizione sacca interna switch O bag 
+urban stampa iris tessuto
+materiale tessuto
+abbinamenti O bag urban
+description 
+material fabric
+components O bag urban
+col. 588 
+orchidea
+orchid
+iris .sacca interna switch inner bag switch  O bag urban
+.ultraviolet
+code OBAGS634 TESX1
+descrizione sacca interna switch O bag 
+glam stampa botanical mini tessuto
+materiale tessuto
+abbinamenti O bag glam
+description 
+material fabric
+components O bag glam
+col. 017 
+blu navy
+blue navy
+botanical mini .sacca interna switch inner bag switch  O bag glam
+.spring bloom
+col. 371 
+latte
+milk
+.spring bloom
+ 72. O bag spring 19  
+code OBAGS034 TES01
+descrizione sacca interna zip O bag glam 
+canvas  tessuto
+materiale tessuto
+abbinamenti O bag glam
+description 
+material fabric
+components O bag glam
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 017
+blu navy
+blue navy
+col. 588
+orchidea
+orchid
+col. 054
+naturale
+natural
+col. 589
+lily grey
+lily grey
+tessuto canvas .sacca interna zip inner zip up bag  O bag glam
+.tangerine
+.tangerine
+.spring bloom/ultraviolet
+.ultraviolet
+.tangerine
+.ultraviolet
+code OBAGS634 TESX3
+descrizione sacca interna switch O bag 
+glam stampa japan tessuto
+materiale tessuto
+abbinamenti O bag glam
+description 
+material fabric
+components O bag glam
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan .sacca interna switch inner bag switch  O bag glam
+.ultraviolet .ultraviolet
+sacche interne inner bags   73.
+code OBAGS046 TES01
+descrizione sacca interna zip O bag 
+reverse canvas tessuto
+materiale tessuto
+abbinamenti O bag reverse
+description 
+material fabric
+components O bag reverse
+col. 008 
+bianco
+white
+col. 054
+naturale
+natural
+col. 017
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 088
+turchese
+turquoise
+tessuto canvas .sacca interna zip inner zip up bag  O bag reverse
+.tangerine
+.tangerine
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.ultraviolet
+col. 588 
+orchidea
+orchid
+col. 589
+lily grey
+lily grey
+.ultraviolet .ultraviolet
+ 74. O bag spring 19  
+code OBAGS646 TESY4
+descrizione sacca interna switch O bag 
+reverse stampa iris tessuto
+materiale tessuto
+abbinamenti O bag reverse
+description 
+material fabric
+components O bag reverse
+col. 588 
+orchidea
+orchid
+iris .sacca interna switch inner bag switch  O bag reverse
+.ultraviolet
+code OBAGS646 TESY2
+descrizione sacca interna switch O bag 
+reverse stampa leaves tessuto
+materiale tessuto
+abbinamenti O bag reverse
+description 
+material fabric
+components O bag reverse
+col. 075 
+rosa smoke
+rosa smoke
+leaves .sacca interna switch inner bag switch O bag reverse
+.tangerine
+sacche interne inner bags   75.
+code OBAGS646 TESW9
+descrizione sacca interna switch O bag 
+reverse stampa botanical maxi tessuto
+materiale tessuto
+abbinamenti O bag reverse
+description 
+material fabric
+components O bag reverse
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+botanical .sacca interna switch inner bag switch  O bag reverse
+.spring bloom .spring bloom
+code OBAGS646 TESX3
+descrizione sacca interna switch O bag 
+reverse stampa japan tessuto
+materiale tessuto
+abbinamenti O bag reverse
+description 
+material fabric
+components O bag reverse
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan .sacca interna switch inner bag switch  O bag reverse
+.ultraviolet .ultraviolet
+ 76. O bag spring 19  
+code OBAGS646 TESY3
 descrizione sacca interna switch O 
 bag reverse stampa flower camouflage 
-tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
+tessuto
+materiale tessuto
+abbinamenti O bag reverse
 description 
-material fabric 
-components O bag reverse 
+material fabric
+components O bag reverse
 col. 026 
-cobalto 
-cobalt blue 
-flower camouflage .sacca interna switch inner bag switch O bag reverse 
-.spring bloom 
-code OBAGS646 TESX5 
+cobalto
+cobalt blue
+flower camouflage .sacca interna switch inner bag switch  O bag reverse
+.spring bloom
+code OBAGS646 TESX5
 descrizione sacca interna switch O bag 
-reverse stampa stones tessuto 
-materiale tessuto 
-abbinamenti O bag reverse 
+reverse stampa stones tessuto
+materiale tessuto
+abbinamenti O bag reverse
 description 
-material fabric 
-components O bag reverse 
+material fabric
+components O bag reverse
 col. 590 
-mattone/nero 
-brick/black 
-stones .sacca interna switch inner bag switch O bag reverse 
+mattone/nero
+brick/black
+stones .sacca interna switch inner bag switch  O bag reverse
 .tangerine
-sacche interne inner bags 77.
-.patte 
+sacche interne inner bags   77.
+
+.patte
 flaps
-80. O bag spring 19 
-code OBAGP006 ECSA3 
-descrizione pattina O pocket saffiano 
-stampa botanical mini ecopelle 
-materiale ecopelle 
-abbinamenti O pocket 
+ 80. O bag spring 19  
+code OBAGP006 ECSA3
+descrizione pattina O pocket  saffiano 
+stampa botanical mini ecopelle
+materiale ecopelle
+abbinamenti O pocket
 description 
-material faux leather 
-components O pocket 
+material faux leather
+components O pocket
 col. 017 
-blu navy 
-blue navy 
-botanical ecopelle .pattina flap O pocket 
-.spring bloom 
-code OBAGP006 ECSA4 
-descrizione pattina O pocket saffiano 
-stampa tangerine ecopelle 
-materiale ecopelle 
-abbinamenti O pocket 
+blu navy
+blue navy
+botanical ecopelle .pattina flap  O pocket
+.spring bloom
+code OBAGP006 ECSA4
+descrizione pattina O pocket  saffiano 
+stampa tangerine ecopelle
+materiale ecopelle
+abbinamenti O pocket
 description 
-material faux leather 
-components O pocket 
+material faux leather
+components O pocket
 col. 125 
-multicolor 
-multicolor 
-tangerine ecopelle .pattina flap O pocket 
+multicolor
+multicolor
+tangerine ecopelle .pattina flap  O pocket
 .tangerine
-patte flaps 81. 
-code OBAGP006 ECSA6 
-descrizione pattina O pocket saffiano 
-stampa fiore dipinto a mano ecopelle 
-materiale ecopelle 
-abbinamenti O pocket 
+patte flaps   81.
+code OBAGP006 ECSA6
+descrizione pattina  O pocket  saffiano 
+stampa fiore dipinto a mano  ecopelle
+materiale ecopelle
+abbinamenti O pocket
 description 
-material faux leather 
-components O pocket 
+material faux leather
+components O pocket
 col. 371 
-latte 
-milk 
-fiore dipinto a mano .pattina flap O pocket 
-.tangerine 
-code OBAGP006 ECSA7 
-descrizione pattina O pocket saffiano 
-stampa japan ecopelle 
-materiale ecopelle 
-abbinamenti O pocket 
+latte
+milk
+fiore dipinto a mano .pattina flap  O pocket
+.tangerine
+code OBAGP006 ECSA7
+descrizione pattina O pocket  saffiano 
+stampa japan ecopelle
+materiale ecopelle
+abbinamenti O pocket
 description 
-material faux leather 
-components O pocket 
+material faux leather
+components O pocket
 col. 017 
-blu navy 
-blue navy 
-col. 371 
-latte 
-milk 
-japan ecopelle .pattina flap O pocket 
+blu navy
+blue navy
+col. 371
+latte
+milk
+japan ecopelle .pattina flap  O pocket
 .ultraviolet .ultraviolet
-82. O bag spring 19 
-code OBAGPA06 EVS00 
-descrizione pattina O pocket XL 
-extralight 
-materiale XL extralight 
-abbinamenti O pocket 
+ 82. O bag spring 19  
+code OBAGPA06 EVS00
+descrizione pattina  O pocket   XL 
+extralight
+materiale XL extralight
+abbinamenti O pocket
 description 
-material XL extralight 
-components O pocket 
+material XL extralight
+components O pocket
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 075 
-rosa smoke 
-rosa smoke 
-col. 048 
-mattone 
-brick 
-col. 078 
-sabbia 
-sand 
-XL extralight .pattina flap O pocket 
-.spring bloom/ultraviolet 
-.tangerine 
-.spring bloom 
-.tangerine 
-.tangerine 
-.tangerine 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 075
+rosa smoke
+rosa smoke
+col. 048
+mattone
+brick
+col. 078
+sabbia
+sand
+XL extralight .pattina flap  O pocket
+.spring bloom/ultraviolet
+.tangerine
+.spring bloom
+.tangerine
+.tangerine
+.tangerine
 col. 224 
-verde inglese 
-english green 
-col. 486 
-pink 
-pink 
-col. 347 
-cedro 
-cedro 
-col. 587 
-celery green 
-celery green 
-col. 371 
-latte 
-milk 
-col. 588 
-orchidea 
-orchid 
-.spring bloom 
-.spring bloom 
-.tangerine 
-.ultraviolet 
-.tangerine/ultraviolet 
+verde inglese
+english green
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+col. 587
+celery green
+celery green
+col. 371
+latte
+milk
+col. 588
+orchidea
+orchid
+.spring bloom
+.spring bloom
+.tangerine
 .ultraviolet
-patte flaps 83. 
+.tangerine/ultraviolet
+.ultraviolet
+patte flaps   83.
 col. 589 
-lily grey 
-lily grey 
-col. 602 
-viola scuro 
-dark violet 
-XL extralight .pattina flap O pocket 
-.ultraviolet .ultraviolet 
-code OBAGPF06 ECS07 
+lily grey
+lily grey
+col. 602
+viola scuro
+dark violet
+XL extralight .pattina flap  O pocket
+.ultraviolet .ultraviolet
+code OBAGPF06 ECS07
 descrizione pattina forata a fascia O 
-pocket saffiano ecopelle 
-materiale ecopelle 
-abbinamenti O pocket 
+pocket  saffiano  ecopelle
+materiale ecopelle
+abbinamenti O pocket
 description 
-material faux leather 
-components O pocket 
+material faux leather
+components O pocket
 col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-col. 048 
-mattone 
-brick 
-col. 224 
-verde inglese 
-english green 
-col. 055 
-nero 
-black 
-col. 486 
-pink 
-pink 
-saffiano ecopelle .pattina forata a fascia O pocket 
-.spring bloom 
-.tangerine 
-.tangerine 
-.spring bloom 
-.tangerine 
-.spring bloom 
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+col. 048
+mattone
+brick
+col. 224
+verde inglese
+english green
+col. 055
+nero
+black
+col. 486
+pink
+pink
+saffiano ecopelle .pattina forata a fascia  O pocket
+.spring bloom
+.tangerine
+.tangerine
+.spring bloom
+.tangerine
+.spring bloom
 col. 587 
-celery green 
-celery green 
-col. 588 
-orchidea 
-orchid 
+celery green
+celery green
+col. 588
+orchidea
+orchid
 .ultraviolet .ultraviolet
-84. O bag spring 19 
-code OBAGP034 ECS07 
-descrizione pattina O bag glam saffiano 
-ecopelle 
-materiale ecopelle 
-abbinamenti O bag glam 
+ 84. O bag spring 19  
+code OBAGP034 ECS07
+descrizione pattina O bag glam  saffiano  
+ecopelle
+materiale ecopelle
+abbinamenti O bag glam
 description 
-material faux leather 
-components O bag glam 
+material faux leather
+components O bag glam
 col. 017 
-blu navy 
-blue navy 
+blu navy
+blue navy
 col. 075 
-rosa smoke 
-rosa smoke 
-col. 055 
-nero 
-black 
+rosa smoke
+rosa smoke
+col. 055
+nero
+black
 col. 133 
-grigio chiaro 
-light grey 
-saffiano ecopelle .pattina flap O bag glam 
-.spring bloom/ultraviolet 
-.tangerine 
-.tangerine .ultraviolet 
-code OBAGP034 ECSA2 
+grigio chiaro
+light grey
+saffiano ecopelle .pattina flap  O bag glam
+.spring bloom/ultraviolet
+.tangerine
+.tangerine .ultraviolet
+code OBAGP034 ECSA2
 descrizione pattina O bag glam saffiano 
-fiori stampa 3D ecopelle 
-materiale ecopelle 
-abbinamenti O bag glam 
+fiori stampa 3D ecopelle
+materiale ecopelle
+abbinamenti O bag glam
 description 
-material faux leather 
-components O bag glam 
+material faux leather
+components O bag glam
 col. 183 
-viola 
-violet 
-col. 589 
-lily grey 
-lily grey 
-fiori stampa 3D ecopelle .pattina flap O bag glam 
+viola
+violet
+col. 589
+lily grey
+lily grey
+fiori stampa 3D ecopelle .pattina flap  O bag glam
 .ultraviolet .ultraviolet
-patte flaps 85. 
-code OBAGC534 TESW8 
-descrizione chiusura a fascia con fibbia 
-O bag glam nastro riga stretta tessuto 
-materiale tessuto 
-abbinamenti O bag glam 
+patte flaps   85.
+code OBAGC534 TESW8
+descrizione chiusura a fascia con fibbia  
+O bag glam nastro riga stretta tessuto
+materiale tessuto
+abbinamenti O bag glam
 description 
-material fabric 
-components O bag glam 
+material fabric
+components O bag glam
 col. 224 
-verde inglese 
-english green 
-col. 486 
-pink 
-pink 
-.chiusura a fascia con fibbia O bag glam 
-.spring bloom .spring bloom 
-code OBAGPM34 ECS07 
+verde inglese
+english green
+col. 486
+pink
+pink
+ .chiusura a fascia con fibbia   O bag glam
+.spring bloom .spring bloom
+code OBAGPM34 ECS07
 descrizione pattina con manichetto O 
-bag glam saffiano ecopelle 
-materiale ecopelle 
-abbinamenti O bag glam 
+bag glam saffiano ecopelle
+materiale ecopelle
+abbinamenti O bag glam
 description 
-material faux leather 
-components O bag glam 
+material faux leather
+components O bag glam
 col. 591 
-cobalto/bamboo 
-cobalt blue/bamboo 
-col. 594 
-sabbia/bamboo 
-sand/bamboo 
-col. 592 
-verde inglese/bamboo 
-english green/bamboo 
-col. 595 
-orchidea/bamboo 
-orchid/bamboo 
-col. 593 
-nero/bamboo 
-black/bamboo 
-saffiano ecopelle .pattina con manichetto flap with handle O bag glam 
-.spring bloom 
-.tangerine 
-.spring bloom 
-.ultraviolet 
+cobalto/bamboo
+cobalt blue/bamboo
+col. 594
+sabbia/bamboo
+sand/bamboo
+col. 592
+verde inglese/bamboo
+english green/bamboo
+col. 595
+orchidea/bamboo
+orchid/bamboo
+col. 593
+nero/bamboo
+black/bamboo
+saffiano ecopelle .pattina con manichetto flap with handle  O bag glam
+.spring bloom
 .tangerine
-86. O bag spring 19 
-code OBAGPF34 ECSA5 
+.spring bloom
+.ultraviolet
+.tangerine
+ 86. O bag spring 19  
+code OBAGPF34  ECSA5
 descrizione pattina forata a fascia maxi 
-ecopelle saffiano stampa masai 
-materiale ecopelle 
-abbinamenti O bag glam 
+ecopelle saffiano stampa masai
+materiale ecopelle
+abbinamenti O bag glam
 description 
-material faux leather 
-components O bag glam 
+material faux leather
+components O bag glam
 col. 590 
-nero/mattone 
-black/brick 
-fascia stampa masai .pattina con manichetto flap with handle O bag glam 
+nero/mattone
+black/brick
+fascia stampa masai .pattina con manichetto flap with handle  O bag glam
 .tangerine
-patte flaps 87. 
-code OBAGPT47 ECS07 
+patte flaps   87.
+code OBAGPT47 ECS07
 descrizione pattina con tasca O Bag 
-Queen saffiano ecopelle 
-materiale ecopelle 
-abbinamenti O bag queen 
+Queen  saffiano  ecopelle
+materiale ecopelle
+abbinamenti O bag queen
 description 
-material faux leather 
-components O bag queen 
+material faux leather
+components O bag queen
 col. 017 
-blu navy 
-blue navy 
-col. 589 
-lily grey 
-lily grey 
-col. 055 
-nero 
-black 
-col. 224 
-verde inglese 
-english green 
-saffiano ecopelle .pattina con tasca flap with pocket O bag queen 
-.spring bloom/ultraviolet 
-.ultraviolet 
-.tangerine .spring bloom 
-code OBAGPX47 ECSA4 
-descrizione pattina con manichetto 
-O Bag Queen saffiano stampa tangerine 
-ecopelle 
-materiale ecopelle 
-abbinamenti O bag queen 
+blu navy
+blue navy
+col. 589
+lily grey
+lily grey
+col. 055
+nero
+black
+col. 224
+verde inglese
+english green
+saffiano ecopelle .pattina con tasca flap with pocket  O bag queen
+.spring bloom/ultraviolet
+.ultraviolet
+.tangerine .spring bloom
+code OBAGPX47 ECSA4
+descrizione pattina con manichetto
+O Bag Queen  saffiano stampa tangerine 
+ecopelle
+materiale ecopelle
+abbinamenti O bag queen
 description 
-material faux leather 
-components O bag queen 
+material faux leather
+components O bag queen
 col. 596 
-multicolor/bamboo 
-multicolor/bamboo 
-tangerine ecopelle .pattina con manichetto e tasca O bag queen 
-.tangerine 
-87. O bag spring 19 
-88. O bag spring 19 patte flaps 88. 
-code OBAGPX47 ECSA7 
+multicolor/bamboo
+multicolor/bamboo
+tangerine ecopelle .pattina con manichetto e tasca O bag queen
+.tangerine
+ 87. O bag spring 19  
+ 88. O bag spring 19  patte flaps   88.
+code OBAGPX47 ECSA7
 descrizione pattina con manichetto 
-O Bag Queen saffiano stampa japan 
-ecopelle 
-materiale ecopelle 
-abbinamenti O bag queen 
+O Bag Queen  saffiano stampa japan 
+ecopelle
+materiale ecopelle
+abbinamenti O bag queen
 description 
-material faux leather 
-components O bag queen 
+material faux leather
+components O bag queen
 col. 598 
-latte/bamboo 
-milk/bamboo 
-japan ecopelle .pattina con manichetto e tasca O bag queen 
-.ultraviolet 
-code OBAGPX47 ECSA8 
+latte/bamboo
+milk/bamboo
+japan ecopelle .pattina con manichetto e tasca O bag queen
+.ultraviolet
+code OBAGPX47 ECSA8
 descrizione pattina con manichetto 
-O Bag Queen saffiano stampa botanical 
-maxi ecopelle 
-materiale ecopelle 
-abbinamenti O bag queen 
+O Bag Queen  saffiano stampa botanical 
+maxi ecopelle
+materiale ecopelle
+abbinamenti O bag queen
 description 
-material faux leather 
-components O bag queen 
+material faux leather
+components O bag queen
 col. 597 
-blu navy/bamboo 
-milk/bamboo 
-botanical maxi ecopelle .pattina con manichetto e tasca O bag queen 
+blu navy/bamboo
+milk/bamboo
+botanical maxi ecopelle .pattina con manichetto e tasca O bag queen
 .spring bloom
-code OBAGPC48 ECS07 
-descrizione pattina con catena O bag 
-sheen saffiano ecopelle 
-materiale ecopelle 
-abbinamenti O bag sheen 
+code OBAGPC48 ECS07
+descrizione pattina con catena  O bag 
+sheen  saffiano  ecopelle
+materiale ecopelle
+abbinamenti O bag sheen
 description 
-material faux leather 
-components O bag sheen 
+material faux leather
+components O bag sheen
 col. 017 
-blu navy 
-blue navy 
-col. 088 
-turchese 
-turquoise 
-col. 026 
-cobalto 
-cobalt blue 
-col. 371 
-latte 
-milk 
-col. 055 
-nero 
-black 
-col. 422 
-sangria 
-sangria 
-saffiano ecopelle .pattina con catena flap with chain O bag sheen 
-.spring bloom/ultraviolet 
-.ultraviolet 
-.spring bloom 
-.tangerine/ultraviolet 
-.tangerine 
-.ultraviolet 
-col. 587 
-celery green 
-celery green 
-col. 588 
-orchidea 
-orchid 
-.ultraviolet .ultraviolet 
-patte flaps 89.
-.zaini 
-backpack
-92. O bag spring 19 
-code OBAGB019 EVS00 
-descrizione scocca O square XL 
-extralight 
-materiale XL extralight 
-abbinamenti manici e tracolle - sacche 
-interne 
-description O square 
-material XL extralight 
-components handles and shoulder 
-straps - inner bags 
-col. 602 
-viola scuro 
-dark violet 
-col. 048 
-mattone 
-brick 
-col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 026 
-cobalto 
-cobalt blue 
-col. 078 
-sabbia 
-sand 
-O square .scocca body 
-.ultraviolet 
-.tangerine 
-.spring bloom/ 
-ultraviolet/continuativo 
-.tangerine/continuativo 
-.spring bloom 
-.tangerine/continuativo 
-col. 224 
-verde inglese 
-english green 
-col. 588 
-orchidea 
-orchid 
-col. 347 
-cedro 
-cedro 
-col. 589 
-lily grey 
-lily grey 
-col. 371 
-latte 
-milk 
-.spring bloom 
-.ultraviolet 
-.tangerine 
-.ultraviolet 
-.tangerine/ultraviolet/ 
-continuativo 
-col. 158 
-vulcano 
-vulcano 
-col. 422 
-sangria 
-sangria 
-col. 486 
-pink 
-pink 
-.tangerine 
-.spring bloom 
+blu navy
+blue navy
+col. 088
+turchese
+turquoise
+col. 026
+cobalto
+cobalt blue
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 422
+sangria
+sangria
+saffiano ecopelle .pattina con catena flap with chain  O bag sheen
+.spring bloom/ultraviolet
+.ultraviolet
 .spring bloom
-zaini backpack 93. 
-code HLESZ817 ECS00 
+.tangerine/ultraviolet
+.tangerine
+.ultraviolet
+col. 587 
+celery green
+celery green
+col. 588
+orchidea
+orchid
+.ultraviolet .ultraviolet
+patte flaps   89.
+
+.zaini
+backpack
+ 92. O bag spring 19  
+code OBAGB019 EVS00
+descrizione scocca O square   XL 
+extralight
+materiale XL extralight
+abbinamenti manici e tracolle - sacche 
+interne
+description O square
+material XL extralight
+components handles and shoulder 
+straps - inner bags
+col. 602 
+viola scuro
+dark violet
+col. 048
+mattone
+brick
+col. 017
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 026
+cobalto
+cobalt blue
+col. 078
+sabbia
+sand
+O square .scocca body 
+.ultraviolet
+.tangerine
+.spring bloom/
+ultraviolet/continuativo
+.tangerine/continuativo
+.spring bloom
+.tangerine/continuativo
+col. 224 
+verde inglese
+english green
+col. 588
+orchidea
+orchid
+col. 347
+cedro
+cedro
+col. 589
+lily grey
+lily grey
+col. 371
+latte
+milk
+.spring bloom
+.ultraviolet
+.tangerine
+.ultraviolet
+.tangerine/ultraviolet/
+continuativo
+col. 158 
+vulcano
+vulcano
+col. 422
+sangria
+sangria
+col. 486
+pink
+pink
+.tangerine
+.spring bloom
+.spring bloom
+zaini backpack   93.
+code HLESZ817 ECS00
 descrizione Manico + spallaccio goccia 
-corto O square 
-materiale ecopelle 
+corto O square
+materiale ecopelle
 abbinamenti 
 description 
-material faux leather 
+material faux leather
 components 
 col. 017 
-blu navy 
-blue navy 
-col. 055 
-nero 
-black 
-col. 084 
-testa di moro 
-dark brown 
-spallaccio goccia corto .manico corto short handle O square 
-.spring bloom/. 
-ultraviolet 
-.tangerine .tangerine 
-code HLESZ817 TES20 
+blu navy
+blue navy
+col. 055
+nero
+black
+col. 084
+testa di moro
+dark brown
+spallaccio goccia corto .manico corto short handle O square
+.spring bloom/.
+ultraviolet
+.tangerine .tangerine
+code HLESZ817 TES20
 descrizione manico + spallaccio goccia 
-corto o square tessuto gommato 
-materiale tessuto gommato 
+corto o square tessuto gommato
+materiale tessuto gommato
 abbinamenti 
 description 
 material 
 components 
 col. 009 
-blu 
-blue 
-col. 078 
-sabbia 
-sand 
-col. 509 
-moka 
-moka 
+blu
+blue
+col. 078
+sabbia
+sand
+col. 509
+moka
+moka
 tessuto gommato .manici e tracolle handles and shoulder strap 
-.spring bloom .tangerine .tangerine 
+.spring bloom .tangerine .tangerine
 col. 108 
-terracotta 
-terracotta 
+terracotta
+terracotta
 .tangerine
-94. O bag spring 19 
-code OBAGS019 TES01 
+ 94. O bag spring 19  
+code OBAGS019 TES01
 descrizione sacca interna o square 
-tessuto canvas 
-materiale canvas 
+tessuto canvas
+materiale canvas
 abbinamenti 
 description 
-material canvas 
+material canvas
 components 
 col. 026 
-cobalto 
-cobalt blue 
-col. 486 
-pink 
-pink 
-col. 347 
-cedro 
-cedro 
-col. 422 
-sangria 
-sangria 
+cobalto
+cobalt blue
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+col. 422
+sangria
+sangria
 tessuto canvas .sacca interna inner bag 
-.spring bloom 
-.spring bloom 
-.tangerine .spring bloom 
+.spring bloom
+.spring bloom
+.tangerine .spring bloom
 col. 017 
-blu navy 
-blue navy 
-col. 54 
-naturale 
-natural 
-col. 055 
-nero 
-black 
-.spring bloom/ultraviolet .tangerine 
+blu navy
+blue navy
+col. 54
+naturale
+natural
+col. 055
+nero
+black
+.spring bloom/ultraviolet .tangerine
 .tangerine
-zaini backpack 95. 
-code OBAGS619 TESW9 
+zaini backpack   95.
+code OBAGS619 TESW9
 descrizione sacca interna switch O 
-square stampa botanical maxi tessuto 
-materiale tessuto 
-abbinamenti O square 
+square stampa botanical maxi tessuto
+materiale tessuto
+abbinamenti O square
 description 
-material fabric 
-components O square 
+material fabric
+components O square
 col. 371 
-latte 
-milk 
+latte
+milk
 botanical maxi .sacca interna switch inner bag switch 
-.spring bloom 
-code OBAGS619 TESX3 
+.spring bloom
+code OBAGS619 TESX3
 descrizione sacca interna switch O 
-square stampa japan tessuto 
-materiale tessuto 
-abbinamenti O square 
+square stampa japan tessuto
+materiale tessuto
+abbinamenti O square
 description 
-material fabric 
-components O square 
+material fabric
+components O square
 col. 017 
-blu navy 
-blue navy 
+blu navy
+blue navy
 japan .sacca interna switch inner bag switch 
 .ultraviolet
-96. O bag spring 19 
-code OBAGS619 TESX5 
+ 96. O bag spring 19  
+code OBAGS619 TESX5
 descrizione sacca interna switch O 
-square stampa stones tessuto 
-materiale tessuto 
-abbinamenti O square 
+square stampa stones tessuto
+materiale tessuto
+abbinamenti O square
 description 
-material fabric 
-components O square 
+material fabric
+components O square
 col. 590 
-mattone/nero 
-brick/black 
+mattone/nero
+brick/black
 stones .sacca interna switch inner bag switch 
 .tangerine
-zaini backpack 97.
-.accessori 
+zaini backpack   97.
+
+.accessori
 accessories
-100. O bag spring 19 
-code ACCEC022 MAS05 
+ 100. O bag spring 19  
+code ACCEC022 MAS05
 descrizione accessorio Portachiavi fiore 
-lily pvc + XL extralight 
-materiale pvc + XL extralight 
+lily  pvc + XL extralight
+materiale pvc + XL extralight
 abbinamenti 
 description 
-material pvc + XL extralight 
+material pvc + XL extralight
 components 
 col. 26 
-cobalto 
-cobalt blue 
-col. 486 
-pink 
-pink 
-col. 088 
-turchese 
-turquoise 
-col. 588 
-orchidea 
-orchid 
-col. 587 
-celery green 
-celery green 
-col. 112 
-purple 
-purple 
+cobalto
+cobalt blue
+col. 486
+pink
+pink
+col. 088
+turchese
+turquoise
+col. 588
+orchidea
+orchid
+col. 587
+celery green
+celery green
+col. 112
+purple
+purple
 fiore lily .accessori .accessorio accessories 
-.ultraviolet 
-.ultraviolet 
-.ultraviolet 
-.ultraviolet .ultraviolet 
-.ultraviolet 
-code ACCEN001 MTS01 
+.ultraviolet
+.ultraviolet
+.ultraviolet
+.ultraviolet .ultraviolet
+.ultraviolet
+code ACCEN001 MTS01
 descrizione accessori collana O bag 
-metallo galvanizzato 
-materiale metallo 
+metallo galvanizzato
+materiale metallo
 description galvanized metal O bag 
-necklace accessory 
-material metal 
-collana .accessorio accessory 
+necklace accessory
+material metal
+collana .accessorio accessory
 col. 004 
-argento 
-silver 
+argento
+silver
 col. 061 
-oro 
-gold 
+oro
+gold
 col. 062 
-oro rosa 
-pink gold 
+oro rosa
+pink gold
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 101.
-.orologi 
+manici e tracolle handles and shoulder straps   101.
+
+.orologi
 watches
-104. O bag spring 19 
-code OCLKD001 MESC4 
-descrizione meccanismo O clock metal 
-flower 
-abbinamenti O clock cinturino silicone 
+ 104. O bag spring 19  
+code OCLKD001 MESC4
+descrizione meccanismo  O clock metal 
+flower
+abbinamenti O clock cinturino silicone
 description 
 components O clock strap - O clock shift 
-band strap 
-code OCLKD001 MESC3 
-descrizione meccanismo O clock 
-waterlilies 
-abbinamenti O clock cinturino silicone 
+band strap
+code OCLKD001 MESC3
+descrizione meccanismo  O clock 
+waterlilies
+abbinamenti O clock cinturino silicone
 description 
 components O clock strap - O clock shift 
-band strap 
+band strap
 col. 062 
-oro rosa 
-rose gold 
+oro rosa
+rose gold
 col. 389 
-silver 
-silver 
-col. 389 
-silver 
-silver 
-col. 062 
-oro rosa 
-pink gold 
+silver
+silver
+col. 389
+silver
+silver
+col. 062
+oro rosa
+pink gold
 metal flower .meccanismo .meccanismo dial 
 waterlilies .meccanismo dial 
-.spring bloom 
-.ultraviolet 
-.spring bloom 
+.spring bloom
 .ultraviolet
-orologi watches 105. 
-code OCLKD001 MESC5 
-descrizione meccanismo O clock crystal 
-flowers 
-abbinamenti O clock cinturino silicone 
+.spring bloom
+.ultraviolet
+orologi watches   105.
+code OCLKD001 MESC5
+descrizione meccanismo  O clock crystal 
+flowers
+abbinamenti O clock cinturino silicone
 description 
 components O clock strap - O clock shift 
-band strap 
+band strap
 col. 599 
-pesca 
-peach 
+pesca
+peach
 crystal flowers .meccanismo .meccanismo dial 
-.tangerine 
-code OCLKD001 MES03 
-descrizione o clock meccanismo mirror 
+.tangerine
+code OCLKD001 MES03
+descrizione o clock meccanismo mirror
 materiale 
-abbinamenti O clock 
-description O clock dial mirror 
+abbinamenti O clock
+description O clock dial mirror
 material 
-components O clock 
+components O clock
 col. 002 
-amaranto 
-amaranth 
-col. 068 
-polvere 
-powder 
+amaranto
+amaranth
+col. 068
+polvere
+powder
 mirror .meccanismo dial 
 .crossing .crossing
-106. O bag spring 19 
-code OCLKD001 MES06 
+ 106. O bag spring 19  
+code OCLKD001 MES06
 descrizione o clock meccanismo tone 
-on tone 
+on tone
 materiale 
-abbinamenti O clock 
-description O clock dial tone on tone 
+abbinamenti O clock
+description O clock dial tone on tone
 material 
-components O clock 
+components O clock
 col. 045 
-magenta 
-magenta 
-col. 097 
-violetto 
-violet 
-col. 060 
-oliva 
-oliva 
-col. 159 
-total black 
-total black 
-col. 076 
-rosso 
-red 
-col. 412 
-fluo blu 
-blue fluo 
+magenta
+magenta
+col. 097
+violetto
+violet
+col. 060
+oliva
+oliva
+col. 159
+total black
+total black
+col. 076
+rosso
+red
+col. 412
+fluo blu
+blue fluo
 tone on tone .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
 col. 003 
-arancione 
-orange 
-col. 023 
-celeste 
-light blue 
-col. 012 
-blu acqua 
-blu water 
-col. 025 
-cipria 
-pink powder 
-col. 013 
-blu capri 
-blu capri 
-col. 036 
-giallo 
-yellow 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
+arancione
+orange
+col. 023
+celeste
+light blue
+col. 012
+blu acqua
+blu water
+col. 025
+cipria
+pink powder
+col. 013
+blu capri
+blu capri
+col. 036
+giallo
+yellow
 .crossing
-manici e tracolle handles and shoulder straps 107. 
-code OCLKD001 MES09 
-descrizione o clock meccanismo cristal 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+manici e tracolle handles and shoulder straps   107.
+code OCLKD001 MES09
+descrizione o clock meccanismo cristal
 materiale 
-abbinamenti O clock 
-description O clock dial cristal 
+abbinamenti O clock
+description O clock dial cristal
 material 
-components O clock 
+components O clock
 col. 012 
-blu acqua 
-blu water 
-col. 081 
-smeraldo 
-emerald 
-col. 025 
-cipria 
-pink powder 
-col. 088 
-turchese 
-turchese 
-col. 080 
-salvia 
-salvia 
+blu acqua
+blu water
+col. 081
+smeraldo
+emerald
+col. 025
+cipria
+pink powder
+col. 088
+turchese
+turchese
+col. 080
+salvia
+salvia
 cristal .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-code OCLKD001 MES12 
-descrizione o clock meccanismo 
-seconds 
-materiale 
-abbinamenti O clock 
-description O clock dial seconds 
-material 
-components O clock 
-col. 011 
-blu - nero 
-blue - black 
-col. 197 
-blu su bianco 
-blue - white 
-col. 090 
-verde bianco 
-green - white 
-col. 198 
-nero su bianco 
-black - white 
-col. 196 
-rosso su bianco 
-red - white 
-col. 199 
-rosso su grigio 
-red - grey 
-seconds .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
 .crossing
-108. O bag spring 19 
-code OCLKD001 MES14 
-descrizione o clock meccanismo glimmer 
-materiale 
-abbinamenti O clock 
-description O clock dial glimmer 
-material 
-components O clock 
-col. 004 
-argento 
-silver 
-col. 061 
-oro 
-gold 
-col. 067 
-phard 
-phard 
-glimmer .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD001 MES26 
+.crossing
+.crossing
+.crossing
+.crossing
+code OCLKD001 MES12
 descrizione o clock meccanismo 
-botanical 
+seconds
 materiale 
-abbinamenti O clock 
-description O clock dial botanical 
+abbinamenti O clock
+description O clock dial seconds
 material 
-components O clock 
+components O clock
+col. 011 
+blu - nero
+blue - black
+col. 197
+blu su bianco
+blue - white
+col. 090
+verde bianco
+green - white
+col. 198
+nero su bianco
+black - white
+col. 196
+rosso su bianco
+red - white
+col. 199
+rosso su grigio
+red - grey
+seconds .meccanismo dial 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+ 108. O bag spring 19  
+code OCLKD001 MES14
+descrizione o clock meccanismo glimmer
+materiale 
+abbinamenti O clock
+description O clock dial glimmer
+material 
+components O clock
+col. 004 
+argento
+silver
+col. 061
+oro
+gold
+col. 067
+phard
+phard
+glimmer .meccanismo dial 
+.crossing .crossing .crossing
+code OCLKD001 MES26
+descrizione o clock meccanismo 
+botanical
+materiale 
+abbinamenti O clock
+description O clock dial botanical
+material 
+components O clock
 col. 212 
-limone 
-lemongrass 
+limone
+lemongrass
 botanical .meccanismo dial 
 .crossing
-manici e tracolle handles and shoulder straps 109. 
-code OCLKD001 MES54 
-descrizione o clock meccanismo fluid 
+manici e tracolle handles and shoulder straps   109.
+code OCLKD001 MES54
+descrizione o clock meccanismo fluid
 materiale 
-abbinamenti O clock 
-description O clock dial fluid 
+abbinamenti O clock
+description O clock dial fluid
 material 
-components O clock 
+components O clock
 col. 076 
-rosso 
-red 
+rosso
+red
 fluid .meccanismo dial 
-.crossing 
-code OCLKD001 MES75 
-descrizione o clock meccanismo mosaic 
+.crossing
+code OCLKD001 MES75
+descrizione o clock meccanismo mosaic
 materiale 
-abbinamenti O clock 
-description O clock dial mosaic 
+abbinamenti O clock
+description O clock dial mosaic
 material 
-components O clock 
+components O clock
 col. 061 
-oro 
-gold 
-col. 125 
-multicolor 
-multicolor 
+oro
+gold
+col. 125
+multicolor
+multicolor
 mosaic .meccanismo dial 
 .crossing .crossing
-110. O bag spring 19 
-code OCLKD001 MES76 
+ 110. O bag spring 19  
+code OCLKD001 MES76
 descrizione o clock meccanismo micro 
-fantasia tono su tono 
+fantasia tono su tono
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial micro fantasia 
-tono su tono 
+tono su tono
 material 
-components O clock 
+components O clock
 col. 004 
-argento 
-silver 
-col. 061 
-oro 
-gold 
+argento
+silver
+col. 061
+oro
+gold
 micro fantasia tono su tono .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MES80 
+.crossing .crossing
+code OCLKD001 MES80
 descrizione o clock meccanismo 
-deauville lines + flowers 
+deauville lines + flowers
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial deauville lines + 
-flowers 
+flowers
 material 
-components O clock 
+components O clock
 col. 347 
-cedro 
-cedro 
-col. 484 
-coral 
-coral 
+cedro
+cedro
+col. 484
+coral
+coral
 deauville lines + flowers .meccanismo dial 
 .crossing .crossing
-manici e tracolle handles and shoulder straps 111. 
-code OCLKD001 MES81 
+manici e tracolle handles and shoulder straps   111.
+code OCLKD001 MES81
 descrizione o clock meccanismo 
-deauville lines 
+deauville lines
 materiale 
-abbinamenti O clock 
-description O clock dial deauville lines 
+abbinamenti O clock
+description O clock dial deauville lines
 material 
-components O clock 
+components O clock
 col. 017 
-blu navy 
-blue navy 
-col. 026 
-cobalto 
-cobalt blue 
+blu navy
+blue navy
+col. 026
+cobalto
+cobalt blue
 deauville lines .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MES84 
+.crossing .crossing
+code OCLKD001 MES84
 descrizione o clock meccanismo urban 
-decor petals 
+decor petals
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial urban decor 
-petals 
+petals
 material 
-components O clock 
+components O clock
 col. 130 
-azzurro 
-light blue 
+azzurro
+light blue
 urban decor petals .meccanismo dial 
 .crossing
-112. O bag spring 19 
-code OCLKD001 MES86 
+ 112. O bag spring 19  
+code OCLKD001 MES86
 descrizione o clock meccanismo nyc 
-lines 
+lines
 materiale 
-abbinamenti O clock 
-description O clock dial nyc lines 
+abbinamenti O clock
+description O clock dial nyc lines
 material 
-components O clock 
+components O clock
 col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-col. 347 
-cedro 
-cedro 
+nero
+black
+col. 076
+rosso
+red
+col. 347
+cedro
+cedro
 nyc lines .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD001 MES87 
+.crossing .crossing .crossing
+code OCLKD001 MES87
 descrizione o clock meccanismo nyc 
-flower 
+flower
 materiale 
-abbinamenti O clock 
-description O clock dial nyc flower 
+abbinamenti O clock
+description O clock dial nyc flower
 material 
-components O clock 
+components O clock
 col. 026 
-cobalto 
-cobalt blue 
-col. 055 
-nero 
-black 
-col. 422 
-sangria 
-sangria 
+cobalto
+cobalt blue
+col. 055
+nero
+black
+col. 422
+sangria
+sangria
 nyc flower .meccanismo dial 
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 113. 
-code OCLKD001 MES88 
+manici e tracolle handles and shoulder straps   113.
+code OCLKD001 MES88
 descrizione o clock meccanismo nyc 
-jungle 
+jungle
 materiale 
-abbinamenti O clock 
-description O clock dial nyc jungle 
+abbinamenti O clock
+description O clock dial nyc jungle
 material 
-components O clock 
+components O clock
 col. 076 
-rosso 
-red 
-col. 347 
-cedro 
-cedro 
+rosso
+red
+col. 347
+cedro
+cedro
 nyc jungle .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MES96 
+.crossing .crossing
+code OCLKD001 MES96
 descrizione o clock meccanismo manila 
-jungle flowers 
+jungle flowers
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial manila jungle 
-flowers 
+flowers
 material 
-components O clock 
+components O clock
 col. 484 
-coral 
-coral 
-col. 485 
-atlantic 
-atlantic 
-col. 486 
-pink 
-pink 
+coral
+coral
+col. 485
+atlantic
+atlantic
+col. 486
+pink
+pink
 manila jungle flowers .meccanismo dial 
 .crossing .crossing .crossing
-114. O bag spring 19 
-code OCLKD001 MES97 
+ 114. O bag spring 19  
+code OCLKD001 MES97
 descrizione o clock meccanismo manila 
-camouflage 
+camouflage
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial manila 
-camouflage 
+camouflage
 material 
-components O clock 
+components O clock
 col. 060 
-oliva 
-oliva 
-col. 063 
-ottanio 
-ottanio 
-col. 422 
-sangria 
-sangria 
+oliva
+oliva
+col. 063
+ottanio
+ottanio
+col. 422
+sangria
+sangria
 manila camouflage .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD001 MES98 
-descrizione o clock meccanismo vichy 
+.crossing .crossing .crossing
+code OCLKD001 MES98
+descrizione o clock meccanismo vichy
 materiale 
-abbinamenti O clock 
-description O clock dial vichy 
+abbinamenti O clock
+description O clock dial vichy
 material 
-components O clock 
+components O clock
 col. 026 
-cobalto 
-cobalt blue 
-col. 055 
-nero 
-black 
-col. 484 
-coral 
-coral 
+cobalto
+cobalt blue
+col. 055
+nero
+black
+col. 484
+coral
+coral
 vichy .meccanismo dial 
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 115. 
-code OCLKD001 MESA2 
-descrizione o clock meccanismo cotË 
-díazur blooms 
+manici e tracolle handles and shoulder straps   115.
+code OCLKD001 MESA2
+descrizione o clock meccanismo cot√® 
+d‚Äôazur blooms
 materiale 
-abbinamenti O clock 
-description O clock dial cotË díazur 
-blooms 
+abbinamenti O clock
+description O clock dial cot√® d‚Äôazur 
+blooms
 material 
-components O clock 
+components O clock
 col. 026 
-cobalto 
-cobalt blue 
-col. 486 
-pink 
-pink 
+cobalto
+cobalt blue
+col. 486
+pink
+pink
 col. 
-cotË díazur blooms .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MESA8 
+cot√® d‚Äôazur blooms .meccanismo dial 
+.crossing .crossing
+code OCLKD001 MESA8
 descrizione o clock meccanismo royal 
-ascot tartan 
+ascot tartan
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial royal ascot 
-tartan 
+tartan
 material 
-components O clock 
+components O clock
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 royal ascot tartan .meccanismo dial 
 .crossing .crossing
-116. O bag spring 19 
-code OCLKD001 MESA9 
+ 116. O bag spring 19  
+code OCLKD001 MESA9
 descrizione o clock meccanism oroyal 
-ascot lines 
+ascot lines
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock meccanism oroyal 
-ascot lines 
+ascot lines
 material 
-components O clock 
+components O clock
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 meccanism oroyal ascot lines .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MESB2 
+.crossing .crossing
+code OCLKD001 MESB2
 descrizione o clock meccanismo pink 
-attitude pied de poul 
+attitude pied de poul
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial pink attitude 
-pied de poul 
+pied de poul
 material 
-components O clock 
+components O clock
 col. 002 
-amaranto 
-amaranth 
-col. 055 
-nero 
-black 
-col. 137 
-bluette 
-bluette 
+amaranto
+amaranth
+col. 055
+nero
+black
+col. 137
+bluette
+bluette
 pink attitude pied de poul .meccanismo dial 
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 117. 
-code OCLKD001 MESB3 
+manici e tracolle handles and shoulder straps   117.
+code OCLKD001 MESB3
 descrizione o clock meccanismo pink 
-attitude fox 
+attitude fox
 materiale 
-abbinamenti O clock 
-description O clock dial pink attitude fox 
+abbinamenti O clock
+description O clock dial pink attitude fox
 material 
-components O clock 
+components O clock
 col. 389 
-silver 
-silver 
+silver
+silver
 pink attitude fox .meccanismo dial 
-.crossing 
-code OCLKD001 MESB5 
+.crossing
+code OCLKD001 MESB5
 descrizione o clock meccanismo british 
-countryside 
+countryside
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial british 
-countryside 
+countryside
 material 
-components O clock 
+components O clock
 col. 018 
-bordeaux 
-bordeaux 
-col. 050 
-melanzana 
-melanzana 
-col. 388 
-gold 
-gold 
+bordeaux
+bordeaux
+col. 050
+melanzana
+melanzana
+col. 388
+gold
+gold
 british countryside .meccanismo dial 
 .crossing .crossing .crossing
-118. O bag spring 19 
-code OCLKD001 MESB8 
+ 118. O bag spring 19  
+code OCLKD001 MESB8
 descrizione o clock meccanismo laser 
-spotted 
+spotted
 materiale 
-abbinamenti O clock 
-description O clock dial laser spotted 
+abbinamenti O clock
+description O clock dial laser spotted
 material 
-components O clock 
+components O clock
 col. 078 
-sabbia 
-sand 
-col. 559 
-rame 
-rame 
+sabbia
+sand
+col. 559
+rame
+rame
 laser spotted .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MESB7 
+.crossing .crossing
+code OCLKD001 MESB7
 descrizione o clock meccanismo 
-diamonds hearts 
+diamonds hearts
 materiale 
-abbinamenti O clock 
-description O clock dial diamonds hearts 
+abbinamenti O clock
+description O clock dial diamonds hearts
 material 
-components O clock 
+components O clock
 col. 004 
-argento 
-silver 
-col. 076 
-rosso 
-red 
+argento
+silver
+col. 076
+rosso
+red
 diamonds hearts .meccanismo dial 
 .crossing .crossing
-manici e tracolle handles and shoulder straps 119. 
-code OCLKD001 MESB9 
+manici e tracolle handles and shoulder straps   119.
+code OCLKD001 MESB9
 descrizione o clock meccanismo laser 
-cocco 
+cocco
 materiale 
-abbinamenti O clock 
-description O clock dial laser cocco 
+abbinamenti O clock
+description O clock dial laser cocco
 material 
-components O clock 
+components O clock
 col. 018 
-bordeaux 
-bordeaux 
-col. 055 
-nero 
-black 
+bordeaux
+bordeaux
+col. 055
+nero
+black
 laser cocco .meccanismo dial 
-.crossing .crossing 
-code OCLKD001 MESC2 
+.crossing .crossing
+code OCLKD001 MESC2
 descrizione o clock meccanismo shiny 
-crystals 
+crystals
 materiale 
-abbinamenti O clock 
-description O clock dial shiny crystals 
+abbinamenti O clock
+description O clock dial shiny crystals
 material 
-components O clock 
+components O clock
 col. 055 
-nero 
-black 
-col. 076 
-rosso 
-red 
-col. 389 
-silver 
-silver 
+nero
+black
+col. 076
+rosso
+red
+col. 389
+silver
+silver
 shiny crystals .meccanismo dial 
 .crossing .crossing .crossing
-120. O bag spring 19 
-code OCLKD001 MES08 
-descrizione o clock meccanismo disney 
+ 120. O bag spring 19  
+code OCLKD001 MES08
+descrizione o clock meccanismo disney
 materiale 
-abbinamenti O clock 
-description O clock dial disney 
+abbinamenti O clock
+description O clock dial disney
 material 
-components O clock 
+components O clock
 col. 191 
-icona 
-icon 
-col. 195 
-paperino 
-paperino 
-col. 193 
-paperone 
-peperone 
-col. 415 
-pippo 
-pippo 
-col. 194 
-paperoga 
-paperoga 
+icona
+icon
+col. 195
+paperino
+paperino
+col. 193
+paperone
+peperone
+col. 415
+pippo
+pippo
+col. 194
+paperoga
+paperoga
 disney .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
 .crossing
-orologi watches 121. 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
-col. 484 
-coral 
-coral 
-.cinturino strap O clock 
-code OCLKS007 SIS01 
+.crossing
+.crossing
+.crossing
+.crossing
+orologi watches   121.
+GENER S
+GENER M
+GENER L
+.crossing
+col. 484
+coral
+coral
+.cinturino strap O clock  
+code OCLKS007 SIS01
 descrizione O clock cinturino silicone 
-materiale silicone 
-abbinamenti meccanismo O clock 
-description silicone O clock strap 
-material silicone 
-components O clock dial 
-GENER S GENER S 
-GENER S 
-GENER M GENER M 
-GENER M 
-GENER L GENER L 
-GENER L 
+materiale silicone
+abbinamenti meccanismo O clock
+description silicone O clock strap
+material silicone
+components O clock dial
+GENER S GENER S
+GENER S
+GENER M GENER M
+GENER M
+GENER L GENER L
+GENER L
 col. 044 
-lime 
-lime 
+lime
+lime
 col. 036 
-giallo 
-yellow 
+giallo
+yellow
 col. 003 
-arancione 
-orange 
-.crossing .crossing 
-.crossing 
-.crossing 
-GENER S 
-GENER M 
-GENER L 
+arancione
+orange
+.crossing .crossing
+.crossing
+.crossing
+GENER S
+GENER M
+GENER L
 col. 128 
-salmone 
-salmon 
-.crossing 
-GENER S 
-GENER M 
-GENER L 
+salmone
+salmon
+.crossing
+GENER S
+GENER M
+GENER L
 col. 076 
-rosso 
-red 
-.crossing 
-GENER S 
-GENER M 
-GENER L 
+rosso
+red
+.crossing
+GENER S
+GENER M
+GENER L
 col. 053 
-narcissus 
-narcissus 
-.crossing 
-GENER S 
-GENER M 
+narcissus
+narcissus
+.crossing
+GENER S
+GENER M
 col. 077 
-rubino 
-ruby 
-GENER L 
+rubino
+ruby
+GENER L
 .crossing
-122. O bag spring 19 
-GENER S 
-GENER M 
-GENER L 
+ 122. O bag spring 19  
+GENER S
+GENER M
+GENER L
 col. 022 
-carta da zucchero 
-azure 
-.crossing 
-.cinturino strap O clock 
-GENER L 
-.crossing 
-GENER L 
-GENER L 
-GENER L GENER L GENER L 
-GENER S 
-GENER M 
-GENER S 
-GENER M 
-col. 097 
-violetto 
-violet 
-col. 025 
-cipria 
-powder pink 
-GENER S GENER S 
-GENER M GENER M 
-col. 069 
-porpora 
-purple 
-col. 588 
-orchidea 
-orchidea 
-.crossing 
-.crossing 
-.crossing .crossing .crossing 
-GENER S 
-GENER M 
-col. 045 
-magenta 
-magenta 
-GENER S 
-GENER M 
-col. 095 
-viola desaturato 
-pale violet 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
-col. 422 
-sangria 
-sangria 
-col. 486 
-pink 
-pink 
-GENER S 
-GENER M 
-GENER L 
-col. 002 
-amaranto 
-amaranth 
+carta da zucchero
+azure
 .crossing
-orologi watches 123. 
-GENER S 
-GENER M 
+.cinturino strap O clock  
+GENER L
+.crossing
+GENER L
+GENER L
+GENER L GENER LGENER L
+GENER S
+GENER M
+GENER S
+GENER M
+col. 097 
+violetto
+violet
+col. 025 
+cipria
+powder pink
+GENER S GENER S
+GENER M GENER M
+col. 069 
+porpora
+purple
+col. 588 
+orchidea
+orchidea
+.crossing
+.crossing
+.crossing .crossing.crossing
+GENER S
+GENER M
+col. 045 
+magenta
+magenta
+GENER S
+GENER M
+col. 095 
+viola desaturato
+pale violet
+GENER S
+GENER M
+GENER L
+.crossing
+GENER S
+GENER M
+GENER L
+.crossing
+col. 422
+sangria
+sangria
+col. 486
+pink
+pink
+GENER S
+GENER M
+GENER L
+col. 002 
+amaranto
+amaranth
+.crossing
+orologi watches   123.
+GENER S
+GENER M
 col. 088 
-turchese 
-turquoise 
-GENER M 
+turchese
+turquoise
+GENER M
 col. 012 
-blu acqua 
-aqua blue 
-GENER S GENER S GENER S GENER S 
-GENER M GENER M GENER M 
-GENER L 
-GENER L 
-GENER L GENER L GENER L 
+blu acqua
+aqua blue
+GENER SGENER S GENER S GENER S
+GENER M GENER M GENER M
+GENER L
+GENER L
+GENER L GENER L GENER L
 col. 063 
-ottanio 
-teal 
+ottanio
+teal
 col. 081 
-smeraldo 
-emerald 
+smeraldo
+emerald
 col. 090 
-verde bianco 
-white green 
-.crossing 
-.crossing 
-.crossing .crossing .crossing 
-GENER L 
-GENER S GENER S 
-GENER M GENER M 
-GENER L GENER L GENER L 
+verde bianco
+white green
+.crossing
+.crossing
+.crossing .crossing .crossing
+GENER L
+GENER SGENER S
+GENER MGENER M
+GENER L GENER L GENER L
 col. 015 
-blu iris 
-iris blue 
+blu iris
+iris blue
 col. 013 
-blu capri 
-capri blue 
-.crossing .crossing .crossing .crossing 
-GENER S GENER S 
-GENER M GENER M 
+blu capri
+capri blue
+.crossing .crossing.crossing .crossing
+GENER S GENER S
+GENER M GENER M
 col. 014 
-blu elettrico 
-electric blue 
-col. 023 
-celeste 
-sky blue 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
-col. 485 
-atlantic 
-atlantic 
-.cinturino strap O clock 
-124. O bag spring 19 
-GENER S GENER S 
-GENER M GENER M 
+blu elettrico
+electric blue
+col. 023
+celeste
+sky blue
+GENER S
+GENER M
+GENER L
+.crossing
+col. 485
+atlantic
+atlantic
+.cinturino strap O clock  
+ 124. O bag spring 19  
+GENER S GENER S
+GENER M GENER M
 col. 060 
-oliva 
-olive 
+oliva
+olive
 col. 047 
-marsala 
-marsala 
-GENER S GENER S 
-GENER M GENER M 
-GENER L GENER L 
+marsala
+marsala
+GENER S GENER S
+GENER M GENER M
+GENER L GENER L
 col. 024 
-cioccolato 
-chocolate 
+cioccolato
+chocolate
 col. 052 
-muschio 
-muschio 
-.crossing .crossing 
-GENER L GENER L GENER L 
-.crossing .crossing .crossing 
-GENER S 
-GENER M 
+muschio
+muschio
+.crossing .crossing
+GENER L GENER LGENER L
+.crossing .crossing.crossing
+GENER S
+GENER M
 col. 080 
-salvia 
-sage 
-.cinturino strap O clock 
-orologi watches 125. 
-code OCLKD101 MESC3 
-descrizione meccanismo O clock great 
-waterlilies 
-abbinamenti O clock cinturino silicone 
+salvia
+sage
+.cinturino strap O clock  
+orologi watches   125.
+code OCLKD101 MESC3
+descrizione meccanismo  O clock great 
+waterlilies
+abbinamenti O clock cinturino silicone
 description 
 components O clock strap - O clock shift 
-band strap 
+band strap
 col. 389 
-silver 
-silver 
-col. 062 
-oro rosa 
-pink gold 
+silver
+silver
+col. 062
+oro rosa
+pink gold
 waterlilies .meccanismo dial 
 .ultraviolet .ultraviolet
-126. O bag spring 19 
-code OCLKD101 MES04 
-descrizione meccanismo great soleil 
+ 126. O bag spring 19  
+code OCLKD101 MES04
+descrizione meccanismo great soleil
 materiale 
-abbinamenti O clock 
-description dial great soleil 
+abbinamenti O clock
+description dial great soleil
 material 
-components O clock 
+components O clock
 col. 026 
-cobalto 
-cobalt blue 
-col. 484 
-coral 
-coral 
-col. 061 
-oro 
-gold 
-col. 485 
-atlantic 
-atlantic 
-col. 072 
-rosa 
-pink 
+cobalto
+cobalt blue
+col. 484
+coral
+coral
+col. 061
+oro
+gold
+col. 485
+atlantic
+atlantic
+col. 072
+rosa
+pink
 soleil .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-code OCLKD101 MES06 
-descrizione meccanismo great tone on 
-tone 
-materiale 
-abbinamenti O clock 
-description dial great tone on tone 
-material 
-components O clock 
-col. 002 
-amaranto 
-amaranth 
-col. 068 
-polvere 
-powder 
-col. 044 
-lime 
-lime 
-col. 183 
-viola 
-violet 
-col. 063 
-ottanio 
-ottanio 
-tone on tone .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
 .crossing
-manici e tracolle handles and shoulder straps 127. 
-code OCLKD101 MES12 
-descrizione meccanismo great seconds 
+.crossing
+.crossing
+.crossing
+.crossing
+code OCLKD101 MES06
+descrizione meccanismo great tone on 
+tone
 materiale 
-abbinamenti O clock 
-description dial great seconds 
+abbinamenti O clock
+description dial great tone on tone
 material 
-components O clock 
+components O clock
+col. 002 
+amaranto
+amaranth
+col. 068
+polvere
+powder
+col. 044
+lime
+lime
+col. 183
+viola
+violet
+col. 063
+ottanio
+ottanio
+tone on tone .meccanismo dial 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+manici e tracolle handles and shoulder straps   127.
+code OCLKD101 MES12
+descrizione meccanismo great seconds
+materiale 
+abbinamenti O clock
+description dial great seconds
+material 
+components O clock
 col. 001 
-acqua 
-water 
-col. 053 
-narcissus 
-narcissus 
-col. 003 
-arancione 
-orange 
-col. 112 
-purple 
-purple 
-col. 015 
-blu iris 
-blue iris 
-col. 267 
-fucsia 
-fucsia 
+acqua
+water
+col. 053
+narcissus
+narcissus
+col. 003
+arancione
+orange
+col. 112
+purple
+purple
+col. 015
+blu iris
+blue iris
+col. 267
+fucsia
+fucsia
 seconds .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-code OCLKD101 MES15 
-descrizione meccanismo great christmas 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+code OCLKD101 MES15
+descrizione meccanismo great christmas
 materiale 
-abbinamenti O clock 
-description dial great christmas 
+abbinamenti O clock
+description dial great christmas
 material 
-components O clock 
+components O clock
 col. 156 
-roman numbers 
-roman numbers 
+roman numbers
+roman numbers
 christmas .meccanismo dial 
 .crossing
-128. O bag spring 19 
-code OCLKD101 MES16 
-descrizione meccanismo great racing 
+ 128. O bag spring 19  
+code OCLKD101 MES16
+descrizione meccanismo great racing
 materiale 
-abbinamenti O clock 
-description dial great racing 
+abbinamenti O clock
+description dial great racing
 material 
-components O clock 
+components O clock
 col. 008 
-bianco 
-white 
-col. 263 
-fluo arancione 
-fluo orange 
-col. 076 
-rosso 
-red 
-col. 265 
-fluo corallo 
-fluo coral 
-col. 261 
-fluo lime 
-fluo lime 
-col. 266 
-fluo acqua 
-fluo water 
+bianco
+white
+col. 263
+fluo arancione
+fluo orange
+col. 076
+rosso
+red
+col. 265
+fluo corallo
+fluo coral
+col. 261
+fluo lime
+fluo lime
+col. 266
+fluo acqua
+fluo water
 racing .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-code OCLKD101 MES17 
-descrizione meccanismo great diamonds 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+code OCLKD101 MES17
+descrizione meccanismo great diamonds
 materiale 
-abbinamenti O clock 
-description dial great diamonds 
+abbinamenti O clock
+description dial great diamonds
 material 
-components O clock 
+components O clock
 col. 067 
-phard 
-phard 
-col. 131 
-antique green 
-antique green 
-col. 133 
-grigio chiaro 
-light grey 
+phard
+phard
+col. 131
+antique green
+antique green
+col. 133
+grigio chiaro
+light grey
 diamonds .meccanismo dial 
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 129. 
-code OCLKD101 MES22 
+manici e tracolle handles and shoulder straps   129.
+code OCLKD101 MES22
 descrizione o clock dial great metallo 
-sunlight 
+sunlight
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial great metallo 
-sunlight 
+sunlight
 material 
-components O clock 
+components O clock
 col. 008 
-bianco 
-white 
+bianco
+white
 metallo sunlight .meccanismo dial 
-.crossing 
-code OCLKD101 MES34 
+.crossing
+code OCLKD101 MES34
 descrizione meccanismo great numeri 
-romani 
+romani
 materiale 
-abbinamenti O clock 
-description dial great numeri romani 
+abbinamenti O clock
+description dial great numeri romani
 material 
-components O clock 
+components O clock
 col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
+bianco
+white
+col. 055
+nero
+black
 numeri romani .meccanismo dial 
 .crossing .crossing
-130. O bag spring 19 
-code OCLKD101 MES35 
+ 130. O bag spring 19  
+code OCLKD101 MES35
 descrizione meccanismo great numeri 
-mirror 
+mirror
 materiale 
-abbinamenti O clock 
-description dial great numeri mirror 
+abbinamenti O clock
+description dial great numeri mirror
 material 
-components O clock 
+components O clock
 col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
-col. 137 
-bluette 
-bluette 
+bianco
+white
+col. 055
+nero
+black
+col. 137
+bluette
+bluette
 numeri mirror .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD101 MES76 
-descrizione meccanismo great micro 
-fantasia tono su tono 
+.crossing .crossing .crossing
+code OCLKD101 MES76
+descrizione meccanismo great  micro 
+fantasia tono su tono
 materiale 
-abbinamenti O clock 
-description dial great micro fantasia 
-tono su tono 
+abbinamenti O clock
+description dial great  micro fantasia 
+tono su tono
 material 
-components O clock 
+components O clock
 col. 004 
-argento 
-silver 
-col. 061 
-oro 
-gold 
+argento
+silver
+col. 061
+oro
+gold
 micro fantasia tono su tono .meccanismo dial 
 .crossing .crossing
-manici e tracolle handles and shoulder straps 131. 
-code OCLKD101 MES85 
+manici e tracolle handles and shoulder straps   131.
+code OCLKD101 MES85
 descrizione meccanismo great urban 
-decor diamonds 
+decor diamonds
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description dial great urban decor 
-diamonds 
+diamonds
 material 
-components O clock 
+components O clock
 col. 075 
-rosa smoke 
-pink smoke 
-col. 130 
-azzurro 
-light blue 
-col. 483 
-champagne 
-champagne 
+rosa smoke
+pink smoke
+col. 130
+azzurro
+light blue
+col. 483
+champagne
+champagne
 urban decor diamonds .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD101 MES91 
+.crossing .crossing .crossing
+code OCLKD101 MES91
 descrizione meccanismo great nyc 
-latitud 
+latitud
 materiale 
-abbinamenti O clock 
-description dial great nyc latitud 
+abbinamenti O clock
+description dial great nyc latitud
 material 
-components O clock 
+components O clock
 col. 487 
-bianco/nero/cedro 
-white black cedro 
+bianco/nero/cedro
+white black cedro
 nyc latitud .meccanismo dial 
 .crossing
-132. O bag spring 19 
-code OCLKD101 MES93 
-descrizione meccanismo great 
-christmas snowflakes 
+ 132. O bag spring 19  
+code OCLKD101 MES93
+descrizione meccanismo great  
+christmas snowflakes
 materiale 
-abbinamenti O clock 
-description dial great christmas 
-snowflakes 
+abbinamenti O clock
+description dial great  christmas 
+snowflakes
 material 
-components O clock 
+components O clock
 col. 076 
-rosso 
-red 
-col. 388 
-gold 
-gold 
-col. 389 
-silver 
-silver 
+rosso
+red
+col. 388
+gold
+gold
+col. 389
+silver
+silver
 christmas snowflakes .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD101 MESA7 
-descrizione o clock great meccanismo 
-tone on tone smalto 
+.crossing .crossing .crossing
+code OCLKD101 MESA7
+descrizione o clock  great meccanismo 
+tone on tone smalto
 materiale 
-abbinamenti O clock 
-description O clock great dial tone on 
-tone smalto 
+abbinamenti O clock
+description O clock  great dial tone on 
+tone smalto
 material 
-components O clock 
+components O clock
 col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
-col. 025 
-cipria 
-pink powder 
-col. 059 
-oceano 
-ocean 
-col. 050 
-melanzana 
-melanzana 
-col. 060 
-oliva 
-oliva 
+bianco
+white
+col. 055
+nero
+black
+col. 025
+cipria
+pink powder
+col. 059
+oceano
+ocean
+col. 050
+melanzana
+melanzana
+col. 060
+oliva
+oliva
 tone on tone smalto .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
 .crossing
-manici e tracolle handles and shoulder straps 133. 
-code OCLKD101 MESA7 
-descrizione o clock great meccanismo 
-tone on tone smalto 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+manici e tracolle handles and shoulder straps   133.
+code OCLKD101 MESA7
+descrizione o clock  great meccanismo 
+tone on tone smalto
 materiale 
-abbinamenti O clock 
-description O clock great dial tone on 
-tone smalto 
+abbinamenti O clock
+description O clock  great dial tone on 
+tone smalto
 material 
-components O clock 
+components O clock
 col. 063 
-ottanio 
-ottanio 
-col. 422 
-sangria 
-sangria 
-col. 076 
-rosso 
-red 
-col. 347 
-cedro 
-cedro 
+ottanio
+ottanio
+col. 422
+sangria
+sangria
+col. 076
+rosso
+red
+col. 347
+cedro
+cedro
 tone on tone smalto .meccanismo dial 
-.crossing 
-.crossing 
-.crossing .crossing 
-code OCLKD101 MESA8 
+.crossing
+.crossing
+.crossing .crossing
+code OCLKD101 MESA8
 descrizione meccanismo great royal 
-ascot tartan 
+ascot tartan
 materiale 
-abbinamenti O clock 
-description dial great royal ascot tartan 
+abbinamenti O clock
+description dial great royal ascot tartan
 material 
-components O clock 
+components O clock
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-col. 055 
-nero 
-black 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+col. 055
+nero
+black
 royal ascot tartan .meccanismo dial 
 .crossing .crossing .crossing
-134. O bag spring 19 
-code OCLKD101 MESB1 
+ 134. O bag spring 19  
+code OCLKD101 MESB1
 descrizione meccanismo great royal 
-ascot tartan date 
+ascot tartan date
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description dial great royal ascot tartan 
-date 
+date
 material 
-components O clock 
+components O clock
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 royal ascot tartan date .meccanismo dial 
-.crossing .crossing 
-code OCLKD101 MESB4 
+.crossing .crossing
+code OCLKD101 MESB4
 descrizione meccanismo great pink 
-attitude 
+attitude
 materiale 
-abbinamenti O clock 
-description dial great pink attitude 
+abbinamenti O clock
+description dial great pink attitude
 material 
-components O clock 
+components O clock
 col. 002 
-amaranto 
-amaranth 
-col. 055 
-nero 
-black 
-col. 137 
-bluette 
-bluette 
+amaranto
+amaranth
+col. 055
+nero
+black
+col. 137
+bluette
+bluette
 pink attitude .meccanismo dial 
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 135. 
-code OCLKD101 MESB5 
+manici e tracolle handles and shoulder straps   135.
+code OCLKD101 MESB5
 descrizione meccanismo great british 
-countryside 
+countryside
 materiale 
-abbinamenti O clock 
-description dial great british countryside 
+abbinamenti O clock
+description dial great british countryside
 material 
-components O clock 
+components O clock
 col. 018 
-bordeaux 
-bordeaux 
-col. 050 
-melanzana 
-melanzana 
-col. 388 
-gold 
-gold 
+bordeaux
+bordeaux
+col. 050
+melanzana
+melanzana
+col. 388
+gold
+gold
 british countryside .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD102 MES07 
+.crossing .crossing .crossing
+code OCLKD102 MES07
 descrizione meccanismo great soleil 
-numeri 
+numeri
 materiale 
-abbinamenti O clock 
-description dial great soleil numeri 
+abbinamenti O clock
+description dial great soleil numeri
 material 
-components O clock 
+components O clock
 col. 001 
-acqua 
-water 
-col. 095 
-viola desaturato 
-desaturated violet 
-col. 108 
-terracotta 
-terracotta 
+acqua
+water
+col. 095
+viola desaturato
+desaturated violet
+col. 108
+terracotta
+terracotta
 soleil numeri .meccanismo dial 
 .crossing .crossing .crossing
-136. O bag spring 19 
-code OCLKD102 MES16 
-descrizione meccanismo great racing 
+ 136. O bag spring 19  
+code OCLKD102 MES16
+descrizione meccanismo great  racing
 materiale 
-abbinamenti O clock 
-description dial great racing 
+abbinamenti O clock
+description dial great  racing
 material 
-components O clock 
+components O clock
 col. 067 
-phard 
-phard 
-col. 131 
-antique green 
-antique green 
-col. 133 
-grigio chiaro 
-light grey 
+phard
+phard
+col. 131
+antique green
+antique green
+col. 133
+grigio chiaro
+light grey
 racing .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD104 MES00 
+.crossing .crossing .crossing
+code OCLKD104 MES00
 descrizione meccanismo great date 
-generico 
+generico
 materiale 
-abbinamenti O clock 
-description dial great date generico 
+abbinamenti O clock
+description dial great date generico
 material 
-components O clock 
+components O clock
 col. 261 
-fluo lime 
-fluo lime 
-col. 263 
-fluo arancione 
-fluo orange 
-col. 264 
-fluo verde 
-fluo green 
+fluo lime
+fluo lime
+col. 263
+fluo arancione
+fluo orange
+col. 264
+fluo verde
+fluo green
 date generico .meccanismo dial 
 .crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 137. 
-code OCLKD104 MES04 
-descrizione meccanismo great date soleil 
+manici e tracolle handles and shoulder straps   137.
+code OCLKD104 MES04
+descrizione meccanismo great date soleil
 materiale 
-abbinamenti O clock 
-description dial great date soleil 
+abbinamenti O clock
+description dial great date soleil
 material 
-components O clock 
+components O clock
 col. 002 
-amaranto 
-amaranth 
-col. 068 
-polvere 
-powder 
-col. 044 
-lime 
-lime 
-col. 072 
-rosa 
-pink 
-col. 063 
-ottanio 
-ottanio 
-col. 183 
-viola 
-violet 
+amaranto
+amaranth
+col. 068
+polvere
+powder
+col. 044
+lime
+lime
+col. 072
+rosa
+pink
+col. 063
+ottanio
+ottanio
+col. 183
+viola
+violet
 date soleil .meccanismo dial 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-code OCLKD104 MES12 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+code OCLKD104 MES12
 descrizione o clock meccanismo great 
-date seconds 
+date seconds
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial great date 
-seconds 
+seconds
 material 
-components O clock 
+components O clock
 col. 009 
-blu 
-blue 
-col. 076 
-rosso 
-red 
-col. 139 
-mela 
-apple 
+blu
+blue
+col. 076
+rosso
+red
+col. 139
+mela
+apple
 date seconds .meccanismo dial 
 .crossing .crossing .crossing
-138. O bag spring 19 
-code OCLKD104 MES40 
+ 138. O bag spring 19  
+code OCLKD104 MES40
 descrizione meccanismo great date 
-sunset 
+sunset
 materiale 
-abbinamenti O clock 
-description dial great date sunset 
+abbinamenti O clock
+description dial great date sunset
 material 
-components O clock 
+components O clock
 col. 003 
-arancione 
-orange 
-col. 092 
-verde scuro 
-dark green 
+arancione
+orange
+col. 092
+verde scuro
+dark green
 date sunset .meccanismo dial 
-.crossing .crossing 
-code OCLKD104 MES42 
+.crossing .crossing
+code OCLKD104 MES42
 descrizione meccanismo great date 
-lagoon 
+lagoon
 materiale 
-abbinamenti O clock 
-description dial great date lagoon 
+abbinamenti O clock
+description dial great date lagoon
 material 
-components O clock 
+components O clock
 col. 063 
-ottanio 
-ottanio 
+ottanio
+ottanio
 date lagoon .meccanismo dial 
 .crossing
-manici e tracolle handles and shoulder straps 139. 
-code OCLKD104 MES43 
+manici e tracolle handles and shoulder straps   139.
+code OCLKD104 MES43
 descrizione meccanismo great date 
-spritz 
+spritz
 materiale 
-abbinamenti O clock 
-description dial great date spritz 
+abbinamenti O clock
+description dial great date spritz
 material 
-components O clock 
+components O clock
 col. 076 
-rosso 
-red 
+rosso
+red
 date spritz .meccanismo dial 
-.crossing 
-code OCLKD104 MES44 
+.crossing
+code OCLKD104 MES44
 descrizione meccanismo great date 
-caipirinha 
+caipirinha
 materiale 
-abbinamenti O clock 
-description dial great date caipirinha 
+abbinamenti O clock
+description dial great date caipirinha
 material 
-components O clock 
+components O clock
 col. 131 
-antique green 
-antique green 
+antique green
+antique green
 date caipirinha .meccanismo dial 
 .crossing
-140. O bag spring 19 
-code OCLKD104 MES45 
+ 140. O bag spring 19  
+code OCLKD104 MES45
 descrizione o clock meccanismo great 
-date martini 
+date martini
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description O clock dial great date 
-martini 
+martini
 material 
-components O clock 
+components O clock
 col. 063 
-ottanio 
-ottanio 
+ottanio
+ottanio
 date martini .meccanismo dial 
-.crossing 
-code OCLKD104 MES90 
+.crossing
+code OCLKD104 MES90
 descrizione meccanismo great date nyc 
-times square 
+times square
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description dial great date nyc times 
-square 
+square
 material 
-components O clock 
+components O clock
 col. 008 
-bianco 
-white 
-col. 055 
-nero 
-black 
+bianco
+white
+col. 055
+nero
+black
 date nyc times square .meccanismo dial 
 .crossing .crossing
-manici e tracolle handles and shoulder straps 141. 
-code OCLKD104 MES92 
-descrizione meccanismo great date satin 
+manici e tracolle handles and shoulder straps   141.
+code OCLKD104 MES92
+descrizione meccanismo great date satin
 materiale 
-abbinamenti O clock 
-description dial great date satin 
+abbinamenti O clock
+description dial great date satin
 material 
-components O clock 
+components O clock
 col. 497 
-nero/rosso/bianco 
-black red white 
-col. 498 
-nero/giallo/bianco 
-black yellow white 
-col. 499 
-bianco/rosso/nero 
-white red black 
+nero/rosso/bianco
+black red white
+col. 498
+nero/giallo/bianco
+black yellow white
+col. 499
+bianco/rosso/nero
+white red black
 date satin .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD104 MESA1 
+.crossing .crossing .crossing
+code OCLKD104 MESA1
 descrizione meccanismo o clock great 
-date beach faded mirror 
+date beach faded mirror
 materiale 
-abbinamenti O clock 
+abbinamenti O clock
 description dial O clock great date beach 
-faded mirror 
+faded mirror
 material 
-components O clock 
+components O clock
 col. 001 
-acqua 
-water 
-col. 347 
-cedro 
-cedro 
-col. 484 
-coral 
-coral 
+acqua
+water
+col. 347
+cedro
+cedro
+col. 484
+coral
+coral
 date beach faded mirror .meccanismo dial 
 .crossing .crossing .crossing
-142. O bag spring 19 
-code OCLKD104 MESB9 
+ 142. O bag spring 19  
+code OCLKD104 MESB9
 descrizione meccanismo great date laser 
-cocco 
+cocco
 materiale 
-abbinamenti O clock 
-description dial great date laser cocco 
+abbinamenti O clock
+description dial great date laser cocco
 material 
-components O clock 
+components O clock
 col. 055 
-nero 
-black 
-col. 389 
-silver 
-silver 
+nero
+black
+col. 389
+silver
+silver
 date laser cocco .meccanismo dial 
-.crossing .crossing 
-code OCLKD110 MES04 
-descrizione meccanismo great racing 
-soleil 
-materiale 
-abbinamenti O clock 
-description dial great racing soleil 
-material 
-components O clock 
-col. 026 
-cobalto 
-cobalt blue 
-col. 484 
-coral 
-coral 
-col. 485 
-atlantic 
-atlantic 
-racing soleil .meccanismo dial 
-.crossing .crossing .crossing
-manici e tracolle handles and shoulder straps 143. 
-code OCLKD110 MES64 
-descrizione meccanismo great racing 
-materiale 
-abbinamenti O clock 
-description dial great racing 
-material 
-components O clock 
-col. 390 
-rosso su nero 
-red black 
-col. 391 
-blu su nero 
-blue black 
-racing .meccanismo dial 
-.crossing .crossing 
-code OCLKD110 MESA6 
-descrizione meccanismo great racing 
-ocean race 
-materiale 
-abbinamenti O clock 
-description dial great racing ocean race 
-material 
-components O clock 
-col. 026 
-cobalto 
-cobalt blue 
-col. 076 
-rosso 
-red 
-racing ocean race .meccanismo dial 
 .crossing .crossing
-144. O bag spring 19 
-code OCLKD111 MES63 
-descrizione meccanismo great day time 
-carbon 
+code OCLKD110 MES04
+descrizione meccanismo great racing  
+soleil
 materiale 
-abbinamenti O clock 
-description dial great day time carbon 
+abbinamenti O clock
+description dial great racing  soleil
 material 
-components O clock 
+components O clock
+col. 026 
+cobalto
+cobalt blue
+col. 484
+coral
+coral
+col. 485
+atlantic
+atlantic
+racing  soleil .meccanismo dial 
+.crossing .crossing .crossing
+manici e tracolle handles and shoulder straps   143.
+code OCLKD110 MES64
+descrizione meccanismo great racing
+materiale 
+abbinamenti O clock
+description dial great racing
+material 
+components O clock
+col. 390 
+rosso su nero
+red black
+col. 391
+blu su nero
+blue black
+racing .meccanismo dial 
+.crossing .crossing
+code OCLKD110 MESA6
+descrizione meccanismo great racing  
+ocean race
+materiale 
+abbinamenti O clock
+description dial great racing  ocean race
+material 
+components O clock
+col. 026 
+cobalto
+cobalt blue
+col. 076
+rosso
+red
+racing  ocean race .meccanismo dial 
+.crossing .crossing
+ 144. O bag spring 19  
+code OCLKD111 MES63
+descrizione meccanismo great day time 
+carbon
+materiale 
+abbinamenti O clock
+description dial great day time carbon
+material 
+components O clock
 col. 009 
-blu 
-blue 
-col. 036 
-giallo 
-yellow 
-col. 076 
-rosso 
-red 
+blu
+blue
+col. 036
+giallo
+yellow
+col. 076
+rosso
+red
 day time carbon .meccanismo dial 
-.crossing .crossing .crossing 
-code OCLKD101 MESD5 
-descrizione meccanismo O clock great 
-iris 
+.crossing .crossing .crossing
+code OCLKD101 MESD5
+descrizione meccanismo  O clock great 
+iris
 abbinamenti O clock great cinturino 
-silicone 
+silicone
 description 
 components O clock great strap - O 
-clock shift band strap 
+clock shift band strap
 col. 183 
-viola 
-violet 
+viola
+violet
 iris .meccanismo .meccanismo dial 
 .ultraviolet
-orologi watches 145. 
-code OCLKS107 SIS01 
+orologi watches   145.
+code OCLKS107 SIS01
 descrizione O clock cinturino great 
-silicone 
-materiale silicone 
-abbinamenti meccanismo O clock great 
-description silicone O clock great strap 
-material silicone 
-components O clock great dial 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-GENER L 
-GENER L 
+silicone
+materiale silicone
+abbinamenti meccanismo O clock great
+description silicone O clock great strap
+material silicone
+components O clock great dial
+GENER S
+GENER S
+GENER M
+GENER M
+GENER L
+GENER L
 col. 044 
-lime 
-lime 
-.crossing 
-.crossing 
-GENER S 
-GENER M 
-GENER L 
+lime
+lime
+.crossing
+.crossing
+GENER S
+GENER M
+GENER L
 col. 003 
-arancione 
-orange 
-.crossing 
+arancione
+orange
+.crossing
 col. 128 
-salmone 
-salmon 
-GENER S 
-GENER M 
-GENER L 
+salmone
+salmon
+GENER S
+GENER M
+GENER L
 col. 036 
-giallo 
-yellow 
-.crossing 
-GENER S GENER S 
-GENER M GENER M 
-GENER L GENER L 
-.crossing .crossing 
-GENER S 
-GENER M 
-GENER L 
+giallo
+yellow
+.crossing
+GENER S GENER S
+GENER M GENER M
+GENER L GENER L
+.crossing .crossing
+GENER S
+GENER M
+GENER L
 col. 053 
-narcissus 
-narcissus 
-.crossing 
+narcissus
+narcissus
+.crossing
 col. 002 
-amaranto 
-amaranth 
+amaranto
+amaranth
 col. 045 
-magenta 
-magenta 
-GENER S 
-GENER M 
-GENER L 
+magenta
+magenta
+GENER S
+GENER M
+GENER L
 col. 076 
-rosso 
-red 
-.crossing 
+rosso
+red
+.crossing
 .cinturino strap O clock great 
-146. O bag spring 19 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
+ 146. O bag spring 19  
+GENER S
+GENER M
+GENER L
+.crossing
 col. 112 
-purple 
-purple 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
+purple
+purple
+GENER S
+GENER M
+GENER L
+.crossing
 col. 025 
-cipria 
-powder pink 
-GENER S GENER S GENER S 
-GENER M GENER M GENER M 
-GENER L GENER L GENER L 
-.crossing .crossing .crossing 
+cipria
+powder pink
+GENER SGENER S GENER S
+GENER MGENER M GENER M
+GENER LGENER L GENER L
+.crossing.crossing .crossing
 col. 096 
-viola pastello 
-pastel violet 
+viola pastello
+pastel violet
 col. 095 
-viola desaturato 
-pale violet 
+viola desaturato
+pale violet
 col. 022 
-carta da zucchero 
-azure 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
+carta da zucchero
+azure
+GENER S
+GENER M
+GENER L
+.crossing
 col. 013 
-blu capri 
-capri blue 
-GENER S 
-GENER M 
-GENER L 
-.crossing 
+blu capri
+capri blue
+GENER S
+GENER M
+GENER L
+.crossing
 col. 015 
-blu iris 
-iris blue 
-GENER S GENER S GENER S 
-GENER M GENER M GENER M 
-GENER L GENER L GENER L 
-.crossing .crossing .crossing 
+blu iris
+iris blue
+GENER S GENER SGENER S
+GENER M GENER MGENER M
+GENER L GENER LGENER L
+.crossing .crossing.crossing
 col. 068 
-polvere 
-dusty blue 
+polvere
+dusty blue
 col. 012 
-blu acqua 
-aqua blue 
+blu acqua
+aqua blue
 col. 063 
-ottanio 
-teal 
+ottanio
+teal
 .cinturino strap O clock great 
-orologi watches 147. 
-GENER S 
-GENER S 
-GENER S GENER S GENER S GENER S 
-GENER M 
-GENER M 
-GENER M GENER M GENER M GENER M 
-GENER L 
-GENER L 
-GENER L GENER L GENER L GENER L 
-.crossing 
-.crossing 
-.crossing .crossing .crossing .crossing 
+orologi watches   147.
+GENER S
+GENER S
+GENER S GENER SGENER S GENER S
+GENER M
+GENER M
+GENER M GENER MGENER M GENER M
+GENER L
+GENER L
+GENER L GENER LGENER L GENER L
+.crossing
+.crossing
+.crossing .crossing.crossing .crossing
 col. 088 
-turchese 
-turquoise 
+turchese
+turquoise
 col. 486 
-pink 
-pink 
+pink
+pink
 col. 060 
-oliva 
-olive 
+oliva
+olive
 col. 485 
-atlantic 
-atlantic 
+atlantic
+atlantic
 col. 080 
-salvia 
-sage 
+salvia
+sage
 col. 484 
-coral 
 coral
-148. O bag spring 19 
+coral
+ 148. O bag spring 19  
 col. 008 
-bianco 
-white 
+bianco
+white
 col. 025 
-cipria 
-powder pink 
+cipria
+powder pink
 col. 063 
-ottanio 
-teal 
+ottanio
+teal
 col. 484 
-coral 
-coral 
+coral
+coral
 col. 076 
-rosso 
-red 
+rosso
+red
 col. 486 
-pink 
-pink 
+pink
+pink
 col. 059 
-oceano 
-ocean 
+oceano
+ocean
 col. 060 
-oliva 
-olive 
+oliva
+olive
 col. 422 
-sangria 
-sangria 
+sangria
+sangria
 col. 055 
-nero 
-black 
+nero
+black
 col. 050 
-melanzana 
-aubergine 
-code OCLKE013 MAS00 
+melanzana
+aubergine
+code OCLKE013 MAS00
 descrizione O clock shift case classic 
-slim materiale plastico 
+slim materiale plastico
 abbinamenti cinturino band O clock shift 
-- meccanismo O clock 
+- meccanismo O clock
 description O clock shift case classic 
-slim plastic material 
+slim plastic material
 components O clock shift band strap - 
-O clock dial 
-classic slim .case case O clock shift 
-.crossing .crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing .crossing 
-.crossing 
-.crossing 
-col. 036 
-giallo 
-yellow 
+O clock dial
+classic slim .case case O clock shift
+.crossing.crossing
 .crossing
-orologi watches 149. 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing .crossing
+.crossing
+.crossing
+col. 036
+giallo
+yellow
+.crossing
+orologi watches   149.
 col. 484 
-coral 
-coral 
+coral
+coral
 col. 486 
-pink 
-pink 
-.crossing .crossing 
+pink
+pink
+.crossing .crossing
 col. 063 
-ottanio 
-teal 
+ottanio
+teal
 col. 059 
-oceano 
-ocean 
+oceano
+ocean
 col. 060 
-oliva 
-olive 
+oliva
+olive
 col. 055 
-nero 
-black 
-code OCLKE114 MAS00 
+nero
+black
+code OCLKE114 MAS00
 descrizione case O clock shift great 
-round materiale plastico 
+round materiale plastico
 abbinamenti cinturino band O clock shift 
-- meccanismo O clock great 
+- meccanismo O clock great
 description O clock shift great round 
-case plastic material 
+case plastic material
 components O clock shift band strap - 
-O clock great dial 
-great round .case case O clock great shift 
-.crossing 
-.crossing 
-.crossing 
-col. 008 
-bianco 
-white 
-.crossing 
-.crossing 
-col. 036 
-giallo 
-yellow 
-.crossing 
-col. 025 
-cipria 
-powder pink 
-col. 076 
-rosso 
-red 
-col. 422 
-sangria 
-sangria 
-col. 050 
-melanzana 
-aubergine 
-.crossing 
-.crossing 
-.crossing 
+O clock great dial
+great round .case case O clock great shift
 .crossing
-150. O bag spring 19 
+.crossing
+.crossing
 col. 008 
-bianco 
-white 
+bianco
+white
+.crossing
+.crossing
+col. 036
+giallo
+yellow
+.crossing
+col. 025 
+cipria
+powder pink
+col. 076 
+rosso
+red
+col. 422 
+sangria
+sangria
+col. 050 
+melanzana
+aubergine
+.crossing
+.crossing
+.crossing
+.crossing
+ 150. O bag spring 19  
+col. 008 
+bianco
+white
 col. 063 
-ottanio 
-teal 
+ottanio
+teal
 col.484 
-coral 
-coral 
+coral
+coral
 col. 059 
-oceano 
-ocean 
+oceano
+ocean
 col. 060 
-oliva 
-olive 
+oliva
+olive
 col. 055 
-nero 
-black 
-code OCLKSB01 INS00 
-descrizione cinturino band O clock shift 
+nero
+black
+code OCLKSB01 INS00
+descrizione cinturino band  O clock shift
 abbinamenti case O clock shift - 
-meccanismo O clock 
-description O clock shift band strap 
+meccanismo O clock
+description O clock shift band strap
 components O clock shift case - O clock 
-dial 
-band .cinturino strap O clock shift 
-col. 036 
-giallo 
-yellow 
+dial
+band .cinturino strap O clock shift
+col. 036
+giallo
+yellow
 col. 025 
-cipria 
-powder pink 
+cipria
+powder pink
 col. 076 
-rosso 
-red 
+rosso
+red
 col. 486 
-pink 
-pink 
+pink
+pink
 col. 422 
-sangria 
-sangria 
+sangria
+sangria
 col. 050 
-melanzana 
-aubergine 
-.crossing .crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing .crossing 
-.crossing 
-.crossing 
+melanzana
+aubergine
+.crossing.crossing
 .crossing
-orologi watches 151.
-.occhiali 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing .crossing
+.crossing
+.crossing
+.crossing
+orologi watches   151.
+
+.occhiali
 sunglasses
-154. O bag spring 19 
-code OSUNB003 MTS14 
+ 154. O bag spring 19  
+code OSUNB003 MTS14
 descrizione o sun bump front metallo 
-lucido 
+lucido
 materiale 
-abbinamenti O sun 
+abbinamenti O sun
 description o sun bump front metallo 
-lucido 
+lucido
 material 
-components O sun 
+components O sun
 col. 044 
-lime 
-lime 
-col. 486 
-pink 
-pink 
-col. 055 
-nero 
-black 
-col. 527 
-nero/oro 
-black gold 
-col. 389 
-silver 
-silver 
+lime
+lime
+col. 486
+pink
+pink
+col. 055
+nero
+black
+col. 527
+nero/oro
+black gold
+col. 389
+silver
+silver
 bump front metallo lucido .front front 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-code OSUNC001 INS00 
-descrizione o sun lenti generico 
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+code OSUNC001 INS00
+descrizione o sun lenti generico
 materiale 
-abbinamenti O sun 
-description o sun lens generic 
+abbinamenti O sun
+description o sun lens generic
 material 
-components O sun 
+components O sun
 col. 009 
-blu 
-blue 
-col. 018 
-bordeaux 
-bordeaux 
-col. 055 
-nero 
-black 
+blu
+blue
+col. 018
+bordeaux
+bordeaux
+col. 055
+nero
+black
 lens .lenti lens 
 .crossing .crossing .crossing
-occhiali sunglasses 155. 
-code OSUNC001 INS44 
-descrizione o sun lenti vichy 
+occhiali sunglasses   155.
+code OSUNC001 INS44
+descrizione o sun lenti  vichy
 materiale 
-abbinamenti O sun 
-description o sun lens vichy 
+abbinamenti O sun
+description o sun lens  vichy
 material 
-components O sun 
-col. 582 
-trasparente/nero 
-transparent black 
-col. 583 
-trasparente/rosa 
-transparent rosa 
-col. 584 
-trasparente/blu 
-transparent blue 
-lens vichy .lenti lens 
-.crossing .crossing .crossing 
-code OSUNC002 INS44 
-descrizione o sun astine vichy 
+components O sun
+col. 582
+trasparente/nero
+transparent black
+col. 583
+trasparente/rosa
+transparent rosa
+col. 584
+trasparente/blu
+transparent blue
+lens  vichy .lenti lens 
+.crossing .crossing .crossing
+code OSUNC002 INS44
+descrizione o sun astine vichy
 materiale 
-abbinamenti O sun 
-description o sun sticks vichy 
+abbinamenti O sun
+description o sun sticks vichy
 material 
-components O sun 
-col. 582 
-trasparente/nero 
-transparent black 
-col. 583 
-trasparente/rosa 
-transparent rosa 
-col. 584 
-trasparente/blu 
-transparent blue 
+components O sun
+col. 582
+trasparente/nero
+transparent black
+col. 583
+trasparente/rosa
+transparent rosa
+col. 584
+trasparente/blu
+transparent blue
 vichy .astine sticks 
 .crossing .crossing .crossing
-156. O bag spring 19 
-code OSUNC002 INS49 
+ 156. O bag spring 19  
+code OSUNC002 INS49
 descrizione o sun astine royal ascot 
-tortoise 
+tortoise
 materiale 
-abbinamenti O sun 
+abbinamenti O sun
 description o sun sticks royal ascot 
-tortoise 
+tortoise
 material 
-components O sun 
+components O sun
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-col. 541 
-verde bosco 
-green forest 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+col. 541
+verde bosco
+green forest
 royal ascot tortoise .astine sticks 
-.crossing .crossing .crossing 
-code OSUNC002 INS50 
+.crossing .crossing .crossing
+code OSUNC002 INS50
 descrizione o sun astine british graphic 
-flowers 
+flowers
 materiale 
-abbinamenti O sun 
+abbinamenti O sun
 description o sun sticks british graphic 
-flowers 
+flowers
 material 
-components O sun 
+components O sun
 col. 020 
-bronzo 
-bronze 
-col. 061 
-oro 
-gold 
-col. 389 
-silver 
-silver 
+bronzo
+bronze
+col. 061
+oro
+gold
+col. 389
+silver
+silver
 british graphic flowers .astine sticks 
 .crossing .crossing .crossing
-occhiali sunglasses 157. 
-code OSUNC002 INS52 
+occhiali sunglasses   157.
+code OSUNC002 INS52
 descrizione o sun astine pink attitude 
-pied de poul 
+pied de poul
 materiale 
-abbinamenti O sun 
+abbinamenti O sun
 description o sun sticks pink attitude 
-pied de poul 
+pied de poul
 material 
-components O sun 
+components O sun
 col. 002 
-amaranto 
-amaranth 
-col. 038 
-grafite 
-graphite 
-col. 137 
-bluette 
-bluette 
+amaranto
+amaranth
+col. 038
+grafite
+graphite
+col. 137
+bluette
+bluette
 pink attitude pied de poul .astine sticks 
-.crossing .crossing .crossing 
-code OSUNC002 INS53 
+.crossing .crossing .crossing
+code OSUNC002 INS53
 descrizione o sun astine tartan 
-regimental 
+regimental
 materiale 
-abbinamenti O sun 
-description o sun sticks tartan regimental 
+abbinamenti O sun
+description o sun sticks tartan regimental
 material 
-components O sun 
+components O sun
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
 tartan regimental .astine sticks 
 .crossing .crossing
-158. O bag spring 19 
-code OSUNC002 INS54 
-descrizione o sun astine haiti flower 
+ 158. O bag spring 19  
+code OSUNC002 INS54
+descrizione o sun astine haiti flower
 materiale 
-abbinamenti O sun 
-description o sun sticks haiti flower 
+abbinamenti O sun
+description o sun sticks haiti flower
 material 
-components O sun 
+components O sun
 col. 026 
-cobalto 
-cobalt blue 
-col. 484 
-coral 
-coral 
+cobalto
+cobalt blue
+col. 484
+coral
+coral
 haiti flower .astine sticks 
-.crossing .crossing 
-code OSUNC002 INS55 
-descrizione o sun astine manila camo 
+.crossing .crossing
+code OSUNC002 INS55
+descrizione o sun astine manila camo
 materiale 
-abbinamenti O sun 
-description o sun sticks manila camo 
+abbinamenti O sun
+description o sun sticks manila camo
 material 
-components O sun 
+components O sun
 col. 026 
-cobalto 
-cobalt blue 
-col. 089 
-verde 
-green 
-col. 422 
-sangria 
-sangria 
+cobalto
+cobalt blue
+col. 089
+verde
+green
+col. 422
+sangria
+sangria
 manila camo .astine sticks 
 .crossing .crossing .crossing
-occhiali sunglasses 159. 
-code OSUNC002 INS56 
-descrizione o sun astine haiti ethnic 
+occhiali sunglasses   159.
+code OSUNC002 INS56
+descrizione o sun astine haiti ethnic
 materiale 
-abbinamenti O sun 
-description o sun sticks haiti ethnic 
+abbinamenti O sun
+description o sun sticks haiti ethnic
 material 
-components O sun 
+components O sun
 col. 001 
-acqua 
-water 
-col. 486 
-pink 
-pink 
+acqua
+water
+col. 486
+pink
+pink
 haiti ethnic .astine sticks 
-.crossing .crossing 
-code OSUNC003 INS00 
-descrizione o sun front generico 
+.crossing .crossing
+code OSUNC003 INS00
+descrizione o sun front generico
 materiale 
-abbinamenti O sun 
-description o sun front generic 
+abbinamenti O sun
+description o sun front generic
 material 
-components O sun 
+components O sun
 col. 009 
-blu 
-blue 
-col. 018 
-bordeaux 
-bordeaux 
-col. 055 
-nero 
-black 
+blu
+blue
+col. 018
+bordeaux
+bordeaux
+col. 055
+nero
+black
 front .front front 
 .crossing .crossing .crossing
-160. O bag spring 19 
-code OSUNC003 INS44 
-descrizione o sun front vichy 
+ 160. O bag spring 19  
+code OSUNC003 INS44
+descrizione o sun front vichy
 materiale 
-abbinamenti O sun 
-description o sun front vichy 
+abbinamenti O sun
+description o sun front vichy
 material 
-components O sun 
-col. 582 
-trasparente/nero 
-transparent black 
-col. 583 
-trasparente/rosa 
-transparent rosa 
-col. 584 
-trasparente/blu 
-transparent blue 
+components O sun
+col. 582
+trasparente/nero
+transparent black
+col. 583
+trasparente/rosa
+transparent rosa
+col. 584
+trasparente/blu
+transparent blue
 front vichy .front front 
-.crossing .crossing .crossing 
-code OSUNC005 INS00 
-descrizione o sun front + lenti classiche 
+.crossing .crossing .crossing
+code OSUNC005 INS00
+descrizione o sun front + lenti classiche
 materiale 
-abbinamenti O sun 
-description o sun front + lens classiche 
+abbinamenti O sun
+description o sun front + lens classiche
 material 
-components O sun 
+components O sun
 col. 061 
-oro 
-gold 
-col. 389 
-silver 
-silver 
+oro
+gold
+col. 389
+silver
+silver
 front + lens classiche .front + lenti front + lens 
 .crossing .crossing
-occhiali sunglasses 161. 
-code OSUNC005 INS49 
+occhiali sunglasses   161.
+code OSUNC005 INS49
 descrizione o sun front + lenti classiche 
-royal ascot tortoise 
+royal ascot tortoise
 materiale 
-abbinamenti O sun 
+abbinamenti O sun
 description o sun front + lens classiche 
-royal ascot tortoise 
+royal ascot tortoise
 material 
-components O sun 
+components O sun
 col. 017 
-blu navy 
-blue navy 
-col. 018 
-bordeaux 
-bordeaux 
-col. 541 
-verde bosco 
-green forest 
+blu navy
+blue navy
+col. 018
+bordeaux
+bordeaux
+col. 541
+verde bosco
+green forest
 front + lens classiche royal ascot tortoise .front + lenti front + lens 
-.crossing .crossing .crossing 
-code OSUNC007 INS00 
-descrizione o sun front + lenti generico 
+.crossing .crossing .crossing
+code OSUNC007 INS00
+descrizione o sun front + lenti generico
 materiale 
-abbinamenti O sun 
-description o sun front + lens generic 
+abbinamenti O sun
+description o sun front + lens generic
 material 
-components O sun 
+components O sun
 col. 020 
-bronzo 
-bronze 
+bronzo
+bronze
 front + lens .front + lenti front + lens 
 .crossing
-162. O bag spring 19 
-code OSUNC007 INS54 
-descrizione o sun front + lenti haiti flower 
+ 162. O bag spring 19  
+code OSUNC007 INS54
+descrizione o sun front + lenti haiti flower
 materiale 
-abbinamenti O sun 
-description o sun front + lens haiti flower 
+abbinamenti O sun
+description o sun front + lens haiti flower
 material 
-components O sun 
+components O sun
 col. 026 
-cobalto 
-cobalt blue 
-col. 484 
-coral 
-coral 
+cobalto
+cobalt blue
+col. 484
+coral
+coral
 front + lens haiti flower .front + lenti front + lens 
-.crossing .crossing 
-code OSUNC007 INS55 
+.crossing .crossing
+code OSUNC007 INS55
 descrizione o sun front + lenti manila 
-camo 
+camo
 materiale 
-abbinamenti O sun 
+abbinamenti O sun
 description o sun front + lens manila 
-camo 
+camo
 material 
-components O sun 
+components O sun
 col. 026 
-cobalto 
-cobalt blue 
-col. 089 
-verde 
-green 
-col. 422 
-sangria 
-sangria 
+cobalto
+cobalt blue
+col. 089
+verde
+green
+col. 422
+sangria
+sangria
 front + lens manila camo .front + lenti front + lens 
 .crossing .crossing .crossing
-occhiali sunglasses 163. 
-code OSUNC007 INS56 
-descrizione o sun front + lenti haiti ethnic 
+occhiali sunglasses   163.
+code OSUNC007 INS56
+descrizione o sun front + lenti haiti ethnic
 materiale 
-abbinamenti O sun 
-description o sun front + lens haiti ethnic 
+abbinamenti O sun
+description o sun front + lens haiti ethnic
 material 
-components O sun 
+components O sun
 col. 001 
-acqua 
-water 
-col. 486 
-pink 
-pink 
+acqua
+water
+col. 486
+pink
+pink
 front + lens haiti ethnic .front + lenti front + lens 
 .crossing .crossing
-164. O bag spring 19 
-code OSUNF002 INS00 
+ 164. O bag spring 19  
+code OSUNF002 INS00
 descrizione o sun flat astine materiale 
-iniettato 
+iniettato
 materiale 
-abbinamenti O sun flat 
+abbinamenti O sun flat
 description o sun flat sticks materiale 
-iniettato 
+iniettato
 material 
-components O sun flat 
+components O sun flat
 col. 026 
-cobalto 
-cobalt blue 
-col. 486 
-pink 
-pink 
-col. 484 
-coral 
-coral 
-col. 485 
-atlantic 
-atlantic 
+cobalto
+cobalt blue
+col. 486
+pink
+pink
+col. 484
+coral
+coral
+col. 485
+atlantic
+atlantic
 flat materiale iniettato .astine sticks 
-.crossing 
-.crossing 
-.crossing .crossing 
-code OSUNF001 MAS13 
+.crossing
+.crossing
+.crossing .crossing
+code OSUNF001 MAS13
 descrizione o sun flat front lente soft 
-mirror 
+mirror
 materiale 
-abbinamenti O sun flat 
+abbinamenti O sun flat
 description o sun flat front lente soft 
-mirror 
+mirror
 material 
-components O sun flat 
+components O sun flat
 col. 026 
-cobalto 
-cobalt blue 
-col. 486 
-pink 
-pink 
-col. 484 
-coral 
-coral 
-col. 485 
-atlantic 
-atlantic 
+cobalto
+cobalt blue
+col. 486
+pink
+pink
+col. 484
+coral
+coral
+col. 485
+atlantic
+atlantic
 flat front lente soft mirror .front + lenti front + lens 
-.crossing 
-.crossing 
+.crossing
+.crossing
 .crossing .crossing
-occhiali sunglasses 165. 
-code OSUNS001 INS00 
-descrizione o sunshine lenti unisex 
+occhiali sunglasses   165.
+code OSUNS001 INS00
+descrizione o sunshine lenti  unisex
 materiale 
-abbinamenti O sunshine 
-description o sunshine lens unisex 
+abbinamenti O sunshine
+description o sunshine lens  unisex
 material 
-components O sunshine 
+components O sunshine
 col. 533 
-cedro/blu navy 
-cedro blue navy 
-col. 535 
-skyway/grafite 
-skyway graphite 
-lens unisex .lenti lens 
+cedro/blu navy
+cedro blue navy
+col. 535
+skyway/grafite
+skyway graphite
+lens  unisex .lenti lens 
 .crossing .crossing
-166. O bag spring 19 
-code OSUNS001 INS02 
-descrizione o sunshine lenti opalino 
-unisex 
+ 166. O bag spring 19  
+code OSUNS001 INS02
+descrizione o sunshine lenti  opalino 
+unisex
 materiale 
-abbinamenti O sunshine 
-description o sunshine lens opalino 
-unisex 
+abbinamenti O sunshine
+description o sunshine lens  opalino 
+unisex
 material 
-components O sunshine 
+components O sunshine
 col. 060 
-oliva 
-oliva 
-col. 066 
-petrolio 
-petroil 
-lens opalino unisex .lenti lens 
-.crossing .crossing 
-code OSUNS001 INS48 
+oliva
+oliva
+col. 066
+petrolio
+petroil
+lens  opalino unisex .lenti lens 
+.crossing .crossing
+code OSUNS001 INS48
 descrizione o sunshine lenti unisex royal 
-ascot 
+ascot
 materiale 
-abbinamenti O sunshine 
+abbinamenti O sunshine
 description o sunshine lens unisex royal 
-ascot 
+ascot
 material 
-components O sunshine 
+components O sunshine
 col. 017 
-blu navy 
-blue navy 
-col. 541 
-verde bosco 
-green forest 
+blu navy
+blue navy
+col. 541
+verde bosco
+green forest
 lens unisex royal ascot .lenti lens 
 .crossing .crossing
-occhiali sunglasses 167. 
-code OSUNS001 INS58 
+occhiali sunglasses   167.
+code OSUNS001 INS58
 descrizione o sunshine lenti unisex 
-striato 
+striato
 materiale 
-abbinamenti O sunshine 
-description o sunshine lens unisex striato 
+abbinamenti O sunshine
+description o sunshine lens unisex striato
 material 
-components O sunshine 
+components O sunshine
 col. 039 
-grigio 
-grey 
-col. 137 
-bluette 
-bluette 
+grigio
+grey
+col. 137
+bluette
+bluette
 lens unisex striato .lenti lens 
-.crossing .crossing 
-code OSUNS002 INS00 
-descrizione o sunshine astine materiale 
-iniettato 
-materiale 
-abbinamenti O sunshine 
-description o sunshine sticks materiale 
-iniettato 
-material 
-components O sunshine 
-col. 531 
-corallo/vulcano 
-coral vulcano 
-col. 560 
-pink/roccia 
-pink rock 
-col. 533 
-cedro/blu navy 
-cedro blue navy 
-col. 535 
-skyway/grafite 
-skyway graphite 
-materiale iniettato .astine sticks 
-.crossing 
-.crossing 
 .crossing .crossing
-168. O bag spring 19 
-code OSUNS002 INS02 
-descrizione o sunshine astine opalino 
+code OSUNS002 INS00
+descrizione o sunshine astine materiale 
+iniettato
 materiale 
-abbinamenti O sunshine 
-description o sunshine sticks opalino 
+abbinamenti O sunshine
+description o sunshine sticks materiale 
+iniettato
 material 
-components O sunshine 
+components O sunshine
+col. 531 
+corallo/vulcano
+coral vulcano
+col. 560
+pink/roccia
+pink rock
+col. 533
+cedro/blu navy
+cedro blue navy
+col. 535
+skyway/grafite
+skyway graphite
+materiale iniettato .astine sticks 
+.crossing
+.crossing
+.crossing .crossing
+ 168. O bag spring 19  
+code OSUNS002 INS02
+descrizione o sunshine astine  opalino
+materiale 
+abbinamenti O sunshine
+description o sunshine sticks  opalino
+material 
+components O sunshine
 col. 060 
-oliva 
-oliva 
-col. 130 
-azzurro 
-light blue 
-col. 066 
-petrolio 
-petroil 
-col. 069 
-porpora 
-porpora 
+oliva
+oliva
+col. 130
+azzurro
+light blue
+col. 066
+petrolio
+petroil
+col. 069
+porpora
+porpora
 opalino .astine sticks 
-.crossing 
-.crossing 
-.crossing .crossing 
-code OSUNS002 INS47 
+.crossing
+.crossing
+.crossing .crossing
+code OSUNS002 INS47
 descrizione o sunshine astine british 
-countryside 
+countryside
 materiale 
-abbinamenti O sunshine 
+abbinamenti O sunshine
 description o sunshine sticks british 
-countryside 
+countryside
 material 
-components O sunshine 
+components O sunshine
 col. 018 
-bordeaux 
-bordeaux 
-col. 050 
-melanzana 
-melanzana 
+bordeaux
+bordeaux
+col. 050
+melanzana
+melanzana
 british countryside .astine sticks 
 .crossing .crossing
-occhiali sunglasses 169. 
-code OSUNS002 INS48 
-descrizione o sunshine astine royal ascot 
+occhiali sunglasses   169.
+code OSUNS002 INS48
+descrizione o sunshine astine royal ascot
 materiale 
-abbinamenti O sunshine 
-description o sunshine sticks royal ascot 
+abbinamenti O sunshine
+description o sunshine sticks royal ascot
 material 
-components O sunshine 
+components O sunshine
 col. 017 
-blu navy 
-blue navy 
-col. 541 
-verde bosco 
-green forest 
+blu navy
+blue navy
+col. 541
+verde bosco
+green forest
 royal ascot .astine sticks 
-.crossing .crossing 
-code OSUNS002 INS58 
-descrizione o sunshine astine striato 
+.crossing .crossing
+code OSUNS002 INS58
+descrizione o sunshine astine striato
 materiale 
-abbinamenti O sunshine 
-description o sunshine sticks striato 
+abbinamenti O sunshine
+description o sunshine sticks striato
 material 
-components O sunshine 
+components O sunshine
 col. 039 
-grigio 
-grey 
-col. 137 
-bluette 
-bluette 
+grigio
+grey
+col. 137
+bluette
+bluette
 striato .astine sticks 
 .crossing .crossing
-170. O bag spring 19 
-code OSUNS002 INS59 
-descrizione o sunshine astine tartarugato 
+ 170. O bag spring 19  
+code OSUNS002 INS59
+descrizione o sunshine astine tartarugato
 materiale 
-abbinamenti O sunshine 
-description o sunshine sticks tartarugato 
+abbinamenti O sunshine
+description o sunshine sticks tartarugato
 material 
-components O sunshine 
+components O sunshine
 col. 075 
-rosa smoke 
-pink smoke 
-col. 447 
-giallo ambra 
-yellow ambra 
+rosa smoke
+pink smoke
+col. 447
+giallo ambra
+yellow ambra
 tartarugato .astine sticks 
-.crossing .crossing 
-code OSUNS003 INS32 
-descrizione o sunshine front 
+.crossing .crossing
+code OSUNS003 INS32
+descrizione o sunshine front
 materiale 
-abbinamenti O sunshine 
-description o sunshine front 
+abbinamenti O sunshine
+description o sunshine front
 material 
-components O sunshine 
+components O sunshine
 col. 055 
-nero 
-black 
+nero
+black
 front .front front 
 .crossing
-occhiali sunglasses 171. 
-code OSUNS007 INS00 
-descrizione o sunshine lenti cateye 
-cateye 
+occhiali sunglasses   171.
+code OSUNS007 INS00
+descrizione o sunshine lenti cateye  
+cateye
 materiale 
-abbinamenti O sunshine 
-description o sunshine lens cateye 
-cateye 
+abbinamenti O sunshine
+description o sunshine lens cateye  
+cateye
 material 
-components O sunshine 
+components O sunshine
 col. 531 
-corallo/vulcano 
-coral vulcano 
-col. 560 
-pink/roccia 
-pink rock 
-lens cateye cateye .lenti lens 
-.crossing .crossing 
-code OSUNS007 INS02 
-descrizione o sunshine lenti cateye 
-opalino cateye 
-materiale 
-abbinamenti O sunshine 
-description o sunshine lens cateye 
-opalino cateye 
-material 
-components O sunshine 
-col. 069 
-porpora 
-porpora 
-col. 130 
-azzurro 
-light blue 
-lens cateye opalino cateye .lenti lens 
+corallo/vulcano
+coral vulcano
+col. 560
+pink/roccia
+pink rock
+lens cateye  cateye .lenti lens 
 .crossing .crossing
-172. O bag spring 19 
-code OSUNS007 INS47 
-descrizione o sunshine lenti cateye 
-british countryside 
+code OSUNS007 INS02
+descrizione o sunshine lenti cateye  
+opalino cateye
 materiale 
-abbinamenti O sunshine 
+abbinamenti O sunshine
+description o sunshine lens cateye  
+opalino cateye
+material 
+components O sunshine
+col. 069 
+porpora
+porpora
+col. 130
+azzurro
+light blue
+lens cateye  opalino cateye .lenti lens 
+.crossing .crossing
+ 172. O bag spring 19  
+code OSUNS007 INS47
+descrizione o sunshine lenti cateye 
+british countryside
+materiale 
+abbinamenti O sunshine
 description o sunshine lens cateye british 
-countryside 
+countryside
 material 
-components O sunshine 
+components O sunshine
 col. 018 
-bordeaux 
-bordeaux 
-col. 050 
-melanzana 
-melanzana 
+bordeaux
+bordeaux
+col. 050
+melanzana
+melanzana
 lens cateye british countryside .lenti lens 
-.crossing .crossing 
-code OSUNS007 INS59 
+.crossing .crossing
+code OSUNS007 INS59
 descrizione o sunshine lenti cateye 
-tartarugato 
+tartarugato
 materiale 
-abbinamenti O sunshine 
+abbinamenti O sunshine
 description o sunshine lens cateye 
-tartarugato 
+tartarugato
 material 
-components O sunshine 
+components O sunshine
 col. 075 
-rosa smoke 
-pink smoke 
-col. 447 
-giallo ambra 
-yellow ambra 
+rosa smoke
+pink smoke
+col. 447
+giallo ambra
+yellow ambra
 lens cateye tartarugato .lenti lens 
 .crossing .crossing
-occhiali sunglasses 173. 
-code OSUNA003 INS46 
+occhiali sunglasses   173.
+code OSUNA003 INS46
 descrizione o sun aviator front 
-trasparente fluo 
+trasparente fluo
 materiale 
-abbinamenti O sun aviator 
+abbinamenti O sun aviator
 description o sun aviator front 
-trasparente fluo 
+trasparente fluo
 material 
-components O sun aviator 
+components O sun aviator
 col. 026 
-cobalto 
-cobalt blue 
-col. 089 
-verde 
-green 
-col. 486 
-pink 
-pink 
+cobalto
+cobalt blue
+col. 089
+verde
+green
+col. 486
+pink
+pink
 front trasparente fluo .front front 
-.crossing .crossing .crossing 
-code OSUNA001 INS46 
-descrizione o sun aviator lenti 
-trasparente fluo 
+.crossing .crossing .crossing
+code OSUNA001 INS46
+descrizione o sun aviator lenti   
+trasparente fluo
 materiale 
-abbinamenti O sun aviator 
-description o sun aviator lens 
-trasparente fluo 
+abbinamenti O sun aviator
+description o sun aviator lens   
+trasparente fluo
 material 
-components O sun aviator 
+components O sun aviator
 col. 026 
-cobalto 
-cobalt blue 
-col. 089 
-verde 
-green 
-col. 486 
-pink 
-pink 
+cobalto
+cobalt blue
+col. 089
+verde
+green
+col. 486
+pink
+pink
 trasparente fluo .lenti lens 
 .crossing .crossing .crossing
-174. O bag spring 19 
-code OSUNA002 INS46 
-descrizione o sun aviator astine 
-trasparente fluo 
+ 174. O bag spring 19  
+code OSUNA002 INS46
+descrizione o sun aviator astine  
+trasparente fluo
 materiale 
-abbinamenti O sun aviator 
-description o sun aviator sticks 
-trasparente fluo 
+abbinamenti O sun aviator
+description o sun aviator sticks  
+trasparente fluo
 material 
-components O sun aviator 
+components O sun aviator
 col. 026 
-cobalto 
-cobalt blue 
-col. 089 
-verde 
-green 
-col. 486 
-pink 
-pink 
+cobalto
+cobalt blue
+col. 089
+verde
+green
+col. 486
+pink
+pink
 trasparente fluo .astine sticks 
 .crossing .crossing .crossing
-occhiali sunglasses 175.
-.bracciali 
+occhiali sunglasses   175.
+
+.bracciali
 bracelets
-178. O bag spring 19 
-O bracelet flower slim .bracciale bracelet 
-code OBRCF002 SIS01 
+ 178. O bag spring 19  
+O bracelet flower slim .bracciale bracelet
+code OBRCF002 SIS01
 descrizione O bracelet flower slim 
-silicone 
-materiale silicone 
+silicone
+materiale silicone
 description O bracelet flower slim 
-silicone 
-material silicone 
-GENER S 
-GENER M 
-.crossing 
-slim GENER S slim GENER S 
-slim GENER M slim GENER M 
-.crossing .crossing 
-col. 490 
-giallo 
-yellow 
-col. 006 
-avorio 
-ivory 
-col. 144 
-ginestra 
-broom 
-col. 047 
-marsala 
-marsala 
-col. 128 
-salmone 
-salmon 
-col. 142 
-lampone 
-raspberry 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-.crossing 
-.crossing 
-col. 044 
-lime 
-lime 
-slim GENER S 
-slim GENER M 
-.crossing 
-GENER S 
-GENER M 
-.crossing 
-col. 002 
-amaranto 
-amaranth 
-GENER S 
-GENER M 
-.crossing 
-col. 018 
-bordeaux 
-burgundy 
-GENER S 
-GENER M 
+silicone
+material silicone
+ GENER S
+ GENER M
 .crossing
-bracciali bracelets 179. 
-col. 025 
-cipria 
-powder pink 
-col. 095 
-viola desaturato 
-pale violet 
-col. 096 
-viola pastello 
-pastel violet 
-GENER S 
-GENER M 
-.crossing 
-GENER S 
-GENER M 
-.crossing 
-GENER S 
-GENER M 
-.crossing 
-col. 141 
-blu pastello 
-pastel blue 
-col. 088 
-turchese 
-turquoise 
-col. 063 
-ottanio 
-teal 
-col. 013 
-blu capri 
-capri blue 
-slim GENER S 
-slim GENER M 
-.crossing 
-slim GENER S 
-slim GENER M 
-.crossing 
-GENER S 
-GENER M 
-.crossing 
-GENER S 
-GENER M 
-.crossing 
-col. 090 
-verde bianco 
-green white 
-col. 020 
-bronzo 
-bronze 
-col. 081 
-smeraldo 
-emerald 
-GENER S 
-GENER M 
-.crossing 
-col. 012 
-blu acqua 
-aqua blue 
-col. 138 
-turchese menta 
-turquoise mint 
-slim GENER S 
-slim GENER M 
-.crossing 
-slim GENER S 
-slim GENER M 
-.crossing 
-GENER S GENER S 
-GENER M GENER M 
-.crossing .crossing 
-GENER S GENER S GENER S 
-GENER M GENER M GENER M 
-col. 038 
-grafite 
-graphite 
-col. 080 
-salvia 
-sage 
-col. 089 
-verde 
-green 
-.crossing .crossing .crossing
-180. O bag spring 19 
-slim GENER S 
-slim GENER M 
-.crossing 
-col. 008 
-bianco 
-white 
-col. 422 
-sangria 
-sangria 
-GENER S 
-GENER M 
-.crossing 
-col. 484 
-coral 
-coral 
-GENER S 
-GENER M 
-.crossing 
-col. 485 
-atlantic 
-atlantic 
-col. 486 
-pink 
-pink 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-.crossing 
-.crossing
-bracciali bracelets 181. 
-O bracelet flower big .bracciale bracelet 
-code OBRCF003 SIS01 
-descrizione O bracelet flower big silicone 
-materiale silicone 
-description O bracelet flower big silicone 
-material silicone 
-big GENER S big GENER S 
-big GENER M big GENER M 
+slim GENER Sslim GENER S
+slim GENER Mslim GENER M
+.crossing.crossing
 col. 490 
-giallo 
-yellow 
+giallo
+yellow
 col. 006 
-avorio 
-ivory 
-.crossing .crossing .crossing 
-.crossing 
-.crossing .crossing 
-GENER S 
-GENER M 
+avorio
+ivory
 col. 144 
-ginestra 
-broom 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
+ginestra
+broom
 col. 047 
-marsala 
-marsala 
+marsala
+marsala
 col. 128 
-salmone 
-salmon 
-.crossing 
-big GENER S 
-big GENER M 
-col. 044 
-lime 
-lime 
-GENER S 
-GENER M 
+salmone
+salmon
 col. 142 
-lampone 
-raspberry 
-.crossing .crossing 
-big GENER S 
-big GENER M 
+lampone
+raspberry
+ GENER S
+ GENER S
+ GENER M
+ GENER M
+.crossing
+.crossing
+col. 044 
+lime
+lime
+slim GENER S
+slim GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
 col. 002 
-amaranto 
-amaranth 
-big GENER S 
-big GENER M 
+amaranto
+amaranth
+ GENER S
+ GENER M
+.crossing
 col. 018 
-bordeaux 
+bordeaux
 burgundy
-182. O bag spring 19 
-.crossing .crossing .crossing 
-.crossing .crossing .crossing 
-.crossing 
-GENER S 
-GENER M 
+ GENER S
+ GENER M
+.crossing
+bracciali bracelets   179.
 col. 025 
-cipria 
-powder pink 
-GENER S 
-GENER M 
+cipria
+powder pink
 col. 095 
-viola desaturato 
-pale violet 
-.crossing .crossing 
-big GENER S 
-big GENER M 
-col. 063 
-ottanio 
-teal 
-big GENER S 
-big GENER M 
-col. 013 
-blu capri 
-capri blue 
-GENER S 
-GENER M 
+viola desaturato
+pale violet
+col. 096
+viola pastello
+pastel violet
+ GENER S
+ GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
 col. 141 
-blu pastello 
-pastel blue 
-GENER S 
-GENER M 
-col. 096 
-viola pastello 
-pastel violet 
-GENER S 
-GENER M 
+blu pastello
+pastel blue
 col. 088 
-turchese 
-turquoise 
-GENER S 
-GENER M 
-col. 090 
-verde bianco 
-green white 
-.crossing .crossing 
-big GENER S 
-big GENER M 
-col. 012 
-blu acqua 
-aqua blue 
-big GENER S 
-big GENER M 
-col. 138 
-turchese menta 
-turquoise mint 
-GENER S 
-GENER M 
-col. 038 
-grafite 
-graphite 
-col. 020 
-bronzo 
-bronze 
-col. 081 
-smeraldo 
-emerald 
-GENER S GENER S 
-GENER M GENER M 
-.crossing .crossing 
-GENER S GENER S 
-GENER M GENER M 
-col. 080 
-salvia 
-sage 
-col. 089 
-verde 
-green 
-.crossing .crossing
-bracciali bracelets 183. 
-slim GENER S 
-slim GENER M 
-.crossing 
-col. 008 
-bianco 
-white 
-col. 422 
-sangria 
-sangria 
-GENER S 
-GENER M 
-.crossing 
-col. 484 
-coral 
-coral 
-GENER S 
-GENER M 
-.crossing 
-col. 485 
-atlantic 
-atlantic 
-col. 486 
-pink 
-pink 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-.crossing 
-.crossing
-184. O bag spring 19 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-col. 022 
-carta da zucchero 
-azure 
-col. 076 
-rosso 
-red 
-.crossing 
-.crossing 
-GENER S 
-GENER M 
-col. 097 
-violetto 
-violet 
-.crossing 
-O bracelet daisy big .bracciale bracelet 
-code OBRCD003 SIS00 
-descrizione O bracelet daisy big silicone 
-materiale silicone 
-description O bracelet daisy big silicone 
-material silicone 
-GENER S 
-GENER M 
-col. 141 
-blu pastello 
-pastel blue 
-.crossing 
-GENER S 
-GENER M 
-col. 025 
-cipria 
-powder pink 
-.crossing 
-GENER S 
-GENER M 
-col. 143 
-neve 
-snow 
-.crossing 
-GENER S 
-GENER M 
-col. 015 
-blu iris 
-iris blue 
-.crossing 
-GENER S 
-GENER M 
-col. 077 
-rubino 
-ruby 
-.crossing 
-GENER S 
-GENER M 
-col. 018 
-bordeaux 
-burgundy 
-.crossing
-bracciali bracelets 185. 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-GENER M 
-col. 055 
-nero 
-black 
-col. 071 
-roccia 
-rock 
-col. 486 
-pink 
-pink 
-col. 014 
-blu elettrico 
-electric blue 
-col. 044 
-lime 
-lime 
-col. 484 
-coral 
-coral 
-col. 086 
-tortora 
-dove-grey 
-col. 053 
-narcisus 
-narcisus 
-col. 485 
-atlantic 
-atlantic 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-.crossing 
-GENER S 
-GENER S 
-GENER S 
-GENER M 
-GENER M 
-GENER M 
+turchese
+turquoise
 col. 063 
-ottanio 
-teal 
-col. 008 
-bianco 
-white 
-col. 422 
-sangria 
-sangria 
-.crossing 
-.crossing 
+ottanio
+teal
+col. 013 
+blu capri
+capri blue
+slim GENER S
+slim GENER M
 .crossing
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+slim GENER S
+slim GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+col. 090 
+verde bianco
+green white
+col. 020 
+bronzo
+bronze
+col. 081 
+smeraldo
+emerald
+ GENER S
+ GENER M
+.crossing
+col. 012 
+blu acqua
+aqua blue
+col. 138 
+turchese menta
+turquoise mint
+slim GENER S
+slim GENER M
+.crossing
+slim GENER S
+slim GENER M
+.crossing
+ GENER S GENER S
+ GENER M GENER M
+.crossing.crossing
+ GENER S GENER S  GENER S
+ GENER M GENER M  GENER M
+col. 038 
+grafite
+graphite
+col. 080 
+salvia
+sage
+col. 089
+verde
+green
+.crossing.crossing .crossing
+ 180. O bag spring 19  
+slim GENER S
+slim GENER M
+.crossing
+col. 008 
+bianco
+white
+col. 422 
+sangria
+sangria
+ GENER S
+ GENER M
+.crossing
+col. 484 
+coral
+coral
+ GENER S
+ GENER M
+.crossing
+col. 485
+atlantic
+atlantic
+col. 486 
+pink
+pink
+ GENER S
+ GENER S
+ GENER M
+ GENER M
+.crossing
+.crossing
+bracciali bracelets   181.
+O bracelet flower big .bracciale bracelet
+code OBRCF003 SIS01
+descrizione O bracelet flower big silicone
+materiale silicone
+description O bracelet flower big silicone
+material silicone
+big GENER Sbig GENER S
+big GENER Mbig GENER M
+col. 490 
+giallo
+yellow
+col. 006 
+avorio
+ivory
+.crossing.crossing .crossing
+.crossing
+.crossing .crossing
+ GENER S
+ GENER M
+col. 144 
+ginestra
+broom
+ GENER S
+ GENER S
+ GENER M
+ GENER M
+col. 047 
+marsala
+marsala
+col. 128 
+salmone
+salmon
+.crossing
+big GENER S
+big GENER M
+col. 044 
+lime
+lime
+ GENER S
+ GENER M
+col. 142 
+lampone
+raspberry
+.crossing .crossing
+big GENER S
+big GENER M
+col. 002 
+amaranto
+amaranth
+big GENER S
+big GENER M
+col. 018 
+bordeaux
+burgundy
+ 182. O bag spring 19  
+.crossing .crossing.crossing
+.crossing .crossing .crossing
+.crossing
+ GENER S
+ GENER M
+col. 025 
+cipria
+powder pink
+ GENER S
+ GENER M
+col. 095 
+viola desaturato
+pale violet
+.crossing .crossing
+big GENER S
+big GENER M
+col. 063 
+ottanio
+teal
+big GENER S
+big GENER M
+col. 013 
+blu capri
+capri blue
+ GENER S
+ GENER M
+col. 141 
+blu pastello
+pastel blue
+ GENER S
+ GENER M
+col. 096
+viola pastello
+pastel violet
+ GENER S
+ GENER M
+col. 088 
+turchese
+turquoise
+ GENER S
+ GENER M
+col. 090 
+verde bianco
+green white
+.crossing.crossing
+big GENER S
+big GENER M
+col. 012 
+blu acqua
+aqua blue
+big GENER S
+big GENER M
+col. 138 
+turchese menta
+turquoise mint
+ GENER S
+ GENER M
+col. 038 
+grafite
+graphite
+col. 020 
+bronzo
+bronze
+col. 081 
+smeraldo
+emerald
+ GENER S GENER S
+ GENER M GENER M
+.crossing.crossing
+ GENER S  GENER S
+ GENER M  GENER M
+col. 080 
+salvia
+sage
+col. 089
+verde
+green
+.crossing .crossing
+bracciali bracelets   183.
+slim GENER S
+slim GENER M
+.crossing
+col. 008 
+bianco
+white
+col. 422 
+sangria
+sangria
+ GENER S
+ GENER M
+.crossing
+col. 484 
+coral
+coral
+ GENER S
+ GENER M
+.crossing
+col. 485
+atlantic
+atlantic
+col. 486 
+pink
+pink
+ GENER S
+ GENER S
+ GENER M
+ GENER M
+.crossing
+.crossing
+ 184. O bag spring 19  
+GENER S
+GENER S
+GENER M
+GENER M
+col. 022
+carta da zucchero
+azure
+col. 076
+rosso
+red
+.crossing
+.crossing
+GENER S
+GENER M
+col. 097
+violetto
+violet
+.crossing
+O bracelet daisy big .bracciale bracelet
+code OBRCD003 SIS00
+descrizione O bracelet daisy big silicone
+materiale silicone
+description O bracelet daisy big silicone
+material silicone
+GENER S
+GENER M
+col. 141 
+blu pastello
+pastel blue
+.crossing
+GENER S
+GENER M
+col. 025 
+cipria
+powder pink
+.crossing
+GENER S
+GENER M
+col. 143  
+neve
+snow
+.crossing
+GENER S
+GENER M
+col. 015 
+blu iris
+iris blue
+.crossing
+GENER S
+GENER M
+col. 077 
+rubino
+ruby
+.crossing
+GENER S
+GENER M
+col. 018  
+bordeaux
+burgundy
+.crossing
+bracciali bracelets   185.
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER S
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+GENER M
+col. 055
+nero
+black
+col. 071
+roccia
+rock
+col. 486
+pink
+pink
+col. 014
+blu elettrico
+electric blue
+col. 044
+lime
+lime
+col. 484
+coral
+coral
+col. 086
+tortora
+dove-grey
+col. 053
+narcisus
+narcisus
+col. 485
+atlantic
+atlantic
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+GENER S
+GENER S
+GENER S
+GENER M
+GENER M
+GENER M
+col. 063 
+ottanio
+teal
+col. 008 
+bianco
+white
+col. 422 
+sangria
+sangria
+.crossing
+.crossing
+.crossing
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
-orologi watches 187.
+orologi watches   187.

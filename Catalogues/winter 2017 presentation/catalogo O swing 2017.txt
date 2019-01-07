@@ -1,275 +1,279 @@
-O swing 
+O swing
 .spring summer 2017
-.O swing 
-04 O swing scocche bodies 
-05 O swing sacche interne inner bags 
-07 O swing tracolle shoulder straps 
-09 O swing accessori accessories 
-.moda fashion collection 
-.indice index 
-.legenda legend 
-.01
-02. 2017 COLLECTION 
-.O swing 
-O swing .03 O swing scocche bodies 
-OBAGB021 EVS03 008 .moda fashion collection 
-descrizione description scocca O swing O swing body 
-colore colour bianco white 
+
+ .O swing
+04 O swing scocche bodies
+05 O swing sacche interne inner bags
+07 O swing tracolle shoulder straps
+09 O swing accessori accessories
+.moda fashion collection
+.indice index
+.legenda legend
+ .01
+02.   2017 COLLECTION   
+.O swing
+O swing  .03
+O swing scocche bodies 
+OBAGB021 EVS03 008  .moda fashion collection
+descrizione description scocca O swing O swing body
+colore colour bianco white
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 sacche interne - tracolle - accessori O swing O swing 
-inner bags - shoulder straps - accessories 
-OBAGB021 EVS03 017 .moda fashion collection 
-descrizione description scocca O swing O swing body 
-colore colour blu navy navy blue 
+inner bags - shoulder straps - accessories
+OBAGB021 EVS03 017  .moda fashion collection
+descrizione description scocca O swing O swing body
+colore colour blu navy navy blue
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 sacche interne - tracolle - accessori O swing O swing 
-inner bags - shoulder straps - accessories 
-OBAGB021 EVS03 055 .moda fashion collection 
-descrizione description scocca O swing O swing body 
-colore colour nero black 
+inner bags - shoulder straps - accessories
+OBAGB021 EVS03 055  .moda fashion collection
+descrizione description scocca O swing O swing body
+colore colour nero black
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 sacche interne - tracolle - accessori O swing O swing 
-inner bags - shoulder straps - accessories 
-OBAGB021 EVS03 422 .moda fashion collection 
-descrizione description scocca O swing O swing body 
-colore colour sangria sangria 
+inner bags - shoulder straps - accessories
+OBAGB021 EVS03 422  .moda fashion collection
+descrizione description scocca O swing O swing body
+colore colour sangria sangria
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 sacche interne - tracolle - accessori O swing O swing 
-inner bags - shoulder straps - accessories 
-OBAGB021 EVS03 137 .moda fashion collection 
-descrizione description scocca O swing O swing body 
-colore colour bluette bluette 
+inner bags - shoulder straps - accessories
+OBAGB021 EVS03 137  .moda fashion collection
+descrizione description scocca O swing O swing body
+colore colour bluette bluette
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 sacche interne - tracolle - accessori O swing O swing 
-inner bags - shoulder straps - accessories 
-OBAGB021 EVS03 431 .moda fashion collection 
-descrizione description scocca O swing O swing body 
-colore colour amarillo yellow 
+inner bags - shoulder straps - accessories
+OBAGB021 EVS03 431  .moda fashion collection
+descrizione description scocca O swing O swing body
+colore colour amarillo yellow
 materiale material EVA compound 
-abbinamenti components 
+abbinamenti components
 sacche interne - tracolle - accessori O swing O swing 
-inner bags - shoulder straps - accessories 
-04. 2017 COLLECTION 
+inner bags - shoulder straps - accessories
+04.   2017 COLLECTION   
 O swing sacche interne inner bags 
-OBAGS121 TES74 009 .moda fashion collection 
+OBAGS121 TES74 009  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
 fantasia etnica ethnic pattern O swing drawstring inner 
-bag 
-colore colour blu blue 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-OBAGS121 TES74 076 .moda fashion collection 
+bag
+colore colour blu blue
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+OBAGS121 TES74 076  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
 fantasia etnica ethnic pattern O swing drawstring inner 
-bag 
-colore colour rosso red 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-OBAGS121 TES74 371 .moda fashion collection 
+bag
+colore colour rosso red
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+OBAGS121 TES74 371  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
 fantasia etnica ethnic pattern O swing drawstring inner 
-bag 
-colore colour latte milk 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-OBAGS121 TESA5 018 .moda fashion collection 
+bag
+colore colour latte milk
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+OBAGS121 TESA5 018  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
 fantasia righe stripes pattern O swing drawstring inner 
-bag 
-colore colour bordeaux burgundy 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-OBAGS121 TESA5 009 .moda fashion collection 
+bag
+colore colour bordeaux burgundy
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+OBAGS121 TESA5 009  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
 fantasia righe stripes pattern O swing drawstring inner 
-bag 
-colore colour blu blue 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-OBAGS121 TESD4 093 .moda fashion collection 
+bag
+colore colour blu blue
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+OBAGS121 TESD4 093  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
 fantasia optical optical pattern O swing drawstring inner 
-bag 
-colore colour vino wine 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-O swing .05
+bag
+colore colour vino wine
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+O swing  .05
 O swing sacche interne inner bags 
-OBAGS121 TES01 054 .moda fashion collection 
+OBAGS121 TES01 054  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
-canvas canvas O swing drawstring inner bag 
-colore colour naturale natural 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-OBAGS121 TES01 055 .moda fashion collection 
+canvas canvas O swing drawstring inner bag
+colore colour naturale natural
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+OBAGS121 TES01 055  .moda fashion collection
 descrizione description sacca interna coulisse O swing 
-canvas canvas O swing drawstring inner bag 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-O swing O swing bodies - shoulder straps - accessories 
-06. 2017 COLLECTION 
-O swing tracolle shoulder straps 
-SHOUW300 ECS43 054 .moda fashion collection 
+canvas canvas O swing drawstring inner bag
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+O swing O swing bodies - shoulder straps - accessories
+06.   2017 COLLECTION   
+O swing tracolle shoulder straps
+SHOUW300 ECS43 054  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle 
-intrecciata woven faux leather new clip long shoulder strap 
-colore colour naturale natural 
-materiale material ecopelle faux leather 
-abbinamenti components 
+intrecciata woven faux leather new clip long shoulder strap
+colore colour naturale natural
+materiale material ecopelle faux leather
+abbinamenti components
 O swing - accessori O swing O swing bodies - inner bags 
-- accessories 
-SHOUW300 ECS43 230 .moda fashion collection 
+- accessories
+SHOUW300 ECS43 230  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle 
-intrecciata woven faux leather new clip long shoulder strap 
-colore colour terra bruciata burnt sienna 
-materiale material ecopelle faux leather 
-abbinamenti components 
+intrecciata woven faux leather new clip long shoulder strap
+colore colour terra bruciata burnt sienna
+materiale material ecopelle faux leather
+abbinamenti components
 O swing - accessori O swing O swing bodies - inner bags 
-- accessories 
-SHOUD900 ECS43 054 .moda fashion collection 
+- accessories
+SHOUD900 ECS43 054  .moda fashion collection
 descrizione description doppia tracollina ecopelle 
-intrecciata woven faux leather double shoulder strap 
-colore colour naturale natural 
-materiale material ecopelle faux leather 
-abbinamenti components 
+intrecciata woven faux leather double shoulder strap
+colore colour naturale natural
+materiale material ecopelle faux leather
+abbinamenti components
 O swing - accessori O swing O swing bodies - inner bags 
-- accessories 
-SHOUD900 ECS43 230 .moda fashion collection 
+- accessories
+SHOUD900 ECS43 230  .moda fashion collection
 descrizione description doppia tracollina ecopelle 
-intrecciata woven faux leather double shoulder strap 
-colore colour terra bruciata burnt sienna 
-materiale material ecopelle faux leather 
-abbinamenti components 
+intrecciata woven faux leather double shoulder strap
+colore colour terra bruciata burnt sienna
+materiale material ecopelle faux leather
+abbinamenti components
 O swing - accessori O swing O swing bodies - inner bags 
-- accessories 
-SHOUW300 ECS48 093 .moda fashion collection 
+- accessories
+SHOUW300 ECS48 093  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle + 
 fantasia optical faux leather new clip long shoulder strap 
-+ optical pattern 
-colore colour vino wine 
-materiale material tessuto + ecopelle fabric + faux leather 
++ optical pattern
+colore colour vino wine
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-SHOUW300 ECS23 009 .moda fashion collection 
+swing bodies - inner bags - accessories
+SHOUW300 ECS23 009  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle + 
 fantasia etnica faux leather new clip long shoulder strap 
-+ optical pattern 
-colore colour blu blue 
-materiale material tessuto + ecopelle fabric + faux leather 
++ optical pattern
+colore colour blu blue
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-O swing .07
-O swing tracolle shoulder straps 
-SHOUW300 ECS23 076 .moda fashion collection 
+swing bodies - inner bags - accessories
+O swing  .07
+O swing tracolle shoulder straps
+SHOUW300 ECS23 076  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle + 
 fantasia etnica faux leather new clip long shoulder strap 
-+ optical pattern 
-colore colour rosso red 
-materiale material tessuto + ecopelle fabric + faux leather 
++ optical pattern
+colore colour rosso red
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-SHOUW300 ECS23 371 .moda fashion collection 
+swing bodies - inner bags - accessories
+SHOUW300 ECS23 371  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle + 
 fantasia etnica faux leather new clip long shoulder strap 
-+ optical pattern 
-colore colour latte milk 
-materiale material tessuto + ecopelle fabric + faux leather 
++ optical pattern
+colore colour latte milk
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-SHOUW300 ECS49 441 .moda fashion collection 
+swing bodies - inner bags - accessories
+SHOUW300 ECS49 441  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle 
 + fantasia effetto perline faux leather new clip long 
-shoulder strap + small pearls effect 
-colore colour rosso/bluette red/bright blue 
-materiale material tessuto + ecopelle fabric + faux leather 
+shoulder strap + small pearls effect
+colore colour rosso/bluette red/bright blue
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-SHOUW300 ECS49 444 .moda fashion collection 
+swing bodies - inner bags - accessories
+SHOUW300 ECS49 444  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle 
 + fantasia effetto perline faux leather new clip long 
-shoulder strap + small pearls effect 
-colore colour smeraldo/giallo emerald/yellow 
-materiale material tessuto + ecopelle fabric + faux leather 
+shoulder strap + small pearls effect
+colore colour smeraldo/giallo emerald/yellow
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-SHOUW300 ECS49 227 .moda fashion collection 
+swing bodies - inner bags - accessories
+SHOUW300 ECS49 227  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle 
 + fantasia effetto perline faux leather new clip long 
-shoulder strap + small pearls effect 
-colore colour bianco/nero black/white 
-materiale material tessuto + ecopelle fabric + faux leather 
+shoulder strap + small pearls effect
+colore colour bianco/nero black/white
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-SHOUW300 ECS49 443 .moda fashion collection 
+swing bodies - inner bags - accessories
+SHOUW300 ECS49 443  .moda fashion collection
 descrizione description tracolla new clip lunga ecopelle 
 + fantasia effetto perline faux leather new clip long 
-shoulder strap + small pearls effect 
-colore colour arancione/cognac orange/cognac 
-materiale material tessuto + ecopelle fabric + faux leather 
+shoulder strap + small pearls effect
+colore colour arancione/cognac orange/cognac
+materiale material tessuto + ecopelle fabric + faux leather
 abbinamenti components O swing - accessori O swing O 
-swing bodies - inner bags - accessories 
-08. 2017 COLLECTION 
-O swing accessori accessories 
-ACCEO004 TES18 009 .moda fashion collection 
+swing bodies - inner bags - accessories
+08.   2017 COLLECTION   
+O swing accessori accessories
+ACCEO004 TES18 009  .moda fashion collection
 descrizione description accessorio pendaglio multinappina 
 cotone multicolor multi nappa multicolor cotton pendant 
-accessory 
-colore colour blu blue 
-materiale material tessuto fabric 
+accessory
+colore colour blu blue
+materiale material tessuto fabric
 abbinamenti components tracolle O swing O swing 
-shoulder straps 
-ACCEO004 TES18 088 .moda fashion collection 
+shoulder straps
+ACCEO004 TES18 088  .moda fashion collection
 descrizione description accessorio pendaglio multinappina 
 cotone multicolor multi nappa multicolor cotton pendant 
-accessory 
-colore colour turchese turquoise 
-materiale material tessuto fabric 
+accessory
+colore colour turchese turquoise
+materiale material tessuto fabric
 abbinamenti components tracolle O swing O swing 
-shoulder straps 
-ACCEO003 TES18 054 .moda fashion collection 
+shoulder straps
+ACCEO003 TES18 054  .moda fashion collection
 descrizione description accessorio pendaglio multinappina 
-cotone multi nappa cotton pendant accessory 
-colore colour naturale natural 
-materiale material tessuto fabric 
-abbinamenti components 
-tracolle O swing O swing shoulder straps 
-ACCEO003 TES18 055 .moda fashion collection 
+cotone multi nappa cotton pendant accessory
+colore colour naturale natural
+materiale material tessuto fabric
+abbinamenti components
+tracolle O swing O swing shoulder straps
+ACCEO003 TES18 055  .moda fashion collection
 descrizione description accessorio pendaglio multinappina 
-cotone multi nappa cotton pendant accessory 
-colore colour nero black 
-materiale material tessuto fabric 
-abbinamenti components 
-tracolle O swing O swing shoulder straps 
-ACCEO002 TES18 093 .moda fashion collection 
+cotone multi nappa cotton pendant accessory
+colore colour nero black
+materiale material tessuto fabric
+abbinamenti components
+tracolle O swing O swing shoulder straps
+ACCEO002 TES18 093  .moda fashion collection
 descrizione description accessorio pendaglio pon pon + 
-nappina pom pom + nappa pendant accessory 
-colore colour vino wine 
-materiale material tessuto + ecopelle fabric + faux leather 
-abbinamenti components 
-tracolle O swing O swing shoulder straps 
-ACCEO002 TES18 084 .moda fashion collection 
+nappina pom pom + nappa pendant accessory
+colore colour vino wine
+materiale material tessuto + ecopelle fabric + faux leather
+abbinamenti components
+tracolle O swing O swing shoulder straps
+ACCEO002 TES18 084  .moda fashion collection
 descrizione description accessorio pendaglio pon pon + 
-nappina pom pom + nappa pendant accessory 
-colore colour testa di moro dark brown 
-materiale material tessuto + ecopelle fabric + faux leather 
-abbinamenti components 
-tracolle O swing O swing shoulder straps 
-O swing .09
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+nappina pom pom + nappa pendant accessory
+colore colour testa di moro dark brown
+materiale material tessuto + ecopelle fabric + faux leather
+abbinamenti components
+tracolle O swing O swing shoulder straps
+O swing  .09
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+

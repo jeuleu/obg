@@ -1,208 +1,214 @@
-‘17.Disney
-03 tracolle shoulder straps 
-04 tracolle shoulder straps O pocket 
-07 patte flaps 
-80 patte flaps O pocket 
-15 accessori accessories 
-16 portamonete coin purse 
+â€˜17.Disney
+
+03 tracolle shoulder straps
+04 tracolle shoulder straps O pocket
+07 patte flaps
+80 patte flaps O pocket
+15 accessori accessories
+16 portamonete coin purse
 17 pendaglio charm
+
 .tracolle 
 shoulder straps
-04. O bag for Disney 2017 
+04.   O bag for Disney 2017
 col. 036 
-giallo 
-yellow 
-col. 055 
-nero 
-black 
-code SHOUG606 ECS64 
+giallo
+yellow
+col. 055
+nero
+black
+code SHOUG606 ECS64
 descrizione tracolla O pocket con fibbia 
-ecopelle stampa fiori 
-materiale ecopelle + metallo 
-abbinamenti O pocket 
+ecopelle stampa fiori
+materiale ecopelle + metallo
+abbinamenti O pocket
 description O pocket shoulder strap with 
-buckle faux leather flowers print 
-material faux leather + metal 
-components O pocket 
+buckle faux leather flowers print
+material faux leather + metal
+components O pocket
 fiori .tracolla shoulder strap O pocket
-tracolle shoulder straps 05.
+tracolle shoulder straps   05.
+
 .patte flaps
-08. O bag for Disney 2017 
+08.   O bag for Disney 2017
 col. 072 
-rosa 
-pink 
-code OBAGP006 ECS56 
+rosa
+pink
+code OBAGP006 ECS56
 descrizione pattina O pocket ecopelle 
-saffianino stampato righe paperina 
-materiale ecopelle 
-abbinamenti O pocket 
+saffianino stampato righe paperina
+materiale ecopelle
+abbinamenti O pocket
 description O pocket flap faux leather 
-saffiano stripes daisy print 
-material faux leather 
-components O pocket 
-righe paperina .pattina flap O pocket 
+saffiano stripes daisy print
+material faux leather
+components O pocket
+righe paperina .pattina flap O pocket
 col. 036 
-giallo 
-yellow 
-code OBAGP006 ECS57 
+giallo
+yellow
+code OBAGP006 ECS57
 descrizione pattina O pocket ecopelle 
-saffianino stampato righe minnie 
-materiale ecopelle 
-abbinamenti O pocket 
+saffianino stampato righe minnie
+materiale ecopelle
+abbinamenti O pocket
 description O pocket flap faux leather 
-saffiano stripes daisy print 
-material faux leather 
-components O pocket 
+saffiano stripes daisy print
+material faux leather
+components O pocket
 righe minnie .pattina flap O pocket
-patte flaps 09. 
+patte flaps   09.
 col. 072 
-rosa 
-pink 
-code OBAGP006 ECS58 
+rosa
+pink
+code OBAGP006 ECS58
 descrizione pattina O pocket ecopelle 
-stampata in alta frequenza fantasia scritta 
-materiale ecopelle 
-abbinamenti O pocket 
+stampata in alta frequenza fantasia scritta
+materiale ecopelle
+abbinamenti O pocket
 description O pocket flap faux leather 
-writing high frequency print 
-material faux leather 
-components O pocket 
-writing .pattina flap O pocket 
+writing high frequency print
+material faux leather
+components O pocket
+writing .pattina flap O pocket
 col. 072 
-rosa 
-pink 
-code OBAGP006 ECS59 
+rosa
+pink
+code OBAGP006 ECS59
 descrizione pattina O pocket ecopelle 
-stampata in alta frequenza fantasia fiocco 
-materiale ecopelle 
-abbinamenti O pocket 
+stampata in alta frequenza fantasia fiocco
+materiale ecopelle
+abbinamenti O pocket
 description O pocket flap faux leather 
-ribbon high frequency print 
-material faux leather 
-components O pocket 
+ribbon high frequency print
+material faux leather
+components O pocket
 fiocco .pattina flap O pocket
-10. O bag for Disney 2017 
+10.   O bag for Disney 2017
 col. 072 
-rosa 
-pink 
+rosa
+pink
 col. 072 
-rosa 
-pink 
-code OBAGP006 ECS60 
+rosa
+pink
+code OBAGP006 ECS60
 descrizione pattina O pocket ecopelle 
-stampata in alta frequenza fantasia pois 
-materiale ecopelle 
-abbinamenti O pocket 
+stampata in alta frequenza fantasia pois
+materiale ecopelle
+abbinamenti O pocket
 description O pocket flap faux leather 
-polka dot high frequency print 
-material faux leather 
-components O pocket 
-code OBAGP006 TESH6 
+polka dot high frequency print
+material faux leather
+components O pocket
+code OBAGP006 TESH6
 descrizione pattina O pocket tessuto 
 gommato alta frequenza paperina vintage 
-materiale tessuto 
-abbinamenti O pocket 
+materiale tessuto
+abbinamenti O pocket
 description O pocket flap rubber fabric 
-vintage daisy high frequency print 
-material fabric 
-components O pocket 
-pois .pattina flap O pocket 
+vintage daisy high frequency print
+material fabric
+components O pocket
+pois .pattina flap O pocket
 paperina vintage .pattina flap O pocket
-patte flaps 11. 
+patte flaps   11.
 col. 036 
-giallo 
-yellow 
+giallo
+yellow
 col. 017 
-blu navy 
-navy blue 
-code OBAGP006 TESH7 
+blu navy
+navy blue
+code OBAGP006 TESH7
 descrizione pattina O pocket tessuto 
 gommato alta frequenza minnie vintage 
-materiale tessuto 
-abbinamenti O pocket 
+materiale tessuto
+abbinamenti O pocket
 description O pocket flap rubber fabric 
-vintage minnie high frequency print 
-material fabric 
-components O pocket 
-code OBAGP006 TESH4 
+vintage minnie high frequency print
+material fabric
+components O pocket
+code OBAGP006 TESH4
 descrizione pattina O pocket tessuto 
-denim minnie 
-materiale tessuto 
-abbinamenti O pocket 
+denim minnie
+materiale tessuto
+abbinamenti O pocket
 description O pocket flap denim fabric 
-minnie 
-material fabric 
-components O pocket 
-minnie vintage .pattina flap O pocket 
+minnie
+material fabric
+components O pocket
+minnie vintage .pattina flap O pocket
 denim minnie .pattina flap O pocket
-12. O bag for Disney 2017 
+12.   O bag for Disney 2017
 col. 130 
-azzurro 
-light blue 
-code OBAGP006 TESH5 
+azzurro
+light blue
+code OBAGP006 TESH5
 descrizione pattina O pocket tessuto 
-denim paperina 
-materiale tessuto 
-abbinamenti O pocket 
+denim paperina
+materiale tessuto
+abbinamenti O pocket
 description O pocket flap denim fabric 
-daisy 
-material fabric 
-components O pocket 
+daisy
+material fabric
+components O pocket
 denim paperina .pattina flap O pocket
-patte flaps 13.
+patte flaps   13.
+
 .accessori accessories
-16. O bag for Disney 2017 
+16.   O bag for Disney 2017
 col. 072 
-rosa 
-pink 
+rosa
+pink
 col. 036 
-giallo 
-yellow 
-code ACCEP013 ECS62 
+giallo
+yellow
+code ACCEP013 ECS62
 descrizione accessori portamonete 
-ecopelle stampa minnie 
-materiale ecopelle 
+ecopelle stampa minnie
+materiale ecopelle
 description coin purse accessory faux 
-leather minnie print 
-material faux leather 
-code ACCEP013 ECS63 
+leather minnie print
+material faux leather
+code ACCEP013 ECS63
 descrizione accessori portamonete 
-ecopelle stampa paperina 
-materiale ecopelle 
+ecopelle stampa paperina  
+materiale ecopelle
 description coin purse accessory faux 
-leather daisy print 
-material faux leather 
-portamonete minnie .accessorio accessory 
+leather daisy print
+material faux leather
+portamonete minnie .accessorio accessory
 portamonete paperina .accessorio accessory
-accessori accessories 17. 
-code ACCEO005 ECS61 
+accessori accessories   17.
+code ACCEO005 ECS61
 descrizione accessori pendaglio topolino 
 con fiocco ecopelle vernice + tessuto 
-gommato + fiocco vernice 
-materiale ecopelle + tessuto 
+gommato + fiocco vernice
+materiale ecopelle + tessuto
 description charm accessory mickey 
 mouse with ribbon patent faux leather + 
-rubber fabric + patent faux leather ribbon 
-material faux leather + fabric 
-nappina suede .accessorio accessory 
+rubber fabric + patent faux leather ribbon
+material faux leather + fabric
+nappina suede .accessorio accessory
 col. 137 
-bluette 
-bright blue 
-col. 036 
-giallo 
-yellow 
-col. 267 
-fucsia 
-fuchsia 
-col. 072 
-rosa 
-pink 
-col. 076 
-rosso 
+bluette
+bright blue
+col. 036
+giallo
+yellow
+col. 267
+fucsia
+fuchsia
+col. 072
+rosa
+pink
+col. 076
+rosso
 red
-O bag Headquarters 
-Via L. Galvani, 1 
-35011 Campodarsego (PD) - Italy 
-T +39 049 8952852 
-info@obagservice.com 
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
 www.obag.it
+
+
