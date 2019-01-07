@@ -1,6 +1,20 @@
 #!/usr/bin/env sh
 
-echo "Traitement des fichiers de catalogues"
+echo "Transformation des fichiers PDF en TXT"
+for pdfFile in */*.pdf; do
+	txtFile=${pdfFile%pdf}txt
+	if [[ -e $txtFile ]]; then
+		echo "  Non traité car fichier txt existe : '$pdfFile'"
+	else
+		echo "  >> $pdfFile"
+		./cataloguePDF_2_TXT.sh "$pdfFile"
+	fi
+done
+
+echo " "
+echo " "
+echo " "
+echo "Extraction des codes produits"
 awk -f extractionCodesProduits.awk */*.txt
 
 echo " "
@@ -9,7 +23,7 @@ echo " "
 
 echo "Creation des fichiers de synthèse"
 fichierTousProduits="TousProduits.csv"
-cat */*EAN13.csv  | grep -v XXX | sort -o ${fichierTousProduits}
+cat */*EAN13.csv  | grep -v "^XXX" | sort -o ${fichierTousProduits}
 ls -la ${fichierTousProduits}
 wc ${fichierTousProduits}
 
