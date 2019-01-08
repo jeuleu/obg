@@ -4,6 +4,9 @@ BEGIN {
 	marqueurTailleLibelle = 20
 	
 	#verbose = "vrai"
+	
+	# patterns
+	patternTransitionAttenteQuantite = "^ ?[0-9,]* ?$"
 }
 
 
@@ -164,20 +167,19 @@ etat == "lectureTaille" {
 	addInfoLigne(numLigne, $1, "lectureTaille");
 }
 
-
-/^ ?[0-9,]* ?$/ && etat == "attenteQuantite" {
-#	print "Transition attenteQuantite '" $0 "'"
+$0 ~ patternTransitionAttenteQuantite && etat == "attenteQuantite" {
+	print "Transition attenteQuantite '" $0 "'"
 	etat = "lectureQuantite"
 	numLigne = 0;
 }
 
 
-/^ ?[0-9,]* ?$/ &&	etat == "lectureQuantite" && (numLigne >= nbLignes) {
+$0 ~ patternTransitionAttenteQuantite &&	etat == "lectureQuantite" && (numLigne >= nbLignes) {
 	etat = "lecturePrixUnitaire"
 	numLigne = 0
 }		
 
-/^ ?[0-9,]* ?$/ &&	etat == "lectureQuantite" {
+$0 ~ patternTransitionAttenteQuantite &&	etat == "lectureQuantite" {
 #	print "lectureQuantité : numLigne=" numLigne ", '" $0 "'"
 	numLigne++
 	addInfoLigne(numLigne, 0+$1, "lectureQuantite");

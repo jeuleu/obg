@@ -6,31 +6,51 @@ echo "pdfBoxFile $pdfBoxFile"
 ls -la "$pdfBoxFile"
 echo " "
 
+force=false
+
 # contrôle des parametres	
+for arg in "$@"; do
+    case "$arg" in
+        -f)
+			echo "Regénération des fichiers forcée"
+			echo " "
+            force=true
+			;;
+#        *)
+#            nothing="true"
+#            ;;
+    esac
+done
+
 if [[ ! $1 =~ \.PDF$ ]]; then
 	echo ""
-	echo "Usage: `basename $0` <fichier.PDF>"
+	echo "Usage: `basename $0` <fichier.PDF> [-f]"
+	echo "Options"
+	echo "-f : force génération d'un fichier déjà présent"
+	echo " "
 	echo "'$1'"
+	echo " "
 	exit
 fi
 
-
 for file in "$@"; do
-	echo "Fichier '$file'"
-	
-	if [[ $file =~ \.PDF$ ]]; then
+	if [[ $file =~ \.PDF$ ]] && [[ $file != "-f" ]]; then
 		txtFile=${file%PDF}txt
 		
+		traiteFichier=$force;
+		
 		if [[ -e $txtFile ]]; then
-			echo "  fichier non traité (fichier txt existe) : '$txtFile'"
+			echo "  Fichier existant :"
+			echo "  '$txtFile'"
 		else
+			traiteFichier=true
+		fi
+		
+		if [ $traiteFichier == true ]; then
 			echo "Extraction des informations du fichier '$file'"
 			java -jar "$pdfBoxFile" ExtractText "$file"
 			ls -la "$txtFile"
 			echo " "
 		fi
-	else
-		echo "  Fichier ignoré (pas PDF) : $file"
-
 	fi
 done
