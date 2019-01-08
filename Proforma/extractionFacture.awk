@@ -144,8 +144,16 @@ etat == "lectureLibelle" && (numLigne >= nbLignes) {
 }
 
 etat == "lectureLibelle" {
-	if ($0 !~ /[Cc]at\351gorie/ && $0 !~/AGED01 AGENTE DIREZIONALE/	&& length($0) > marqueurTailleLibelle) {
+	if (length($0) > marqueurTailleLibelle &&
+			$0 !~ /[Cc]at\351gorie/ && 
+			$0 !~ /AGED01 AGENTE DIREZIONALE/ &&
+			$0 !~ /Qté Prix Remises/ &&
+			$0 !~ /Récapitulatifs douaniers/ && 
+			$0 !~ /Catégorie Um poids/ && 
+			$0 !~ /^NR  / ) {
 		numLigne++
+		
+print "lectureLibelle '" $0 "' >> '" corrigeCaracteresSpeciaux($0) "'"
 		addInfoLigne(numLigne, corrigeCaracteresSpeciaux($0), "lectureLibelle");
 	}	
 }
@@ -199,7 +207,7 @@ $0 ~ patternTransitionAttenteQuantite &&	etat == "lectureQuantite" {
 
 # debug
 etatFichier == "dernierePage" {
-#	print "dernierePage '" $0 "', etat = " etat
+	print "dernierePage '" $0 "', etat = " etat
 }
 
 
@@ -390,6 +398,11 @@ function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/\362/, "0", ligne)
 	gsub(/\371/, "<u>", ligne)
 	gsub(/‘/, "XX", ligne)
+	
+	gsub(/Î/, "I", ligne)
+	gsub(/«/, "\"", ligne)
+	
+	gsub(/É|Ê|Ë/, "E", ligne)
 	
 	gsub(/\310|\311/, "E", ligne) # É
 	gsub(/\316/, "I", ligne) # Î
