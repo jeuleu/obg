@@ -1010,6 +1010,11 @@ col. 135
 peltro
 peltro
 .midnight in paris
+
+
+Page manquante
+WW3WW0.   O bag winter 2018
+
 code HLESGC00 ECS29
 descrizione manico corto ecopelle 
 stampa cocco
@@ -3471,7 +3476,7 @@ col. 137
 bluette
 bright blue
 .midnight in paris
-patte flaps   103.103.   O bag winter 2018
+patte flaps   103.   O bag winter 2018
 code OBAGP006 TEST5
 descrizione pattina O pocket tessuto 
 lana intrecciata + gioiello
