@@ -71,7 +71,7 @@ function sauveAnciensEAN13()
 		echo -n "  sauveAnciensEAN13 : "
 		echo "'$ean13File'"
 
-#		grep "^[38]" "$inputFile" > "$ean13File"
+		grep "^[38]" "$inputFile" > "$ean13File"
 
 		wc "$ean13File"
 		echo " "
@@ -81,7 +81,7 @@ function sauveAnciensEAN13()
 function traiteTXT_2_EAN13()
 {
 	inputFile="${1%pdf}txt"
-	outputFile="${1%pdf}csv"
+	outputFile="${1%pdf}PRODUIT.csv"
 
 	echo -n "  traiteTXT_2_EAN13 : "
   	
@@ -105,7 +105,7 @@ function fusionneAvecAnciensEAN13()
 	echo -n "  fusionneAvecAnciensEAN13 : "
 	echo "'$ean13File'"
 
-	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$inputFile") <(sort -t";" -k2 "$ean13File") -a1 -o 2.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10 | sed 's/^;/CodeBarre;/' | sort -t";" -k3 > fichierFusionne.csv
+	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$inputFile") <(sort -t";" -k2 "$ean13File") -a1 -o 2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sed 's/^;/CodeBarre;/' | sort -t";" -k3 > fichierFusionne.csv
 
 	mv fichierFusionne.csv "$inputFile"
 
