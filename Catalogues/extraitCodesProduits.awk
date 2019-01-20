@@ -116,15 +116,24 @@ chercheCol == "it" {
 function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/ $/, "", ligne)
 
-	gsub(/\221/, "'", ligne)
-	gsub(/\222/, "'", ligne)
-	gsub(/\223/, "\"", ligne)
-	gsub(/\224/, "\"", ligne)
+	gsub(/\221|\222/, "'", ligne)
+	gsub(/\253|\273/, "\"", ligne)
+	gsub(/\223|\224/, "\"", ligne)
 	gsub(/\240/, " ", ligne)
-	gsub(/\350/, "e", ligne)
-	gsub(/\351/, "e", ligne)
+	gsub(/\350|\351/, "e", ligne)
 	gsub(/\362/, "0", ligne)
 	gsub(/\371/, "<u>", ligne)
+	gsub(/‘/, "XX", ligne)
+	
+	gsub(/Î/, "I", ligne)
+	gsub(/«/, "\"", ligne)
+	
+	gsub(/É|Ê|Ë/, "E", ligne)
+	
+	gsub(/\310|\311/, "E", ligne) # É
+	gsub(/\316/, "I", ligne) # Î
+	
+	gsub(/\214/, "OE", ligne)
 
 	return ligne
 }

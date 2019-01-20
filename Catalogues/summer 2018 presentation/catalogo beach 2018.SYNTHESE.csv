@@ -1,69 +1,69 @@
-OBAGB001-EVS28   ;page 004   ;06 pièces   ;produit n°1
-OBAGB030-EVS27   ;page 005   ;05 pièces   ;produit n°1
-OBAGB001-EVS00   ;page 006   ;04 pièces   ;produit n°1
-OBAGB002-EVS00   ;page 007   ;04 pièces   ;produit n°1
-OBAGB009-EVS00   ;page 008   ;03 pièces   ;produit n°1
-OBAGB009-EVS29   ;page 009   ;03 pièces   ;produit n°1
-OBAGB010-EVS00   ;page 010   ;03 pièces   ;produit n°1
-OBAGB016-EVS00   ;page 011   ;04 pièces   ;produit n°1
-OBAGB017-EVS00   ;page 012   ;04 pièces   ;produit n°1
-OBAGB021-EVS03   ;page 013   ;04 pièces   ;produit n°1
-OBAGB206-EVS00   ;page 014   ;04 pièces   ;produit n°1
-OBAGB024-EVS00   ;page 015   ;04 pièces   ;produit n°1
-OBAGB012-EVS03   ;page 016   ;04 pièces   ;produit n°1
-OBAGB018-EVS03   ;page 017   ;04 pièces   ;produit n°1
-OBAGB028-EVS03   ;page 018   ;02 pièces   ;produit n°1
-HLESD000-TES20   ;page 022   ;01 pièces   ;produit n°1
-HLESG000-ECS04   ;page 022   ;04 pièces   ;produit n°2
-HLESG000-ROS06   ;page 023   ;02 pièces   ;produit n°1
-HLESG000-ROS08   ;page 023   ;03 pièces   ;produit n°2
-HLESU200-TESO4   ;page 024   ;01 pièces   ;produit n°1
-HLESAD00-TES20   ;page 025   ;01 pièces   ;produit n°1
-HLESGC00-ECS04   ;page 025   ;04 pièces   ;produit n°2
-HLESMD00-TES20   ;page 026   ;01 pièces   ;produit n°1
-SHOUGB00-TESM9   ;page 026   ;02 pièces   ;produit n°2
-SHOUGB00-TESK9   ;page 029   ;02 pièces   ;produit n°1
-SHOUD900-ROS07   ;page 029   ;03 pièces   ;produit n°2
-OBAGA000-ECS42   ;page 030   ;01 pièces   ;produit n°1
-OBAGA000-TES20   ;page 030   ;02 pièces   ;produit n°2
-OBAGT001-TESM8   ;page 034   ;03 pièces   ;produit n°1
-OBAGT002-TESO6   ;page 035   ;03 pièces   ;produit n°1
-OBAGS001-TES01   ;page 038   ;04 pièces   ;produit n°1
-OBAGS001-TESK7   ;page 038   ;02 pièces   ;produit n°2
-OBAGS001-TESN6   ;page 039   ;02 pièces   ;produit n°1
-OBAGS002-TES01   ;page 040   ;02 pièces   ;produit n°1
-OBAGS002-TESK7   ;page 040   ;04 pièces   ;produit n°2
-OBAGS002-TESN6   ;page 041   ;02 pièces   ;produit n°1
-OBAGS102-TESN7   ;page 041   ;01 pièces   ;produit n°2
-OBAGS009-TES01   ;page 043   ;04 pièces   ;produit n°1
-OBAGS010-TES01   ;page 043   ;03 pièces   ;produit n°2
-OBAGS016-TES01   ;page 046   ;04 pièces   ;produit n°1
-OBAGS016-TESK7   ;page 046   ;02 pièces   ;produit n°2
-OBAGS016-TESN6   ;page 047   ;02 pièces   ;produit n°1
-OBAGS017-TESK7   ;page 048   ;02 pièces   ;produit n°1
-OBAGS017-TESN6   ;page 048   ;02 pièces   ;produit n°2
-OBAGS121-TESN7   ;page 050   ;01 pièces   ;produit n°1
-OBAGS112-TESN6   ;page 051   ;02 pièces   ;produit n°1
-OBAGS118-TESN7   ;page 053   ;01 pièces   ;produit n°1
-OBAGS018-TESN6   ;page 053   ;02 pièces   ;produit n°2
-OBAGS028-TESK7   ;page 053   ;02 pièces   ;produit n°3
-OBAGPA06-TESM4   ;page 058   ;01 pièces   ;produit n°1
-OBAGP006-TESO6   ;page 059   ;02 pièces   ;produit n°1
-OBAGB019-EVS00   ;page 064   ;04 pièces   ;produit n°1
-HLESZ817-TES20   ;page 064   ;02 pièces   ;produit n°2
-OBAGS019-TES01   ;page 065   ;04 pièces   ;produit n°1
-OBAGB426-TESO6   ;page 066   ;02 pièces   ;produit n°1
-SHOUBG00-ROS00   ;page 067   ;02 pièces   ;produit n°1
-ACCEC009-TESO1   ;page 070   ;03 pièces   ;produit n°1
-ACCEC010-TES01   ;page 070   ;01 pièces   ;produit n°2
-ACCEP001-TESO6   ;page 071   ;02 pièces   ;produit n°1
-ACCEP014-TES20   ;page 072   ;01 pièces   ;produit n°1
-OCLKD001-MESA1   ;page 076   ;03 pièces   ;produit n°1
-OCLKD001-MES99   ;page 076   ;03 pièces   ;produit n°2
-OCLKD104-MESA1   ;page 077   ;03 pièces   ;produit n°1
-OCLKD101-MESA5   ;page 077   ;01 pièces   ;produit n°2
-OCLKD101-MESA4   ;page 078   ;01 pièces   ;produit n°1
-OCLKD101-MES04   ;page 078   ;01 pièces   ;produit n°2
-OCLKD110-MES04   ;page 079   ;01 pièces   ;produit n°1
-OSHSD001-EVS28   ;page 082   ;03 pièces   ;produit n°1
-OSHSD001-EVS28   ;page 083   ;02 pièces   ;produit n°1
+OBAGB001-EVS28   ;page 004   ;06 pieces   ;produit n 1
+OBAGB030-EVS27   ;page 005   ;05 pieces   ;produit n 1
+OBAGB001-EVS00   ;page 006   ;04 pieces   ;produit n 1
+OBAGB002-EVS00   ;page 007   ;04 pieces   ;produit n 1
+OBAGB009-EVS00   ;page 008   ;03 pieces   ;produit n 1
+OBAGB009-EVS29   ;page 009   ;03 pieces   ;produit n 1
+OBAGB010-EVS00   ;page 010   ;03 pieces   ;produit n 1
+OBAGB016-EVS00   ;page 011   ;04 pieces   ;produit n 1
+OBAGB017-EVS00   ;page 012   ;04 pieces   ;produit n 1
+OBAGB021-EVS03   ;page 013   ;04 pieces   ;produit n 1
+OBAGB206-EVS00   ;page 014   ;04 pieces   ;produit n 1
+OBAGB024-EVS00   ;page 015   ;04 pieces   ;produit n 1
+OBAGB012-EVS03   ;page 016   ;04 pieces   ;produit n 1
+OBAGB018-EVS03   ;page 017   ;04 pieces   ;produit n 1
+OBAGB028-EVS03   ;page 018   ;02 pieces   ;produit n 1
+HLESD000-TES20   ;page 022   ;01 pieces   ;produit n 1
+HLESG000-ECS04   ;page 022   ;04 pieces   ;produit n 2
+HLESG000-ROS06   ;page 023   ;02 pieces   ;produit n 1
+HLESG000-ROS08   ;page 023   ;03 pieces   ;produit n 2
+HLESU200-TESO4   ;page 024   ;01 pieces   ;produit n 1
+HLESAD00-TES20   ;page 025   ;01 pieces   ;produit n 1
+HLESGC00-ECS04   ;page 025   ;04 pieces   ;produit n 2
+HLESMD00-TES20   ;page 026   ;01 pieces   ;produit n 1
+SHOUGB00-TESM9   ;page 026   ;02 pieces   ;produit n 2
+SHOUGB00-TESK9   ;page 029   ;02 pieces   ;produit n 1
+SHOUD900-ROS07   ;page 029   ;03 pieces   ;produit n 2
+OBAGA000-ECS42   ;page 030   ;01 pieces   ;produit n 1
+OBAGA000-TES20   ;page 030   ;02 pieces   ;produit n 2
+OBAGT001-TESM8   ;page 034   ;03 pieces   ;produit n 1
+OBAGT002-TESO6   ;page 035   ;03 pieces   ;produit n 1
+OBAGS001-TES01   ;page 038   ;04 pieces   ;produit n 1
+OBAGS001-TESK7   ;page 038   ;02 pieces   ;produit n 2
+OBAGS001-TESN6   ;page 039   ;02 pieces   ;produit n 1
+OBAGS002-TES01   ;page 040   ;02 pieces   ;produit n 1
+OBAGS002-TESK7   ;page 040   ;04 pieces   ;produit n 2
+OBAGS002-TESN6   ;page 041   ;02 pieces   ;produit n 1
+OBAGS102-TESN7   ;page 041   ;01 pieces   ;produit n 2
+OBAGS009-TES01   ;page 043   ;04 pieces   ;produit n 1
+OBAGS010-TES01   ;page 043   ;03 pieces   ;produit n 2
+OBAGS016-TES01   ;page 046   ;04 pieces   ;produit n 1
+OBAGS016-TESK7   ;page 046   ;02 pieces   ;produit n 2
+OBAGS016-TESN6   ;page 047   ;02 pieces   ;produit n 1
+OBAGS017-TESK7   ;page 048   ;02 pieces   ;produit n 1
+OBAGS017-TESN6   ;page 048   ;02 pieces   ;produit n 2
+OBAGS121-TESN7   ;page 050   ;01 pieces   ;produit n 1
+OBAGS112-TESN6   ;page 051   ;02 pieces   ;produit n 1
+OBAGS118-TESN7   ;page 053   ;01 pieces   ;produit n 1
+OBAGS018-TESN6   ;page 053   ;02 pieces   ;produit n 2
+OBAGS028-TESK7   ;page 053   ;02 pieces   ;produit n 3
+OBAGPA06-TESM4   ;page 058   ;01 pieces   ;produit n 1
+OBAGP006-TESO6   ;page 059   ;02 pieces   ;produit n 1
+OBAGB019-EVS00   ;page 064   ;04 pieces   ;produit n 1
+HLESZ817-TES20   ;page 064   ;02 pieces   ;produit n 2
+OBAGS019-TES01   ;page 065   ;04 pieces   ;produit n 1
+OBAGB426-TESO6   ;page 066   ;02 pieces   ;produit n 1
+SHOUBG00-ROS00   ;page 067   ;02 pieces   ;produit n 1
+ACCEC009-TESO1   ;page 070   ;03 pieces   ;produit n 1
+ACCEC010-TES01   ;page 070   ;01 pieces   ;produit n 2
+ACCEP001-TESO6   ;page 071   ;02 pieces   ;produit n 1
+ACCEP014-TES20   ;page 072   ;01 pieces   ;produit n 1
+OCLKD001-MESA1   ;page 076   ;03 pieces   ;produit n 1
+OCLKD001-MES99   ;page 076   ;03 pieces   ;produit n 2
+OCLKD104-MESA1   ;page 077   ;03 pieces   ;produit n 1
+OCLKD101-MESA5   ;page 077   ;01 pieces   ;produit n 2
+OCLKD101-MESA4   ;page 078   ;01 pieces   ;produit n 1
+OCLKD101-MES04   ;page 078   ;01 pieces   ;produit n 2
+OCLKD110-MES04   ;page 079   ;01 pieces   ;produit n 1
+OSHSD001-EVS28   ;page 082   ;03 pieces   ;produit n 1
+OSHSD001-EVS28   ;page 083   ;02 pieces   ;produit n 1

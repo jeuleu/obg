@@ -21,7 +21,7 @@ function fusionneFichierEAN13() {
 	echo "appel de fusionneFichierEAN13 fic1='$1' fic2='$2'. Résultat '$3'"
 	echo " "
 	
-	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$1") "$2" -a1 -o 1.1,2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sed 's/^;/codeBarre;/' | sort -t";" -k4 > "$3"
+	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$1") "$2" -a1 -o 1.1,2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sed 's/^;/codeBarre;/' | sort -t";" -k1 > "$3"
 }
 
 function fusionneFichierCatalogue() {

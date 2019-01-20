@@ -148,7 +148,7 @@ etat == "lectureLibelle" {
 			$0 !~ /[Cc]at\351gorie/ && 
 			$0 !~ /AGED01 AGENTE DIREZIONALE/ &&
 			$0 !~ /Qté Prix Remises/ &&
-			$0 !~ /Récapitulatifs douaniers/ && 
+			$0 !~ /R.*capitulatifs douaniers/ && 
 			$0 !~ /Catégorie Um poids/ && 
 			$0 !~ /^NR  / ) {
 		numLigne++

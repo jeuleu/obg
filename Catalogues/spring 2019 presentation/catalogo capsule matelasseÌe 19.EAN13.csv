@@ -1,9 +1,0 @@
-XXX Code barre;Code compact;Catalogue;p000-01;Libelle produit;Modele;Code piece;Code couleur;Couleur it;Couleur en;
-XXX;;;p000-02
-XXX;;;p000-03;ATTENTION au format des colonnes !
-XXX;;;p000-04;Avant toute edition, changer les formats des colonnes suivantes :
-XXX;;;p000-05;Code Barre :;; numerique sans decimales
-XXX;;;p000-06;Code Couleur :;; numerique format "000"
-XXX;;;p000-07
-CodeBarre;HLESCE01-ECS00-055;;p011-01; manico doppia catena a “t”;HLESCE01;ECS00;055;nero + argento;black + silver
-CodeBarre;HLESCE01-ECS00-612;;p011-02; manico doppia catena a “t”;HLESCE01;ECS00;612;blu navy + argento;blue navy + silver
