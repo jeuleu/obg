@@ -71,7 +71,7 @@ function sauveAnciensEAN13()
 		echo -n "  sauveAnciensEAN13 : "
 		echo "'$ean13File'"
 
-		grep "^[38]" "$inputFile" > "$ean13File"
+		grep "^[38]" "$inputFile" | soirt -t";" -k2 -o "$ean13File"
 
 		wc "$ean13File"
 		echo " "
@@ -105,7 +105,7 @@ function fusionneAvecAnciensEAN13()
 	echo -n "  fusionneAvecAnciensEAN13 : "
 	echo "'$ean13File'"
 
-	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$inputFile") <(sort -t";" -k2 "$ean13File") -a1 -o 2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sed 's/^;/CodeBarre;/' | sort -t";" -k3 > fichierFusionne.csv
+	join -t";" -1 2 -2 2 <(sort -t";" -k2 "$inputFile") <(sort -t";" -k2 "$ean13File") -a1 -o 2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sed 's/^;/CodeBarre;/' | sort -u | sort -t";" -k3 > fichierFusionne.csv
 
 	mv fichierFusionne.csv "$inputFile"
 
@@ -113,6 +113,59 @@ function fusionneAvecAnciensEAN13()
 	grep "^[38]" "$inputFile" | wc
 	
 	echo " "
+}
+
+function chercheDoublons()
+{
+	inputFile="${1%pdf}PRODUIT.csv"
+	doublonsFile="${1%pdf}DOUBLONS.csv"
+	tmpFile1="doublon1.txt"
+	tmpFile2="doublon2.txt"
+
+	if [[ -e "$doublonsFile" ]]; then
+		rm "$doublonsFile"
+	fi
+	
+	cut -d ";" -f1 "$inputFile" | grep -v "CodeBarre" | sort -o "$tmpFile1"
+	sort -u "$tmpFile1" -o "$tmpFile2"
+	diff "$tmpFile2" "$tmpFile1" > "$doublonsFile"
+	
+	rm "$tmpFile1" "$tmpFile2"
+	
+	if [[ -s "$doublonsFile" ]]; then
+		echo " "
+		echo "ATTENTION : Codes doublons"
+		
+		cat "$doublonsFile"
+		echo " "
+	fi
+}
+
+
+function chercheAnomalies()
+{
+	inputFile="${1%pdf}PRODUIT.csv"
+	anomaliesFile="${1%pdf}ANOMALIES.csv"
+
+	if [[ -e "$anomaliesFile" ]]; then
+		rm "$anomaliesFile"
+	fi
+	
+	# les codes barres ne commençant pas par 3 ou 8
+	grep "^[^38C]" "$inputFile" >> "$anomaliesFile"
+	
+	# les sections nom lues
+	grep ";;" "$inputFile" >> "$anomaliesFile"
+	
+	# les codes produits inexistants nom lues
+	grep ";-" "$inputFile" >> "$anomaliesFile"
+
+	if [[ -s "$anomaliesFile" ]]; then
+		echo "Anomalies de décodage"
+		
+		cat "$anomaliesFile"
+		echo " "
+	fi
 }
 
 
@@ -128,6 +181,9 @@ for arg in "$@"; do
 		traiteTXT_2_EAN13 "$arg"
 		
 		fusionneAvecAnciensEAN13 "$arg"
+		
+		chercheDoublons "$arg"
+		chercheAnomalies "$arg"
 
 		echo " "
 	fi
