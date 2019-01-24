@@ -9,8 +9,8 @@ cat << EOF
 usage: $0 options <fichier>.pdf
 
 OPTIONS:
-   -v      Verbeux : affiche les anomalies de décodage.
-   -f      Force la regénération des fichiers 'EAN13' et 'COUL' à partir du fichier txt.
+   -a      Affiche les anomalies de décodage.
+   -d      Affiche les doublons de code barre.
    -h      Affiche cette aide.
 
 EOF
@@ -18,12 +18,17 @@ EOF
 
 
 # options
-while getopts "vh" option
+while getopts "adh" option
 do
 	case $option in
-		v)
-			echo "Verbeux : affiche les anomalies de décodage."
-			VERBOSE=true
+		a)
+			echo "Affiche les anomalies de décodage."
+			AFFICHE_ANOMALIES=true
+			;;
+
+		d)
+			echo "Affiche les doublons de code barre."
+			AFFICHE_DOUBLONS=true
 			;;
 
 		h)
@@ -32,6 +37,34 @@ do
 			;;
     esac
 done
+
+
+function chercheDoublons()
+{
+	inputFile="$1"
+	doublonsFile="$2"
+	tmpFile1="doublon1.txt"
+	tmpFile2="doublon2.txt"
+
+	if [[ -e "$doublonsFile" ]]; then
+		rm "$doublonsFile"
+	fi
+	
+	cut -d ";" -f1 "$inputFile" | grep -v "CodeBarre" | sort -o "$tmpFile1"
+	sort -u "$tmpFile1" -o "$tmpFile2"
+	diff "$tmpFile2" "$tmpFile1" > "$doublonsFile"
+	
+	rm "$tmpFile1" "$tmpFile2"
+	
+	if [ ! -z "$AFFICHE_DOUBLONS" ] && [[ -s "$doublonsFile" ]]; then
+		echo " "
+		echo "ATTENTION : Codes doublons"
+		
+		cat "$doublonsFile"
+		echo " "
+	fi
+}
+
 
 
 function chercheAnomalies()
@@ -52,7 +85,7 @@ function chercheAnomalies()
 	# les codes produits inexistants nom lues
 	grep ";-" "$inputFile" >> "$anomaliesFile"
 
-	if [ ! -z "$VERBOSE" ] && [[ -s "$anomaliesFile" ]]; then
+	if [ ! -z "$AFFICHE_ANOMALIES" ] && [[ -s "$anomaliesFile" ]]; then
 		echo "Anomalies de décodage"
 		
 		cat "$anomaliesFile"
@@ -82,6 +115,12 @@ baseCOULEUR=`dirname $0`"/base.COULEUR.csv"
 cat `dirname $0`/*/*COULEUR.csv | sort | uniq > ${baseCOULEUR}
 ls -la ${baseCOULEUR}
 wc ${baseCOULEUR}
+
+echo ""
+baseDOUBLONS=`dirname $0`"/base.DOUBLONS.csv"
+chercheDoublons "$baseProduit" "$baseDOUBLONS"
+ls -la ${baseDOUBLONS}
+wc ${baseDOUBLONS}
 
 echo ""
 baseANOMALIES=`dirname $0`"/base.ANOMALIES.csv"
