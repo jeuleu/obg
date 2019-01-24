@@ -109,14 +109,12 @@ function fusionneAvecBasesProduit()
 	ls -la "$baseEAN13"
 	ls -la "$basePRODUIT"
 	echo " "
-	
-	join -t";" -a1 -1 2 -2 2 <(sort -t";" -k2 "$inputFile") <(sort -t";" -k2 "$baseEAN13") -e'CodeBarre' -o 1.1,2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sort -t";" -o "$ean13File"
 
+	# jointure des codes barre
+	join -t";" -a1 -1 2 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k2) <(sort -t";" -k2 "$baseEAN13") -e'CodeBarre' -o 1.1,2.1,1.2,1.3,1.4,1.5,1.6,1.7 | sort -t";" -o "$ean13File"
+
+	# recherche des produits manquants
 	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k2) <(sort -t";" -k2 "$basePRODUIT") -e'CodeBarre' -o 1.1,2.2,2.6,2.3,1.3,1.4,1.5 | sort -t";" -k3 -o "$manquantFile"
-
-#	join -t";" -1 2 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k2) <(sort -t";" -k2 "$basePRODUIT") -a1 -o 1.1,2.3,2.4,1.3,1.4,1.5 | sort -t";" -o "$manquantFile"
-	#join -t";" -1 3 -2 2 <(sort -t";" -k3 "$1") <(cat "$2" | grep -v "^codeBarre;;;" | sort -t";" -k2) -a2 -o 1.1,2.3,2.4,1.3,1.4,1.5 | sort -t";" -k2 > "$3"
-
 
 	echo " "
 	echo "Fichier des codes EAN13"
