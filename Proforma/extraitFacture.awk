@@ -208,7 +208,7 @@ $0 ~ patternTransitionAttenteQuantite &&	etat == "lectureQuantite" {
 }
 
 etatFichier == "dernierePage" {
-	print "dernierePage '" $0 "', etat = " etat
+#	print "dernierePage '" $0 "', etat = " etat
 }
 
 
@@ -437,7 +437,7 @@ function controleTypeFichier() {
 
 # A commenter hors debug
 { 
-	print "Ligne " NR " : etat= '" etat "', '" $0 "'"
+#	print "Ligne " NR " : etat= '" etat "', '" $0 "'"
 }
 
 END {

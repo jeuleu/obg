@@ -4,6 +4,10 @@ source `dirname $0`/../configAutomatisationFacture.bash_rc
 
 pdfBoxFile=$AUTO_HOME/PDFBox/pdfbox-app-2.0.13.jar
 extractAwkFile=$AUTO_HOME/Proforma/extraitFacture.awk
+ean13GlobalFile="`dirname $0`/EAN13_traite.csv"
+
+echo " EAN '$ean13GlobalFile'"
+echo " "
 
 function usage() 
 {
@@ -109,11 +113,12 @@ function fusionneAvecBasesProduit()
 	ls -la "$basePRODUIT"
 	echo " "
 
+	
 	# jointure des codes barre
 	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k3) <(sort -t";" -k2 "$baseEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8 | sort -t";" -o "$ean13File"
 
 	# recherche des produits manquants
-	join -t";" -a1 -1 4 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k3) <(sort -t";" -k2 "$basePRODUIT") -e'-' -o 1.1,1.2,1.3,1.4,2.6,2.3,1.5,1.6 | sort -t";" -k5 -o "$manquantFile"
+	join -t";" -a1 -1 4 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k3) <(sort -t";" -k2 "$basePRODUIT") -e'-' -o 1.1,1.2,1.4,2.6,2.3,1.5,1.6 | sort -t";" -k4 -o "$manquantFile"
 
 	echo " "
 	echo "Fichier des codes EAN13"
@@ -125,14 +130,34 @@ function fusionneAvecBasesProduit()
 	ls -la "$manquantFile"
 	wc "$manquantFile" 
 	
-#	cat "$manquantFile"
+	# constitution d'un fichier de synthèse 
+	echo "ENTETE" >> "$ean13GlobalFile"
+	grep "^ " "$inputFile" >> "$ean13GlobalFile"
+
+	echo "EAN13" >> "$ean13GlobalFile"
+	cat "$ean13File" >> "$ean13GlobalFile"
+
+	echo "MANQUANT" >> "$ean13GlobalFile"
+	cat "$manquantFile" >> "$ean13GlobalFile"
+	
+	echo "" >> "$ean13GlobalFile"
+
+	#	cat "$manquantFile"
 	
 	echo " "
 }
 
+# nettoyage
+if [ -f "$ean13GlobalFile" ]; then
+	echo "Suppression '$ean13GlobalFile'"
+	rm "$ean13GlobalFile"
+else
+	echo "Fichier '$ean13GlobalFile' inexistant"
+fi
 
 # traitement	
 for arg in "$@"; do
+	# PDF -> pdf
 	if [[ $arg =~ \.PDF$ ]]; then
 		echo -n "Renommage du fichier '" $arg "' en "
 		mv "$arg" "${arg%PDF}pdf"
@@ -140,7 +165,8 @@ for arg in "$@"; do
 		echo "'" $arg "'"
 		echo " "
 	fi
-	
+
+	# traitement d'un fichier PDF
 	if [[ $arg =~ \.pdf$ ]]; then
 		echo "Fichier pdf '$arg'"
 	
