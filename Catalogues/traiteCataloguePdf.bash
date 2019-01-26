@@ -71,7 +71,7 @@ function sauveAnciensEAN13()
 		echo -n "  sauveAnciensEAN13 : "
 		echo "'$ean13File'"
 
-		grep "^[38]" "$inputFile" | soirt -t";" -k2 -o "$ean13File"
+		grep "^[38]" "$inputFile" | sort -t";" -k2 -o "$ean13File"
 
 		wc "$ean13File"
 		echo " "

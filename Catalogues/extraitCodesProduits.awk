@@ -47,7 +47,7 @@ function getNumPage() {
 
 	page = getNumPage()
 	
-	if (nomCatalogue == "") {
+	if (nomCatalogue == "" && ((page/2) == int(page/2))) {
 		for (i= 2; i <= NF; i++) {
 			nomCatalogue = nomCatalogue " " corrigeCaracteresSpeciaux($i)
 		}
@@ -123,7 +123,7 @@ function corrigeCaracteresSpeciaux(ligne) {
 	gsub(/\350|\351/, "e", ligne)
 	gsub(/\362/, "0", ligne)
 	gsub(/\371/, "<u>", ligne)
-	gsub(/‘/, "XX", ligne)
+	gsub(/‘/, "'", ligne)
 	
 	gsub(/Î/, "I", ligne)
 	gsub(/«/, "\"", ligne)
