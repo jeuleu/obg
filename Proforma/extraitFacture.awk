@@ -23,15 +23,12 @@ input != FILENAME {
 
 	# fichier sortie
 	output = FILENAME
-	output_FAT_traitee = "FAT_traitee.csv"
+	output_FICHIER_traitee = "FICHIER_traite.csv"
 	gsub(/txt$/, "csv", output)
 
+	print " >>> FICHIER_traite=" FICHIER_traite
 	nomFichier = output
 	gsub(/ /, "\\ ", nomFichier)
-	if (system("test -f " nomFichier) == 0) {
-		print "    !! Fichier existant : '" output "'"
-		output = "/tmp/null"
-	}
 
 	# reinitialisation
 	etat = "attenteNbLignes"
@@ -49,11 +46,14 @@ input != FILENAME {
 #	print "attenteNbLignes : Nouvelle page " pageNum " - '" $0 "'"
 	
 	etat = "lectureNbLignes"
+	numLigne = 0
 }
 
 /^[0-9]* ?$/ && etat == "lectureNbLignes" {
 	nbLignes++
+	numLigne++
 #	print "lectureNbLignes : page " pageNum " - " nbLignes " - '" $0 "'"
+	addInfoLigne(numLigne, sprintf("%03d", $0), "lectureNumLigne");
 }
 
 # Transition : lecture modele
@@ -358,7 +358,7 @@ function ecritDansFichier(info) {
 	}
 	
 	print info > output
-	print info > output_FAT_traitee
+	print info > output_FICHIER_traitee
 }
 
 
@@ -391,7 +391,7 @@ function traitementDeFinDeFichier() {
 	}
 	
 	print "Fichier input : " input
-	print "Fichier output : " output, ", " output_FAT_traitee
+	print "Fichier output : " output, ", " output_FICHIER_traitee
 	print " "
 }
 
@@ -425,10 +425,10 @@ function corrigeCaracteresSpeciaux(ligne) {
 # controle du type de fichier
 function controleTypeFichier() {
 
-	if (FILENAME !~ /FAT_.*txt$/ ) {
+	if (FILENAME !~ /FAT_.*txt$/ && FILENAME !~ /PROF.*txt$/) {
 		print "Attention : ce n'est pas le bon fichier : " FILENAME
 		print ""
-		print "Type de fichier attendu : 'FAT_.*txt'"
+		print "Type de fichier attendu : 'FAT_xxx.txt' ou 'PROFxxx.txt'"
 		print ""
 
 		exit 1
@@ -437,7 +437,7 @@ function controleTypeFichier() {
 
 # A commenter hors debug
 { 
-#	print "Ligne " NR " : etat= '" etat "', '" $0 "'"
+	print "Ligne " NR " : etat= '" etat "', '" $0 "'"
 }
 
 END {
