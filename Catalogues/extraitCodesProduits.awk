@@ -47,15 +47,6 @@ function getNumPage() {
 
 	page = getNumPage()
 	
-#	if (nomCatalogue == "" && ((page/2) == int(page/2))) {
-#		for (i= 2; i <= NF; i++) {
-#			nomCatalogue = nomCatalogue " " corrigeCaracteresSpeciaux($i)
-#		}
-#		gsub(/^ */, "", nomCatalogue)
-#
-#		print "Catalogue : " nomCatalogue
-#	}
-	
 	traitementPostFinDePage()
 }
 

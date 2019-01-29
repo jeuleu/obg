@@ -101,21 +101,21 @@ function fusionneAvecBasesProduit()
 	ean13File="${1%pdf}EAN13.csv"
 	manquantFile="${1%pdf}MANQUANT.csv"
 	
-	baseEAN13uniq="$AUTO_HOME/Catalogues/base.EAN13.uniq.csv"
+	baseValmagEAN13="$AUTO_HOME/Catalogues/base.ValmagEAN13.csv"
 	basePRODUIT="$AUTO_HOME/Catalogues/base.PRODUIT.csv"
 
 	echo -n "  fusionneAvecBasesProduit : "
 	echo "'$inputFile'"
-	echo "Base '$baseEAN13uniq'"
+	echo "Base '$baseValmagEAN13'"
 
 	echo " "
-	ls -la "$baseEAN13uniq"
+	ls -la "$baseValmagEAN13"
 	ls -la "$basePRODUIT"
 	echo " "
 
 	
 	# jointure des codes barre
-	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k3) <(sort -t";" -k2 "$baseEAN13uniq") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8 | sort -t";" -o "$ean13File"
+	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k3) <(sort -t";" -k2 "$baseValmagEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8,2.3,2.4,2.5 | sort -t";" -o "$ean13File"
 
 	# recherche des produits manquants
 	join -t";" -a1 -1 4 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k3) <(sort -t";" -k2 "$basePRODUIT") -e'-' -o 1.1,1.2,1.4,2.6,2.3,1.5,1.6 | sort -t";" -k4 -o "$manquantFile"

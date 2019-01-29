@@ -160,7 +160,7 @@ etat == "lectureLibelle" {
 	}	
 }
 
-(/^UNICA$/ || /^S$/ || /^M$/) && etat == "attenteTaille" {
+(/^UNICA$/ || /^XS$/ || /^S$/ || /^M$/ || /^XL$/) && etat == "attenteTaille" {
 	etat = "lectureTaille"
 	numLigne = 0
 #	print "lectureLibelle => lectureTaille (ligne " NR ")"
