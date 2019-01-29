@@ -155,12 +155,12 @@ etat == "lectureLibelle" {
 			$0 !~ /^NR  / ) {
 		numLigne++
 		
-print "lectureLibelle '" $0 "' >> '" corrigeCaracteresSpeciaux($0) "'"
+#print "lectureLibelle '" $0 "' >> '" corrigeCaracteresSpeciaux($0) "'"
 		addInfoLigne(numLigne, corrigeCaracteresSpeciaux($0), "lectureLibelle");
 	}	
 }
 
-/UNICA/ && etat == "attenteTaille" {
+(/^UNICA$/ || /^S$/ || /^M$/) && etat == "attenteTaille" {
 	etat = "lectureTaille"
 	numLigne = 0
 #	print "lectureLibelle => lectureTaille (ligne " NR ")"
