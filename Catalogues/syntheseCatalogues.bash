@@ -118,6 +118,16 @@ ls -la ${baseEAN13uniq}
 wc ${baseEAN13uniq}
 
 echo ""
+baseValmagEAN13=`dirname $0`"/base.ValmagEAN13.csv"
+EXPEAN13=`dirname $0`"/../ValmagEAN13/EXPEAN13.csv"
+echo "Fusion codes Valmag"
+ls -ls ${EXPEAN13}
+
+join -t";" -a1 -1 1 -2 1 <(sort "$baseEAN13uniq") <(grep "^[38]" "${EXPEAN13}" | sort) -e'<?>' -o 1.1,1.2,2.3,2.4,2.5 > "$baseValmagEAN13"
+ls -la ${baseValmagEAN13}
+wc ${baseValmagEAN13}
+
+echo ""
 baseCOULEUR=`dirname $0`"/base.COULEUR.csv"
 cat `dirname $0`/*/*COULEUR.csv | sort | uniq > ${baseCOULEUR}
 ls -la ${baseCOULEUR}
