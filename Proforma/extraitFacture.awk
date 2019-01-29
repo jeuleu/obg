@@ -383,10 +383,10 @@ function traitementDeFinDeFichier() {
 	} else {
 		ecritDansFichier(sprintf(" %02d", numInfo++) ";ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
 	}
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";")
+	ecritDansFichier(sprintf("' %02d", numInfo++) ";")
 	
 	for (i in tabLignes) {
-		ecritDansFichier(sprintf("%03d;%s", i, tabLignes[i]))
+		ecritDansFichier(sprintf("'%03d;%s", i, tabLignes[i]))
 		delete tabLignes[i]
 	}
 	
@@ -425,10 +425,10 @@ function corrigeCaracteresSpeciaux(ligne) {
 # controle du type de fichier
 function controleTypeFichier() {
 
-	if (FILENAME !~ /FAT_.*txt$/ && FILENAME !~ /PROF.*txt$/) {
+	if (FILENAME !~ /FAT_.*txt$/ && FILENAME !~ /PROF.*txt$/ && FILENAME !~ /FPRO.*txt$/) {
 		print "Attention : ce n'est pas le bon fichier : " FILENAME
 		print ""
-		print "Type de fichier attendu : 'FAT_xxx.txt' ou 'PROFxxx.txt'"
+		print "Type de fichier attendu : 'FAT_xxx.txt', 'PROFxxx.txt' ou 'FPROxxx.txt'"
 		print ""
 
 		exit 1
