@@ -131,14 +131,14 @@ function fusionneAvecBasesProduit()
 	wc "$manquantFile" 
 	
 	# constitution d'un fichier de synthèse 
-	echo "ENTETE" >> "$ean13GlobalFile"
+#	echo "ENTETE" >> "$ean13GlobalFile"
 	grep "^ " "$inputFile" >> "$ean13GlobalFile"
 
-	echo "EAN13" >> "$ean13GlobalFile"
+#	echo "EAN13" >> "$ean13GlobalFile"
 	cat "$ean13File" >> "$ean13GlobalFile"
 
-	echo "MANQUANT" >> "$ean13GlobalFile"
-	cat "$manquantFile" >> "$ean13GlobalFile"
+#	echo "MANQUANT" >> "$ean13GlobalFile"
+#	cat "$manquantFile" >> "$ean13GlobalFile"
 	
 	echo "" >> "$ean13GlobalFile"
 

@@ -287,7 +287,7 @@ etat == "finPage" {
 }
 
 # total facture
-/^EUR [0-9\.,]* / {
+/^EUR [0-9\.,]*/ {
 #	print "DEBUG (0) lecture total facture '" $0 "'"
 	totalFacture = $2
 	gsub(/\./, "", totalFacture)
@@ -295,7 +295,7 @@ etat == "finPage" {
 }
 
 # total produit
-/^0,00 [0-9][0-9]*/ {
+/^ 0,00 [0-9.,]*/ {
 #	print "DEBUG (0) lecture total produit '" $0 "'"
 	totalProduits = $2
 	gsub(/\./, "", totalProduits)
@@ -367,13 +367,11 @@ function traitementDeFinDeFichier() {
 
 	numInfo++
 	
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";Produit;Code piece;Couleur;Taille;Libelle;Quantite;Prix unitaire;Montant")
-	
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";Boutique;;" boutique)
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";Ref. facture;;" refFacture)
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";Total facture;;" totalFacture)
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";Total produits;;" totalProduits)
-	ecritDansFichier(sprintf(" %02d", numInfo++) ";Cumul montant;;" cumulMontant ";;Etat courant = '" etat "'")
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Boutique;;" boutique)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Ref. facture;;" refFacture)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Total facture;;" totalFacture)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Total produits;;" totalProduits)
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Cumul montant;;" cumulMontant ";;Etat courant = '" etat "'")
 
 	# controle
 	gsub(/,/, "\.", totalProduits)
@@ -383,7 +381,6 @@ function traitementDeFinDeFichier() {
 	} else {
 		ecritDansFichier(sprintf(" %02d", numInfo++) ";ANOMALIE MONTANT;;" cumulMontant ";" totalProduits)
 	}
-	ecritDansFichier(sprintf("' %02d", numInfo++) ";")
 	
 	for (i in tabLignes) {
 		ecritDansFichier(sprintf("'%03d;%s", i, tabLignes[i]))
@@ -410,6 +407,9 @@ function corrigeCaracteresSpeciaux(ligne) {
 	
 	gsub(/Î/, "I", ligne)
 	gsub(/«/, "\"", ligne)
+
+	gsub(/\302"\302/, "\"", ligne)
+	gsub(/\302 \302"/, " \"", ligne)
 	
 	gsub(/É|Ê|Ë/, "E", ligne)
 	
