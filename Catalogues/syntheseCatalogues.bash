@@ -50,7 +50,7 @@ function chercheDoublons()
 		rm "$doublonsFile"
 	fi
 	
-	cut -d ";" -f1 "$inputFile" | grep -v "CodeBarre" | sort -o "$tmpFile1"
+	cut -d ";" -f1-2,4-5,7 "$inputFile" | grep -v "CodeBarre" | sort -o "$tmpFile1"
 	sort -u "$tmpFile1" -o "$tmpFile2"
 	diff "$tmpFile2" "$tmpFile1" > "$doublonsFile"
 	
@@ -109,6 +109,13 @@ baseEAN13=`dirname $0`"/base.EAN13.csv"
 grep "^[38]" ${baseProduit} | sort -t";" -k2 -o ${baseEAN13}
 ls -la ${baseEAN13}
 wc ${baseEAN13}
+
+echo ""
+baseEAN13uniq=`dirname $0`"/base.EAN13.uniq.csv"
+#cut -d";" -f1-2,4-5,7 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
+cut -d";" -f1-2 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
+ls -la ${baseEAN13uniq}
+wc ${baseEAN13uniq}
 
 echo ""
 baseCOULEUR=`dirname $0`"/base.COULEUR.csv"

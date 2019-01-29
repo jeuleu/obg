@@ -1,50 +1,77 @@
-12a13
-> 8050450215631
-14a16,17
-> 8050450217574
-> 8050450217581
-16a20
-> 8050450218335
-30a35
-> 8050846006393
-35a41
-> 8050846006560
-78a85,87
-> 8050846039681
-> 8050846039681
-> 8050846039698
-79a89,90
-> 8050846039698
-> 8050846039711
-93a105,107
-> 8050846042971
-> 8050846042971
-> 8050846044845
-151a166,167
-> 8050846061194
-> 8050846061194
-283a300
-> 8050846062726
-306a324
-> 8050846062979
-309a328,329
-> 8050846063006
-> 8050846063013
-318a339
-> 8050846063105
-361a383
-> 8050846066915
-381a404
-> 8051770308638
-382a406,407
-> 8051770308652
-> 8051770308669
-386a412,414
-> 8051770309819
-> 8051770309819
-> 8051770309833
-398a427,428
-> 8056099177125
-> 8056099177125
-399a430
-> 8056099179433
+5a6
+> 8050450212388;HLESFC00-ECS08-018;bordeaux;burgundy; manico con fibbia corto
+9a11,12
+> 8050450212425;HLESFC00-ECS08-183;viola;violet; manico con fibbia corto
+> 8050450212456;OBAGB001-EVS00-038;grafite;graphite; scocca O bag EVA
+11a15
+> 8050450212647;OBAGB002-EVS00-038;grafite;graphite; scocca O bag mini EVA
+12a17,18
+> 8050450214153;OBAGB001-EVS00-024;cioccolato;chocolate; scocca O bag EVA
+> 8050450215624;OBAGB002-EVS00-076;rosso;red; scocca O bag mini EVA
+21a28
+> 8050450217581;OBAGB001-EVS00-075;rosa smoke;rose smoke; scocca O bag EVA
+24a32,33
+> 8050450218342;OBAGB002-EVS00-075;rosa smoke;rose smoke; scocca O bag mini EVA
+> 8050538590667;OBAGB001-EVS00-050;melanzana;aubergine; scocca O bag EVA
+46a56
+> 8050846006447;OBAGB001-EVS00-485;atlantic;atlantic; scocca O bag EVA
+69a80
+> 8050846014909;HLESAD00-ECS00-017;blu navy;navy blue; manichetto tubolare ecopelle
+72a84
+> 8050846016750;OBAGB002-EVS00-485;atlantic;atlantic; scocca O bag mini EVA
+80a93,94
+> 8050846030909;HLESAD01-FAS09-008;bianco;white; manichetto tubolare corto +
+> 8050846030916;HLESAD01-FAS09-055;nero;black; manichetto tubolare corto +
+82a97
+> 8050846030923;HLESAD01-FAS09-137;bluette;bright blue; manichetto tubolare corto +
+98a114
+> 8050846035089;HLESAD00-ECS00-018;bordeaux;burgundy; manichetto tubolare ecopelle
+103a120
+> 8050846038905;HLESAD01-FAS09-018;bordeaux;burgundy; manichetto tubolare corto +
+109a127,128
+> 8050846039049;OBAGB001-EVS00-389;silver;silver; scocca O bag EVA
+> 8050846039056;OBAGB001-EVS00-463;blu maya;maya blue; scocca O bag EVA
+111a131
+> 8050846039063;OBAGB001-EVS00-540;curry;curry; scocca O bag EVA
+112a133,134
+> 8050846039070;OBAGB001-EVS00-541;verde bosco;green forest; scocca O bag EVA
+> 8050846039087;OBAGB001-EVS00-559;rame;copper; scocca O bag EVA
+114a137,138
+> 8050846039094;OBAGB002-EVS00-024;cioccolato;chocolate; scocca O bag mini EVA
+> 8050846039100;OBAGB002-EVS00-389;silver;silver; scocca O bag mini EVA
+116a141
+> 8050846039117;OBAGB002-EVS00-463;blu maya;maya blue; scocca O bag mini EVA
+117a143,144
+> 8050846039124;OBAGB002-EVS00-540;curry;curry; scocca O bag mini EVA
+> 8050846039131;OBAGB002-EVS00-541;verde bosco;green forest; scocca O bag mini EVA
+119a147
+> 8050846039148;OBAGB002-EVS00-559;rame;copper; scocca O bag mini EVA
+155a184
+> 8050846039681;OBAGB033-EVS00-055;nero;black; scocca O bag urban XL
+157a187
+> 8050846039698;OBAGB033-EVS00-075;rosa smoke;rosa smoke; scocca O bag urban XL
+160a191
+> 8050846039711;OBAGB033-EVS00-078;sabbia;sand; scocca O bag urban XL
+415a447
+> 8050846062979;OBAGB033-EVS00-588;orchidea;orchid; scocca O bag urban XL
+418a451,452
+> 8050846063006;OBAGB033-EVS00-048;mattone;brick; scocca O bag urban XL
+> 8050846063013;OBAGB033-EVS00-224;verde inglese;english green; scocca O bag urban XL
+427a462
+> 8050846063105;OBAGB033-EVS00-026;cobalto;cobalt blue; scocca O bag urban XL
+498a534,535
+> 8051770308508;OBAGB001-EVS00-076;rosso;red; scocca O bag EVA
+> 8051770308539;OBAGB001-EVS00-018;bordeaux;burgundy; scocca O bag EVA
+510a548
+> 8051770309819;OBAGB002-EVS00-071;roccia;rock; scocca O bag mini XL
+526a565
+> 8056099177125;OBAGB002-EVS00-371;latte;milk; scocca O bag mini XL
+529a569
+> 8056099178610;OBAGB002-EVS00-050;melanzana;aubergine; scocca O bag mini EVA
+550a591
+> 8058047002022;ACCEO114-MAS00-076;rosso;red; aaccessorio portachiavi
+552a594,595
+> 8058333587646;OBAGB001-EVS00-002;amaranto;amaranth; scocca O bag EVA
+> 8058333587820;OBAGB002-EVS00-002;amaranto;amaranth; scocca O bag mini EVA
+557a601
+> 8058983596074;OBAGB002-EVS00-018;bordeaux;burgundy; scocca O bag mini EVA
