@@ -6,6 +6,7 @@ input != FILENAME {
 
 	print "Source : " FILENAME
 	input = FILENAME
+	nomCatalogue = FILENAME
 	
 	# fichiers de sortie
 	print "Sortie : " 
@@ -22,7 +23,6 @@ input != FILENAME {
 	print "    Synthese : '" outputSYNTHESE "'"
 
 	# reinitialisation
-	nomCatalogue = ""
 	chercheCol = ""
 	codeProduit = ""
 	numProduitPage = 0
@@ -47,14 +47,14 @@ function getNumPage() {
 
 	page = getNumPage()
 	
-	if (nomCatalogue == "" && ((page/2) == int(page/2))) {
-		for (i= 2; i <= NF; i++) {
-			nomCatalogue = nomCatalogue " " corrigeCaracteresSpeciaux($i)
-		}
-		gsub(/^ */, "", nomCatalogue)
-
-		print "Catalogue : " nomCatalogue
-	}
+#	if (nomCatalogue == "" && ((page/2) == int(page/2))) {
+#		for (i= 2; i <= NF; i++) {
+#			nomCatalogue = nomCatalogue " " corrigeCaracteresSpeciaux($i)
+#		}
+#		gsub(/^ */, "", nomCatalogue)
+#
+#		print "Catalogue : " nomCatalogue
+#	}
 	
 	traitementPostFinDePage()
 }
