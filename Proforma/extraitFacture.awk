@@ -367,6 +367,7 @@ function traitementDeFinDeFichier() {
 
 	numInfo++
 	
+	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Fichier;;" FILENAME)
 	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Boutique;;" boutique)
 	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Ref. facture;;" refFacture)
 	ecritDansFichier(sprintf(" %02d", numInfo++) ";;Total facture;;" totalFacture)
