@@ -76,8 +76,8 @@ input != FILENAME {
 
 		# c'est la derniere page avec une ligne pour les frais de port
 		nbLignes--
-#		print "  >> Correction " nbLignes " lignes"
-#		print "  >> Dernière page " nbLignes " lignes"
+		print "  >> Correction " nbLignes " lignes"
+		print "  >> Dernière page " nbLignes " lignes"
 		
 		etatFichier = "dernierePage"
 	} else {

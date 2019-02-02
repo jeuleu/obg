@@ -4,6 +4,7 @@ source `dirname $0`/../configAutomatisationFacture.bash_rc
 
 pdfBoxFile=$AUTO_HOME/PDFBox/pdfbox-app-2.0.13.jar
 extractAwkFile=$AUTO_HOME/Proforma/extraitFacture.awk
+refManquantesAwkFile=$AUTO_HOME/Proforma/extraitRefManquantes.awk
 ean13GlobalFile="`dirname $0`/EAN13_traite.csv"
 
 echo " EAN '$ean13GlobalFile'"
@@ -100,6 +101,7 @@ function fusionneAvecBasesProduit()
 	inputFile="${1%pdf}csv"
 	ean13File="${1%pdf}EAN13.csv"
 	manquantFile="${1%pdf}MANQUANT.csv"
+	aImprimerFile="${1%pdf}A_IMPRIMER.csv"
 	
 	baseValmagEAN13="$AUTO_HOME/Catalogues/base.ValmagEAN13.csv"
 	basePRODUIT="$AUTO_HOME/Catalogues/base.PRODUIT.csv"
@@ -117,18 +119,30 @@ function fusionneAvecBasesProduit()
 	# jointure des codes barre
 	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k3) <(sort -t";" -k2 "$baseValmagEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8,2.3,2.4,2.5 | sort -t";" -o "$ean13File"
 
-	# recherche des produits manquants
-	join -t";" -a1 -1 4 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k3) <(sort -t";" -k2 "$basePRODUIT") -e'-' -o 1.1,1.2,1.4,2.6,2.3,1.5,1.6 | sort -t";" -k4 -o "$manquantFile"
-
 	echo " "
 	echo "Fichier des codes EAN13"
 	ls -la "$ean13File"
 	wc "$ean13File" 
 	
+	# recherche des produits manquants
+	join -t";" -a1 -1 4 -2 2 <(grep -v "^ " "$ean13File" | grep ";CodeBarre;" | sort -t";" -k3) <(sort -t";" -k2 "$basePRODUIT") -e'-' -o 1.1,1.2,1.4,2.6,2.3,1.5,1.6 | sort -t";" -k4 -o "$manquantFile"
+
 	echo " "
 	echo "Fichier des codes produits manquants"
 	ls -la "$manquantFile"
 	wc "$manquantFile" 
+
+	# recherche des catalogues pour les références manquantes 
+	awk -f "${refManquantesAwkFile}" "$manquantFile" | sort > "$aImprimerFile"
+
+	echo " "
+	echo "Catalogues des produits manquants"
+	ls -la "$aImprimerFile"
+	wc "$aImprimerFile" 
+	echo " "
+	echo ">> Catalogues à imprimer :"
+	echo " "
+	cut -d";" -f1,2,4 "$aImprimerFile"
 	
 	# constitution d'un fichier de synthèse 
 #	echo "ENTETE" >> "$ean13GlobalFile"
@@ -137,8 +151,9 @@ function fusionneAvecBasesProduit()
 #	echo "EAN13" >> "$ean13GlobalFile"
 	cat "$ean13File" >> "$ean13GlobalFile"
 
-#	echo "MANQUANT" >> "$ean13GlobalFile"
-#	cat "$manquantFile" >> "$ean13GlobalFile"
+#	echo "A IMPRIMER" >> "$ean13GlobalFile"
+#	echo " " >> "$ean13GlobalFile"
+#	cat "$aImprimerFile" >> "$ean13GlobalFile"
 	
 	echo "" >> "$ean13GlobalFile"
 
