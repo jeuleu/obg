@@ -12,27 +12,32 @@ usage: $0 options <fichier>.pdf
 
 OPTIONS:
    -p      Force l'extraction du fichier 'txt' à partir du fichier PDF.
-   -f      Force la regénération des fichiers 'EAN13' et 'COUL' à partir du fichier txt.
+   -f      Force la regénération des fichiers 'PRODUIT' et 'COUL' à partir du fichier txt.
+   -n      N'ecrase pas l'ancienne version du fichier 'EAN13'
    -h      Affiche cette aide.
 
 EOF
 }
 
 # options
-while getopts "hfp" option
+while getopts "hfpn" option
 do
 	case $option in
+		p)
+			echo "Regénération des fichiers TXT depuis PDF"
+			FORCE_PDF=true
+			;;
+
 		f)
 			echo "Regénération des fichiers EAN13"
 			FORCE_EAN13=true
 			;;
 
-		p)
-			echo "Bientôt !"
-			echo "Regénération des fichiers TXT depuis PDF"
-			FORCE_PDF=true
+		n)
+			echo "Ne pas ecraser pas l'ancienne version du fichier EAN13"
+			DO_NOT_SAVE_EAN13=true
 			;;
-
+			
 		h)
 			usage
 			exit 0
@@ -67,7 +72,7 @@ function sauveAnciensEAN13()
 	inputFile="${1%pdf}PRODUIT.csv"
 	ean13File="${1%pdf}EAN13.csv"
 	
-	if [[ -e $inputFile ]]; then
+	if [ -z "$DO_NOT_SAVE_EAN13" ] && [[ ! -e $inputFile ]]; then
 		echo -n "  sauveAnciensEAN13 : "
 		echo "'$ean13File'"
 
@@ -78,12 +83,12 @@ function sauveAnciensEAN13()
 	fi
 }
 
-function traiteTXT_2_EAN13()
+function traiteTXT_2_PRODUIT()
 {
 	inputFile="${1%pdf}txt"
 	outputFile="${1%pdf}PRODUIT.csv"
 
-	echo -n "  traiteTXT_2_EAN13 : "
+	echo -n "  traiteTXT_2_PRODUIT : "
   	
 	if [ ! -z "$FORCE_EAN13" ] || [[ ! -e $outputFile ]]; then
 		echo "'$outputFile'"
@@ -178,7 +183,7 @@ for arg in "$@"; do
 		
 		sauveAnciensEAN13 "$arg"
 		
-		traiteTXT_2_EAN13 "$arg"
+		traiteTXT_2_PRODUIT "$arg"
 		
 		fusionneAvecAnciensEAN13 "$arg"
 		

@@ -142,7 +142,15 @@ function fusionneAvecBasesProduit()
 	echo " "
 	echo ">> Catalogues à imprimer :"
 	echo " "
-	cut -d";" -f1,2,4 "$aImprimerFile"
+	echo "Vision page :"
+	sort "$aImprimerFile" | cut -d";" -f1,2,4
+
+	echo " "	
+	echo "Vision produits :"
+	sort "$aImprimerFile" | cut -d";" -f3,1
+
+	echo " "
+	grep "^Ref. " "$aImprimerFile"
 	
 	# constitution d'un fichier de synthèse 
 #	echo "ENTETE" >> "$ean13GlobalFile"
