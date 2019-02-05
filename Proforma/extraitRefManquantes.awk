@@ -27,25 +27,24 @@ $4 !~ "-" {
 {
 	reference = $3
 	
-	informations[catalogue][tagNbElements]++
-	informations[catalogue][tagListePages][page]++
-	informations[catalogue][tagListeReferences] = informations[catalogue][tagListeReferences] " " reference
+	InfoCatalogue[catalogue][tagNbElements]++
+	InfoCatalogue[catalogue][tagListePages][page]++
+	InfoCatalogue[catalogue][tagListeReferences] = InfoCatalogue[catalogue][tagListeReferences] " " reference
 }
 
 END {
 	print FILENAME
-	for (catalogue in informations) {
-		printf("%s;%d item%s=", catalogue, informations[catalogue][tagNbElements], (informations[catalogue][tagNbElements] > 1 ? "s" : ""))
+	for (catalogue in InfoCatalogue) {
+		printf("%s;%d item%s=", catalogue, InfoCatalogue[catalogue][tagNbElements], (InfoCatalogue[catalogue][tagNbElements] > 1 ? "s" : ""))
 		
 		listePages = ""
 		listeProduits = ""
 
-		for (page in informations[catalogue][tagListePages]) {
+		for (page in InfoCatalogue[catalogue][tagListePages]) {
 			listePages = sprintf("%s%s%s", listePages, (listePages == "" ? "" : ","), page)
-			printf("%d ", informations[catalogue][tagListePages][page])
+			printf("%d ", InfoCatalogue[catalogue][tagListePages][page])
 		}
-		printf(";%s", informations[catalogue][tagListeReferences])
+		printf(";%s", InfoCatalogue[catalogue][tagListeReferences])
 		printf(";%s\n", listePages)
 	}
-
 } 

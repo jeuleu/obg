@@ -362,6 +362,25 @@ function ecritDansFichier(info) {
 }
 
 
+function adapteLignePourLaTaille(ligne) {
+	split(ligne, attributs, ";")
+	
+	if ( attributs[4] != "UNICA" ) {
+		attributs[2] = sprintf("%s-%s", attributs[2], attributs[4])
+	}
+	
+	nouvelleLigne = ""
+	for (attribut in attributs) {
+		if (nouvelleLigne != "") {
+			nouvelleLigne = sprintf("%s;", nouvelleLigne)
+		}
+		nouvelleLigne = sprintf("%s%s", nouvelleLigne, attributs[attribut])
+print "ATTR : " attributs[attribut] " -- " nouvelleLigne
+	}
+	
+	return nouvelleLigne
+}
+
 function traitementDeFinDeFichier() {	
 	traitementDeFinDePage()
 
@@ -384,7 +403,9 @@ function traitementDeFinDeFichier() {
 	}
 	
 	for (i in tabLignes) {
-		ecritDansFichier(sprintf("'%03d;%s", i, tabLignes[i]))
+		ligne = adapteLignePourLaTaille(tabLignes[i])
+		
+		ecritDansFichier(sprintf("'%03d;%s", i, ligne))
 		delete tabLignes[i]
 	}
 	
