@@ -28,7 +28,7 @@ input != FILENAME {
 	numProduitPage = 0
 	lignePage = 0
 
-	razTabCouleur()
+	razTabCouleurEtTaille()
 }
 
 function getNumPage() {
@@ -64,6 +64,12 @@ $0 ~ "^^code " {
 	codeProduit = produit "-" piece
 }
 
+# taille de bracelet
+$0 ~ "^GENER " || $0 ~ "^SHOES " {
+	for (i = 2; i <= NF; i += 2) {
+		tabTaille[$i]++
+	}
+}
 
 # Libelle du produit
 /^descrizione/ {
@@ -154,6 +160,28 @@ function traitementPostFinDePage() {
 	numProduitPage = 0
 }
 
+
+function ecritUnProduitAvecSonCodeComplet(codeComplet, indiceCodeCouleur) {
+	printf("CodeBarre;%s;p%03d-%d-%02d;%s;%s;%s;%s\n",
+		codeComplet, page, numProduitPage, tabLignePage[indiceCodeCouleur], tabCouleurIT[indiceCodeCouleur], tabCouleurEN[indiceCodeCouleur], nomCatalogue, libelleProduit) > output
+}
+
+
+function ecritLesTaillesDunProduit(code, indiceCodeCouleur) {
+	for (taille in tabTaille) {
+		codeComplet = code "-" tabCodeCouleur[indiceCodeCouleur] "-" taille
+		ecritUnProduitAvecSonCodeComplet(codeComplet, indiceCodeCouleur)
+		
+		nbLignesEcrites++
+	}
+
+	# Cas ou il n'y a pas de taille
+	if (nbLignesEcrites == 0 ) {
+		codeComplet = code "-" tabCodeCouleur[indiceCodeCouleur]
+		ecritUnProduitAvecSonCodeComplet(codeComplet, indiceCodeCouleur)
+	}
+}
+
 function ecritInfosDansFichiers(code) {
 #print "  >> ecritInfosDansFichiers codeProduit='" codeProduit "', codeProduitPrecedent='" codeProduitPrecedent ""
 	# cas d'une page sans code produit
@@ -162,20 +190,21 @@ function ecritInfosDansFichiers(code) {
 	}
 
 	if (page != 0) {
-		i = 0
-		for (i in tabCodeCouleur) {
+		indiceCodeCouleur = 0
+		for (indiceCodeCouleur in tabCodeCouleur) {
+			nbLignesEcrites = 0
+			
 			# Toutes infos
-			printf("CodeBarre;%s-%s;p%03d-%d-%02d;%s;%s;%s;%s\n",
-				code, tabCodeCouleur[i], page, numProduitPage, tabLignePage[i], tabCouleurIT[i], tabCouleurEN[i], nomCatalogue, libelleProduit) > output
+			ecritLesTaillesDunProduit(code, indiceCodeCouleur)
 
 			# Couleurs
-			printf("%03d;%s;%s\n", tabCodeCouleur[i], tabCouleurIT[i], tabCouleurEN[i]) > outputCOULEUR
+			printf("%03d;%s;%s\n", tabCodeCouleur[indiceCodeCouleur], tabCouleurIT[indiceCodeCouleur], tabCouleurEN[indiceCodeCouleur]) > outputCOULEUR
 		}
 
 		# Synthese
-		if (i > 0) {
+		if (indiceCodeCouleur > 0) {
 			printf("%s   ;page %03d   ;%02d pieces   ;produit n %d\n",
-				code, page, i, numProduitPage) > outputSYNTHESE
+				code, page, indiceCodeCouleur, numProduitPage) > outputSYNTHESE
 		}
 
 	} else {
@@ -186,19 +215,24 @@ function ecritInfosDansFichiers(code) {
 		nbProblemePage++
 	}
 	
-	razTabCouleur()
+	razTabCouleurEtTaille()
 	
 	lignePage = 0
 	indice = 0
 }
 
-function razTabCouleur() {
-	for (i in tabCodeCouleur) {
+function razTabCouleurEtTaille() {
+	for (codeCouleur in tabCodeCouleur) {
 		# suppression des informations
-		delete tabCodeCouleur[i]
-		delete tabLignePage[i]
-		delete tabCouleurIT[i]
-		delete tabCouleurEN[i]
+		delete tabCodeCouleur[codeCouleur]
+		delete tabLignePage[codeCouleur]
+		delete tabCouleurIT[codeCouleur]
+		delete tabCouleurEN[codeCouleur]
+	}
+	
+	#print "RAZ : il y a " length(tabTaille) " taille(s)"
+	for (taille in tabTaille) {
+		delete tabTaille[taille]
 	}
 }
 
