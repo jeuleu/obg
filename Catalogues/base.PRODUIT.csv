@@ -8123,7 +8123,8 @@ CodeBarre;OCLKS007-SIS01-024;p163-1-02;cioccolato;chocolate;summer 2018 presenta
 CodeBarre;OCLKS007-SIS01-024;p164-1-02;cioccolato;chocolate;fall 2019 presentation_/catalogo fall 19.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-024;p167-1-03;cioccolato;chocolate;summer 2019 presentation/catalogo summer_beach 2019.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-024;p181-1-02;cioccolato;chocolate;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-025;p023-1-03;cipria;cipria;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
+CodeBarre;OCLKS007-SIS01-025-M;p023-1-03;cipria;cipria;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
+CodeBarre;OCLKS007-SIS01-025-S;p023-1-03;cipria;cipria;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
 CodeBarre;OCLKS007-SIS01-025;p122-1-03;cipria;powder pink;spring 2019 presentation/catalogo Spring 19.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-025;p145-1-03;cipria;powder pink;winter 2018 presentation/catalogo winter 18.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-025;p154-1-03;cipria;powder pink;fall 2018 presentation/catalogo fall 2018.txt; O clock cinturino silicone
@@ -8173,7 +8174,8 @@ CodeBarre;OCLKS007-SIS01-053;p161-1-04;narcissus;narcissus;summer 2018 presentat
 CodeBarre;OCLKS007-SIS01-053;p161-1-07;narcissus;narcissus;fall 2019 presentation_/catalogo fall 19.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-053;p164-1-07;narcissus;narcissus;summer 2019 presentation/catalogo summer_beach 2019.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-053;p179-1-04;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-055;p023-1-02;nero;black;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
+CodeBarre;OCLKS007-SIS01-055-M;p023-1-02;nero;black;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
+CodeBarre;OCLKS007-SIS01-055-S;p023-1-02;nero;black;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
 CodeBarre;OCLKS007-SIS01-055;p030-1-03;nero;black;summer 2018 presentation/catalogo xmas 2017.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-055;p036-1-03;nero;black;fall 2019 presentation_/catalogo continuativo fall 19.txt; o clock cinturino cover
 CodeBarre;OCLKS007-SIS01-055;p038-1-03;nero;black;summer 2019 presentation/catalogo summer 2019 continuativo.txt; o clock cinturino cover
@@ -8219,7 +8221,8 @@ CodeBarre;OCLKS007-SIS01-071;p050-1-03;roccia;rock;spring 2018 presentation/cata
 CodeBarre;OCLKS007-SIS01-071;p050-1-03;roccia;rock;spring 2019 presentation/catalogo Spring 19 continuativo.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-071;p050-1-03;roccia;rock;winter 2018 presentation/catalogo winter 18 continuativo.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-071;p064-1-03;roccia;rock;summer 2018 presentation/catalogo summer 2018 continuativo.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-076;p023-1-01;rosso;red;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
+CodeBarre;OCLKS007-SIS01-076-M;p023-1-01;rosso;red;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
+CodeBarre;OCLKS007-SIS01-076-S;p023-1-01;rosso;red;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
 CodeBarre;OCLKS007-SIS01-076;p121-1-06;rosso;red;spring 2019 presentation/catalogo Spring 19.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-076;p144-1-06;rosso;red;winter 2018 presentation/catalogo winter 18.txt; O clock cinturino silicone
 CodeBarre;OCLKS007-SIS01-076;p153-1-06;rosso;red;fall 2018 presentation/catalogo fall 2018.txt; O clock cinturino silicone
@@ -8727,9 +8730,39 @@ CodeBarre;OHUGI003-ECS00-055;p224-2-02;nero;black;fall 2019 presentation_/catalo
 CodeBarre;OHUGI004-ECS00-017;p225-2-01;blu navy;blue navy;fall 2019 presentation_/catalogo fall 19.txt; O hug interno portafoglio
 CodeBarre;OHUGI004-ECS00-018;p225-2-03;bordeaux;bordeaux;fall 2019 presentation_/catalogo fall 19.txt; O hug interno portafoglio
 CodeBarre;OHUGI004-ECS00-055;p225-2-02;nero;black;fall 2019 presentation_/catalogo fall 19.txt; O hug interno portafoglio
+CodeBarre;OSHSD001-EVS00-015-35/36;p002-1-04;blu iris;blu iris;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-015-37;p002-1-04;blu iris;blu iris;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-015-38;p002-1-04;blu iris;blu iris;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-015-39;p002-1-04;blu iris;blu iris;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-015-40;p002-1-04;blu iris;blu iris;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-015-41/42;p002-1-04;blu iris;blu iris;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-017;p241-1-05;blu navy;navy blue;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-026;p242-1-01;cobalto;cobalt blue;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-055;p240-1-01;nero;black;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-067-35/36;p002-1-01;phard;phard;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-067-37;p002-1-01;phard;phard;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-067-38;p002-1-01;phard;phard;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-067-39;p002-1-01;phard;phard;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-067-40;p002-1-01;phard;phard;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-067-41/42;p002-1-01;phard;phard;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-076-35/36;p002-1-05;rosso;rosso;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-076-37;p002-1-05;rosso;rosso;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-076-38;p002-1-05;rosso;rosso;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-076-39;p002-1-05;rosso;rosso;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-076-40;p002-1-05;rosso;rosso;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-076-41/42;p002-1-05;rosso;rosso;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-092-35/36;p002-1-02;verde scuro;dark green;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-092-37;p002-1-02;verde scuro;dark green;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-092-38;p002-1-02;verde scuro;dark green;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-092-39;p002-1-02;verde scuro;dark green;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-092-40;p002-1-02;verde scuro;dark green;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-092-41/42;p002-1-02;verde scuro;dark green;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-133-35/36;p002-1-03;grigio chiaro;light grey;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-133-37;p002-1-03;grigio chiaro;light grey;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-133-38;p002-1-03;grigio chiaro;light grey;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-133-39;p002-1-03;grigio chiaro;light grey;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-133-40;p002-1-03;grigio chiaro;light grey;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS00-133-41/42;p002-1-03;grigio chiaro;light grey;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-345;p241-1-03;coral;coral;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-347;p240-1-02;cedro;cedro;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-371;p240-1-03;latte;milk;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
@@ -8737,6 +8770,18 @@ CodeBarre;OSHSD001-EVS00-422;p242-1-02;sangria;sangria;summer 2018 presentation/
 CodeBarre;OSHSD001-EVS00-479;p241-1-04;skyway;skyway;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-485;p241-1-01;atlantic;atlantic;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS00-486;p241-1-02;pink;pink;summer 2018 presentation/catalogo summer 2018.txt; O shoes donna high EVA
+CodeBarre;OSHSD001-EVS02-055-35/36;p003-1-01;nero;black;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-055-37;p003-1-01;nero;black;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-055-38;p003-1-01;nero;black;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-055-39;p003-1-01;nero;black;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-055-40;p003-1-01;nero;black;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-055-41/42;p003-1-01;nero;black;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-422-35/36;p003-1-02;sangria;sangria;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-422-37;p003-1-02;sangria;sangria;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-422-38;p003-1-02;sangria;sangria;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-422-39;p003-1-02;sangria;sangria;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-422-40;p003-1-02;sangria;sangria;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
+CodeBarre;OSHSD001-EVS02-422-41/42;p003-1-02;sangria;sangria;summer 2019 presentation/capsule_O_shoes_summer19.txt; O shoes donna high
 CodeBarre;OSHSD001-EVS28-347;p082-1-02;cedro;cedro;summer 2018 presentation/catalogo beach 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS28-371;p082-1-03;latte;milk;summer 2018 presentation/catalogo beach 2018.txt; O shoes donna high EVA
 CodeBarre;OSHSD001-EVS28-484;p082-1-01;corallo;coral;summer 2018 presentation/catalogo beach 2018.txt; O shoes donna high EVA
