@@ -113,7 +113,7 @@ wc ${baseEAN13}
 echo ""
 baseEAN13uniq=`dirname $0`"/base.EAN13.uniq.csv"
 #cut -d";" -f1-2,4-5,7 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
-cut -d";" -f1-2 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
+cut -d";" -f1,2,4 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
 ls -la ${baseEAN13uniq}
 wc ${baseEAN13uniq}
 

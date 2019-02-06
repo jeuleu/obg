@@ -54,6 +54,14 @@
 8050846061187;HLESCE01-ECS07-224;p023-1-02;verde inglese + argento;english green  + silver;spring 2019 presentation/catalogo Spring 19.txt; Manico doppia catena a “t”
 8050846061149;HLESCE01-ECSA1-017;p023-2-01;blu navy + catena blu;blue navy + blue chain;spring 2019 presentation/catalogo Spring 19.txt; Manico doppia catena a “t”
 8050846061156;HLESCE01-ECSA1-055;p023-2-02;nero + catena nera;black + black chain;spring 2019 presentation/catalogo Spring 19.txt; Manico doppia catena a “t”
+8050846014893;HLESD000-ECS35-017;p036-1-03;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846014015;HLESD000-ECS35-026;p036-1-05;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846002678;HLESD000-ECS35-036;p036-1-07;giallo;yellow;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846002647;HLESD000-ECS35-055;p036-1-04;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846011069;HLESD000-ECS35-371;p036-1-06;latte;milk;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846014527;HLESD000-ECS35-422;p036-1-08;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846041868;HLESD000-ECS35-484;p036-1-01;coral;coral;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
+8050846014510;HLESD000-ECS35-485;p036-1-02;atlantic;atlantic;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo componibile
 8050450217444;HLESF300-PES00-009;p018-1-06;blu;blue;fall 2018 presentation/catalogo fall 2018.txt; manico con fibbia rombo
 8058983596531;HLESF300-PES00-093;p018-1-05;vino;wine;fall 2018 presentation/catalogo fall 2018.txt; manico con fibbia rombo
 8050846042384;HLESF800-ECS94-017;p028-1-01;blu navy;navy blue;winter 2018 presentation/catalogo winter 18.txt; manico con fibbia a goccia
@@ -73,10 +81,26 @@
 8050450212418;HLESFC00-ECS08-089;p027-2-05;verde;green;winter 2018 presentation/catalogo winter 18.txt; manico con fibbia corto
 8050450212425;HLESFC00-ECS08-183;p027-2-02;viola;violet;fall 2018 presentation/catalogo fall 2018.txt; manico con fibbia corto
 8050450212425;HLESFC00-ECS08-183;p027-2-06;viola;violet;winter 2018 presentation/catalogo winter 18.txt; manico con fibbia corto
+8058983596500;HLESG000-ECS04-017;p038-1-01;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
 8058983594889;HLESG000-ECS04-026;p024-1-01;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; Manico lungo nappina
+8058983594889;HLESG000-ECS04-026;p038-1-03;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
+8058983596524;HLESG000-ECS04-038;p038-1-05;grafite;graphite;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
+8058983596517;HLESG000-ECS04-042;p038-1-02;legno;wood;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
+8058333583631;HLESG000-ECS04-082;p038-1-04;tabacco;tobacco;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
+8058983591833;HLESG000-ECS04-093;p038-1-06;vino;wine;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
+8058983593462;HLESG000-ECS04-135;p038-1-07;peltro;pewter;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
 8058333583648;HLESG000-ECS04-183;p024-1-02;viola;violet;spring 2019 presentation/catalogo Spring 19.txt; Manico lungo nappina
+8058333583648;HLESG000-ECS04-183;p038-1-08;viola;violet;summer 2019 presentation/catalogo summer_beach 2019.txt; manico lungo ecopelle
 8050846033924;HLESG000-ECS83-017;p020-1-02;blu navy;navy blue;fall 2018 presentation/catalogo fall 2018.txt; manico lungo ecopelle con
 8050846033917;HLESG000-ECS83-018;p020-1-01;bordeaux;burgundy;fall 2018 presentation/catalogo fall 2018.txt; manico lungo ecopelle con
+8058983596739;HLESGC00-ECS04-017;p048-1-01;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058983594841;HLESGC00-ECS04-026;p048-1-03;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058983596722;HLESGC00-ECS04-038;p048-1-05;grafite;graphite;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058983596715;HLESGC00-ECS04-042;p048-1-02;legno;wood;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058333583594;HLESGC00-ECS04-082;p048-1-04;tabacco;tobacco;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058983591840;HLESGC00-ECS04-093;p048-1-06;vino;wine;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058983593479;HLESGC00-ECS04-135;p048-1-07;peltro;pewter;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
+8058333583600;HLESGC00-ECS04-183;p048-1-08;viola;violet;summer 2019 presentation/catalogo summer_beach 2019.txt; manico corto ecopelle
 8050846033115;HLESGC00-ECS29-017;p030-1-01;blu navy;navy blue;fall 2018 presentation/catalogo fall 2018.txt; manico corto ecopelle
 8050846033122;HLESGC00-ECS29-018;p030-1-03;bordeaux;burgundy;fall 2018 presentation/catalogo fall 2018.txt; manico corto ecopelle
 8050846033177;HLESGC00-ECS29-050;p030-1-07;melanzana;aubergine;fall 2018 presentation/catalogo fall 2018.txt; manico corto ecopelle
@@ -133,8 +157,18 @@
 8050846033245;HLESXF00-ECS03-084;p024-1-02;testa di moro;dark brown;fall 2018 presentation/catalogo fall 2018.txt; manico extra slim goccia
 8050846033221;HLESXF00-ECS03-540;p024-1-05;curry;curry;fall 2018 presentation/catalogo fall 2018.txt; manico extra slim goccia
 8056099170201;HLESZ817-ECS00-017;p093-1-01;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; Manico + spallaccio goccia
+8056099170201;HLESZ817-ECS00-017;p122-1-01;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
 8056099170225;HLESZ817-ECS00-055;p093-1-02;nero;black;spring 2019 presentation/catalogo Spring 19.txt; Manico + spallaccio goccia
+8056099170225;HLESZ817-ECS00-055;p122-1-03;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
 8050846035171;HLESZ817-ECS00-084;p093-1-03;testa di moro;dark brown;spring 2019 presentation/catalogo Spring 19.txt; Manico + spallaccio goccia
+8050846035171;HLESZ817-ECS00-084;p122-1-04;testa di moro;dark brown;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8056099170188;HLESZ817-ECS00-108;p122-1-02;terracotta;terracotta;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8056099177477;HLESZ817-TES20-009;p122-2-01;blu;blue;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8056099176753;HLESZ817-TES20-055;p122-2-03;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8050846014442;HLESZ817-TES20-078;p122-2-05;sabbia;sand;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8050846016088;HLESZ817-TES20-139;p122-2-02;mela;apple;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8050846014992;HLESZ817-TES20-484;p122-2-04;coral;coral;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
+8050846016088;HLESZ817-TES20-509;p122-2-06;moka;mocha;summer 2019 presentation/catalogo summer_beach 2019.txt; manico + spallaccio goccia
 8050846060555;OBAGA000-ECS07-026;p038-1-01;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; accessorio Clip saffiano
 8050846060586;OBAGA000-ECS07-048;p038-1-03;mattone;brick;spring 2019 presentation/catalogo Spring 19.txt; accessorio Clip saffiano
 8050846060579;OBAGA000-ECS07-078;p038-1-05;sabbia;sand;spring 2019 presentation/catalogo Spring 19.txt; accessorio Clip saffiano
@@ -251,16 +285,28 @@
 8058047001940;OBAGB002-EVS59-076;p007-1-02;rosso;red;spring 2019 presentation/catalogo capsule San Valentino 19.txt; scocca O bag mini
 8050846039193;OBAGB016-EVS00-002;p008-1-01;amaranto;amaranth;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
 8050538597642;OBAGB016-EVS00-017;p011-1-01;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8050538597642;OBAGB016-EVS00-017;p012-1-01;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8056099179464;OBAGB016-EVS00-018;p008-1-04;bordeaux;burgundy;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
 8050846006782;OBAGB016-EVS00-026;p011-1-03;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8050846006782;OBAGB016-EVS00-026;p012-1-03;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050846039209;OBAGB016-EVS00-038;p008-1-07;grafite;graphite;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
+8050846071032;OBAGB016-EVS00-048;p012-1-05;mattone;brick;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050538591299;OBAGB016-EVS00-050;p008-1-10;melanzana;aubergine;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
 8056098539870;OBAGB016-EVS00-055;p011-1-06;nero;black;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8056098539870;OBAGB016-EVS00-055;p012-1-02;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
+8056098539856;OBAGB016-EVS00-071;p012-1-04;roccia;rock;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050846006805;OBAGB016-EVS00-075;p011-1-02;rosa smoke;rosa smoke;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8050846006805;OBAGB016-EVS00-075;p012-1-06;rosa smoke;smoke pink;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050538591312;OBAGB016-EVS00-076;p008-1-11;rosso;red;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
 8056099179785;OBAGB016-EVS00-078;p011-1-04;sabbia;sand;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8056099179785;OBAGB016-EVS00-078;p012-1-07;sabbia;sand;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050846062894;OBAGB016-EVS00-088;p011-1-08;turchese;turquoise;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8050846062894;OBAGB016-EVS00-088;p012-1-09;turchese;turquoise;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
+8056098539849;OBAGB016-EVS00-119;p012-1-11;fragola;strawberry;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
+8050846006768;OBAGB016-EVS00-347;p012-1-08;cedro;citrus;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050846011540;OBAGB016-EVS00-371;p011-1-09;latte;milk;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
+8050846011540;OBAGB016-EVS00-371;p012-1-10;latte;milk;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
+8050846006775;OBAGB016-EVS00-422;p012-1-12;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca O moon eva
 8050846039216;OBAGB016-EVS00-463;p008-1-05;blu maya;maya blue;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
 8050846016880;OBAGB016-EVS00-485;p008-1-03;atlantic;atlantic;fall 2018 presentation/catalogo fall 2018.txt; scocca O moon EVA
 8050846013025;OBAGB016-EVS00-486;p011-1-11;pink;pink;spring 2019 presentation/catalogo Spring 19.txt; scocca O moon XL
@@ -391,26 +437,35 @@
 8050846063327;OBAGB048-EVS00-588;p017-1-08;orchidea;orchid;spring 2019 presentation/catalogo Spring 19.txt; scocca O bag sheen XL
 8050846039902;OBAGB206-EVS00-002;p014-1-01;amaranto;amaranth;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8056098530099;OBAGB206-EVS00-017;p018-1-12;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
+8056098530099;OBAGB206-EVS00-017;p027-1-01;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8050538590919;OBAGB206-EVS00-018;p014-1-04;bordeaux;burgundy;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8050846006942;OBAGB206-EVS00-026;p018-1-01;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8056098534172;OBAGB206-EVS00-038;p014-1-08;grafite;graphite;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8050846066878;OBAGB206-EVS00-048;p018-1-03;mattone;brick;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8056099179730;OBAGB206-EVS00-050;p014-1-07;melanzana;aubergine;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8051770309703;OBAGB206-EVS00-055;p018-1-13;nero;black;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
+8051770309703;OBAGB206-EVS00-055;p027-1-02;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
+8051770309673;OBAGB206-EVS00-071;p027-1-03;roccia;rock;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8056300455745;OBAGB206-EVS00-075;p018-1-02;rosa smoke;rosa smoke;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8056099178863;OBAGB206-EVS00-076;p014-1-13;rosso;red;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8050450215655;OBAGB206-EVS00-078;p018-1-14;sabbia;sand;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
+8050450215655;OBAGB206-EVS00-078;p027-1-04;sabbia;sand;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8050846066885;OBAGB206-EVS00-224;p018-1-04;verde inglese;english green;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8050846006928;OBAGB206-EVS00-347;p018-1-06;cedro;cedro;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8056099179617;OBAGB206-EVS00-371;p018-1-15;latte;milk;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
+8056099179617;OBAGB206-EVS00-371;p027-1-05;latte;milk;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
+8050846006935;OBAGB206-EVS00-422;p027-1-06;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8050846039933;OBAGB206-EVS00-463;p014-1-05;blu maya;maya blue;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
+8050846046740;OBAGB206-EVS00-484;p027-1-07;coral;coral;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8050846016941;OBAGB206-EVS00-485;p014-1-03;atlantic;atlantic;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8050846013018;OBAGB206-EVS00-486;p018-1-05;pink;pink;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8050846039940;OBAGB206-EVS00-540;p014-1-06;curry;curry;fall 2018 presentation/catalogo fall 2018.txt; scocca sotto O pocket EVA
 8050846064331;OBAGB206-EVS00-587;p018-1-07;celery green;celery green;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8050846064324;OBAGB206-EVS00-588;p018-1-08;orchidea;orchid;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
 8050846066861;OBAGB206-EVS00-589;p018-1-09;lily grey;lily grey;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
+8050846066861;OBAGB206-EVS00-589;p027-1-08;lily grey;lily grey;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8050846066892;OBAGB206-EVS00-602;p018-1-11;viola scuro;dark violet;spring 2019 presentation/catalogo Spring 19.txt; scocca O pocket
+8050846066892;OBAGB206-EVS00-602;p027-1-09;viola scuro;dark purple;summer 2019 presentation/catalogo summer_beach 2019.txt; scocca sotto O pocket eva
 8050846063488;OBAGB451-ECS07-017;p019-1-01;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; scocca completo O bag
 8050846063525;OBAGB451-ECS07-026;p019-1-03;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; scocca completo O bag
 8050846063563;OBAGB451-ECS07-048;p019-1-05;mattone;brick;spring 2019 presentation/catalogo Spring 19.txt; scocca completo O bag
@@ -476,29 +531,57 @@
 8050846003620;OBAGS001-TES01-026;p052-1-01;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
 8050846004894;OBAGS001-TES01-075;p052-1-02;rosa smoke;rosa smoke;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
 8050846062474;OBAGS001-TES01-088;p052-1-03;turchese;turquoise;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
+8050846062474;OBAGS001-TES01-088;p078-1-01;turchese;turquoise;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip tessuto
 8050846001794;OBAGS001-TES01-347;p052-1-05;cedro;cedro;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
+8050846001794;OBAGS001-TES01-347;p078-1-04;cedro;citrus;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip tessuto
+8050846001817;OBAGS001-TES01-422;p078-1-06;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip tessuto
 8050846014763;OBAGS001-TES01-486;p052-1-07;pink;pink;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
+8050846014763;OBAGS001-TES01-486;p078-1-02;pink;pink;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip tessuto
 8050846062450;OBAGS001-TES01-588;p052-1-04;orchidea;orchid;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
+8050846062450;OBAGS001-TES01-588;p078-1-05;orchidea;orchid;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip tessuto
 8050846062467;OBAGS001-TES01-589;p052-1-06;lily grey;lily grey;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
+8050846062467;OBAGS001-TES01-589;p078-1-07;lily grey;lily grey;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip tessuto
 8058047001957;OBAGS001-TESBV-055;p014-1-01;nero;black;spring 2019 presentation/catalogo capsule San Valentino 19.txt; sacca interna zip O bag
 8058047001964;OBAGS001-TESBV-076;p014-1-02;rosso;red;spring 2019 presentation/catalogo capsule San Valentino 19.txt; sacca interna zip O bag
 8058333587844;OBAGS002-TES01-026;p058-1-01;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
+8058333587844;OBAGS002-TES01-026;p083-1-01;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
 8050846004948;OBAGS002-TES01-075;p058-1-02;rosa smoke;rosa smoke;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
 8050846062542;OBAGS002-TES01-088;p058-1-03;turchese;turquoise;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
+8050846062542;OBAGS002-TES01-088;p083-1-02;turchese;turquoise;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
 8050846002012;OBAGS002-TES01-347;p058-1-05;cedro;cedro;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
+8050846002012;OBAGS002-TES01-347;p083-1-03;cedro;citrus;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
+8050846002036;OBAGS002-TES01-422;p083-1-05;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
 8050846014787;OBAGS002-TES01-486;p058-1-07;pink;pink;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
+8050846014787;OBAGS002-TES01-486;p083-1-07;pink;pink;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
 8050846062528;OBAGS002-TES01-588;p058-1-04;orchidea;orchid;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
+8050846062528;OBAGS002-TES01-588;p083-1-04;orchidea;orchid;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
 8050846062535;OBAGS002-TES01-589;p058-1-06;lily grey;lily grey;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag mini
+8050846062535;OBAGS002-TES01-589;p083-1-06;lily grey;lily grey;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o bag mini
 8058047001971;OBAGS002-TESBV-055;p015-1-01;nero;black;spring 2019 presentation/catalogo capsule San Valentino 19.txt; sacca interna zip O bag mini
 8058047001988;OBAGS002-TESBV-076;p015-1-02;rosso;red;spring 2019 presentation/catalogo capsule San Valentino 19.txt; sacca interna zip O bag mini
 8050846062696;OBAGS016-TES01-009;p063-1-01;blu;blue;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O moon
+8050846062696;OBAGS016-TES01-009;p087-2-03;blu;blue;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o moon
 8050846004023;OBAGS016-TES01-026;p063-1-03;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O moon
+8050846004023;OBAGS016-TES01-026;p087-2-05;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o moon
 8050846005075;OBAGS016-TES01-075;p063-1-05;rosa smoke;rosa smoke;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O moon
+8050846005075;OBAGS016-TES01-075;p087-2-01;rosa smoke;smoke pink;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o moon
 8050846062719;OBAGS016-TES01-088;p063-1-02;turchese;turquoise;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O moon
+8050846062719;OBAGS016-TES01-088;p087-2-02;turchese;turquoise;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o moon
+8050846002241;OBAGS016-TES01-347;p087-2-04;cedro;citrus;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o moon
+8050846002265;OBAGS016-TES01-422;p087-2-06;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna zip o moon
 8050846062702;OBAGS016-TES01-589;p063-1-04;lily grey;lily grey;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O moon
 8056099171659;OBAGS019-TES01-017;p094-1-05;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; sacca interna o square
+8056099171642;OBAGS019-TES01-017;p119-1-01;blu navy;navy blue;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
+8050846015876;OBAGS019-TES01-026;p119-1-03;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
 8056099171642;OBAGS019-TES01-054;p094-1-06;naturale;natural;spring 2019 presentation/catalogo Spring 19.txt; sacca interna o square
+8056099171642;OBAGS019-TES01-054;p119-1-05;naturale;natural;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
 8056099171666;OBAGS019-TES01-055;p094-1-07;nero;black;spring 2019 presentation/catalogo Spring 19.txt; sacca interna o square
+8056099171666;OBAGS019-TES01-055;p119-1-02;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
+8050846015869;OBAGS019-TES01-347;p119-1-04;cedro;citrus;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
+8050846015852;OBAGS019-TES01-422;p119-1-06;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
+8050846015845;OBAGS019-TES01-484;p119-1-07;coral;coral;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
+8050846015883;OBAGS019-TES01-485;p119-1-08;atlantic;atlantic;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
+8050846015890;OBAGS019-TES01-486;p119-1-09;pink;pink;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna o square
 8050846062658;OBAGS033-TES01-008;p067-1-01;bianco;white;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
 8050846041288;OBAGS033-TES01-017;p067-1-03;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
 8050846062641;OBAGS033-TES01-026;p067-1-05;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; sacca interna zip O bag
@@ -560,6 +643,10 @@
 8050846062306;OBAGS646-TESX3-017;p075-2-01;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; sacca interna switch O bag
 8050846062290;OBAGS646-TESX3-371;p075-2-02;latte;milk;spring 2019 presentation/catalogo Spring 19.txt; sacca interna switch O bag
 8050846062313;OBAGS646-TESX5-590;p076-2-01;mattone/nero;brick/black;spring 2019 presentation/catalogo Spring 19.txt; sacca interna switch O bag
+8050846078970;OBAGS702-TESZ3-026;p087-1-01;cobalto;cobalt;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna knot o bag
+8050846078987;OBAGS702-TESZ3-055;p087-1-03;nero;black;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna knot o bag
+8050846078963;OBAGS702-TESZ3-119;p087-1-04;fragola;strawberry;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna knot o bag
+8050846078994;OBAGS702-TESZ3-422;p087-1-02;sangria;sangria;summer 2019 presentation/catalogo summer_beach 2019.txt; sacca interna knot o bag
 8050846060784;OBAGT001-TESW9-017;p042-1-01;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; bordo O bag stampa
 8050846060807;OBAGT001-TESX3-017;p042-2-01;blu navy;blue navy;spring 2019 presentation/catalogo Spring 19.txt; bordo O bag stampa japan
 8050846060791;OBAGT001-TESX3-371;p042-2-02;latte;milk;spring 2019 presentation/catalogo Spring 19.txt; bordo O bag stampa japan
@@ -576,6 +663,11 @@
 8050846067097;OBAGT002-TESY2-075;p047-2-01;rosa smoke;rosa smoke;spring 2019 presentation/catalogo Spring 19.txt; bordo O bag mini stampa
 8050846069145;OBAGT002-TESY3-026;p048-1-01;cobalto;cobalt blue;spring 2019 presentation/catalogo Spring 19.txt; bordo O bag mini stampa
 8050846069169;OBAGT002-TESY4-588;p048-2-01;orchidea;orchid;spring 2019 presentation/catalogo Spring 19.txt; bordo O bag mini stampa
+8051770303824;OCLKD001-MES04-004;p161-2-01;argento;silver;summer 2019 presentation/catalogo summer_beach 2019.txt; o clock meccanismo soleil
+8058333583754;OCLKD001-MES04-020;p161-2-02;bronzo;bronze;summer 2019 presentation/catalogo summer_beach 2019.txt; o clock meccanismo soleil
+8051770303824;OCLKD001-MES04-061;p161-2-03;oro;gold;summer 2019 presentation/catalogo summer_beach 2019.txt; o clock meccanismo soleil
+8050846061491;OCLKD001-MESC4-062;p161-1-01;oro rosa;pink gold;summer 2019 presentation/catalogo summer_beach 2019.txt; o clock meccanismo metal
+8050846061484;OCLKD001-MESC4-389;p161-1-02;silver;silver;summer 2019 presentation/catalogo summer_beach 2019.txt; o clock meccanismo metal
 8050846061507;OCLKD001-MESC5-599;p105-1-01;pesca;peach;spring 2019 presentation/catalogo Spring 19.txt; meccanismo O clock crystal
 8058047001872;OCLKD001-MESF6-004;p022-1-03;argento;silver;spring 2019 presentation/catalogo capsule San Valentino 19.txt; O clock meccanismo
 8050846061286;SHOUCH02-PLS00-008;p022-2-01;bianco;white;spring 2019 presentation/catalogo Spring 19.txt; Tracolla maxi catena
