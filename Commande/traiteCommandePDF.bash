@@ -101,7 +101,6 @@ function fusionneAvecBasesProduit()
 {
 	inputFile="${1%pdf}csv"
 	couleurFile="${1%pdf}1-COULEUR.csv"
-	ean13TmpFile="commandeEAN13.tmp.csv"
 	ean13File="${1%pdf}2-EAN13.csv"
 	manquantFile="${1%pdf}3-MANQUANT.csv"
 	aImprimerFile="${1%pdf}4-A_IMPRIMER.csv"
@@ -124,12 +123,7 @@ function fusionneAvecBasesProduit()
 	afficheBilanFichierEtSupprimeSiVide "$couleurFile" "Couleurs"
 	
 	# jointure des codes barre
-	join -t";" -a1 -1 3 -2 2 <(sort -t";" -k3 "$couleurFile") <(sort -t";" -k2 "$baseValmagEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8,2.3,2.4,2.5,1.9,1.10,1.11,1.12,1.13,1.14 | sort -t";" -o "$ean13TmpFile"
-
-	grep "^ " "$inputFile" > "$ean13File"
-	cat "$ean13TmpFile" >> "$ean13File"
-	rm "$ean13TmpFile"
-
+	join -t";" -a1 -1 3 -2 2 <(sort -t";" -k3 "$couleurFile") <(sort -t";" -k2 "$baseValmagEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8,2.3,2.4,2.5,1.9,1.10,1.11,1.12,1.13,1.14 | sort -t";" -o "$ean13File"
 	afficheBilanFichierEtSupprimeSiVide "$ean13File" "Codes EAN13"
 
 
