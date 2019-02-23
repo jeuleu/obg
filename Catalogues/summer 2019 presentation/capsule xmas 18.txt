@@ -1,0 +1,354 @@
+manici  handles   01.
+‘18 .capsule xmas
+
+ .capsule xmas ‘19
+05 orologi watches
+15 charms charms
+19 espositore espositore
+ 04. O bag .capsule xmas 18
+manici  handles   05.
+.orologi
+watches
+ 06. O bag .capsule xmas 18
+code OCLKDC01 MES04
+descrizione meccanismo  O click shift 
+soleil
+materiale 
+abbinamenti O click shift
+description dial O click shift soleil
+material 
+components O click shift
+col. 009 
+blu
+blue
+col. 055
+nero
+black
+col. 004
+argento
+silver
+col. 061
+oro
+gold
+col. 072
+rosa
+pink
+soleil .meccanismo .meccanismo dial O click shift
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+code OCLKDC01 MES06
+descrizione meccanismo O click shift 
+tone on tone
+materiale 
+abbinamenti O click shift
+description dial O click shift tone on tone
+material 
+components O click shift
+col. 080 
+salvia
+sage
+col. 043
+lilla
+lilac
+col. 002
+amaranto
+amaranth
+tone on tone  .meccanismo .meccanismo dial O click shift
+.capsule xmas .capsule xmas .capsule xmas
+orologi watches   07. 07. O bag .capsule xmas 18
+code OCLKDC01 MES09
+descrizione meccanismo  O click shift 
+cristal
+materiale 
+abbinamenti O click shift
+description dial O click shift cristal
+material 
+components O click shift
+col. 137 
+bluette
+bluette
+col. 006
+avorio
+ivory
+col. 143
+neve
+snow
+col. 055
+nero
+black
+col. 008
+bianco
+white
+col. 081
+smeraldo
+emerald
+cristal  .meccanismo .meccanismo dial 
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+col. 077 
+rubino
+ruby
+.capsule xmas
+ 08. O bag .capsule xmas 18 orologi watches   08.
+code OCLKDC01 MES10
+descrizione meccanismo  O click shift 
+glitter
+materiale 
+abbinamenti O click shift
+description dial O click shift glitter
+material 
+components O click shift
+col. 061 
+oro
+gold
+col. 004
+argento
+silver
+glitter .meccanismo .meccanismo dial 
+.capsule xmas .capsule xmas
+code OCLKDC01 MESD2
+descrizione meccanismo  O click shift 
+sunlight tribal
+materiale 
+abbinamenti O click shift
+description dial O click shift sunlight 
+tribal
+material 
+components O click shift
+col. 008 
+bianco
+white
+sunlight tribal .meccanismo .meccanismo dial 
+.capsule xmas
+orologi watches   09.
+code OCLKDC01 MESD3
+descrizione meccanismo  O click shift 
+sunlight wave
+materiale 
+abbinamenti O click shift
+description dial O click shift sunlight 
+wave
+material 
+components O click shift
+col. 137 
+bluette
+bluette
+sunlight wave .meccanismo .meccanismo dial 
+.capsule xmas
+ 10. O bag .capsule xmas 18
+code OCLKEC01 MAS00
+descrizione case O click shift
+materiale 
+abbinamenti O click shift
+description case O click shift
+material 
+components O click shift
+col. 008 
+bianco
+white
+col. 061
+oro
+gold
+col. 055
+nero
+black
+col. 004
+argento
+silver
+.case .case case 
+.capsule xmas
+.capsule xmas
+.capsule xmas .capsule xmas
+orologi watches   11.
+code OCLKSC01 ECS01
+descrizione cinturino slim doppio O click 
+shift martellata
+materiale 
+abbinamenti O click shift
+description slim strap double O click shift 
+martellata
+material 
+components O click shift
+col. 055 
+nero
+black
+col. 076
+rosso
+red
+col. 017
+blu navy
+blue navy
+col. 133
+grigio chiaro
+light grey
+col. 054
+naturale
+natural
+col. 084
+testa di moro
+dark brown
+martellata .cinturino .cinturino slim doppio strap 
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+.capsule xmas
+ 12. O bag .capsule xmas 18
+code OCLKSC02 MAS00
+descrizione cinturino bangle O click shift
+materiale 
+abbinamenti O click shift
+description strap bangle O click shift
+material 
+components O click shift
+col. 055 
+nero
+black
+GENER S
+GENER S
+GENER S GENER S
+GENER M
+GENER M
+GENER M GENER M
+col. 017
+blu navy
+blue navy
+col. 008
+bianco
+white
+col. 018
+bordeaux
+bordeaux
+bangle .cinturino .cinturino bangle strap 
+.capsule xmas
+.capsule xmas
+.capsule xmas .capsule xmas
+orologi watches   13.
+ 14. O bag .capsule xmas 18
+manici  handles   15.
+.charms
+charms
+ 16. O bag .capsule xmas 18
+code ACCEC305   MTS44
+descrizione accessorio charms o click 
+shift infinito metallo + strass
+materiale 
+abbinamenti O click shift
+description
+material 
+components O click shift
+code ACCEC303  MTS44
+descrizione accessorio charms o click 
+shift luna metallo + strass
+materiale 
+abbinamenti O click shift
+description
+material 
+components O click shift
+col. 004
+argento
+silver
+col. 004
+argento
+silver
+charms charms O click shift
+charms charms O click shift
+.capsule xmas
+.capsule xmas
+col. 061
+oro
+gold
+col. 061
+oro
+gold
+.capsule xmas
+.capsule xmas
+orologi watches   17.
+code ACCEC302  MTS44
+descrizione accessorio charms o click 
+shift stella metallo + strass
+materiale 
+abbinamenti O click shift
+description
+material 
+components O click shift
+code ACCEC304  MTS44
+descrizione accessorio charms o click 
+shift ferro di cavallo  metallo + strass
+materiale 
+abbinamenti O click shift
+description
+material 
+components O click shift
+col. 004
+argento
+silver
+col. 004
+argento
+silver
+charms charms O click shift
+charms charms O click shift
+.capsule xmas
+.capsule xmas
+col. 061
+oro
+gold
+col. 061
+oro
+gold
+.capsule xmas
+.capsule xmas
+ 18. O bag .capsule xmas 18
+code ACCEC301   MTS44
+descrizione accessorio charms o click 
+shift infinito metallo + strass
+materiale 
+abbinamenti O click shift
+description
+material 
+components O click shift
+col. 004
+argento
+silver
+charms charms O click shift
+.capsule xmas
+col. 061
+oro
+gold
+.capsule xmas
+orologi watches   19.
+ 20. O bag .capsule xmas 18
+manici  handles   21.
+.espositore
+espositore
+ 22. O bag .capsule xmas 18
+code MOBLI056  PLSPX
+descrizione espositore O click shift in 
+plex con cassetto
+materiale plexiglass
+abbinamenti O click shift
+description display O click shift plex whit 
+drawer
+material plexiglass
+components O click shift
+col. 184 
+trasparente
+trasparente
+espositore display O click shift
+.capsule xmas
+manici  handles   23.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+

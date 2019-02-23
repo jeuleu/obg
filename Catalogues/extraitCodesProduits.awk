@@ -65,7 +65,7 @@ $0 ~ "^^code " {
 }
 
 # taille de bracelet
-$0 ~ "^GENER " || $0 ~ "^SHOES " {
+$0 ~ "^GENER " || $0 ~ "^gener " || $0 ~ "^SHOES " {
 	for (i = 2; i <= NF; i += 2) {
 		tabTaille[$i]++
 	}
@@ -169,8 +169,12 @@ function ecritUnProduitAvecSonCodeComplet(codeComplet, indiceCodeCouleur) {
 
 function ecritLesTaillesDunProduit(code, indiceCodeCouleur) {
 	for (taille in tabTaille) {
-		codeComplet = code "-" tabCodeCouleur[indiceCodeCouleur] "-" taille
-		ecritUnProduitAvecSonCodeComplet(codeComplet, indiceCodeCouleur)
+		if (taille ~ /GENER/ || taille ~ /gener/) {
+print "Erreur : taille '" taille "' non generée"
+		} else {
+			codeComplet = code "-" tabCodeCouleur[indiceCodeCouleur] "-" taille
+			ecritUnProduitAvecSonCodeComplet(codeComplet, indiceCodeCouleur)
+		}
 		
 		nbLignesEcrites++
 	}

@@ -24,7 +24,7 @@ CodeBarre;OBAGB002-EVS00-483;p006-1-06;champagne;champagne;spring 2018 presentat
 CodeBarre;OBAGB002-EVS00-026;p006-1-07;blu cobalto;cobalt blue;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
 CodeBarre;OBAGB002-EVS00-422;p006-1-08;sangria;sangria;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
 CodeBarre;OBAGB002-EVS00-075;p006-1-09;rosa smoke;smoke pink;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
-8050846016736;OBAGB002-EVS00-484;p006-1-10;coral;coral;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
+CodeBarre;OBAGB002-EVS00-484;p006-1-10;coral;coral;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
 CodeBarre;OBAGB002-EVS00-479;p006-1-11;skyway;skyway;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
 CodeBarre;OBAGB002-EVS00-084;p006-1-12;testa di moro;dark brown;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini
 CodeBarre;OBAGB002-EVS18-371;p007-1-01;latte;milk;spring 2018 presentation/catalogo spring 2018.txt; scocca O bag mini EVA
@@ -700,41 +700,121 @@ CodeBarre;OCLKD001-MES13-055;p177-1-03;nero;black;spring 2018 presentation/catal
 CodeBarre;OCLKD001-MES13-067;p177-1-04;phard;blush pink;spring 2018 presentation/catalogo spring 2018.txt; O clock meccanismo
 CodeBarre;OCLKD001-MES13-131;p177-1-05;verde antico;antique green;spring 2018 presentation/catalogo spring 2018.txt; O clock meccanismo
 CodeBarre;OCLKD001-MES13-133;p177-1-06;grigio chiaro;light grey;spring 2018 presentation/catalogo spring 2018.txt; O clock meccanismo
-CodeBarre;OCLKS007-SIS01-345;p178-1-01;coral;coral;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-422;p178-1-02;sangria;sangria;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-485;p178-1-03;atlantic;atlantic;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-486;p178-1-04;pink;pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-044;p178-1-05;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-036;p178-1-06;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-003;p178-1-07;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-128;p178-1-08;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-002;p179-1-01;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-077;p179-1-02;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-076;p179-1-03;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-053;p179-1-04;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-097;p179-1-05;violetto;violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-025;p179-1-06;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-069;p179-1-07;porpora;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-096;p179-1-08;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-045;p179-1-09;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-095;p179-1-10;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-088;p180-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-012;p180-1-02;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-063;p180-1-03;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-081;p180-1-04;smeraldo;emerald;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-090;p180-1-05;verde bianco;white green;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-080;p180-1-06;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-022;p180-1-07;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-015;p180-1-08;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-013;p180-1-09;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-014;p180-1-10;blu elettrico;electric blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-060;p181-1-01;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS007-SIS01-024;p181-1-02;cioccolato;chocolate;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
-CodeBarre;OCLKS001-SIS02-008;p182-1-01;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
-CodeBarre;OCLKS001-SIS02-068;p182-1-02;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
-CodeBarre;OCLKS001-SIS02-071;p182-1-03;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
-CodeBarre;OCLKS001-SIS02-055;p182-1-04;nero;black;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
-CodeBarre;OCLKS001-SIS02-063;p182-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS007-SIS01-345-L;p178-1-01;coral;coral;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-345-M;p178-1-01;coral;coral;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-345-S;p178-1-01;coral;coral;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-422-L;p178-1-02;sangria;sangria;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-422-M;p178-1-02;sangria;sangria;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-422-S;p178-1-02;sangria;sangria;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-485-L;p178-1-03;atlantic;atlantic;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-485-M;p178-1-03;atlantic;atlantic;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-485-S;p178-1-03;atlantic;atlantic;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-486-L;p178-1-04;pink;pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-486-M;p178-1-04;pink;pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-486-S;p178-1-04;pink;pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-044-L;p178-1-05;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-044-M;p178-1-05;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-044-S;p178-1-05;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-036-L;p178-1-06;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-036-M;p178-1-06;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-036-S;p178-1-06;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-003-L;p178-1-07;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-003-M;p178-1-07;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-003-S;p178-1-07;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-128-L;p178-1-08;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-128-M;p178-1-08;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-128-S;p178-1-08;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-002-L;p179-1-01;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-002-M;p179-1-01;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-002-S;p179-1-01;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-002-XS;p179-1-01;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-077-L;p179-1-02;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-077-M;p179-1-02;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-077-S;p179-1-02;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-077-XS;p179-1-02;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-076-L;p179-1-03;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-076-M;p179-1-03;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-076-S;p179-1-03;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-076-XS;p179-1-03;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-053-L;p179-1-04;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-053-M;p179-1-04;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-053-S;p179-1-04;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-053-XS;p179-1-04;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-097-L;p179-1-05;violetto;violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-097-M;p179-1-05;violetto;violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-097-S;p179-1-05;violetto;violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-097-XS;p179-1-05;violetto;violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-025-L;p179-1-06;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-025-M;p179-1-06;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-025-S;p179-1-06;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-025-XS;p179-1-06;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-069-L;p179-1-07;porpora;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-069-M;p179-1-07;porpora;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-069-S;p179-1-07;porpora;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-069-XS;p179-1-07;porpora;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-096-L;p179-1-08;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-096-M;p179-1-08;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-096-S;p179-1-08;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-096-XS;p179-1-08;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-045-L;p179-1-09;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-045-M;p179-1-09;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-045-S;p179-1-09;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-045-XS;p179-1-09;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-095-L;p179-1-10;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-095-M;p179-1-10;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-095-S;p179-1-10;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-095-XS;p179-1-10;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-088-L;p180-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-088-M;p180-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-088-S;p180-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-012-L;p180-1-02;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-012-M;p180-1-02;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-012-S;p180-1-02;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-063-L;p180-1-03;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-063-M;p180-1-03;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-063-S;p180-1-03;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-081-L;p180-1-04;smeraldo;emerald;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-081-M;p180-1-04;smeraldo;emerald;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-081-S;p180-1-04;smeraldo;emerald;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-090-L;p180-1-05;verde bianco;white green;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-090-M;p180-1-05;verde bianco;white green;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-090-S;p180-1-05;verde bianco;white green;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-080-L;p180-1-06;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-080-M;p180-1-06;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-080-S;p180-1-06;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-022-L;p180-1-07;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-022-M;p180-1-07;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-022-S;p180-1-07;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-015-L;p180-1-08;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-015-M;p180-1-08;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-015-S;p180-1-08;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-013-L;p180-1-09;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-013-M;p180-1-09;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-013-S;p180-1-09;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-014-L;p180-1-10;blu elettrico;electric blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-014-M;p180-1-10;blu elettrico;electric blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-014-S;p180-1-10;blu elettrico;electric blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-060-L;p181-1-01;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-060-M;p181-1-01;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-060-S;p181-1-01;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-024-L;p181-1-02;cioccolato;chocolate;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-024-M;p181-1-02;cioccolato;chocolate;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS007-SIS01-024-S;p181-1-02;cioccolato;chocolate;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino silicone
+CodeBarre;OCLKS001-SIS02-008-L;p182-1-01;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-008-M;p182-1-01;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-008-S;p182-1-01;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-068-L;p182-1-02;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-068-M;p182-1-02;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-068-S;p182-1-02;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-071-L;p182-1-03;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-071-M;p182-1-03;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-071-S;p182-1-03;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-055-L;p182-1-04;nero;black;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-055-M;p182-1-04;nero;black;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-055-S;p182-1-04;nero;black;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-063-L;p182-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-063-M;p182-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
+CodeBarre;OCLKS001-SIS02-063-S;p182-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino wicker
 CodeBarre;OCLKD104-MES90-055;p183-1-01;nero;black;spring 2018 presentation/catalogo spring 2018.txt; meccanismo great date nyc
 CodeBarre;OCLKD104-MES90-008;p183-1-02;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; meccanismo great date nyc
 CodeBarre;OCLKD104-MES90-130;p183-1-03;azzurro;azure;spring 2018 presentation/catalogo spring 2018.txt; meccanismo great date nyc
@@ -803,27 +883,69 @@ CodeBarre;OCLKD104-MES12-002;p193-1-07;amaranto;amaranth;spring 2018 presentatio
 CodeBarre;OCLKD104-MES12-063;p193-1-08;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; meccanismo great date
 CodeBarre;OCLKD104-MES12-183;p193-1-09;viola;violet;spring 2018 presentation/catalogo spring 2018.txt; meccanismo great date
 CodeBarre;OCLKD101-MES22-008;p194-1-01;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; O clock dial great metallo
-CodeBarre;OCLKS107-SIS01-044;p195-1-01;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-003;p195-1-02;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-128;p195-1-03;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-036;p195-1-04;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-053;p195-1-05;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-002;p195-1-06;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-045;p195-1-07;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-076;p195-1-08;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-112;p196-1-01;purple;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-025;p196-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-096;p196-1-03;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-095;p196-1-04;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-022;p196-1-05;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-013;p196-1-06;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-015;p196-1-07;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-068;p196-1-08;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-012;p196-1-09;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-063;p196-1-10;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-088;p197-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-060;p197-1-02;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
-CodeBarre;OCLKS107-SIS01-080;p197-1-03;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-044-L;p195-1-01;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-044-M;p195-1-01;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-044-S;p195-1-01;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-003-L;p195-1-02;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-003-M;p195-1-02;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-003-S;p195-1-02;arancione;orange;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-128-L;p195-1-03;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-128-M;p195-1-03;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-128-S;p195-1-03;salmone;salmon;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-036-L;p195-1-04;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-036-M;p195-1-04;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-036-S;p195-1-04;giallo;yellow;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-053-L;p195-1-05;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-053-M;p195-1-05;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-053-S;p195-1-05;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-002-L;p195-1-06;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-002-M;p195-1-06;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-002-S;p195-1-06;amaranto;amaranth;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-045-L;p195-1-07;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-045-M;p195-1-07;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-045-S;p195-1-07;magenta;magenta;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-076-L;p195-1-08;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-076-M;p195-1-08;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-076-S;p195-1-08;rosso;red;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-112-L;p196-1-01;purple;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-112-M;p196-1-01;purple;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-112-S;p196-1-01;purple;purple;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-025-L;p196-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-025-M;p196-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-025-S;p196-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-096-L;p196-1-03;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-096-M;p196-1-03;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-096-S;p196-1-03;viola pastello;pastel violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-095-L;p196-1-04;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-095-M;p196-1-04;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-095-S;p196-1-04;viola desaturato;pale violet;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-022-L;p196-1-05;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-022-M;p196-1-05;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-022-S;p196-1-05;carta da zucchero;azure;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-013-L;p196-1-06;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-013-M;p196-1-06;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-013-S;p196-1-06;blu capri;capri blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-015-L;p196-1-07;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-015-M;p196-1-07;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-015-S;p196-1-07;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-068-L;p196-1-08;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-068-M;p196-1-08;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-068-S;p196-1-08;polvere;dusty blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-012-L;p196-1-09;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-012-M;p196-1-09;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-012-S;p196-1-09;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-063-L;p196-1-10;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-063-M;p196-1-10;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-063-S;p196-1-10;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-088-L;p197-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-088-M;p197-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-088-S;p197-1-01;turchese;turquoise;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-060-L;p197-1-02;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-060-M;p197-1-02;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-060-S;p197-1-02;oliva;olive;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-080-L;p197-1-03;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-080-M;p197-1-03;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
+CodeBarre;OCLKS107-SIS01-080-S;p197-1-03;salvia;sage;spring 2018 presentation/catalogo spring 2018.txt; O clock cinturino great
 CodeBarre;OCLKE013-MAS00-008;p198-1-01;bianco;white;spring 2018 presentation/catalogo spring 2018.txt; case O clock shift classic
 CodeBarre;OCLKE013-MAS00-063;p198-1-02;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; case O clock shift classic
 CodeBarre;OCLKE013-MAS00-059;p198-1-03;oceano;ocean;spring 2018 presentation/catalogo spring 2018.txt; case O clock shift classic
@@ -1051,18 +1173,30 @@ CodeBarre;OBRCF003-SIS01-143;p235-1-09;neve;snow;spring 2018 presentation/catalo
 CodeBarre;OBRCF003-SIS01-012;p235-1-10;blu acqua;aqua blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet flower big silicone
 CodeBarre;OBRCF003-SIS01-138;p235-1-11;turchese menta;turquoise mint;spring 2018 presentation/catalogo spring 2018.txt; O bracelet flower big silicone
 CodeBarre;OBRCF003-SIS01-038;p235-1-12;grafite;graphite;spring 2018 presentation/catalogo spring 2018.txt; O bracelet flower big silicone
-CodeBarre;OBRCD003-SIS00-141;p236-1-01;blu pastello;pastel blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-025;p236-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-143;p236-1-03;neve;snow;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-015;p236-1-04;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-063;p236-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-077;p236-1-06;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-053;p236-1-07;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-044;p236-1-08;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-018;p236-1-09;bordeaux;burgundy;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-071;p237-1-01;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-000;p237-1-02;nero;col. 086;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
-CodeBarre;OBRCD003-SIS00-086;p237-1-03;tortora;dove-grey;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-141-M;p236-1-01;blu pastello;pastel blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-141-S;p236-1-01;blu pastello;pastel blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-025-M;p236-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-025-S;p236-1-02;cipria;powder pink;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-143-M;p236-1-03;neve;snow;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-143-S;p236-1-03;neve;snow;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-015-M;p236-1-04;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-015-S;p236-1-04;blu iris;iris blue;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-063-M;p236-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-063-S;p236-1-05;ottanio;teal;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-077-M;p236-1-06;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-077-S;p236-1-06;rubino;ruby;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-053-M;p236-1-07;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-053-S;p236-1-07;narcissus;narcissus;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-044-M;p236-1-08;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-044-S;p236-1-08;lime;lime;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-018-M;p236-1-09;bordeaux;burgundy;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-018-S;p236-1-09;bordeaux;burgundy;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-071-M;p237-1-01;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-071-S;p237-1-01;roccia;rock;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-000-M;p237-1-02;nero;col. 086;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-000-S;p237-1-02;nero;col. 086;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-086-M;p237-1-03;tortora;dove-grey;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
+CodeBarre;OBRCD003-SIS00-086-S;p237-1-03;tortora;dove-grey;spring 2018 presentation/catalogo spring 2018.txt; O bracelet daisy big silicone
 CodeBarre;OHUGB002-EVS06-347;p240-1-01;cedro;cedro;spring 2018 presentation/catalogo spring 2018.txt; O hug scocca portafoglio
 CodeBarre;OHUGB002-EVS06-422;p240-1-02;sangria;sangria;spring 2018 presentation/catalogo spring 2018.txt; O hug scocca portafoglio
 CodeBarre;OHUGB002-EVS06-075;p240-1-03;rosa smoke;rose smoke;spring 2018 presentation/catalogo spring 2018.txt; O hug scocca portafoglio

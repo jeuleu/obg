@@ -1,5 +1,6 @@
 000;cotè d’azur blooms .meccanismo dial;.crossing .crossing
 000;nero;col. 086
+000;tortora;turtledove
 001;acqua;aqua
 001;acqua;water
 002;amaranto;amaranth
@@ -285,6 +286,7 @@
 183;viola;violet
 184;trasparente + bianco;transparent + white
 184;trasparente;transparent
+184;trasparente;trasparente
 185;bianco su viola;white on violet
 186;bianco mix;mix white
 186;bianco mix;white mix
@@ -551,8 +553,15 @@
 600;cipria metal;pink metal
 602;viola scuro;dark purple
 602;viola scuro;dark violet
+603;nero/arancio fluo;black/orange fluo
+604;grafite/giallo fluo;graphite/yellow fluo
+605;grafite/rosa fluo;graphite/pink fluo
+606;giallo fluo/nero;yellow fluo/black
+607;fucsia fluo/nero;fucsia fluo/black
+608;nero/verde fluo;black/green fluo
 612;blu navy + argento;blue navy + silver
 612;blu navy + argento;blue navy+silver
+613;cuoio + argento;cuoio + silver
 613;cuoio + argento;leather + silver
 614;imperial blu;imperial blue
 615;military + oro;military + gold

@@ -87,12 +87,12 @@ CodeBarre;SHOUG006-TES01-054;p024-2-02;naturale;natural;spring 2019 presentation
 CodeBarre;SHOUG006-TES01-055;p024-2-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; tracolla lunga o pocket
 CodeBarre;SHOUG617-ECS00-055;p025-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; tracolla con fibbia lunga o
 CodeBarre;SHOUG617-ECS00-084;p025-1-02;testa di moro;dark brown;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; tracolla con fibbia lunga o
-8050538599028;OBAGAB17-MAS00-017;p026-1-01;blu navy;blue navy;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio borchiette o
-8050538594498;OBAGAB17-MAS00-055;p026-1-02;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio borchiette o
-8050538594450;OBAGAB17-MAS00-078;p026-1-03;sabbia;sand;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio borchiette o
-8050538594429;OBAGAM16-MAS00-017;p026-2-01;blu navy;blue navy;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio maniglie o moon
-8050538594436;OBAGAM16-MAS00-055;p026-2-02;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio maniglie o moon
-8050538594412;OBAGAM16-MAS00-071;p026-2-03;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio maniglie o moon
+CodeBarre;OBAGAB17-MAS00-017;p026-1-01;blu navy;blue navy;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio borchiette o
+CodeBarre;OBAGAB17-MAS00-055;p026-1-02;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio borchiette o
+CodeBarre;OBAGAB17-MAS00-078;p026-1-03;sabbia;sand;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio borchiette o
+CodeBarre;OBAGAM16-MAS00-017;p026-2-01;blu navy;blue navy;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio maniglie o moon
+CodeBarre;OBAGAM16-MAS00-055;p026-2-02;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio maniglie o moon
+CodeBarre;OBAGAM16-MAS00-071;p026-2-03;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio maniglie o moon
 CodeBarre;SHOUA203-ECS00-055;p027-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio goccia ecopelle
 CodeBarre;SHOUA203-ECS00-084;p027-1-02;testa di moro;dark brown;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio goccia ecopelle
 CodeBarre;SHOUA203-ECS08-055;p027-2-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; accessorio goccia ecopelle
@@ -161,13 +161,27 @@ CodeBarre;OCLKD001-MES07-041;p045-2-02;grigio scuro;dark grey;spring 2019 presen
 CodeBarre;OCLKD001-MES07-008;p045-2-03;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock meccanismo numeri
 CodeBarre;OCLKD001-MES07-055;p045-2-04;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock meccanismo numeri
 CodeBarre;OCLKD001-MES07-013;p045-2-05;blu capri;blue capri;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock meccanismo numeri
-CodeBarre;OCLKS007-SIS01-008;p046-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
-CodeBarre;OCLKS007-SIS01-041;p046-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
-CodeBarre;OCLKS007-SIS01-055;p046-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
-CodeBarre;OCLKS007-SIS01-059;p046-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
-CodeBarre;OCLKS007-SIS01-071;p046-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
-CodeBarre;OCLKS007-SIS01-086;p046-1-06;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
-CodeBarre;OCLKS007-SIS01-133;p046-1-07;grigio chiaro;light grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-008-L;p046-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-008-M;p046-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-008-S;p046-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-041-L;p046-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-041-M;p046-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-041-S;p046-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-055-L;p046-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-055-M;p046-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-055-S;p046-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-059-L;p046-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-059-M;p046-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-059-S;p046-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-071-L;p046-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-071-M;p046-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-071-S;p046-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-086-L;p046-1-06;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-086-M;p046-1-06;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-086-S;p046-1-06;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-133-L;p046-1-07;grigio chiaro;light grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-133-M;p046-1-07;grigio chiaro;light grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
+CodeBarre;OCLKS007-SIS01-133-S;p046-1-07;grigio chiaro;light grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino cover
 CodeBarre;OCLKD101-MES04-004;p048-1-01;argento;silver;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; meccanismo great soleil
 CodeBarre;OCLKD101-MES04-055;p048-1-02;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; meccanismo great soleil
 CodeBarre;OCLKD101-MES04-009;p048-1-03;blu;blue;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; meccanismo great soleil
@@ -180,18 +194,38 @@ CodeBarre;OCLKD101-MES06-039;p049-1-02;grigio;grey;spring 2019 presentation/cata
 CodeBarre;OCLKD101-MES06-055;p049-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; meccanismo great tone on
 CodeBarre;OCLKD104-MES04-009;p049-2-01;blu;blue;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; meccanismo great date soleil
 CodeBarre;OCLKD104-MES04-055;p049-2-02;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; meccanismo great date soleil
-CodeBarre;OCLKS107-SIS01-008;p050-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
-CodeBarre;OCLKS107-SIS01-041;p050-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
-CodeBarre;OCLKS107-SIS01-055;p050-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
-CodeBarre;OCLKS107-SIS01-059;p050-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
-CodeBarre;OCLKS107-SIS01-071;p050-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
-CodeBarre;OBRCF002-SIS01-055;p054-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
-CodeBarre;OBRCF002-SIS01-071;p054-1-02;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
-CodeBarre;OBRCF002-SIS01-059;p054-1-03;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
-CodeBarre;OBRCF002-SIS01-086;p054-1-04;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
-CodeBarre;OBRCF002-SIS01-143;p054-1-05;neve;snow;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
-CodeBarre;OBRCF003-SIS01-055;p055-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
-CodeBarre;OBRCF003-SIS01-071;p055-1-02;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
-CodeBarre;OBRCF003-SIS01-059;p055-1-03;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
-CodeBarre;OBRCF003-SIS01-086;p055-1-04;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
-CodeBarre;OBRCF003-SIS01-143;p055-1-05;neve;snow;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OCLKS107-SIS01-008-L;p050-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-008-M;p050-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-008-S;p050-1-01;bianco;white;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-041-L;p050-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-041-M;p050-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-041-S;p050-1-02;grigio scuro;dark grey;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-055-L;p050-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-055-M;p050-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-055-S;p050-1-03;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-059-L;p050-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-059-M;p050-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-059-S;p050-1-04;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-071-L;p050-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-071-M;p050-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OCLKS107-SIS01-071-S;p050-1-05;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o clock cinturino great cover
+CodeBarre;OBRCF002-SIS01-055-M;p054-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-055-S;p054-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-071-M;p054-1-02;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-071-S;p054-1-02;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-059-M;p054-1-03;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-059-S;p054-1-03;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-086-M;p054-1-04;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-086-S;p054-1-04;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-143-M;p054-1-05;neve;snow;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF002-SIS01-143-S;p054-1-05;neve;snow;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower slim
+CodeBarre;OBRCF003-SIS01-055-M;p055-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-055-S;p055-1-01;nero;black;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-071-M;p055-1-02;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-071-S;p055-1-02;roccia;rock;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-059-M;p055-1-03;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-059-S;p055-1-03;oceano;ocean;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-086-M;p055-1-04;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-086-S;p055-1-04;tortora;tortora;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-143-M;p055-1-05;neve;snow;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
+CodeBarre;OBRCF003-SIS01-143-S;p055-1-05;neve;snow;spring 2019 presentation/catalogo Continuativo_Spring_19.txt; o bracelet flower big silicone
