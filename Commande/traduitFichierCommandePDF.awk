@@ -44,19 +44,15 @@ input != FILENAME {
 
 # référence de document
 /\/OBAG\/[0-9]*/ {
-
-print "Ref Document : '" $0 "'"
-
 	tabRefDocument[$0]++
-	
-	listeRefDoc = ""
+
+	# mise a jour de la liste des documents de référence
+	listeReferenceDocument = ""
 	for (refDocument in tabRefDocument) {
-		if (listeRefDoc != "") {
-			listeRefDoc = listeRefDoc " | " 
+		if (listeReferenceDocument != "") {
+			listeReferenceDocument = listeReferenceDocument " | " 
 		}
-		listeRefDoc = listeRefDoc $0
-		
-		print "Après lecture : listeRefDoc = '" listeRefDoc "'"
+		listeReferenceDocument = listeReferenceDocument $0
 	}
 }
 
@@ -446,7 +442,7 @@ function traitementDeFinDeFichier() {
 	for (i in tabLignes) {
 		ligne = adapteLignePourLaTaille(tabLignes[i])
 		
-		ecritDansFichier(sprintf("'%03d;%s;%s;%s;%s;%s;%s;%s", i, ligne, fileBasename, fileType, dateFacture, totalFacture, totalProduits, listeRefDoc))
+		ecritDansFichier(sprintf("'%03d;%s;%s;%s;%s;%s;%s;%s", i, ligne, fileBasename, fileType, dateFacture, totalFacture, totalProduits, listeReferenceDocument))
 		delete tabLignes[i]
 	}
 	

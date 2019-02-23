@@ -85,7 +85,7 @@ function traiteTXT_2_CSV()
 
 	echo -n "  traiteTXT_2_CSV : "
   	
-	if [ ! -z "$FORCE_CSV" ] || [[ ! -e $outputFile ]]; then
+	if [ ! -z "$FORCE_CSV" ] || [[ ! -e "$outputFile" ]]; then
 		echo "'$outputFile'"
 		awk -f "$traduitFichierCommandeAwkFile" "$inputFile"
 
@@ -119,11 +119,11 @@ function fusionneAvecBasesProduit()
 	echo " "
 
 	# jointure des couleurs
-	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k3) <(sort -t";" -k2 "$baseObagEAN13") -e'CodeBarre' -o 1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,2.3,1.9,1.10,1.11,1.12,1.13	| sort -t";" -o "$couleurFile"	
+	join -t";" -a1 -1 3 -2 2 <(grep -v "^ " "$inputFile" | sort -t";" -k3) <(sort -t";" -k2 "$baseObagEAN13") -e'CodeBarre' -o 1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,2.3,1.9,1.10,1.11,1.12,1.13,1.14	| sort -t";" -o "$couleurFile"	
 	afficheBilanFichierEtSupprimeSiVide "$couleurFile" "Couleurs"
 	
 	# jointure des codes barre
-	join -t";" -a1 -1 3 -2 2 <(sort -t";" -k3 "$couleurFile") <(sort -t";" -k2 "$baseValmagEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8,2.3,2.4,2.5,1.9,1.10,1.11,1.12,1.13,1.14 | sort -t";" -o "$ean13File"
+	join -t";" -a1 -1 3 -2 2 <(sort -t";" -k3 "$couleurFile") <(sort -t";" -k2 "$baseValmagEAN13") -e'CodeBarre' -o 1.1,1.2,2.1,1.3,1.4,1.5,1.6,1.7,1.8,2.3,2.4,2.5,1.9,1.10,1.11,1.12,1.13,1.14,1.15 | sort -t";" -o "$ean13File"
 	afficheBilanFichierEtSupprimeSiVide "$ean13File" "Codes EAN13"
 
 
@@ -181,7 +181,7 @@ function afficheBilanFichierEtSupprimeSiVide()
 
 function creeFichierDeSyntheseEAN()
 {
-	echo "Index;Ligne Commande;EAN13;Ref. O bag;Libelle O bag;Taille O bag;Quantite;PU ;Prix;Ref. Valmag;Couleur Valmag;Taille Valmag;Couleur O bag;Nom fichier;Type fichier;Date fichier;Total Facture;Total Produit" > "$synthesisFile"
+	echo "Index;Ligne Commande;EAN13;Ref. O bag;Libelle O bag;Taille O bag;Quantite;PU ;Prix;Ref. Valmag;Couleur Valmag;Taille Valmag;Couleur O bag;Nom fichier;Type fichier;Date fichier;Total Facture;Total Produit;Reference Document" > "$synthesisFile"
 
 	grep -v "^ " "$ean13GlobalFile" >> "$synthesisFile"
 
