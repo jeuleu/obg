@@ -40,7 +40,7 @@ input != FILENAME {
 	print "Sortie : "  output ", " output2
 	print " "
 
-	ecritInfo("Modele;Couleur;Taille;Prix Achat;Prix Vente;Saison;Code complet")
+	ecritInfo("Modele;Couleur;Taille;Prix Achat;Prix Vente;Saison;Code complet;Code incomplet;Prix achat (bis)")
 }
 
 $1 ~ /[A-Z]/ {
@@ -58,15 +58,19 @@ $1 ~ /[A-Z]/ {
     indice = 3*i + 2
     gsub(/ /, "", $indice)
 
-	while ($indice != "") {
+	while ($indice != "" || $(indice+1) != "" ) {
         taille = $indice
         gsub(/ /, "", taille)
         prixAchat = $(indice+1)
         prixVente = $(indice+2)
         
+		if (taille == "") {
+			taille = "0";
+		}
+        
 		if (prixAchat != "0") {
             
-            ecritInfo(modele ";" couleur ";" taille ";" prixAchat ";" prixVente ";" saison ";" modele "|" couleur "|" taille)
+            ecritInfo(modele ";" couleur ";" taille ";" prixAchat ";" prixVente ";" saison ";" modele "|" couleur "|" taille ";" modele "|" taille ";" prixAchat)
     
         } else {
             print " >> Pas de prix : " modele ";" couleur ";" taille ";" prixAchat ";" prixVente
@@ -87,7 +91,7 @@ function ecritInfo(info) {
 	print info
 	print info > output
 	print info > output2
-}
+}	
 
 END {
 	if (!exitAnalyse) {
