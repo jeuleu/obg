@@ -3,6 +3,7 @@
 source `dirname $0`/../configAutomatisationFacture.bash_rc
 
 pdfBoxFile=$AUTO_HOME/PDFBox/pdfbox-app-2.0.13.jar
+
 traduitFichierCommandeAwkFile=$AUTO_HOME/Commande/traduitFichierCommandePDF.awk
 refManquantesAwkFile=$AUTO_HOME/Commande/extraitRefManquantes.awk
 ean13GlobalFile="`dirname $0`/EAN13_traite.csv"
@@ -68,7 +69,7 @@ function traitePDF_2_TXT()
 	echo -n "  traitePDF_2_TXT   : "
 	if [ ! -z "$FORCE_PDF" ] || [[ ! -e $outputFile ]]; then
 		echo "'$outputFile'"
-		java -jar "$pdfBoxFile" ExtractText "$arg"
+		"$JAVA_HOME/bin/java" -jar "$pdfBoxFile" ExtractText "$arg"
 
 		wc "$outputFile"
 		echo " "
