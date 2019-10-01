@@ -1,0 +1,16 @@
+Produit;Code piece;Couleur;Taille;Libelle;Quantité;Prix unitaire;Montant
+Boutique;;BLAGNAC
+Ref. facture;;2018 50 3184 28/11/2018 
+Total facture;;190,10
+Total produits;;166,10
+ 
+Cumul montant;;166.1
+Etat courant = 'fichierTraite'
+CONTROLE MONTANT OK;;166.1;166.1
+ 
+HLESGC00;ECS04;038;Remise fin. Remise en-t remise cond.;UNICA;10;6,050;60,50
+OBAGB016;EVS00;024;Qté Prix Remises Montant Cadeau;UNICA;2;12,600;25,20
+OBAGB032;EVS00;559;Récapitulatifs douaniers;UNICA;2;14,160;28,32
+OBAGB033;EVS00;018;NR 24,00 24,000 1,000;UNICA;2;14,160;28,32
+OBAGB034;EVS00;540;ANSES COURTES EN FAUX CUIR POMPON;UNICA;2;11,880;23,76
+ 

@@ -1,0 +1,412 @@
+
+
+.capsule Disney
+05 scocche body
+06 scocche body O bag
+07 scocche body O pocket
+08 scocche body O bag Ivy
+10 manici e tracolle handles and shoulder strap
+14 sacche interne inner bags
+20 pattine flaps
+24 orologi watches
+30 accessori accessories
+
+.scocche
+body
+ 6. O bag capsule Disney
+code OBAGB002 EVS41
+descrizione scocca O bag mini eva 
+compound mickey head
+materiale eva compound
+abbinamenti 
+description body O bag mini eva 
+compound mickey head
+material eva compound
+components 
+O bag mini mickey head .scocca body
+col. 486 
+pink
+pink
+col. 076 
+rosso
+red
+col. 371
+latte
+milk
+col. 088
+turchese
+turchese
+col. 055
+nero
+black
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+scocche bodies   7.
+code OBAGB206 EVS00
+descrizione scocca sotto o pocket eva 
+compound
+materiale eva compound
+abbinamenti 
+description O pocket  eva compound 
+lower body
+material eva compound
+components 
+O pocket .scocca body 
+col. 055
+nero
+black
+col. 371
+latte
+milk
+col. 486 
+pink
+pink
+col. 076 
+rosso
+red
+.capsule Disney
+.capsule Disney
+.capsule Disney .capsule Disney
+ 8. O bag capsule Disney
+code OBAGZ503  ECSF5
+descrizione scocca zaino completo 
+con chiusura zip e spallaccio O bag ivy 
+ecopelle saffiano ricamo mickey
+materiale ecopelle
+abbinamenti 
+description
+material faux leather
+components 
+O bag ivy ecopelle .scocca body
+col. 486 
+pink
+pink
+col. 119 
+fragola
+strawberry
+col. 055
+nero
+black
+col. 088
+turchese
+turchese
+col. 347
+cedro
+cedro
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+scocche bodies   9.
+
+.manici e tracolle
+handles and shoulder strap
+ 12. O bag capsule Disney
+col. 008 
+bianco
+white
+code HLESGC00 ROS00
+descrizione manico corto corda
+materiale corda
+abbinamenti
+description rope short handle
+material rope
+components
+corda rope .manico corto short handle
+col. 055 
+nero
+black
+col. 054 
+naturale
+natural
+scocche bodies   13.
+code SHOUC006 MTS01
+descrizione tracolla catena lunga o 
+pocket metallo galvanizzato
+materiale metallo
+abbinamenti 
+description 
+material metal
+components 
+col. 004 
+argento
+silver
+tracolla catena lunga .manici e tracolle handles and shoulder straps 
+.Continuativo
+ 14. O bag capsule Disney
+code SHOUX000 ECS07
+descrizione tracolla regolabile extraslim 
+110 ecopelle saffiano
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 017 
+blu navy
+navy blue
+col. 119
+fragola
+strawberry
+col. 486
+pink
+pink
+col. 371
+latte
+milk
+col. 055
+nero
+black
+110 ecopelle saffiano .manici e tracolle handles and shoulder strap 
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+manici e tracolle handles and shoulder strap   15.
+.capsule Disney .capsule Disney
+code OBAGA000 ECS42
+descrizione accessorio clip ecopelle 
+opaca + argento
+materiale ecopelle
+abbinamenti 
+description accessory matt faux leather 
+clip + silver
+material faux leather
+components 
+col. 017 
+blu navy
+blue navy
+col. 055
+nero
+black
+ecopelle opaca + argento .accessorio accessories 
+col. 119
+fragola
+strawberry
+col. 486
+pink
+pink
+.capsule Disney .capsule Disney .capsule Disney
+code OBAGA000 ECS07
+descrizione accessorio clip ecopelle 
+saffiano
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 071 
+latte
+milk
+ecopelle saffiano .manici e tracolle handles and shoulder strap 
+
+.sacche interne
+inner bag
+ 18. O bag capsule Disney
+code OBAGS002 TES01
+descrizione sacca interna zip O bag mini 
+tessuto canvas
+materiale tessuto
+abbinamenti 
+description O bag mini canvas fabric 
+inner zip-up bag
+material fabric
+components 
+col. 486 
+pink
+pink
+tessuto canvas .sacca interna inner bags O bag mini
+col. 008 
+bianco
+white
+col. 088 
+turchese
+turchese
+col. 076 
+rosso
+red
+col. 055 
+nero
+black
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+sacche interne inner bags   19.
+
+.pattine
+flaps
+ 22. O bag capsule Disney
+code OBAGP006  ECSF7
+descrizione pattina O pocket ecopelle 
+saffiano mickey hf effetto borchiette
+materiale ecopelle
+abbinamenti 
+description
+material faux leather
+components 
+ecopelle saffiano mickey borchiette .pattine flaps
+col. 119 
+fragola
+strawberry
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 088
+turchese
+turchese
+.capsule Disney
+.capsule Disney
+.capsule Disney .capsule Disney
+
+
+.orologi
+watches
+ 26. O bag capsule Disney
+code OCLKD001 MESF3
+descrizione O clock meccanismo Mickey 
+crystal
+abbinamenti cinturini O clock
+description
+components O clock straps
+Mickey head .orologi watches
+col. 055 
+nero
+black
+col. 371
+latte
+milk
+.capsule Disney .capsule Disney
+.capsule Disney .capsule Disney
+code OCLKD001 MES08
+descrizione O clock meccanismo  disney
+abbinamenti 
+description
+components O clock straps
+col. 191 
+icona
+icon
+col. 190 
+minnie
+minnie
+icona .orologi watches 
+
+ 28. O bag capsule Disney
+.cinturino strap O clock  
+code OCLKS007 SIS01
+descrizione O clock cinturino silicone 
+materiale silicone
+abbinamenti meccanismo O clock
+description silicone O clock strap
+material silicone
+components O clock dial
+GENER S
+GENER S GENER S
+GENER M
+GENER M GENER M
+GENER L
+GENER L GENER L
+col. 076 
+rosso
+red
+GENER S
+GENER M
+GENER L
+col. 486
+pink
+pink
+GENER S
+GENER M
+col. 088 
+turchese
+turquoise
+GENER L
+col. 008
+bianco
+white
+col. 055 
+nero
+black
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+.capsule Disney
+orologi watches   29.
+
+.accessori
+accessories
+ 32. O bag capsule Disney
+code ACCEP001  ECSF6
+descrizione accessorio pochette 
+ecopelle saffiano patch mickey
+materiale ecopelle
+abbinamenti 
+description
+material faux leather
+components 
+ecopelle saffiano patch mikey .pochette pochette
+col. 119 
+fragola
+strawberry
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 088
+turchese
+turchese
+.capsule Disney
+.capsule Disney
+.capsule Disney .capsule Disney
+accessori accessories   33.
+code ACCEO118  MAS44
+descrizione accessorio portachiavi 
+mickey sfumato
+materiale plexiglass
+abbinamenti 
+description
+material plexiglass
+components 
+code ACCEO118  MAS45
+descrizione accessorio portachiavi 
+mickey stampato
+materiale plexiglass
+abbinamenti 
+description
+material plexiglass
+components 
+portachiavi mickey sfumato .portachiavi keychain
+portachiavi mickey stampato .portachiavi keychain
+col. 486 
+pink
+pink
+col. 119 
+fragola
+strawberry
+col. 055
+nero
+black
+col. 088
+turchese
+turchese
+col. 347
+cedro
+cedro
+.capsule Disney
+.capsule Disney
+.capsule Disney .capsule Disney
+.capsule Disney
+
+

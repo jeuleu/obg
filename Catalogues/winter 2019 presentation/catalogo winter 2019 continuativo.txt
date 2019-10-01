@@ -1,0 +1,1065 @@
+‘19 .carry over
+continuativo
+
+ .borse bags
+05 scocche body
+06 scocche body O bag
+07 scocche body O bag mini
+10 scocche body O bag beach
+11 scocche body O bag beach mini
+13 scocche body O swing
+14 scocche body O pocket
+13 manici e tracolle
+ handles and shoulder straps
+14 manici lunghi long handles
+17 manici corti short handles
+19 tracolle shoulder straps
+23 clip clip
+27 sacche interne inner bags
+28 sacche interne inner bags O bag
+28 sacche interne inner bags O bag mini
+29 sacche interne inner bags O swing
+ .orologi clocks
+32 O clock
+38 O clock great
+ .bracciali bracelets
+44 O bracelet flower slim
+45 O bracelet flower big
+ 
+
+.scocche bodies
+06.  O bag ‘19 carry over .continuativo
+code OBAGB001 EVS00
+descrizione scocca O bag XL extralight
+materiale XL extralight
+abbinamenti 
+description body O bag XL extralight
+material XL extralight
+components col. 071
+roccia
+rock
+col. 017
+blu navy
+blue navy
+col. 078
+sabbia
+sand
+col. 038
+grafite
+graphite
+col. 055
+nero
+black
+col. 371
+latte
+milk
+O bag .scocche body 
+.Continuativo
+.Continuativo
+.Continuativo .Continuativo
+.Continuativo.Continuativo
+scocche bodies   07.
+col. 038
+grafite
+graphite
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo.Continuativo
+.Continuativo
+code OBAGB002 EVS00
+descrizione scocca O bag mini XL 
+extralight
+materiale XL extralight
+abbinamenti 
+description body O bag mini XL extralight
+material XL extralight
+components 
+O bag mini .scocche body 
+col. 371 
+latte
+milk
+col. 017 
+blu navy
+navy blue
+col. 078 
+sabbia
+sand
+col. 071 
+roccia
+rock
+col. 055 
+nero
+black
+08.  O bag ‘19 carry over .continuativo
+.Continuativo
+code OBAGB018 EVS03
+descrizione scocca O bag beach mini XL 
+extralight midollino
+materiale XL extralight
+abbinamenti 
+description body O bag beach mini XL 
+extralight midollino
+material XL extralight
+components 
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 078
+sabbia
+sand
+O bag beach mini .scocche body 
+.Continuativo .Continuativo .Continuativo
+code OBAGB012 EVS03
+descrizione scocca O bag beach XL 
+extralight midollino
+materiale XL extralight
+abbinamenti 
+description body O bag beach XL 
+extralight midollino
+material XL extralight
+components 
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 078
+sabbia
+sand
+O bag beach .scocche body 
+.Continuativo .Continuativo .Continuativo
+.Continuativo
+10.  O bag ‘19 carry over .continuativo
+code OBAGB206 EVS00
+descrizione scocca  O pocket XL 
+extralight
+materiale XL extralight
+abbinamenti 
+description body  O pocket XL extralight
+material XL extralight
+components 
+col. 017 
+blu navy
+blue navy
+col. 078
+sabbia
+sand
+col. 055
+nero
+black
+col. 371
+latte
+milk
+col. 038
+grafite
+graphite
+col. 071
+roccia
+rock
+O pocket .scocche body 
+.Continuativo
+.Continuativo 
+.Continuativo
+.Continuativo .Continuativo
+.Continuativo
+scocche bodies   11.
+code OBAGB021 EVS03
+descrizione scocca O swing XL extralight 
+midollino
+materiale XL extralight
+abbinamenti 
+description body O swing XL extralight 
+midollino
+material XL extralight
+components 
+col. 017 
+blu navy
+blue navy
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 078
+sabbia
+sand
+O swing .scocche body 
+.Continuativo
+.Continuativo
+.Continuativo .Continuativo
+
+.manici e tracolle
+ handles and shoulder straps
+14.  O bag ‘19 carry over .continuativo
+code HLESG000 ECS01
+descrizione manico lungo ecopelle 
+martellato
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 008 
+bianco
+white
+col. 084
+testa di moro
+dark brown
+col. 054
+naturale
+natural
+col. 086
+tortora
+tortora
+col. 055
+nero
+black
+ecopelle martellato .manici e tracolle handles and shoulder straps 
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo 
+code HLESG000 PES00
+descrizione manico lungo pelle
+materiale pelle
+abbinamenti 
+description 
+material leather
+components 
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+col. 084
+testa di moro
+dark brown
+pelle .manici e tracolle handles and shoulder straps 
+.Continuativo .Continuativo .Continuativo
+manici e tracolle handles and shoulder strap   15.
+code HLESG000 ROS00
+descrizione manico lungo corda
+materiale corda
+abbinamenti 
+description 
+material rope
+components 
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 009
+blu
+blue
+col. 054
+naturale
+natural
+corda .manici e tracolle handles and shoulder straps 
+.Continuativo
+.Continuativo
+.Continuativo .Continuativo
+code HLESX200 ECS00
+descrizione manico extra slim goccia 
+lungo ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 008 
+bianco
+white
+col. 039
+grigio
+grey
+col. 009
+blu
+blue
+col. 055
+nero
+black
+col. 028
+ecru
+ecru
+col. 084
+testa di moro
+dark brown
+goccia lungo ecopelle .manici e tracolle handles and shoulder straps 
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+16.  O bag ‘19 carry over .continuativo
+code HLESCE01 ECS00
+descrizione manico doppia
+catena a “t”
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055
+nero + argento
+black + silver
+col. 612
+blu navy + argento
+blue navy + silver
+col. 613
+cuoio + argento
+leather + silver
+doppia catena ecopelle .manici e tracolle handles and shoulder straps 
+.Continuativo .Continuativo .Continuativo 
+manici e tracolle handles and shoulder strap   17.
+code HLESGC00 PES00
+descrizione manico corto pelle
+materiale pelle
+abbinamenti 
+description 
+material leather
+components 
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+col. 084
+testa di moro
+dark brown
+pelle .manici e tracolle handles and shoulder straps 
+.Continuativo .Continuativo .Continuativo
+code HLESGC00 ROS00
+descrizione manico corto corda
+materiale corda
+abbinamenti 
+description 
+material rope
+components 
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 009
+blu
+blue
+col. 054
+naturale
+natural
+corda .manici e tracolle handles and shoulder straps 
+.Continuativo
+.Continuativo
+.Continuativo .Continuativo
+code HLESX800 ECS00
+descrizione manico extra slim goccia 
+corto ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 008 
+bianco
+white
+col. 039
+grigio
+grey
+col. 009
+blu
+blue
+col. 055
+nero
+black
+col. 028
+ecru
+ecru
+col. 084
+testa di moro
+dark brown
+goccia corto ecopelle .manici e tracolle handles and shoulder straps 
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+code HLESGC00 ECS01
+descrizione manico corto ecopelle 
+martellato
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 008 
+bianco
+white
+col. 084
+testa di moro
+dark brown
+col. 054
+naturale
+natural
+col. 086
+tortora
+tortora
+col. 055
+nero
+black
+ecopelle martellato .manici e tracolle handles and shoulder straps 
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+18.  O bag ‘19 carry over .continuativo
+manici e tracolle handles and shoulder strap   19.
+code SHOUC006 MTS01
+descrizione tracolla catena lunga o 
+pocket metallo galvanizzato
+materiale metallo
+abbinamenti 
+description 
+material metal
+components 
+col. 004 
+argento
+silver
+col. 061
+oro
+gold
+col. 348
+ottone invecchiato
+aged brass
+tracolla catena lunga .manici e tracolle handles and shoulder straps 
+.Continuativo .Continuativo .Continuativo
+code SHOUC400 MTS01
+descrizione tracolla catena goccia forata 
+lunga metallo galvanizzato
+materiale metallo
+abbinamenti 
+description 
+material metal
+components 
+col. 004 
+argento
+silver
+tracolla catena goccia forata .manici e tracolle handles and shoulder straps 
+.Continuativo
+code SHOUC106 ECS00
+descrizione tracolla catena con fascia 
+lunga o pocket ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+tracolla catena con fascia .manici e tracolle handles and shoulder straps 
+.Continuativo
+code SHOUC106 ECS08
+descrizione tracolla catena con fascia 
+lunga o pocket ecopelle vernice
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+tracolla catena con fascia .manici e tracolle handles and shoulder straps 
+.Continuativo
+20.  O bag ‘19 carry over .continuativo
+manici e tracolle handles and shoulder strap   21.
+code SHOUC317 ECS00
+descrizione tracolla catena clip lunga 
+ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+col. 084
+testa di moro
+dark brown
+tracolla catena clip lunga .manici e tracolle handles and shoulder straps 
+.Continuativo .Continuativo .Continuativo
+code SHOUG617 ECS00
+descrizione tracolla con fibbia lunga 
+ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+col. 084
+testa di moro
+dark brown
+tracolla con fibbia .manici e tracolle handles and shoulder straps 
+.Continuativo .Continuativo
+manici e tracolle handles and shoulder strap   23.23.  O bag ‘19 carry over .continuativo
+code SHOUA203 ECS00
+descrizione accessorio goccia ecopelle
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+col. 084
+testa di moro
+dark brown
+goccia .accessorio accessory 
+goccia ecopelle vernice .accessorio accessory 
+.Continuativo .Continuativo
+code SHOUA203 ECS08
+descrizione accessorio goccia  ecopelle 
+vernice
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+.Continuativo
+code OBAGA000 ECS40
+descrizione accessorio clip ecopelle 
+opaca + oro
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 054 
+naturale
+natural
+col. 084
+testa di moro
+dark brown
+clip opaca + oro .accessorio accessory 
+.Continuativo .Continuativo
+24.  O bag ‘19 carry over .continuativo
+code OBAGA000 ECS42
+descrizione accessorio clip ecopelle 
+opaca + argento
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+.Continuativo
+clip ecopelle opaca + argento .accessorio accessory 
+manici e tracolle handles and shoulder strap   25.
+code SHOUA306 ECS39
+descrizione accessorio clip ecopelle 
+vernice + oro
+materiale ecopelle
+abbinamenti 
+description 
+material faux leather
+components 
+col. 055 
+nero
+black
+clip vernice + oro .accessorio accessory 
+.Continuativo
+
+.sacche interne inner bag
+28.  O bag ‘19 carry over .continuativo
+code OBAGS001 TES01
+descrizione sacca interna zip tessuto 
+canvas
+materiale tessuto
+abbinamenti 
+description 
+material fabric
+components 
+col. 008 
+bianco
+white
+col. 054
+naturale
+natural
+col. 009
+blu
+blue
+col. 055
+nero
+black
+col. 039
+grigio
+grey
+zip canvas .sacche interne inner bags O bag
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+code OBAGS002 TES01
+descrizione sacca interna zip o bag mini 
+tessuto canvas
+materiale tessuto
+abbinamenti 
+description 
+material fabric
+components 
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 009
+blu
+blue
+col. 054
+naturale
+natural
+zip canvas .sacche interne inner bags O bag mini
+.Continuativo
+.Continuativo
+.Continuativo .Continuativo
+sacche interne inner bags   29.
+code OBAGS121 TES01
+descrizione sacca interna coulisse o 
+swing tessuto canvas
+materiale tessuto
+abbinamenti 
+description 
+material fabric
+components 
+col. 054 
+naturale
+natural
+col. 055
+nero
+black
+coulisse canvas .sacche interne inner bags O swing
+.Continuativo .Continuativo 
+
+.orologi watches
+32. O bag ‘19 carry over .continuativo
+code OCLKD001 MES02
+descrizione o clock meccanismo pavè
+materiale 
+abbinamenti O clock
+description o clock dial pavè
+material 
+components O clock
+col. 004 
+argento
+silver
+col. 061
+oro
+gold
+dial pavè .meccanismi dial 
+.Continuativo .Continuativo
+code OCLKD001 MES10
+descrizione o clock meccanismo glitter
+materiale 
+abbinamenti O clock
+description o clock dial glitter
+material 
+components O clock
+col. 004 
+argento
+silver
+col. 061
+oro
+gold
+dial glitter .meccanismi dial 
+.Continuativo .Continuativo
+orologi watches   33.
+code OCLKD001 MES09
+descrizione o clock meccanismo cristal
+materiale 
+abbinamenti O clock
+description o clock dial cristal
+material 
+components O clock
+col. 014 
+blu elettrico
+blue electric
+col. 059
+oceano
+ocean
+col. 039
+grigio
+grey
+col. 077
+rubino
+rubino
+col. 055
+nero
+black
+col. 086
+tortora
+tortora
+dial cristal .meccanismi dial 
+.Continuativo
+.Continuativo
+.Continuativo 
+.Continuativo
+.Continuativo 
+.Continuativo
+col. 186 
+bianco mix
+white mix
+.Continuativo
+34.  O bag ‘19 carry over .continuativo
+code OCLKD001 MES03
+descrizione o clock meccanismo mirror
+materiale 
+abbinamenti O clock
+description o clock dial mirror
+material 
+components O clock
+col. 004 
+argento
+silver
+dial mirror .meccanismi dial 
+.Continuativo
+code OCLKD001 MES04
+descrizione o clock meccanismo soleil
+materiale 
+abbinamenti O clock
+description o clock dial soleil
+material 
+components O clock
+col. 004 
+argento
+silver
+col. 020
+bronzo
+bronze
+col. 061
+oro
+gold
+dial soleil .meccanismi dial 
+.Continuativo .Continuativo .Continuativo
+orologi watches   35.
+code OCLKD001 MES06
+descrizione o clock meccanismo tone 
+on tone
+materiale 
+abbinamenti O clock
+description o clock dial tone on tone
+material 
+components O clock
+col. 008 
+bianco
+white
+col. 059
+oceano
+ocean
+col. 041
+grigio scuro
+dark grey
+col. 071
+roccia
+rock
+col. 055
+nero
+black
+dial tone on tone .meccanismi dial 
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+.Continuativo
+code OCLKD001 MES07
+descrizione o clock meccanismo numeri
+materiale 
+abbinamenti O clock
+description o clock dial numeri
+material 
+components O clock
+col. 004 
+argento
+silver
+col. 025
+rosa cipria
+powder pink
+col. 055
+nero
+black
+col. 008
+bianco
+white
+col. 013
+blu capri
+blue capri
+dial numeri .meccanismi dial 
+.Continuativo
+.Continuativo.Continuativo
+.Continuativo .Continuativo
+36. O bag ‘19 carry over .continuativo
+code OCLKS007 SIS01
+descrizione o clock cinturino cover 
+silicone
+materiale silicone
+abbinamenti O clock
+description o clock strap cover silicone
+material silicone
+components O clock
+col. 008
+bianco
+white
+silicone .cinturino strap 
+gener S
+gener S
+gener XS
+gener XS
+gener S
+gener XS
+gener XS
+gener S
+gener XS
+gener XS
+gener S
+gener XS
+gener S gener S
+gener M
+gener M gener M gener M gener M
+gener M gener M
+gener L
+gener L gener L gener L gener L
+gener L gener L
+col. 041
+grigio scuro
+dark grey
+col. 055 
+nero
+black
+col. 059
+oceano
+ocean
+col. 071 
+roccia
+rock
+col. 086
+tortora
+tortora
+col. 133 
+grigio chiaro
+light grey
+orologi watches   37.
+38.  O bag ‘19 carry over .continuativo
+code OCLKD101 MES04
+descrizione meccanismo great soleil
+materiale 
+abbinamenti O clock
+description dial great soleil
+material 
+components O clock
+col. 004 
+argento
+silver
+col. 055
+nero
+black
+col. 009
+blu
+blue
+col. 020
+bronzo
+bronze
+ soleil .meccanismi dial 
+.Continuativo
+.Continuativo
+.Continuativo .Continuativo
+code OCLKD104 MES06
+descrizione meccanismo great date tone 
+on tone
+materiale 
+abbinamenti O clock
+description dial great date tone on tone
+material 
+components O clock
+col. 008 
+bianco
+white
+col. 039
+grigio
+grey
+col. 055
+nero
+black
+date tone on tone .meccanismi dial 
+.Continuativo .Continuativo .Continuativo
+orologi watches   39.
+code OCLKD101 MES06
+descrizione meccanismo great tone on 
+tone
+materiale 
+abbinamenti O clock
+description dial great tone on tone
+material 
+components O clock
+col. 008 
+bianco
+white
+col. 039
+grigio
+grey
+col. 055
+nero
+black
+ tone on tone .meccanismi dial 
+.Continuativo .Continuativo .Continuativo
+code OCLKD104 MES04
+descrizione meccanismo great date soleil
+materiale 
+abbinamenti O clock
+description dial great date soleil
+material 
+components O clock
+col. 009 
+blu
+blue
+col. 055
+nero
+black
+date soleil .meccanismi dial 
+.Continuativo .Continuativo
+40. O bag ‘19 carry over .continuativo
+code OCLKS107 SIS01
+descrizione o clock cinturino great cover 
+silicone
+materiale silicone
+abbinamenti O clock
+description o clock strap great cover 
+silicone
+material silicone
+components O clock
+col. 008 
+bianco
+white
+col. 041
+grigio scuro
+dark grey
+silicone .cinturino strap 
+gener S
+gener S gener S
+gener S gener S
+gener M
+gener M gener M
+gener M gener M
+gener L
+gener L gener L
+gener L gener L
+col. 055 
+nero
+black
+col. 059
+oceano
+ocean
+col. 071 
+roccia
+rock
+orologi watches   41.
+
+.bracciali bracelets
+44. O bag ‘19 carry over .continuativo
+code OBRCF002 SIS01
+descrizione o bracelet flower slim 
+silicone
+materiale silicone
+abbinamenti 
+description o bracelet flower slim silicone
+material silicone
+components 
+col. 055 
+nero
+black
+col. 071
+roccia
+rock
+col. 059
+oceano
+ocean
+flower slim .bracciali bracelets 
+col. 086 
+tortora
+tortora
+col. 008
+bianco
+white
+gener S
+gener S gener S
+gener S gener S
+gener M
+gener M gener M
+gener M gener M
+bracciali bracelets   45.
+col. 055 
+nero
+black
+col. 071
+roccia
+rock
+col. 059
+oceano
+ocean
+col. 086 
+tortora
+tortora
+gener S
+gener S
+gener S gener S
+gener M
+gener M
+gener M gener M
+code OBRCF003 SIS01
+descrizione o bracelet flower big silicone
+materiale silicone
+abbinamenti 
+description o bracelet flower big silicone
+material silicone
+components 
+flower big .bracciali bracelets 
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+

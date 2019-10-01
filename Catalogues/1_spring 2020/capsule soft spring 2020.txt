@@ -1,0 +1,508 @@
+CAPSULE SOFT
+SPRING 2020
+
+ .index
+05 scocche body
+06 scocca body O bag melville
+07 scocca body O bag geneva texture intreccio
+08 scocca body O smooth mini texture intreccio
+09 scocca body O smooth mini
+10 scocca body O mild
+12 zaini backpacks
+14 O jolie texture intreccio
+15 O ride texture intreccio
+15 O ride
+16 manici e tracolle handles and shoulder strap
+18 manici lunghi long handle
+20 manici corti short handle
+21 tracolla shoulder strap
+24 accessori accessories
+26 beauty
+27 portafoglio wallet O wally
+
+scocche
+bodies
+06.   O bag capsule soft spring 2020
+code OBAGB882 TES20
+descrizione scocca con chiusura O bag 
+melville tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+O bag melville .scocca body
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+CONSIGLIATO:
+manico catena a t
+tessuto gommato
+HLESCH01 TES20
+pag. 18
+scocche bodies   07.
+code OBAGB983 TESDV
+descrizione scocca con chiusura O bag 
+geneva tessuto gommato texture intreccio
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+O bag geneva texture intreccio .scocca body
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+CONSIGLIATO:
+manico forato piatto esagonale
+tessuto gommato
+HLESI101 TES20
+pag. 19
+08.   O bag capsule soft spring 2020
+code OBAGBP50 TESDV
+descrizione scocca con pattina O 
+smooth mini tessuto gommato texture 
+intreccio
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+O smooth mini texture intreccio .scocca body
+OBBLIGATORIO:
+tracolla new generico stretta
+tessuto gommato
+SHOUWG00 TES20
+pag. 22
+scocche bodies   09.
+code OBAGBP50 TES20
+descrizione scocca con pattina O 
+smooth mini tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 017 
+blu navy
+navy blue
+col. 078 
+sabbia
+sand
+col. 055 
+nero
+black
+col. 008 
+bianco
+white
+col. 111 
+ocra
+ochre
+O smooth mini .scocca body
+OBBLIGATORIO:
+tracolla new generico stretta
+tessuto gommato
+SHOUWG00 TES20
+pag. 22
+10.   O bag capsule soft spring 2020
+code OBAGBW40 TES20
+descrizione scocca con chiusura new O 
+mild tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+O mild .scocca body
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+CONSIGLIATO:
+manico generico corto alamaro
+tessuto gommato
+HLESGC20M TES20
+pag. 20
+tracolla new generico larga
+tessuto gommato
+shouwf00m tes20
+pag. 21
+scocche bodies   11.
+
+zaini
+backpacks
+14.   O bag capsule soft spring 2020
+code OBAGZ502 TESDV
+descrizione scocca zaino completo con 
+chiusura zip e spallaccio O jolie tessuto 
+gommato texture intreccio
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+O jolie texture intreccio .zaino completo complete backpack
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+zaini backpacks   15.
+code OBAGZP01 TESDV
+descrizione scocca zaino completo 
+con pattina e spallaccio O ride tessuto 
+gommato texture intreccio
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 078 
+sabbia
+sand
+O ride texture intreccio .zaino completo complete backpack
+code OBAGZP01 TES20
+descrizione scocca zaino completo 
+con pattina e spallaccio O ride tessuto 
+gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+col. 017 
+blu navy
+navy blue
+col. 111 
+ocra
+ochre
+O ride .zaino completo complete backpack
+handles and shoulder strap
+manici e tracolle
+handles and shoulder strap
+18.   O bag capsule soft spring 2020
+code HLESC401 TES20
+descrizione manico catena lungo a “t” 
+tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+manico catena lungo a “t” .manici lunghi long handles
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+manici e tracolle handles and shoulder straps   19.
+code HLESI101 TES20
+descrizione manico forato piatto 
+esagonale tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+manico forato piatto esagonale .manici lunghi long handles
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+20.   O bag capsule soft spring 2020
+code HLESGC20 TES20
+descrizione manico generico corto 
+alamaro tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+manico generico corto alamaro .manici corti short handles
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+manici e tracolle handles and shoulder straps   21.
+code SHOUWF00 TES20
+descrizione tracolla new generico larga 
+tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+tracolla new generico larga .tracolla shoulder strap
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+22.   O bag capsule soft spring 2020
+code SHOUWG00 TES20
+descrizione tracolla new generico stretta 
+tessuto gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+tracolla new generico stretta .tracolla shoulder strap
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+manici e tracolle handles and shoulder straps   23.
+
+accessori
+accessories
+26.   O bag capsule soft spring 2020
+code ACCEB000 TES20
+descrizione accessorio beauty tessuto 
+gommato
+materiale tessuto gommato
+description 
+material rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+beauty
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+accessori accessories   27.
+code WLLTC201 TESEB
+descrizione portafoglio completo con 
+chiusura zip donna O wally tessuto 
+gommato + pelle
+materiale pelle + tessuto gommato
+description 
+material leather + rubber coated fabric
+col. 656 
+cassis
+cassis
+col. 008 
+bianco
+white
+col. 078 
+sabbia
+sand
+col. 017 
+blu navy
+navy blue
+col. 002 
+amaranto
+amaranth
+col. 023 
+celeste
+sky blue
+O wally .portafoglio wallet
+col. 055 
+nero
+black
+col. 111 
+ocra
+ochre
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+
+

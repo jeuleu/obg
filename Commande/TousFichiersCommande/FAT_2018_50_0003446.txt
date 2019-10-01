@@ -1,0 +1,279 @@
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P.Iva 44808894489
+2017 RI/OBAG/16279 258699
+2018 04/OBAG/1024 136986
+2018 04/OBAG/1042 136987
+2018 04/OBAG/1075 137302
+ // 
+6
+7
+8
+10
+9
+5
+1
+2
+4
+3
+11
+HLESG000
+HLESG000
+HLESG000
+HLESG000
+HLESG000
+HLESG000
+OBAGB034
+OBAGB034
+OBAGB034
+OBAGB033
+ECS01
+ECS01
+ECS04
+PES00
+ROS00
+ROS00
+EVS00
+EVS00
+EVS00
+EVS00
+000_SPTRASP
+AGENTE DIREZIONALE SOCIETA' D01
+Proforma da Prebolle
+P002 BONIFICO CLIENTE
+Modèle Cod.pièceN. Couleur
+055
+084
+038
+054
+054
+055
+075
+389
+389
+371
+002488 O BAG STORE BLAGNAC
+Client
+Justificatif
+Cod.paiement
+Remise fin. Remise en-t remise cond.
+label
+Agent
+Document
+Document
+Date doc.
+Date doc.
+Client dest.
+Client dest.
+Qté Prix Remises Montant Cadeau
+N° Com
+N° Com
+N° Com
+N° Com
+N° Com
+Récapitulatifs
+1
+N. jours
+002487 Pag
+ Banque
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+ - 
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+NR  38,00 38,000 1,000
+ANSES LONGUES EN FAUX CUIR MARTELÉ
+ANSES LONGUES EN FAUX CUIR MARTELÉ
+ANSES LONGUES EN FAUX CUIR POMPON
+ANSES LONGUES EN CUIR
+ANSES LONGUES EN CORDE
+ANSES LONGUES EN CORDE
+CORPS O BAG GLAM EVA COMPOUND
+CORPS O BAG GLAM EVA COMPOUND
+CORPS O BAG GLAM EVA COMPOUND
+CORPS O BAG URBAN EVA COMPOUND
+DÉBIT FRAIS DE TRANSPORT
+3926909790
+3926909790
+3926909790
+42050090
+5609000000
+5609000000
+4202221000
+4202221000
+4202221000
+4202221000
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+Transporteurs
+Document label N° Com label
+EUR 1.158,82
+EUR
+Total Facture
+Facture pro forma
+2018 50 3446 13/12/2018
+VEND.N.I.ART.41 L.427/93 UE
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Um 
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+Taille
+ 30,000
+ 20,000
+ 20,000
+ 10,000
+ 10,000
+ 10,000
+ 5,000
+ 5,000
+ 4,000
+ 1,000
+ 9,600
+ 9,600
+ 7,030
+ 16,200
+ 7,390
+ 7,390
+ 12,590
+ 12,590
+ 12,590
+ 14,160
+ 288,00
+ 192,00
+ 140,60
+ 162,00
+ 73,90
+ 73,90
+ 62,95
+ 62,95
+ 50,36
+ 14,16
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P.Iva 44808894489
+ 0,00
+ 0,00
+ 0,00
+13/12/2018
+      
+ 1.158,82
+      
+ 1.120,82
+ 38,00
+ 1.120,82
+ 0,00
+ 0,00  1.120,82
+EUR 1.158,82
+392690979
+420222100
+42050090
+560900000
+70
+15
+10
+20
+KG
+KG
+KG
+KG
+9,9
+3,662
+1,5
+5
+620,6
+190,42
+162
+147,8
+PZ
+PZ
+PZ
+PZ
+9,9
+3,662
+1,5
+5
+620,6
+190,42
+162
+147,8
+Client
+Récapitulatifs douaniers
+Catégorie Um poids Poids Um qté Qté Valeur
+Echéances
+Date éch. Montant
+Totaux
+Tot.remises
+Tot. remises
+Tot.remise en-tête
+Tot. remise fin.
+Tot.cadeaux
+Acomptes
+Montants
+Montant brut
+Brut frais
+Montant net de tout 
+Nette tot
+Total Facture
+Total
+Total
+Total
+Total
+2002487 Pag
+EUR 1.158,82
+EUR
+Total Facture
+Facture pro forma
+2018 50 3446 13/12/2018
+VEND.N.I.ART.41 L.427/93 UE
+Année Index N. Date
+Exemption
+Intention
+Échéance

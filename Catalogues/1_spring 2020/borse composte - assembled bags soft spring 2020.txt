@@ -1,0 +1,583 @@
+CAPSULE SOFT
+SPRING 2020
+borse composte - assembled bags
+
+ .index
+04 borse bags O mild
+08 borse bags O bag melville
+12 borse bags O bag geneva
+16 borse bags O smooth mini
+20 zaini backpacks O jolie
+24 zaini backpacks O ride
+28 accessori accessories beauty
+32 accessori accessories O wally
+BORSA SOFT_ MILD_90
+code OKIT2001_MIS14_WS201
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 055
+scocca completa con chiusura new O 
+mild tessuto gommato nero
+code HLESGC20 TES20 055
+manico generico corto alamaro tessuto 
+gommato nero
+code SHOUWF00 TES20 055
+tracolla new generico larga tessuto 
+gommato nero
+BORSA SOFT_ MILD_91
+code OKIT2001_MIS14_WS202
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 017
+scocca completa con chiusura new O 
+mild tessuto gommato blu navy
+code HLESGC20 TES20 017
+manico generico corto alamaro tessuto 
+gommato blu navy
+code SHOUWF00 TES20 017
+tracolla new generico larga tessuto 
+gommato blu navy
+4.   O bag soft spring 2020
+BORSA SOFT_ MILD_92
+code OKIT2001_MIS14_WS203
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 078
+scocca completa con chiusura new O 
+mild tessuto gommato sabbia
+code HLESGC20 TES20 078
+manico generico corto alamaro tessuto 
+gommato betulla
+code SHOUWF00 TES20 078
+tracolla new generico larga tessuto 
+gommato betulla
+BORSA SOFT_ MILD_93
+code OKIT2001_MIS14_WS204
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 023
+scocca completa con chiusura new O 
+mild tessuto gommato celeste
+code HLESGC20 TES20 023
+manico generico corto alamaro tessuto 
+gommato celeste
+code SHOUWF00 TES20 023
+tracolla new generico larga tessuto 
+gommato celeste
+borse composte assembled bags   5.
+BORSA SOFT_ MILD_94
+code OKIT2001_MIS14_WS205
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 111
+scocca completa con chiusura new O 
+mild tessuto gommato ocra
+code HLESGC20 TES20 111
+manico generico corto alamaro tessuto 
+gommato ocra
+code SHOUWF00 TES20 111
+tracolla new generico larga tessuto 
+gommato ocra
+BORSA SOFT_ MILD_95
+code OKIT2001_MIS14_WS206
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 008
+scocca completa con chiusura new O 
+mild tessuto gommato bianco
+code HLESGC20 TES20 008
+manico generico corto alamaro tessuto 
+gommato bianco
+code SHOUWF00 TES20 008
+tracolla new generico larga tessuto 
+gommato bianco
+6.   O bag soft spring 2020
+BORSA SOFT_ MILD_96
+code OKIT2001_MIS14_WS207
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 002
+scocca completa con chiusura new O 
+mild tessuto gommato amaranto
+code HLESGC20 TES20 002
+manico generico corto alamaro tessuto 
+gommato amaranto
+code SHOUWF00 TES20 002
+tracolla new generico larga tessuto 
+gommato amaranto
+BORSA SOFT_ MILD_97
+code OKIT2001_MIS14_WS208
+descrizione scocca + manici + tracolla
+description body + handles + shoulder strap
+code OBAGBW40 TES20 656
+scocca completa con chiusura new O 
+mild tessuto gommato cassis
+code HLESGC20 TES20 656
+manico generico corto alamaro tessuto 
+gommato cassis
+code SHOUWF00 TES20 656
+tracolla new generico larga tessuto 
+gommato cassis
+borse composte assembled bags   7.
+BORSA SOFT_ MELVILLE_96
+code OKIT2001_MIS14_WS207
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 055
+scocca con chiusura zip O bag melville 
+tessuto gommato nero
+code HLESC401 TES20 055
+manico catena lungo a “t” tessuto 
+gommato nero
+BORSA SOFT_ MELVILLE_98
+code OKIT2001_MIS14_WS210
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 017
+scocca con chiusura zip O bag melville 
+tessuto gommato blu navy
+code HLESC401 TES20 017
+manico catena lungo a “t” tessuto 
+gommato blu navy
+8.   O bag soft spring 2020
+BORSA SOFT_ MELVILLE_99
+code OKIT2001_MIS14_WS211
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 078
+scocca con chiusura zip O bag melville 
+tessuto gommato betulla
+code HLESC401 TES20 078
+manico catena lungo a “t” tessuto 
+gommato betulla
+BORSA SOFT_ MELVILLE_100
+code OKIT2001_MIS14_WS212
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 023
+scocca con chiusura zip O bag melville 
+tessuto gommato celeste
+code HLESC401 TES20 023
+manico catena lungo a “t” tessuto 
+gommato celeste
+borse composte assembled bags   9.
+BORSA SOFT_ MELVILLE_101
+code OKIT2001_MIS14_WS213
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 111
+scocca con chiusura zip O bag melville 
+tessuto gommato ocra
+code HLESC401 TES20 111
+manico catena lungo a “t” tessuto 
+gommato ocra
+BORSA SOFT_ MELVILLE_102
+code OKIT2001_MIS14_WS214
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 008
+scocca con chiusura zip O bag melville 
+tessuto gommato bianco
+code HLESC401 TES20 008
+manico catena lungo a “t” tessuto 
+gommato bianco
+10.   O bag soft spring 2020
+BORSA SOFT_ MELVILLE_103
+code OKIT2001_MIS14_WS215
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 002
+scocca con chiusura zip O bag melville 
+tessuto gommato amaranto
+code HLESC401 TES20 002
+manico catena lungo a “t” tessuto 
+gommato amaranto
+BORSA SOFT_ MELVILLE_104
+code OKIT2001_MIS14_WS216
+descrizione scocca + manici
+description body + handles
+code OBAGB882 TES20 656
+scocca con chiusura zip O bag melville 
+tessuto gommato cassis
+code HLESC401 TES20 656
+manico catena lungo a “t” tessuto 
+gommato cassis
+borse composte assembled bags   11.
+BORSA SOFT_ GENEVA_105
+code OKIT2001_MIS15_WS217
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 055
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio nero
+code HLESI101 TES20 055
+manico forato piatto esagonale tessuto 
+gommato nero
+BORSA SOFT_ GENEVA_106
+code OKIT2001_MIS15_WS218
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 017
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio blu 
+navy
+code HLESI101 TES20 017
+manico forato piatto esagonale tessuto 
+gommato blu navy
+12.   O bag soft spring 2020
+BORSA SOFT_ GENEVA_107
+code OKIT2001_MIS15_WS219
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 078
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio 
+betulla
+code HLESI101 TES20 078
+manico forato piatto esagonale tessuto 
+gommato betulla
+BORSA SOFT_ GENEVA_108
+code OKIT2001_MIS15_WS220
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 023
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio 
+celeste
+code HLESI101 TES20 023
+manico forato piatto esagonale tessuto 
+gommato celeste
+borse composte assembled bags   13.
+BORSA SOFT_ GENEVA_109
+code OKIT2001_MIS15_WS221
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 111
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio ocra
+code HLESI101 TES20 111
+manico forato piatto esagonale tessuto 
+gommato ocra
+BORSA SOFT_ GENEVA_110
+code OKIT2001_MIS15_WS222
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 008
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio 
+bianco
+code HLESI101 TES20 008
+manico forato piatto esagonale tessuto 
+gommato bianco
+14.   O bag soft spring 2020
+BORSA SOFT_ GENEVA_111
+code OKIT2001_MIS15_WS223
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 002
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio 
+amaranto
+code HLESI101 TES20 002
+manico forato piatto esagonale tessuto 
+gommato amaranto
+BORSA SOFT_ GENEVA_112
+code OKIT2001_MIS15_WS224
+descrizione scocca + manici
+description body + handles
+code OBAGB983 TESDV 656
+scocca con chiusura O bag geneva 
+tessuto gommato texture intreccio 
+cassis
+code HLESI101 TES20 656
+manico forato piatto esagonale tessuto 
+gommato cassis
+borse composte assembled bags   15.
+BORSA SOFT_ SMOOTH_113
+code OKIT2001_MIS16_WS225
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TES20 055
+scocca con pattina O smooth mini 
+tessuto gommato nero
+code SHOUWG00 TES20 055
+tracolla new generico stretta tessuto 
+gommato nero
+BORSA SOFT_ SMOOTH_114
+code OKIT2001_MIS16_WS226
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TES20 017
+scocca con pattina O smooth mini 
+tessuto gommato blu navy
+code SHOUWG00 TES20 017
+tracolla new generico stretta tessuto 
+gommato blu navy
+16.   O bag soft spring 2020
+BORSA SOFT_ SMOOTH_115
+code OKIT2001_MIS16_WS227
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TES20 078
+scocca con pattina O smooth mini 
+tessuto gommato sabbia
+code SHOUWG00 TES20 078
+tracolla new generico stretta tessuto 
+gommato sabbia
+BORSA SOFT_ SMOOTH_116
+code OKIT2001_MIS16_WS228
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TESDV 023
+scocca con pattina O smooth mini 
+tessuto gommato texture intreccio 
+celeste
+code SHOUWG00 TES20 023
+tracolla new generico stretta tessuto 
+gommato celeste
+borse composte assembled bags   17.
+BORSA SOFT_ SMOOTH_117
+code OKIT2001_MIS16_WS229
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TES20 111
+scocca con pattina O smooth mini 
+tessuto gommato ocra
+code SHOUWG00 TES20 111
+tracolla new generico stretta tessuto 
+gommato ocra
+BORSA SOFT_ SMOOTH_118
+code OKIT2001_MIS16_WS230
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TES20 008
+scocca con pattina O smooth mini 
+tessuto gommato bianco
+code SHOUWG00 TES20 008
+tracolla new generico stretta tessuto 
+gommato bianco
+18.   O bag soft spring 2020
+BORSA SOFT_ SMOOTH_119
+code OKIT2001_MIS16_WS231
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TESDV 002
+scocca con pattina O smooth mini 
+tessuto gommato texture intreccio 
+amaranto
+code SHOUWF00M TES20 002
+tracolla new generico larga tessuto 
+gommato amaranto
+BORSA SOFT_ SMOOTH_120
+code OKIT2001_MIS16_WS232
+descrizione scocca + tracolla
+description body + shoulder strap
+code OBAGBP50 TES20 656
+scocca con pattina O smooth mini 
+tessuto gommato cassis
+code SHOUWF00M TES20 656
+tracolla new generico larga tessuto 
+gommato cassis
+borse composte assembled bags   19.
+BORSA SOFT_ JOLIE_121
+code OBAGZ502_TESDV_055
+code OBAGZ502 TESDV 055
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio nero
+BORSA SOFT_ JOLIE_122
+code OBAGZ502_TESDV_017
+code OBAGZ502 TESDV 017
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio blu navy
+20.   O bag soft spring 2020
+BORSA SOFT_ JOLIE_123
+code OBAGZ502_TESDV_078
+code OBAGZ502 TESDV 078
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio sabbia
+BORSA SOFT_ JOLIE_124
+code OBAGZ502_TESDV_023
+code OBAGZ502 TESDV 023
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio celeste
+borse composte assembled bags   21.
+BORSA SOFT_ JOLIE_125
+code OBAGZ502_TESDV_111
+code OBAGZ502 TESDV 111
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio ocra
+BORSA SOFT_ JOLIE_126
+code OBAGZ502_TESDV_008
+code OBAGZ502 TESDV 008
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio bianco
+22.   O bag soft spring 2020
+BORSA SOFT_ JOLIE_127
+code OBAGZ502_TESDV_002
+code OBAGZ502 TESDV 002
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio amaranto
+BORSA SOFT_ JOLIE_128
+code OBAGZ502_TESDV_656
+code OBAGZ502 TESDV 656
+scocca zaino completo con chiusura zip 
+e spallaccio O jolie tessuto gommato 
+texture intreccio cassis
+borse composte assembled bags   23.
+BORSA SOFT_ RIDE_129
+code OBAGZP01_TES20_055
+code OBAGZP01 TES20 055
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato nero
+BORSA SOFT_ RIDE_130
+code OBAGZP01_TES20_017
+code OBAGZP01 TES20 017
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato blu navy
+24.   O bag soft spring 2020
+BORSA SOFT_ RIDE_131
+code OBAGZP01_TESDV_078
+code OBAGZP01 TESDV 078
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato texture intreccio 
+sabbia
+BORSA SOFT_ RIDE_132
+code OBAGZP01_TES20_023
+code OBAGZP01 TES20 023
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato celeste
+borse composte assembled bags   25.
+BORSA SOFT_ RIDE_133
+code OBAGZP01_TES20_111
+code OBAGZP01 TES20 111
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato ocra
+BORSA SOFT_ RIDE_134
+code OBAGZP01_TES20_008
+code OBAGZP01 TES20 008
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato bianco
+26.   O bag soft spring 2020
+BORSA SOFT_ RIDE_135
+code OBAGZP01_TES20_002
+code OBAGZP01 TES20 002
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato amaranto
+BORSA SOFT_ RIDE_136
+code OBAGZP01_TESDV_656
+code OBAGZP01 TESDV 656
+scocca zaino con pattina e spallaccio O 
+ride tessuto gommato texture intreccio 
+cassis
+borse composte assembled bags   27.
+ACCESSORIO_BEAUTY_137
+code ACCEB000_TES20_055
+code ACCEB000 TES20 055
+accessorio beauty tessuto gommato 
+nero
+ACCESSORIO_BEAUTY_138
+code ACCEB000_TES20_017
+code ACCEB000 TES20 017
+accessorio beauty tessuto gommato blu 
+navy
+28.   O bag soft spring 2020
+ACCESSORIO_BEAUTY_139
+code ACCEB000_TES20_078
+code ACCEB000 TES20 078
+accessorio beauty tessuto gommato 
+sabbia
+ACCESSORIO_BEAUTY_140
+code ACCEB000_TES20_023
+code ACCEB000 TES20 023
+accessorio beauty tessuto gommato 
+celeste
+borse composte assembled bags   29.
+ACCESSORIO_BEAUTY_141
+code ACCEB000_TES20_111
+code ACCEB000 TES20 111
+accessorio beauty tessuto gommato 
+ocra
+ACCESSORIO_BEAUTY_142
+code ACCEB000_TES20_008
+code ACCEB000 TES20 008
+accessorio beauty tessuto gommato 
+bianco
+30.   O bag soft spring 2020
+ACCESSORIO_BEAUTY_143
+code ACCEB000_TES20_002
+code ACCEB000 TES20 002
+accessorio beauty tessuto gommato 
+amaranto
+ACCESSORIO_BEAUTY_144
+code ACCEB000_TES20_656
+code ACCEB000 TES20 656
+accessorio beauty tessuto gommato 
+cassis
+borse composte assembled bags   31.
+ACCESSORIO_PORTAFOGLIO_ 145
+code WLLTC201_TESEB_055
+code WLLTC201 TESEB 055
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+nero
+ACCESSORIO_PORTAFOGLIO_ 146
+code WLLTC201_TESEB_017
+code WLLTC201 TESEB 017
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+blu navy
+32.   O bag soft spring 2020
+ACCESSORIO_PORTAFOGLIO_ 147
+code WLLTC201_TESEB_078
+code WLLTC201 TESEB 078
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+sabbia
+ACCESSORIO_PORTAFOGLIO_ 148
+code WLLTC201_TESEB_023
+code WLLTC201 TESEB 023
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+celeste
+borse composte assembled bags   33.
+ACCESSORIO_PORTAFOGLIO_ 149
+code WLLTC201_TESEB_111
+code WLLTC201 TESEB 111
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+ocra
+ACCESSORIO_PORTAFOGLIO_ 150
+code WLLTC201_TESEB_008
+code WLLTC201 TESEB 008
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+bianco
+34.   O bag soft spring 2020
+ACCESSORIO_PORTAFOGLIO_ 151
+code WLLTC201_TESEB_002
+code WLLTC201 TESEB 002
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+amaranto
+ACCESSORIO_PORTAFOGLIO_ 152
+code WLLTC201_TESEB_656
+code WLLTC201 TESEB 656
+portafoglio completo con chiusura zip 
+donna O wally tessuto gommato + pelle 
+cassis
+borse composte assembled bags   35.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+
+

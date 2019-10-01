@@ -1,0 +1,79 @@
+ // 
+1 000_ANTICI
+ 0,00
+ 0,00
+ 0,00
+1G
+      
+VEND.N.I.ART.41 L.427/93 UE  3.436,12
+     
+0
+     
+ 0,00
+      
+30/04/2018
+      
+ 3.436,12
+      
+ 0,00
+ 3.436,12
+ 0,00
+ 0,00
+ 0,00  0,00
+EUR 3.436,12
+Document Date doc. Client dest.
+Num. C.de
+Récapitulatif TVA
+TVA Imposable Participation Configurer
+Echéances
+Date Montant
+Totaux
+Remises
+Remise
+Remise En-tête
+Remise financière
+Cadeaux
+Acomptes
+Montants
+Montant brut
+Brut frais
+Montant net de tout 
+Montant net
+Total AVOIR
+NR  3.436,12 3.436,120 1 1G
+ACOMPTE 2018 / 351 / 257 / 1Description
+****** 08/05/2018 *** 08/05/2018 08/05/2018 label  1
+Nota di credito per storno totale.
+Rif. fattura n° 257-351-2018 del 20/04/18
+FT
+Nota di Credito Storno Anticipo ESTERO
+P002 BONIFICO CLIENTE
+EUR 3.436,12
+EUR
+Justificatif
+Cod. Paiem.
+Remise fin. Remise en-t remise cond.
+IBAN
+Notes facture
+Total AVOIR
+N.jours
+ Banque
+2018 351 284 30/04/2018
+VEND.N.I.ART.41 L.427/93 UE  
+30/04/2018
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Lettre
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P. Iva 44808894489
+Client 1002487
+Pag
+Document /// label Num. C.de --- label
+Modèle PièceN. Couleur QTÉ
+Prix
+Remises Montant Cadeaux TVAUm Taille
+1

@@ -1,0 +1,1308 @@
+capsule beach
+2019 collection
+
+ .borse bags
+05 scocche body
+06 scocche body O bag
+07 scocche body O bag mini
+08 scocche body O bag beach
+09 scocche body O bag beach mini
+11 scocche body O bag twist mini
+12 scocche body O bag swing
+13 scocche body O bag sand
+14 scocche body O bag urban mini
+17 scocche body O bag lace
+18 scocche body O bag market
+21 scocche body O bag sailor
+23 scocche body O bag bonita
+25 scocche body O sweet
+29 manici e tracolle
+ handles and shoulder straps
+30 manici lunghi long handles
+33 manici corti short handles
+39 sacche interne inner bags
+40 sacche interne inner bags O bag
+42 sacche interne inner bags O bag mini
+43 sacche interne inner bags O bag beach
+44 sacche interne inner bags O bag beach mini
+45 sacche interne inner bags O swing
+46 sacche interne inner bags O bag twist mini
+47 sacche interne inner bags O bag sand
+48 sacche interne inner bags O bag urban mini
+51 accessori accessories
+52 pochette pochette
+52 cappellino baseball baseball cap
+53 accessorio foulard collo foulard neck accessory
+54 telo mare beach towel
+ .occhiali sunglasses
+73 O sun
+
+scocche
+bodies
+code OBAGB001 EVS00
+descrizione scocca O bag eva 
+compound
+materiale eva compound
+abbinamenti O bag
+description 
+material eva compound
+components O bag
+col. 055 
+nero
+black
+col. 088
+turchese
+turquoise
+col. 026
+cobalto
+cobalt
+col. 371
+latte
+milk
+col. 119
+fragola
+strawberry
+O bag .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+.capsule beach 2019 .capsule beach 2019
+col. 017
+blu navy
+navy blue
+.capsule beach 2019
+06.   O bag   capsule beach 2019
+code OBAGB002 EVS00
+descrizione scocca O bag mini eva 
+compound
+materiale eva compound
+abbinamenti O bag mini
+description 
+material eva compound
+components O bag mini
+col. 371 
+latte
+milk
+col. 119
+fragola
+strawberry
+col. 055
+nero
+black
+col. 088
+turchese
+turquoise
+O bag mini .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 026
+cobalto
+cobalt
+.capsule beach 2019
+col. 017
+blu navy
+navy blue
+.capsule beach 2019
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+.capsule beach 2019 .capsule beach 2019
+scocche bodies   07.
+code OBAGB012 EVS03
+descrizione scocca O bag beach eva 
+compound midollino
+materiale eva compound
+abbinamenti O bag beach
+description 
+material eva compound
+components O bag beach
+col. 119 
+fragola
+strawberry
+col. 347
+cedro
+cedro
+col. 371
+latte
+milk
+col. 486
+pink
+pink
+col. 026
+cobalto
+cobalt
+O bag beach .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 088
+turchese
+turquoise
+.capsule beach 2019
+col. 017
+blu navy
+navy blue
+col. 055
+nero
+black
+.capsule beach 2019 .capsule beach 2019
+08.   O bag   capsule beach 2019
+code OBAGB018 EVS03
+descrizione scocca O bag beach mini 
+eva compound midollino
+materiale eva compound
+abbinamenti O bag beach mini
+description 
+material eva compound
+components O bag beach mini
+col. 119 
+fragola
+strawberry
+col. 347
+cedro
+cedro
+col. 371
+latte
+milk
+col. 486
+pink
+pink
+col. 026
+cobalto
+cobalt
+O bag beach mini .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 088
+turchese
+turquoise
+.capsule beach 2019
+col. 017
+blu navy
+navy blue
+col. 055
+nero
+black
+.capsule beach 2019 .capsule beach 2019
+scocche bodies   09.
+10.   O bag   capsule beach 2019
+code OBAGB037 EVS00
+descrizione scocca O bag twist mini eva 
+compound
+materiale eva compound
+description 
+material eva compound
+abbinamento consigliato
+suggested components 
+HLESGC19 EVS54
+manico corto + goccia eva compound 
+effetto bamboo
+pag. 34
+col. 486 
+pink
+pink
+col. 347
+cedro
+cedro
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 017
+blu navy
+navy blue
+col. 088
+turchese
+turquoise
+O bag twist mini .scocca body
+.capsule beach 2019 .capsule beach 2019
+.capsule beach 2019 .capsule beach 2019.capsule beach 2019
+.capsule beach 2019
+col. 026
+cobalto
+cobalt
+.capsule beach 2019
+col. 119
+fragola
+strawberry
+.capsule beach 2019
+scocche bodies   11.
+code OBAGB021 EVS03
+descrizione scocca O swing eva 
+compound midollino
+materiale eva compound
+abbinamenti O swing
+description 
+material eva compound
+components O swing
+col. 371 
+latte
+milk
+col. 119
+fragola
+strawberry
+col. 026
+cobalto
+cobalt
+col. 486
+pink
+pink
+col. 088
+turchese
+turquoise
+O swing .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019.capsule beach 2019
+col. 017
+blu navy
+navy blue
+.capsule beach 2019
+col. 347 
+cedro
+cedro
+.capsule beach 2019
+col. 055
+nero
+black
+.capsule beach 2019
+12.   O bag   capsule beach 2019
+code OBAGB038 EVS00
+descrizione scocca O bag sand eva 
+compound
+materiale eva compound
+abbinamenti O bag sand
+description 
+material eva compound
+components O bag sand
+col. 088 
+turchese
+turquoise
+col. 347
+cedro
+cedro
+col. 371
+latte
+milk
+col. 026
+cobalto
+cobalt
+col. 486
+pink
+pink
+col. 119
+fragola
+strawberry
+O bag sand .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 055 
+nero
+black
+.capsule beach 2019
+col. 017
+blu navy
+navy blue
+.capsule beach 2019
+scocche bodies   13.
+code OBAGB057 EVS56
+descrizione scocca O bag urban mini eva 
+compound texture paglia
+materiale eva compound
+abbinamenti O bag urban mini
+description 
+material eva compound
+components O bag urban mini
+col. 371 
+latte
+milk
+col. 486
+pink
+pink
+col. 347
+cedro
+cedro
+col. 119
+fragola
+strawberry
+O bag urban mini .scocca body
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019.capsule beach 2019
+col. 088
+turchese
+turquoise
+.capsule beach 2019
+col. 026
+cobalto
+cobalt
+.capsule beach 2019
+14.   O bag   capsule beach 2019
+scocche bodies   15.
+16.   O bag   capsule beach 2019
+code OBAGB064 EVS00
+descrizione scocca O bag lace eva 
+compound
+materiale eva compound
+description 
+material eva compound
+abbinamento consigliato
+suggested components 
+OBAGS618 TESCV
+OBAGS618 TESBT
+sacche interne O bag beach mini
+pag. 44
+col. 371 
+latte
+milk
+col. 347
+cedro
+cedro
+col. 017
+blu navy
+navy blue
+col. 119
+fragola
+strawberry
+col. 088
+turchese
+turquoise
+col. 486
+pink
+pink
+O bag lace .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+scocche bodies   17.
+code OBAGB056 TES20
+descrizione scocca O bag market 
+tessuto gommato
+materiale tessuto
+abbinamenti O bag market
+description 
+material fabric
+components O bag market
+col. 055 
+nero
+black
+col. 003
+arancione
+orange
+col. 026
+cobalto
+cobalt
+O bag market .scocca body
+.capsule beach 2019 .capsule beach 2019 .capsule beach 2019
+abbinamento consigliato
+suggested components 
+HLESGC00 ROS10 055
+manico corto corda 
+cotone intrecciato nero
+pag. 31
+abbinamento consigliato
+suggested components 
+HLESGC00 ROS10 484
+manico corto corda 
+cotone intrecciato coral
+pag. 31
+abbinamento consigliato
+suggested components 
+HLESGC00 ROS10 026
+manico corto corda 
+cotone intrecciato cobalto
+pag. 31
+18.   O bag   capsule beach 2019
+scocche bodies   19.
+code OBAGB466 TES20
+descrizione scocca completa O bag 
+sailor tessuto gommato
+materiale tessuto
+abbinamenti O bag sailor
+description 
+material fabric
+components O bag sailor
+col. 055 
+nero
+black
+col. 003
+arancione
+orange
+col. 026
+cobalto
+cobalt
+O bag sailor gommato .scocca body
+.capsule beach 2019 .capsule beach 2019 .capsule beach 2019
+code OBAGB466 TESCU
+descrizione scocca completa O bag 
+sailor tessuto gommato watercolor lines
+materiale tessuto
+abbinamenti O bag sailor
+description 
+material fabric
+components O bag sailor
+col. 026 
+cobalto
+cobalt
+O bag sailor gommato watercolor lines .scocca body
+.capsule beach 2019
+20.   O bag   capsule beach 2019
+scocche bodies   21.
+22.   O bag   capsule beach 2019
+code OBAGB065 TESCQ
+descrizione scocca O bag bonita tessuto 
+paglia
+materiale tessuto
+description 
+material fabric
+abbinamento consigliato
+suggested components 
+HLESGC00 PLS13
+manico corto in plexiglass + moschettone
+pag. 37
+col. 371 
+latte
+milk
+col. 055
+nero
+black
+O bag bonita .scocca body
+.capsule beach 2019 .capsule beach 2019
+scocche bodies   23.
+24.   O bag   capsule beach 2019
+code OBAGBN41M TESCW
+descrizione scocca new O sweet tessuto 
+gommato capri star
+materiale tessuto
+description 
+material fabric
+abbinamento consigliato
+suggested components 
+HLESG018M TES20
+manico generico lungo alamaro tessuto 
+gommato
+pag. 30
+col. 371 
+latte
+milk
+col. 003
+arancione
+orange
+col. 017
+blu navy
+navy blue
+col. 026
+cobalto
+cobalt
+O sweet capri star .scocca body
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019
+scocche bodies   25.
+code OBAGBN41M TESCX
+descrizione scocca new O sweet tessuto 
+gommato summer vibes star
+materiale tessuto
+description 
+material fabric
+abbinamento consigliato
+suggested components 
+HLESG018M TES20
+manico generico lungo alamaro tessuto 
+gommato
+pag. 30
+col. 371 
+latte
+milk
+col. 017
+blu navy
+navy blue
+O sweet summer vibes star .scocca body
+.capsule beach 2019 .capsule beach 2019
+26.   O bag   capsule beach 2019
+scocche bodies   27.
+
+manici
+handles
+code HLESC401 ECSA1
+descrizione manico catena lungo a “t” 
+ecopelle saffiano + catena smaltata
+materiale ecopelle + metallo
+description 
+material faux leather + metal
+col. 026 
+cobalto
+cobalt
+col. 119
+fragola
+strawberry
+col. 486
+pink
+pink
+manico catena lungo a “t” .manici lunghi long handles
+.capsule beach 2019 .capsule beach 2019 .capsule beach 2019
+code HLESG018M TES20
+descrizione manico generico lungo 
+alamaro tessuto gommato
+materiale tessuto
+description 
+material fabric
+col. 003 
+arancione
+orange
+col. 026
+cobalto
+cobalt
+col. 008
+bianco
+white
+col. 017
+blu navy
+navy blue
+manico generico lungo alamaro .manici lunghi long handles
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019
+col. 088
+turchese
+turquoise
+.capsule beach 2019
+30.   O bag   capsule beach 2019
+code HLESG000 ROS10
+descrizione manico lungo corda cotone 
+intrecciato
+materiale cotone
+description 
+material cotton
+col. 017 
+blu navy
+navy blue
+col. 347
+cedro
+cedro
+col. 026
+cobalto
+cobalt
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 486
+pink
+pink
+manico lungo corda cotone intrecciato .manici lunghi long handles
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 484
+coral
+coral
+col. 422
+sangria
+sangria
+.capsule beach 2019 .capsule beach 2019
+manici handles   31.
+code HLESG020 TESZ8
+descrizione manico lungo + goccia 
+tessuto swirl rigato bicolor
+materiale tessuto
+description 
+material fabric
+col. 026 
+cobalto
+cobalt
+col. 347
+cedro
+cedro
+col. 088
+turchese
+turquoise
+col. 486
+pink
+pink
+col. 119
+fragola
+strawberry
+manico lungo + goccia tessuto .manici lunghi long handles
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+32.   O bag   capsule beach 2019
+code HLESGC00 ROS10
+descrizione manico corto corda cotone 
+intrecciato
+materiale cotone
+description 
+material cotton
+col. 017 
+blu navy
+navy blue
+col. 347
+cedro
+cedro
+col. 026
+cobalto
+cobalt
+col. 371
+latte
+milk
+col. 055
+nero
+black
+col. 422
+sangria
+sangria
+manico corto corda cotone intrecciato .manici corti short handles
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 484 
+corallo
+coral
+col. 486
+pink
+pink
+.capsule beach 2019 .capsule beach 2019
+manici handles   33.
+code HLESGC19 EVS54
+descrizione manico corto + goccia eva 
+compound effetto bamboo
+materiale eva compound
+description 
+material eva compound
+abbinamento consigliato
+suggested components 
+OBAGB037 EVS00
+scocca O bag twist mini eva compound
+pag. 11
+col. 026
+cobalto
+cobalt
+col. 088
+turchese
+turquoise
+col. 055
+nero
+black
+col. 347
+cedro
+cedro
+manico corto + goccia eva compound effetto bamboo .manici handles
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+col. 486
+pink
+pink
+.capsule beach 2019
+col. 371 
+latte
+milk
+.capsule beach 2019
+code HLESUK00 TESBT
+descrizione manico foulard knot tessuto 
+ropes
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+manico foulard .manici corti short handles
+.capsule beach 2019
+34.   O bag   capsule beach 2019
+code HLESUK00 TESCV
+descrizione manico foulard knot tessuto 
+watercolor lines
+materiale tessuto
+description 
+material fabric
+col. 026 
+cobalto
+cobalt
+manico foulard .manici corti short handles
+.capsule beach 2019
+code HLESUK00 TESCZ
+descrizione manico foulard knot tessuto 
+mix agrumi
+materiale tessuto
+description 
+material fabric
+col. 055 
+nero
+black
+col. 371
+latte
+milk
+manico foulard .manici corti short handles
+.capsule beach 2019 .capsule beach 2019
+manici handles   35.
+code HLESGC01 EVS54
+descrizione manico corto + anello eva 
+compound effetto bamboo 
+materiale eva compound
+description 
+material eva compound
+col. 055 
+nero
+black
+col. 088
+turchese
+turquoise
+col. 347
+cedro
+citrus
+col. 371
+latte
+milk
+eva effetto bamboo .manici corti short handles
+.capsule beach 2019 .capsule beach 2019
+.capsule beach 2019.capsule beach 2019 .capsule beach 2019
+.capsule beach 2019
+col. 422 
+sangria
+sangria
+col. 486
+pink
+pink
+.capsule beach 2019 .capsule beach 2019
+col. 017 
+blu navy
+navy blue
+col. 026
+cobalto
+cobalt
+36.   O bag   scapsule beach 2019
+code HLESA001 TESZ8
+descrizione manichetto + clip tessuto 
+swirl rigato bicolor
+materiale tessuto
+description 
+material fabric
+code HLESGC00 PLS13
+descrizione manico corto in plexiglass + 
+moschettone
+materiale plexiglass + metallo
+description 
+material plexiglass + metal
+col. 026 
+cobalto
+cobalt
+col. 371 
+latte
+milk
+col. 055 
+nero
+black
+col. 347
+cedro
+citrus
+col. 088
+turchese
+turquoise
+col. 486
+pink
+pink
+col. 119
+fragola
+strawberry
+swirl rigato bicolor .manici corti short handles
+plexiglass + moschettone .manici corti short handles
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019
+manici handles   37.
+
+sacche interne
+inner bags
+code OBAGS601 TESBT
+descrizione sacca interna switch O bag 
+tessuto ropes
+materiale tessuto
+abbinamenti O bag
+description 
+material fabric
+components O bag
+col. 017 
+blu navy
+navy blue
+ropes .sacca interna inner bag O bag
+.capsule beach 2019
+code OBAGS601 TESCV
+descrizione sacca interna switch O bag 
+tessuto watercolor lines
+materiale tessuto
+abbinamenti O bag
+description 
+material fabric
+components O bag
+col. 026 
+cobalto
+cobalt
+watercolor lines .sacca interna inner bag O bag
+.capsule beach 2019
+40.   O bag   capsule beach 2019
+code OBAGS601 TESCZ
+descrizione sacca interna switch O bag 
+tessuto mix agrumi
+materiale tessuto
+abbinamenti O bag
+description 
+material fabric
+components O bag
+col. 055 
+nero
+black
+mix agrumi .sacca interna inner bag O bag
+.capsule beach 2019
+sacche interne inner bags   41.
+code OBAGS602 TESCZ
+descrizione sacca interna switch O bag 
+mini tessuto mix agrumi
+materiale tessuto
+abbinamenti O bag mini
+description 
+material fabric
+components O bag mini
+col. 371 
+latte
+milk
+mix agrumi .sacca interna inner bag O bag mini
+.capsule beach 2019
+42.   O bag   capsule beach 2019
+code OBAGS612 TESCZ
+descrizione sacca interna switch O bag 
+beach tessuto mix agrumi
+materiale tessuto
+abbinamenti O bag beach
+description 
+material fabric
+components O bag beach
+col. 055 
+nero
+black
+mix agrumi .sacca interna inner bag O bag beach
+.capsule beach 2019
+sacche interne inner bags   43.
+code OBAGS618 TESCV
+descrizione sacca interna switch O bag 
+beach mini tessuto watercolor lines
+materiale tessuto
+abbinamenti O bag lace
+description 
+material fabric
+components O bag lace
+col. 026 
+cobalto
+cobalt
+watercolor lines .sacca interna inner bag O bag beach mini
+.capsule beach 2019
+code OBAGS618 TESBT
+descrizione sacca interna switch O bag 
+beach mini tessuto ropes
+materiale tessuto
+abbinamenti O bag lace
+description 
+material fabric
+components O bag lace
+col. 017 
+blu navy
+navy blue
+roper .sacca interna inner bag O bag beach mini
+.capsule beach 2019
+44.   O bag   capsule beach 2019
+code OBAGS121 TESCZ
+descrizione sacca interna coulisse O 
+swing tessuto mix agrumi
+materiale tessuto
+abbinamenti O swing
+description 
+material fabric
+components O swing
+col. 371 
+latte
+milk
+mix agrumi .sacca interna inner bag O swing
+.capsule beach 2019
+code OBAGS121 TESCV
+descrizione sacca interna coulisse O 
+swing tessuto watercolor lines
+materiale tessuto
+abbinamenti O swing
+description 
+material fabric
+components O swing
+col. 026 
+cobalto
+cobalt
+watercolor lines .sacca interna inner bag O swing
+.capsule beach 2019
+sacche interne inner bags   45.
+code OBAGS637 TESCZ
+descrizione sacca interna switch O bag 
+twist mini tessuto mix agrumi
+materiale tessuto
+abbinamenti O bag twist mini
+description 
+material fabric
+components O bag twist mini
+col. 371 
+latte
+milk
+mix agrumi .sacca interna inner bag O bag twist mini
+.capsule beach 2019
+code OBAGS637 TESBT
+descrizione sacca interna switch O bag 
+twist mini tessuto ropes
+materiale tessuto
+abbinamenti O bag twist mini
+description 
+material fabric
+components O bag twist mini
+col. 017 
+blu navy
+navy blue
+ropes .sacca interna inner bag O bag twist mini
+.capsule beach 2019
+46.   O bag   capsule beach 2019
+code OBAGS438 TESCZ
+descrizione sacca interna pouch con zip 
+O bag sand tessuto mix agrumi
+materiale tessuto
+description 
+material fabric
+col. 055 
+nero
+black
+mix agrumi .sacca interna inner bag O bag sand
+.capsule beach 2019
+code OBAGS438 TESCV
+descrizione sacca interna pouch con zip 
+O bag sand tessuto watercolor lines
+materiale tessuto
+description 
+material fabric
+col. 026 
+cobalto
+cobalt
+watercolors lines .sacca interna inner bag O bag sand
+.capsule beach 2019
+sacche interne inner bags   47.
+code OBAGS057 TESCV
+descrizione sacca interna zip O bag 
+urban mini tessuto watercolor lines
+materiale tessuto
+abbinamenti O bag urban mini
+description 
+material fabric
+components O bag urban mini
+col. 026 
+cobalto
+cobalt
+watercolor lines .sacca interna inner bag O bag urban mini
+.capsule beach 2019
+code OBAGS057 TESBT
+descrizione sacca interna zip O bag 
+urban mini tessuto ropes
+materiale tessuto
+abbinamenti O bag urban mini
+description 
+material fabric
+components O bag urban mini
+col. 017 
+blu navy
+navy blue
+ropes .sacca interna inner bag O bag urban mini
+.capsule beach 2019
+48.   O bag   capsule beach 2019
+code OBAGS057 TESCZ
+descrizione sacca interna zip O bag 
+urban mini tessuto mix agrumi
+materiale tessuto
+abbinamenti O bag urban mini
+description 
+material fabric
+components O bag urban mini
+col. 371 
+latte
+milk
+mix agrumi .sacca interna inner bag O bag urban mini
+.capsule beach 2019
+sacche interne inner bags   49.
+
+accessori
+accessories
+code ACCEA200 TESCP
+descrizione cappellino baseball tessuto 
+canvas logo O bag
+materiale tessuto
+description 
+material fabric
+col. 044 
+lime
+lime
+col. 421
+bianco su nero
+white on black
+col. 647
+nero/arancione
+black/orange
+canvas logo .accessorio accessory cappellino baseball
+.capsule beach 2019 .capsule beach 2019 .capsule beach 2019
+code ACCEP001 TESCQ
+descrizione accessorio pochette tessuto 
+paglia
+materiale tessuto
+description 
+material fabric
+col. 055 
+nero
+black
+col. 371
+latte
+milk
+paglia .accessorio accessory pochette
+.capsule beach 2019 .capsule beach 2019
+52.   O bag   capsule beach 2019
+code ACCEA301 TESCV
+descrizione accessorio foulard collo 50 x 
+50 tessuto watercolor lines
+materiale tessuto
+description 
+material fabric
+col. 026 
+cobalto
+cobalt
+col. 371
+latte
+milk
+watercolor lines .accessorio accessory foulard collo
+.capsule beach 2019 .capsule beach 2019
+code ACCEA301 TESCZ
+descrizione accessorio foulard collo 50 x 
+50 tessuto mix agrumi
+materiale tessuto
+description 
+material fabric
+col. 119 
+fragola
+strawberry
+col. 587
+celery green
+celery green
+mix agrumi .accessorio accessory foulard collo
+.capsule beach 2019 .capsule beach 2019
+accessori accessories   53.
+code OBAGAD00 TESCR
+descrizione accessorio telo mare tessuto 
+spugna logo O bag
+materiale tessuto
+description 
+material fabric
+col. 653
+latte/fragola
+milk/strawberry
+col. 010
+blu - grigio
+blue - grey
+spugna logo .accessorio accessory telo mare
+.capsule beach 2019 .capsule beach 2019
+code OBAGAD00 TESCS
+descrizione accessorio telo mare tessuto 
+jaquard fantasia greca
+materiale tessuto
+description 
+material fabric
+col. 026 
+cobalto
+cobalt
+col. 119
+fragola
+strawberry
+jaquard fantasia greca .accessorio accessory telo mare
+.capsule beach 2019 .capsule beach 2019
+54.   O bag   capsule beach 2019
+code OBAGAD00 TESCT
+descrizione accessorio telo mare tessuto 
+jaquard fantasia ropes
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+col. 088
+turchese
+turquoise
+jaquard fantasia ropes .accessorio accessory telo mare
+.capsule beach 2019 .capsule beach 2019
+accessori accessories   55.
+
+occhiali
+sunglasses
+58.  O bag  scapsule beach 2019
+code OSUNC002 INS77
+descrizione O sun astina iridescente
+materiale materiale plastico iniettato
+abbinamenti O sun
+description 
+material injected plastic material
+components O sun
+col. 009 
+blu
+blue
+col. 389
+silver
+silver
+col. 061
+oro
+gold
+col. 267
+fucsia
+fuchsia
+O sun .astine sticks
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019
+code OSUNC007 INS77
+descrizione O sun front + lenti 
+iridescente
+materiale materiale plastico iniettato
+abbinamenti O sun
+description 
+material injected plastic material
+components O sun
+col. 009 
+blu
+blue
+col. 389
+silver
+silver
+col. 061
+oro
+gold
+col. 267
+fucsia
+fuchsia
+O sun .front + lenti front + lenses
+.capsule beach 2019
+.capsule beach 2019
+.capsule beach 2019 .capsule beach 2019
+occhiali sunglasses   59.
+code OSUNC002 INS74
+descrizione O sun astina trasparent satin
+materiale materiale plastico iniettato
+abbinamenti O sun
+description 
+material injected plastic material
+components O sun
+col. 032 
+fluo giallo
+fluo yellow
+col. 263
+fluo arancione
+fluo orange
+O sun .astine sticks
+.capsule beach 2019 .capsule beach 2019
+code OSUNC007 INS74
+descrizione O sun front + lenti trasparent 
+satin
+materiale materiale plastico iniettato
+abbinamenti O sun
+description 
+material injected plastic material
+components O sun
+col. 032 
+fluo giallo
+fluo yellow
+col. 263
+fluo arancione
+fluo orange
+O sun .front + lenti front + lenses
+.capsule beach 2019 .capsule beach 2019
+60.   O bag   capsule beach 2019
+code OSUNC007 INS76
+descrizione O sun front + lenti trasparent
+materiale materiale plastico iniettato
+abbinamenti O sun
+description 
+material injected plastic material
+components O sun
+col. 001 
+acqua
+aqua
+col. 072
+rosa
+pink
+col. 494
+menta
+mint green
+O sun .front + lenti front + lenses
+.capsule beach 2019 .capsule beach 2019 .capsule beach 2019
+code OSUNC002 INS76
+descrizione O sun astina trasparent
+materiale materiale plastico iniettato
+abbinamenti O sun
+description 
+material injected plastic material
+components O sun
+col. 001 
+acqua
+aqua
+col. 072
+rosa
+pink
+col. 494
+menta
+mint green
+O sun .astine sticks
+.capsule beach 2019 .capsule beach 2019 .capsule beach 2019
+occhiali sunglasses   61.
+
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+

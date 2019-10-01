@@ -1,0 +1,75 @@
+ // 
+1 000_ANTICI
+ 0,00
+ 0,00
+ 0,00
+1G
+      
+VEND.N.I.ART.41 L.427/93 UE  2.703,72
+     
+0
+     
+ 0,00
+      
+04/07/2018
+      
+ 2.703,72
+      
+ 0,00
+ 2.703,72
+ 0,00
+ 0,00
+ 0,00  0,00
+EUR 2.703,72
+Document Date doc. Client dest.
+Num. C.de
+Récapitulatif TVA
+TVA Imposable Participation Configurer
+Echéances
+Date Montant
+Totaux
+Remises
+Remise
+Remise En-tête
+Remise financière
+Cadeaux
+Acomptes
+Montants
+Montant brut
+Brut frais
+Montant net de tout 
+Montant net
+Total FACTURE
+NR  2.703,72 2.703,720 1 1G
+ACOMPTE 
+****** 04/07/2018 *** 04/07/2018 04/07/2018 label  1
+Fattura di Anticipo ESTERO
+P002 BONIFICO CLIENTE
+EUR 2.703,72
+EUR
+Justificatif
+Cod. Paiem.
+Remise fin. Remise en-t remise cond.
+IBAN
+Total FACTURE
+N.jours
+ Banque
+2018 351 456 04/07/2018
+VEND.N.I.ART.41 L.427/93 UE  
+04/07/2018
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Lettre
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P. Iva 44808894489
+Client 1002487
+Pag
+Document /// label Num. C.de --- label
+Modèle PièceN. Couleur QTÉ
+Prix
+Remises Montant Cadeaux TVAUm Taille
+1

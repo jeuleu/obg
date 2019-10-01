@@ -1,0 +1,31 @@
+2018 50 3178 28/11/2018 TOULOUSE EUR 112,82
+ModŠle-Code piŠce-Couleur Quantit‚ Prix unitaire
+HLESGC00-ECS04-038 manico corto ecopelle|grafite ANSES/F.CUIR|NAPAN|S 8APITSD*fjghcc+ 10 6,05 €
+OBAGB032-EVS00-559scocca O bag knit mini EVA|rame 2 14,16 €
+Mod?le-Code pi?ce-Couleur Quantit? Prix unitaire
+HLESG000-ECS04-038 manico lungo ecopelle|grafite ANSES/F.CUIR|NAPAN|L 8APITSD*fjgfce+ 15 7,03 €
+OBAGB002-EVS00-026 scocca O bag mini XL|cobalto 8 14,40 €
+OBAGB002-EVS00-075scocca O bag mini EVA|rosa smoke MINIOBODY|ROSMO|0 8APAOPA*cbidec+ 10 14,40 €
+OBAGB001-EVS00-559 scocca O bag EVA|rame OBODY|BRONZ|0 8APASOG*adjaih+ 8 14,40 €
+OBAGB002-EVS00-559 scocca O bag mini EVA|rame MINIOBODY|BRONZ|0 8APASOG*adjbei+ 8 14,40 €
+OBAGB017-EVS00-540 scocca O moon light EVA|curry OMOONLIGHT|CURRY|0 8APASOG*adjchi+ 3 11,04 €
+OBAGB032-EVS00-078scocca O bag knit mini EVA|sabbia 8APASOG*adjfhf+ 2 14,16 €
+OBAGB206-EVS00-559 4 4,80 €
+ModŠle-Code piŠce-Couleur Quantit‚ Prix unitaire
+HLESCE01-ECS07-133manico doppia catena a "t"|grigio chiaro + silverANSES/DOUBLECHAI|SAFSG|0 8APASOG*aeciij+ 8 10,60 €
+Préparation Import 1 / 6 20/12/2018 23:30
+OBAGB001-EVS00-389 scocca O bag EVA|silver OBODY|SILVE|0 8APASOG*adjaej+ 8 14,40 €
+OBAGB002-EVS00-389 scocca O bag mini EVA|silver MINIOBODY|SILVE|0 8APASOG*adjbaa+ 10 14,40 €
+OBAGB001-EVS00-024 scocca O bag EVA|cioccolato OBODY|CHOCO|0 8APAOPA*cbebfd+ 8 14,40 €
+OBAGB001-EVS00-541 scocca O bag EVA|verde bosco OBODY|BOSCO|0 8APASOG*adjaha+ 6 14,40 €
+OBAGB033-EVS00-078 scocca O bag urban EVA|sabbia OURBAN|SAND|0 8APASOG*adjhbb+ 3 14,16 €
+OBAGB034-EVS00-024scocca O bag glam EVA|cioccolato 2 11,88 €
+OBAGB034-EVS00-071 scocca O bag glam EVA|roccia OGLAM|ROCK|0 8APASOG*adjide+ 2 11,88 €
+OBAGB206-EVS00-024scocca sotto O pocket EVA|cioccolato 5 4,80 €
+OBAGS001-TESR1-018 5 10,80 €
+OBAGS001-TESR1-258 8 10,80 €
+OBAGS002-TESR1-018sacca interna zip O bag mini|bordeaux CANOGLAM|VELBD|0 8APASOG*adddgi+ 3 9,00 €
+OBAGS002-TESR1-086sacca interna zip O bag mini|tortora CANOGLAM|VELTO|0 8APASOG*adddfb+ 5 9,00 €
+OBAGS002-TESR1-258sacca interna zip O bag mini|beige CANOGLAM|VELBE|0 8APASOG*adddjj+ 3 9,00 €
+SHOUX101-ECS00-018tracolla extraslim 110 +|bordeaux ANSESTUB/BANDOUL|BDX|0 8APASOG*adfbjf+ 2 18,96 €
+Préparation Import 2 / 6 20/12/2018 23:30

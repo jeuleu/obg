@@ -1,0 +1,5826 @@
+SPRING
+2020
+
+ .borse bags
+05 scocche body
+06 scocca body O bag
+08 scocca body O bag mini
+11 scocca body O bag urban
+12 scocca body O bag urban mini
+13 scocca body O bag glam
+14 scocca body O bag reverse
+15 scocca body O bag queen
+16 scocca body O bag market
+17 scocca body O bag market slide
+18 scocca body O pocket
+20 scocca body O bag sharm
+21 scocca body O bag double zip
+23 scocca body O bag double zip mini
+24 scocca body O bag petite
+25 shopper
+27 manici e tracolle handles and shoulder strap
+28 manici lunghi long handle
+33 manici corti short handle
+41 tracolla + manico corto shoulder strap + short handle
+43 tracolla shoulder strap
+48 clip clip
+51 sacche interne inner bags
+52 sacche interne inner bags O bag
+58 sacche interne inner bags O bag mini
+63 sacche interne inner bags O bag urban
+68 sacche interne inner bags O bag urban mini
+69 sacche interne inner bags O bag glam
+71 sacche interne inner bags O bag reverse
+74 sacche interne inner bags O bag sharm
+77 bordi trims
+78 bordi trims O bag
+82 bordi trims O bag mini
+87 pattine flaps
+88 pattine flaps O pocket
+92 pattine flaps O bag glam
+96 pattine flaps O bag queen
+101 chiusura a fascia band closure
+102 chiusura a fascia band closure O bag glam
+105 zaini backpacks
+106 zaini backpacks O bag ivy
+108 zaini backpacks O bag tote
+110 zaini backpacks O bag square
+115 accessori accessories
+116 portafoglio wallet O hug tiny
+117 portafoglio wallet O hug smile
+118 portachiavi key ring
+119 pochette
+ .orologi clocks
+122 O clock
+145 O clock great
+162 O clock shift - O clock great shift
+165 O click shift
+ .occhiali sunglasses
+176 O sun flat
+181 O sun - new
+183 O sunshine
+190 O sun
+ .bracciali bracelets
+194 O bracelet flower slim
+196 O bracelet flower big
+199 O bracelet daisy big
+
+scocche
+bodies
+06.   O bag spring 2020
+code OBAGB001 EVS00
+descrizione scocca O bag eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O bag .scocca body 
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+.easter
+col. 615 
+military
+military
+.urban cargo
+col. 002 
+amaranto
+amaranth
+.urban cargo
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 066 
+petrolio
+petroleum
+.urban cargo
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 076 
+rosso
+red
+.urban marina
+col. 347 
+cedro
+cedro
+.urban cargo
+col. 616 
+ice
+ice
+.urban cargo .easter
+scocche bodies   07.
+col. 071
+roccia
+rock
+col. 017
+blu navy
+blue navy
+col. 078
+sabbia
+sand
+col. 038
+grafite
+graphite
+col. 055
+nero
+black
+col. 371
+latte
+milk
+.urban cargo
+.continuativo / carry over
+.urban cargo .easter
+.continuativo / carry over
+.easter
+.continuativo / carry over
+.urban cargo
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+08.   O bag spring 2020
+code OBAGB002 EVS00
+descrizione scocca O bag mini eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O bag mini .scocca body 
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+.easter
+col. 002 
+amaranto
+amaranth
+.urban cargo
+col. 066 
+petrolio
+petroleum
+.urban cargo
+col. 615 
+military
+military
+.urban cargo
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 076 
+rosso
+red
+.urban marina
+col. 347 
+cedro
+cedro
+.urban cargo
+col. 616 
+ice
+ice
+.urban cargo .easter
+scocche bodies   09.
+col. 038
+grafite
+graphite
+col. 371 
+latte
+milk
+col. 017 
+blu navy
+navy blue
+col. 078 
+sabbia
+sand
+col. 071 
+roccia
+rock
+col. 055 
+nero
+black
+.urban cargo
+.continuativo / carry over
+.urban cargo .easter
+.continuativo / carry over
+.easter
+.continuativo / carry over
+.urban cargo
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+10.   O bag spring 2020
+code OBAGB002 EVS62
+descrizione scocca O bag mini eva 
+compound applicazione stelle
+materiale eva compound
+description 
+material eva compound
+col. 371 
+latte
+milk
+col. 615 
+military
+military
+col. 017 
+blu navy
+navy blue
+col. 055 
+nero
+black
+O bag mini applicazione stelle .scocca body 
+.urban marina
+.urban cargo
+.urban cargo .urban marina
+scocche bodies   11.
+code OBAGB033 EVS00
+descrizione scocca O bag urban eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O bag urban .scocca body 
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+.easter
+col. 615 
+military
+military
+.urban cargo
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+col. 038 
+grafite
+graphite
+.urban marina.urban cargo
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 076 
+rosso
+red
+.urban marina
+col. 078 
+sabbia
+sand
+.easter
+col. 347 
+cedro
+cedro
+.urban cargo
+col. 371 
+latte
+milk
+.urban marina
+col. 002 
+amaranto
+amaranth
+.urban cargo
+12.   O bag spring 2020
+code OBAGB057 EVS61
+descrizione scocca O bag urban mini eva 
+compound texture intreccio
+materiale eva compound
+description 
+material eva compound
+col. 655 
+cargo
+cargo
+col. 615 
+military
+military
+col. 017 
+blu navy
+navy blue
+col. 055 
+nero
+black
+col. 371 
+latte
+milk
+O bag urban mini texture intreccio .scocca body 
+.urban cargo .easter.urban cargo
+.urban cargo .easter .urban marina .urban marina
+col. 656 
+cassis
+cassis
+col. 078 
+sabbia
+sand
+.easter
+.easter
+scocche bodies   13.
+code OBAGB034 EVS00
+descrizione scocca O bag glam eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O bag glam .scocca body 
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 066 
+petrolio
+petroleum blue
+.urban cargo
+col. 656 
+cassis
+cassis
+.easter .urban cargo
+col. 615 
+military
+military
+.urban cargo
+col. 616 
+ice
+ice
+.urban cargo .easter
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 038 
+grafite
+graphite
+.urban cargo
+col. 055 
+nero
+black
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 076 
+rosso
+red
+.urban marina
+col. 078 
+sabbia
+sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+col. 002 
+amaranto
+amaranth
+14.   O bag spring 2020
+code OBAGB046 EVS00
+descrizione scocca O bag reverse eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O bag reverse .scocca body 
+col. 066 
+petrolio
+petroleum blue
+.urban cargo
+col. 076 
+rosso
+red
+.urban marina
+col. 656 
+cassis
+cassis
+.easter
+col. 038 
+grafite
+graphite
+.urban cargo
+col. 055 
+nero
+black
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 017 
+blu navy
+.urban cargo .easter
+col. 078 
+sabbia
+sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+col. 615 
+military
+military
+.urban cargo
+scocche bodies   15.
+code OBAGB047 EVS00
+descrizione scocca O bag queen eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O bag queen .scocca body 
+col. 616 
+ice
+ice
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+.easter
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 615 
+military
+military
+.urban cargo
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 078 
+sabbia
+sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+16.   O bag spring 2020
+code OBAGB056 ECSG8
+descrizione scocca O bag market simil 
+pelle stampa microflowers
+materiale simil pelle
+description 
+material faux leather
+col. 038 
+grafite
+graphite
+O bag market stampa microflowers .scocca body 
+.urban cargo
+scocche bodies   17.
+code OBAGB080 ECSH3
+descrizione scocca O bag market slide 
+simil pelle flower effetto traforato
+materiale simil pelle
+description 
+material faux leather
+col. 612 
+blu navy + argento
+navy blue + silver
+O bag market slide traforata flower .scocca body 
+.urban cargo
+18.   O bag spring 2020
+code OBAGB206 EVS00
+descrizione scocca sotto O pocket eva 
+compound
+materiale eva compound
+description 
+material eva compound
+O pocket .scocca body 
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 066 
+petrolio
+petroleum blue
+.urban cargo
+col. 656 
+cassis
+cassis
+.easter
+col. 002 
+amaranto
+amaranth
+.urban cargo
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 615 
+military
+military
+.urban cargo
+col. 076 
+rosso
+red
+.urban marina
+col. 347 
+cedro
+cedro
+.urban cargo
+col. 616 
+ice
+ice
+.urban cargo .easter
+scocche bodies   19.
+col. 017 
+blu navy
+blue navy
+col. 078
+sabbia
+sand
+col. 055
+nero
+black
+col. 371
+latte
+milk
+col. 038
+grafite
+graphite
+col. 071
+roccia
+rock
+.urban cargo
+.continuativo / carry over
+.urban cargo .easter
+.continuativo / carry over
+.easter
+.continuativo / carry over
+.urban cargo
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+20.   O bag spring 2020
+code OBAGB060 EVS35
+descrizione scocca O bag sharm eva 
+compound con maniglie
+materiale eva compound
+description 
+material eva compound
+O bag sharm con maniglie .scocca body 
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 076 
+rosso
+red
+col. 616 
+ice
+ice
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+.easter
+col. 055 
+nero
+black
+.urban marina
+.urban marina
+col. 078 
+sabbia
+sand
+.easter
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 371 
+latte
+milk
+.urban marina
+code OBAGB751 ECS07
+descrizione scocca O bag double zip 
+simil pelle saffiano
+materiale simil pelle
+description 
+material faux leather
+col. 371 
+latte
+milk
+col. 055 
+nero
+black
+col. 017 
+blu navy
+navy blue
+col. 616 
+ice
+ice
+O bag double zip saffiano .scocca body 
+.urban marina
+.urban marina
+.urban cargo .easter .urban cargo .easter
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+col. 657 
+sabbia metal
+metal sand
+col. 002 
+amaranto
+amaranth
+.easter
+.easter .urban cargo
+scocche bodies   21.
+22.   O bag spring 2020
+code OBAGB751 ECSH6
+descrizione scocca O bag double zip 
+simil pelle saffiano + laser logo all-over
+materiale simil pelle
+description 
+material faux leather
+col. 055 
+nero
+black
+O bag double zip saffiano + laser logo all-over .scocca body 
+.urban marina
+scocche bodies   23.
+code OBAGB761 ECSD8
+descrizione scocca completo O bag 
+double mini zip simil pelle saffiano + 
+texture spigata
+materiale simil pelle
+description 
+material faux leather
+col. 655 
+cargo
+cargo
+col. 017 
+blu navy
+navy blue
+col. 656 
+cassis
+cassis
+col. 075 
+rosa smoke
+rose smoke
+col. 657 
+sabbia metal
+metal sand
+col. 616 
+ice
+ice
+O bag double zip mini .scocca body 
+.urban cargo .easter
+.urban cargo .easter
+.easter
+.easter
+.easter
+.urban cargo .easter
+24.   O bag spring 2020
+code OBAGBX81 ECS07
+descrizione scocca con tracolla extraslim 
+110 O bag petite midi simil pelle saffiano
+materiale simil pelle
+description 
+material faux leather
+col. 371 
+latte
+milk
+col. 055 
+nero
+black
+col. 076 
+rosso
+red
+O bag petite saffiano .scocca con chiusura body with fastening 
+.urban marina .urban marina .urban marina
+scocche bodies   25.
+code OBAGB086 TESEC
+descrizione O bag shopper tessuto 
+stampato
+materiale tessuto
+description 
+material fabric
+col. 411
+pied de poule
+pied de poule
+pied de poule tricolor .shopper shopper 
+.urban marina
+col. 675 
+logo all-over
+all-over logo
+.urban marina
+col. 676 
+microflowers
+microflowers
+.urban marina
+col. 213 
+peonia
+peony
+.urban marina
+col. 678 
+freesia flowers
+freesia flowers
+.urban marina
+col. 677 
+oriental flowers
+oriental flowers
+.urban marina
+handles and shoulder strap
+manici e tracolle
+handles and shoulder strap
+28.   O bag spring 2020
+code HLESCE01 ECS00
+descrizione manico doppia catena a “t” 
+simil pelle
+materiale simil pelle
+description 
+material faux leather
+col. 615 
+military + argento
+military + silver
+simil pelle .manici lunghi long handles 
+.urban cargo
+code HLESCE01 ECSG2
+descrizione manico doppia catena a “t” 
+simil pelle stampa logo + catena smaltata
+materiale simil pelle
+description 
+material faux leather
+col. 227 
+bianco/nero
+white/black
+col.  
+rosso/bianco
+red/white
+catena smaltata logo .manici lunghi long handles 
+.urban marina .urban marina
+col. 055 
+nero + argento
+black + silver
+col. 612 
+blu navy + argento
+blue navy + silver
+col. 613 
+cuoio + argento
+leather + silver
+.urban marina
+.continuativo / carry over
+.urban cargo .easter.
+continuativo / carry over
+.easter 
+.continuativo / carry over
+manici e tracolle handles and shoulder straps   29.
+ecopelle saffiano .manici lunghi long handles 
+code HLESCE01 ECS07
+descrizione manico doppia catena a “t” 
+ecopelle saffiano
+materiale ecopelle
+description 
+material faux leather
+col. 078 
+sabbia + argento
+sand + silver
+col. 017 
+blu navy + argento
+navy blue + silver
+col. 078 
+rosa smoke + argento
+rose smoke + silver
+.easter .urban cargo .easter .easter
+code HLESG000 ROS00
+descrizione manico lungo corda
+materiale corda
+description 
+material rope
+col. 227 
+bianco/nero
+white/black
+col. 612
+blu navy + argento
+navy blue + silver
+corda .manici lunghi long handles 
+.urban marina .urban cargo .easter
+30.   O bag spring 2020
+code HLESGD00 ECS46
+descrizione manico tubolare lungo simil 
+pelle liscia
+materiale simil pelle
+description 
+material faux leather
+col. 076 
+rosso
+red
+col. 615
+military
+military
+simil pelle liscia .manici lunghi long handles 
+.urban marina .urban cargo
+col. 055 
+nero
+black
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+code HLESG000 ROS12
+descrizione manico lungo corda multi 
+intreccio
+materiale corda
+description 
+material rope
+corda multi intreccio .manici lunghi long handles 
+col. 054 
+naturale
+natural
+col. 371
+latte
+milk
+col. 055
+nero
+black
+.easter.urban marina.urban marina
+manici e tracolle handles and shoulder straps   31.
+code HLESLL01 ECS00
+descrizione manico linear lungo con 
+fibbietta simil pelle
+materiale simil pelle
+description 
+material faux leather
+col. 612 
+blu navy + argento
+navy blue + silver
+col. 660 
+military + argento
+military + silver
+simil pelle .manici lunghi long handles 
+.urban cargo .easter .urban cargo
+code HLESLL01 ECS07
+descrizione manico linear lungo con 
+fibbietta simil pelle saffiano
+materiale simil pelle
+description 
+material faux leather
+col. 674 
+rosa smoke metal + argento
+metal rose-smoke + silver
+.easter
+simil pelle saffiano .manici lunghi long handles 
+col. 684 
+nero + argento
+black + silver
+.urban marina
+col. 078 
+sabbia + argento
+sand + silver
+.easter
+32.   O bag spring 2020
+code HLESD000 ECS35
+descrizione manico lungo componibile 
+ecopelle basic
+materiale ecopelle
+description long modular basic faux 
+leather handle
+material faux leather
+col. 017 
+blu navy
+navy blue
+col. 055
+nero
+black
+col. 076
+rosso
+red
+col. 371
+latte
+milk
+ecopelle basic .manici lunghi long handles 
+.urban cargo .easter
+.urban cargo .easter .easter
+.easter
+.urban cargo
+.urban cargo
+.urban marina
+.urban marina
+.urban marina
+code HLESG000 ECS04
+descrizione manico lungo ecopelle 
+nappina
+materiale ecopelle
+description long nappa faux leather 
+handle
+material faux leather
+col. 017 
+blu navy
+navy blue
+col. 082
+tabacco
+tobacco
+col. 038
+grafite
+graphite
+col. 093
+vino
+wine
+ecopelle nappina .manici lunghi long handles 
+col. 135 
+peltro
+pewter
+manici e tracolle handles and shoulder straps   33.
+code HLESC901 ECS07
+descrizione manico catena corto a “t” 
+simil pelle saffiano
+materiale simil pelle
+description 
+material faux leather
+col. 655 
+cargo
+cargo
+col. 017
+navy
+navy
+col. 616 
+ice
+ice
+simil pelle saffiano .manici corti short handles 
+.urban cargo .easter .urban cargo .easter .urban cargo .easter
+col. 656 
+cassis
+cassis
+col. 657 
+sabbia metal
+metal sand
+col. 002 
+amaranto
+amaranth
+.easter .easter .urban cargo
+col. 371 
+latte
+milk
+.urban marina
+col. 055 
+nero
+black
+.urban marina
+34.   O bag spring 2020
+code HLESGC00 ROS00
+descrizione manico corto corda
+materiale corda
+description 
+material rope
+col. 227 
+bianco/nero
+white/black
+col. 612 
+blu navy + argento
+navy blue + silver
+corda .manici corti short handles 
+.urban marina .urban cargo .easter
+code HLESC901 ECS00
+descrizione manico catena corto a “t” 
+ecopelle
+materiale ecopelle
+description 
+material faux leather
+simil pelle saffiano .manici corti short handles 
+col. 615 
+military
+military
+.urban cargo
+manici e tracolle handles and shoulder straps   35.
+code HLESMD00 ECS46
+descrizione micromanico tubolare corto 
+simil pelle liscia
+materiale simil pelle
+description 
+material faux leather
+col. 615 
+military
+military
+simil pelle liscia .manici corti short handles 
+.urban cargo
+col. 371 
+latte
+milk
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 076 
+rosso
+red
+.urban marina
+col. 055 
+nero + argento
+black + silver
+col. 221
+cognac + argento
+cognac + silver
+.urban marina .easter
+code HLESGC00 ROS12
+descrizione manico corto corda cotone 
+intrecciato
+materiale corda
+description 
+material rope
+corda cotone intrecciato .manici corti short handles 
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 371
+latte
+milk
+.urban marina
+36.   O bag spring 2020
+code HLESA002 ROS14
+descrizione manichetto + moschettone 
+corda sottile
+materiale corda
+description 
+material rope
+col. 615 
+military
+military
+col. 017 
+blu navy
+navy blue
+corda sottile .manici corti short handles 
+.urban cargo .urban cargo .easter
+code HLESA901 MTS01
+descrizione doppio manichetto catena 
+corto a “t” metallo galvanizzato
+materiale metallo
+description 
+material metal
+col. 004 
+argento
+silver
+metallo galvanizzato .manici corti short handles 
+.urban marina 
+.urban cargo .easter
+manici e tracolle handles and shoulder straps   37.
+.urban marina 
+.urban cargo .easter
+ecopelle .manici corti short handles 
+code HLESAD00 ECS00
+descrizione manichetto tubolare  
+ecopelle
+materiale ecopelle
+description 
+material faux leather
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 076 
+rosso
+red
+.urban marina
+col. 371 
+latte
+milk
+.urban marina
+code HLESA902 MTS01
+descrizione manichetto catena corto + 
+moschettoni metallo galvanizzato
+materiale metallo
+description 
+material metal
+col. 004 
+argento
+silver
+metallo galvanizzato .manici corti short handles 
+38.   O bag spring 2020
+code HLESGC00 ECS04
+descrizione manico corto ecopelle 
+nappina
+materiale ecopellenappina
+abbinamenti 
+description short faux nappa leather 
+handle
+material 
+components 
+ecopelle nappina .manici corti short handles
+.urban cargo .easter .easter
+.easter
+.easter
+.urban cargo
+.easter
+col. 017 
+blu navy
+navy blue
+col. 082
+tabacco
+tobacco
+col. 038
+grafite
+graphite
+col. 093
+vino
+wine
+col. 135 
+peltro
+pewter
+code HLESGC19 MAS29
+descrizione manico corto + goccia 
+effetto bamboo
+materiale materiale effetto ba
+abbinamenti 
+description 
+material 
+components 
+col. 054 
+naturale
+natural
+effetto bamboo .manici corti short handles
+.
+manici e tracolle handles and shoulder straps   39.
+eva compound effetto bamboo .manici corti short handles 
+code HLESGC01 EVS54
+descrizione manico corto + anello eva 
+compound effetto bamboo
+materiale eva compound
+description 
+material eva compound
+col. 371 
+latte
+milk
+col. 076 
+rosso
+red
+col. 347 
+cedro
+citrus
+.urban marina
+.urban marina
+.urban cargo
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 078 
+sabbia
+sand
+.easter
+col. 615 
+military
+military
+.urban cargo
+40.   O bag spring 2020
+eva compound effetto bamboo .manici corti + goccia short handles 
+code HLESGC19 EVS54
+descrizione manico corto + goccia eva 
+compound effetto bamboo
+materiale eva compound
+description 
+material eva compound
+col. 017 
+blu navy
+navy blue
+.urban cargo
+col. 055 
+nero
+black
+.urban marina
+col. 615 
+military
+military
+.urban cargo
+col. 076 
+rosso
+red
+.urban marina
+col. 347 
+cedro
+citrus
+.urban cargo
+col. 078 
+sabbia
+sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+manici e tracolle handles and shoulder straps   41.
+code SHOUX101 ECS00
+descrizione tracolla extraslim 110 + 
+manichetto tubolare + clip simil pelle
+materiale simil pelle
+description 
+material faux leather
+col. 612 
+blu navy + argento
+navy blue + silver
+simil pelle .tracolla + manichetto + clip shoulder strap + short handle + clip 
+.urban cargo .easter
+code SHOUX101 ECS07
+descrizione tracolla extraslim 110 + 
+manichetto tubolare + clip simil pelle 
+saffiano
+materiale simil pelle
+description 
+material faux leather
+col. 657 
+sabbia metal
+metal sand
+col. 674 
+rosa smoke metal
+metal rose smoke
+col. 017 
+blu navy + argento
+navy blue + silver
+simil pelle saffiano .tracolla 110 + manico corto 110 shoulder strap + short handle 
+.easter .easter .urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 634 
+rosso + argento
+red + silver
+.urban marina
+42.   O bag spring 2020
+code SHOUX501 ECS00
+descrizione tracolla extraslim 110 + 
+manichetto catena + clip simil pelle
+materiale simil pelle
+description 
+material faux leather
+col. 017 
+blu navy
+navy blue
+col. 038
+grafite
+graphite
+col. 055  
+nero
+black
+col. 615 
+military
+military
+simil pelle .tracolla 110 + manichetto + clip 110 shoulder strap + short handle + clip 
+.urban cargo .easter
+.urban cargo
+.urban marina .urban cargo
+manici e tracolle handles and shoulder straps   43.
+code SHOUCU00 TESDH
+descrizione tracolla catena foulard + clip 
+tessuto pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .tracolla + clip shoulder strap + clip 
+.urban marina
+code SHOUGG00 TESDF
+descrizione tracolla 80/120 + clip tessuto 
+nastro intrecciato
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+nastro intrecciato .tracolla 80/120 + clip 80/120 shoulder strap + clip 
+.urban cargo .easter
+44.   O bag spring 2020
+code SHOUGG00 TESDK  
+descrizione tracolla 80/120 + clip tessuto 
+stampa logo
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+stampa logo  .tracolla 80/120 + clip 80/120 shoulder strap + clip 
+.urban marina
+code SHOUGG00 TESDJ
+descrizione tracolla 80/120 + clip tessuto 
+nastro spigato tricolor
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+nastro spigato tricolor .tracolla 80/120 + clip 80/120 shoulder strap + clip 
+.urban cargo
+manici e tracolle handles and shoulder straps   45.
+code SHOUGG00 TESDL
+descrizione tracolla 80/120 + clip tessuto 
+stampa logo all-over
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+stampa logo all-over  .tracolla 80/120 + clip 80/120 shoulder strap + clip 
+.urban marina
+code SHOUGK01 ECSG7
+descrizione tracolla 100 cm + clip simil 
+pelle stampa marina
+materiale simil pelle
+description 
+material faux leather
+col. 055 
+nero
+black
+stampa marina .tracolla 100 + clip 100 shoulder strap + clip 
+.urban marina
+46.   O bag spring 2020
+code SHOUX000 TESDI
+descrizione tracolla extraslim 110 tessuto 
+silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612
+blu navy + argento
+navy blue + silver
+silver camouflage .tracolla 110 110 shoulder strap 
+.urban cargo
+manici e tracolle handles and shoulder straps   47.
+code SHOUX000 ECS07
+descrizione tracolla extraslim 110 simil 
+pelle saffiano
+materiale simil pelle
+description 
+material faux leather
+col. 655 
+cargo
+cargo
+col. 615 
+military
+military
+col. 616 
+ice
+ice
+simil pelle saffiano .tracolla 110 110 shoulder strap 
+.urban cargo .easter.urban cargo .urban cargo .easter
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 674 
+rosa smoke metal
+rose smoke sand
+col. 656 
+cassis
+cassis
+.easter.easter
+col. 002 
+amaranto
+amaranth
+.urban cargo .urban cargo
+col. 347 
+cedro
+cedro
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 657 
+sabbia metal
+metal sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+48.   O bag spring 2020
+code OBAGA000 ECS07
+descrizione accessorio clip simil pelle 
+saffiano
+materiale simil pelle
+description 
+material faux leather
+simil pelle saffiano .clip clips
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 615 
+military
+military
+.urban cargo
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 002 
+amaranto
+amaranth
+.urban cargo
+col. 674 
+rosa smoke metal
+rose smoke sand
+.easter
+col. 656 
+cassis
+cassis
+.easter
+col. 657
+sabbia metal
+metal sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+col. 017 
+blu navy
+navy blue
+col. 347 
+cedro
+citrus
+.urban cargo .easter
+.urban cargo
+manici e tracolle handles and shoulder straps   49.
+ecopelle .clip clips
+code OBAGA000 ECS42
+descrizione accessorio clip ecopelle 
+opaca + argento
+materiale ecopelle
+description 
+material faux leather
+col. 076 
+rosso
+rosso
+.urban marina
+col. 479 
+skyway + argento
+skyway + silver
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+.continuativo / carry over
+inner bags
+sacche interne
+inner bags
+52.   O bag spring 2020
+code OBAGS001 TES01
+descrizione sacca interna zip O bag 
+tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+col. 655 
+cargo
+cargo
+canvas .sacca interna zip inner zip-up bag O bag
+.urban cargo
+.urban cargo .easter
+col. 076 
+rosso
+red
+.urban marina
+col. 130 
+azzurro
+light blue
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+col. 075 
+rosa smoke
+smoke rose
+.easter .easter
+col. 008 
+bianco
+white
+col. 054
+naturale
+natural
+col. 009
+blu
+blue
+col. 039
+grigio
+grey
+col. 055
+nero
+black
+.urban marina
+.continuativo / carry over
+.easter
+.continuativo / carry over
+.urban cargo .easter.
+continuativo / carry over
+.urban cargo
+.continuativo / carry over
+.urban marina
+.continuativo / carry over
+col. 347
+cedro
+citrus
+.urban cargo
+sacche interne inner bags   53.
+code OBAGS001 TESDE
+descrizione sacca interna zip O bag 
+tessuto military weave
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+military weave .sacca interna zip inner zip-up bag O bag
+.urban cargo
+54.   O bag spring 2020
+code OBAGS001 TESDH
+descrizione sacca interna zip O bag 
+tessuto pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .sacca interna zip inner zip-up bag O bag
+.urban marina
+code OBAGS001 TESDL
+descrizione sacca interna zip O bag 
+tessuto stampa logo all-over
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+logo all-over .sacca interna zip inner zip-up bag O bag
+.urban marina
+sacche interne inner bags   55.
+code OBAGS001 TESDM
+descrizione sacca interna zip O bag 
+tessuto stampa microflowers
+materiale tessuto
+description 
+material fabric
+col. 038 
+grafite
+graphite
+microflowers .sacca interna zip inner zip-up bag O bag
+.urban cargo
+code OBAGS001 TESDQ
+descrizione sacca interna zip O bag 
+tessuto diagonal stripes
+materiale tessuto
+description 
+material fabric
+col. 076 
+rosso
+red
+diagonal stripes .sacca interna zip inner zip-up bag O bag
+.urban marina
+56.   O bag spring 2020
+code OBAGS601 TESDP
+descrizione sacca interna switch O bag 
+tessuto foursquare
+materiale tessuto
+description 
+material fabric
+code OBAGS001 TESDI
+descrizione sacca interna zip O bag 
+tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+col. 612 
+blu navy + argento
+navy blue + silver
+foursquare .sacca interna switch inner switch bag O bag
+silver camouflage .sacca interna zip inner zip-up bag O bag
+.urban cargo
+.urban cargo
+sacche interne inner bags   57.
+code OBAGS601 TESDO
+descrizione sacca interna switch O bag 
+tessuto stampa vichy
+materiale tessuto
+description 
+material fabric
+col. 656 
+cassis
+cassis
+col. 017 
+blu navy
+navy blue
+vichy .sacca interna switch inner switch bag O bag
+.easter .easter
+58.   O bag spring 2020
+code OBAGS002 TES01
+descrizione sacca interna zip O bag mini 
+tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+canvas .sacca interna zip inner zip-up bag O bag mini
+.urban cargo
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 076 
+rosso
+red
+.urban marina
+col. 130 
+azzurro
+light blue
+.urban cargo .easter
+.urban marina
+.continuativo / carry over
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 009
+blu
+blue
+col. 054
+naturale
+natural
+.urban marina
+.continuativo / carry over
+.urban cargo . easter
+.continuativo / carry over
+.easter
+.continuativo / carry over
+col. 347 
+cedro
+citrus
+col. 656 
+cassis
+cassis
+col. 075 
+rosa smoke
+rose smoke
+.urban cargo .easter
+.easter
+sacche interne inner bags   59.
+code OBAGS002 TESDG
+descrizione sacca interna zip O bag mini 
+tessuto optical dots
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+optical dots .sacca interna zip inner zip-up bag O bag mini
+.urban marina
+60.   O bag spring 2020
+code OBAGS002 TESDH
+descrizione sacca interna zip O bag mini 
+tessuto pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .sacca interna zip inner zip-up bag O bag mini
+.urban marina
+code OBAGS002 TESDI
+descrizione sacca interna zip O bag mini 
+tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .sacca interna zip inner zip-up bag O bag mini
+.urban cargo
+sacche interne inner bags   61.
+code OBAGS002 TESDM
+descrizione sacca interna zip O bag mini 
+tessuto stampa microflowers
+materiale tessuto
+description 
+material fabric
+col. 038 
+grafite
+graphite
+microflowers .sacca interna zip inner zip-up bag O bag mini
+.urban cargo
+code OBAGS002 TESDQ
+descrizione sacca interna zip O bag mini 
+tessuto diagonal stripes
+materiale tessuto
+description 
+material fabric
+col. 076 
+rosso
+red
+diagonal stripes .sacca interna zip inner zip-up bag O bag mini
+.urban marina
+62.   O bag spring 2020
+code OBAGS602 TESDP
+descrizione sacca interna switch O bag 
+mini tessuto foursquare
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+foursquare .sacca interna switch inner switch bag O bag mini
+.urban cargo
+code OBAGS602 TESDN
+descrizione sacca interna switch O bag 
+mini tessuto stampa peonie
+materiale tessuto
+description 
+material fabric
+col. 655 
+cargo
+cargo
+col. 075 
+rosa smoke
+rose smoke
+peonie .sacca interna switch inner switch bag O bag mini
+.easter .easter
+sacche interne inner bags   63.
+code OBAGS033 TES01
+descrizione sacca interna zip O bag 
+urban tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 076 
+rosso
+red
+col. 615 
+military
+military
+col. 075 
+rosa smoke
+rose smoke
+canvas .sacca interna zip inner zip-up bag O bag urban
+.urban marina
+.urban cargo
+.easter
+col. 017 
+blu navy
+col. 347 
+cedro
+cedro
+.urban cargo .easter
+.urban cargo
+col. 054 
+naturale
+.easter
+col. 008 
+bianco
+.urban marina
+col. 055 
+nero
+.urban marina
+64.   O bag spring 2020
+code OBAGS033 TESDG
+descrizione sacca interna zip O bag 
+urban tessuto optical dots
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+optical dots .sacca interna zip inner zip-up bag O bag urban
+.urban marina
+code OBAGS033 TESDH
+descrizione sacca interna zip O bag 
+urban tessuto pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .sacca interna zip inner zip-up bag O bag urban
+.urban marina
+sacche interne inner bags   65.
+code OBAGS033 TESDI
+descrizione sacca interna zip O bag 
+urban tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .sacca interna zip inner zip-up bag O bag urban
+.urban cargo
+code OBAGS033 TESDL
+descrizione sacca interna zip O bag 
+urban tessuto stampa logo all-over
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+logo all-over .sacca interna zip inner zip-up bag O bag urban
+.urban marina
+66.   O bag spring 2020
+code OBAGS033 TESDM
+descrizione sacca interna zip O bag 
+urban tessuto stampa microflowers
+materiale tessuto
+description 
+material fabric
+col. 038 
+grafite
+graphite
+microflowers .sacca interna zip inner zip-up bag O bag urban
+.urban cargo
+code OBAGS633 TESDO
+descrizione sacca interna switch O bag 
+urban tessuto stampa vichy
+materiale tessuto
+description 
+material fabric
+col. 656 
+cassis
+cassis
+col. 017 
+blu navy
+navy blue
+vichy .sacca interna switch inner switch bag O bag urban
+.easter .easter
+sacche interne inner bags   67.
+code OBAGS033 TESDE
+descrizione sacca interna zip O bag 
+urban tessuto military weave
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+military weave .sacca interna zip inner zip-up bag O bag urban
+.urban cargo
+68.   O bag spring 2020
+code OBAGS057 TES01
+descrizione sacca interna zip O bag 
+urban mini tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 371 
+latte
+milk
+col. 054 
+naturale
+natural
+col. 017 
+blu navy
+navy blue
+col. 055 
+nero
+black
+canvas .sacca interna zip inner zip-up bag O bag urban mini
+.urban marina.easter .urban cargo .easter
+.urban marina
+sacche interne inner bags   69.
+code OBAGS034 TES01
+descrizione sacca interna zip O bag glam 
+tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+canvas .sacca interna zip inner zip-up bag O bag glam
+.urban cargo
+code OBAGS634 TESDH
+descrizione sacca interna switch O bag 
+glam tessuto pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .sacca interna switch inner switch bag O bag glam
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+col. 054
+naturale
+natural
+.urban marina .easter
+col. 008 
+bianco
+white
+.urban marina
+70.   O bag spring 2020
+code OBAGS634 TESDI
+descrizione sacca interna switch O bag 
+glam tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .sacca interna switch inner switch bag O bag glam
+.urban cargo
+code OBAGS634 TESDP
+descrizione sacca interna switch O bag 
+glam tessuto foursquare
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+foursquare .sacca interna switch inner switch bag O bag glam
+.urban cargo
+sacche interne inner bags   71.
+code OBAGS046 TES01
+descrizione sacca interna zip O bag 
+reverse tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+canvas .sacca interna zip inner zip-up bag O bag reverse
+.urban cargo
+code OBAGS646 TESDP
+descrizione sacca interna switch O bag 
+reverse tessuto foursquare
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+foursquare .sacca interna switch inner switch bag O bag reverse
+.urban cargo
+col. 008 
+bianco
+white
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 054 
+naturale
+natural
+.easter
+col. 055 
+nero
+black
+.urban marina
+72.   O bag spring 2020
+code OBAGS646 TESDQ
+descrizione sacca interna switch O bag 
+reverse tessuto diagonal stripes
+materiale tessuto
+description 
+material fabric
+col. 076 
+rosso
+red
+diagonal stripes .sacca interna switch inner switch bag O bag reverse
+.urban marina
+code OBAGS646 TESDH
+descrizione sacca interna switch O bag 
+reverse tessuto pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .sacca interna switch inner switch bag O bag reverse
+.urban marina
+sacche interne inner bags   73.
+code OBAGS646 TESDN
+descrizione sacca interna switch O bag 
+reverse tessuto stampa peonie
+materiale tessuto
+description 
+material fabric
+col. 075 
+rosa smoke
+rose smoke
+peonie .sacca interna switch inner switch bag O bag reverse
+.easter
+code OBAGS646 TESDO
+descrizione sacca interna switch O bag 
+reverse tessuto stampa vichy
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+vichy .sacca interna switch inner switch bag O bag reverse
+.easter
+74.   O bag spring 2020
+code OBAGS060 TES01
+descrizione sacca interna zip O bag 
+sharm tessuto canvas
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+canvas .sacca interna zip inner zip-up bag O bag sharm
+.urban cargo
+code OBAGS060 TESDL
+descrizione sacca interna zip O bag 
+sharm tessuto stampa logo all-over
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+logo all-over .sacca interna zip inner zip-up bag O bag sharm
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 054 
+naturale
+natural
+.urban cargo
+col. 055 
+nero
+black
+.urban marina
+sacche interne inner bags   75.
+trims
+bordi
+trims
+78.   O bag spring 2020
+code OBAGT001 TESDE
+descrizione bordo O bag tessuto military 
+weave
+materiale tessuto
+description 
+material fabric
+col. 615 
+military
+military
+military weave .bordo trim O bag
+.urban cargo
+code OBAGT001 TESDH
+descrizione bordo O bag tessuto pied de 
+poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .bordo trim O bag
+.urban marina
+bordi trims   79.
+code OBAGT001 TESDL
+descrizione bordo O bag tessuto stampa 
+logo all-over
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+logo all-over .bordo trim O bag
+.urban marina
+code OBAGT001 TESDM
+descrizione bordo O bag tessuto stampa 
+microflowers
+materiale tessuto
+description 
+material fabric
+col. 038 
+grafite
+graphite
+microflowers .bordo trim O bag
+.urban cargo
+80.   O bag spring 2020
+code OBAGT001 TESDP
+descrizione bordo O bag tessuto 
+foursquare
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+foursquare .bordo trim O bag
+.urban cargo
+code OBAGT001 TESDQ
+descrizione bordo O bag tessuto 
+diagonal stripes
+materiale tessuto
+description 
+material fabric
+col. 076 
+rosso
+red
+diagonal stripes .bordo trim O bag
+.urban marina
+bordi trims   81.
+code OBAGT001 TESDI
+descrizione bordo O bag tessuto silver 
+camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .bordo trim O bag
+.urban cargo
+code OBAGT001 TESDO
+descrizione bordo O bag tessuto stampa 
+vichy
+materiale tessuto
+description 
+material fabric
+col. 656 
+cassis
+cassis
+col. 017 
+blu navy
+navy blue
+vichy .bordo trim O bag
+.easter .easter
+82.   O bag spring 2020
+code OBAGT002 TESDG
+descrizione bordo O bag mini tessuto 
+optical dots
+materiale tessuto
+description 
+material fabric
+col. 227 
+bianco/nero
+white/black
+optical dots .bordo trim O bag mini
+.urban marina
+code OBAGT002 TESDH
+descrizione bordo O bag mini tessuto 
+pied de poule tricolor
+materiale tessuto
+description 
+material fabric
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .bordo trim O bag mini
+.urban marina
+bordi trims   83.
+code OBAGT002 TESDI
+descrizione bordo O bag mini tessuto 
+silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .bordo trim O bag mini
+.urban cargo
+code OBAGT002 TESDM
+descrizione bordo O bag mini tessuto 
+stampa microflowers
+materiale tessuto
+description 
+material fabric
+col. 038 
+grafite
+graphite
+microflowers .bordo trim O bag mini
+.urban cargo
+84.   O bag spring 2020
+code OBAGT002 TESDP
+descrizione bordo O bag mini tessuto 
+foursquare
+materiale tessuto
+description 
+material fabric
+col. 017 
+blu navy
+navy blue
+foursquare .bordo trim O bag mini
+.urban cargo
+code OBAGT002 TESDQ
+descrizione bordo O bag mini tessuto 
+diagonal stripes
+materiale tessuto
+description 
+material fabric
+col. 076 
+rosso
+red
+diagonal stripes .bordo trim O bag mini
+.urban marina
+bordi trims   85.
+code OBAGT002 TESDN
+descrizionebordo O bag mini tessuto 
+stampa peonie 
+materiale tessuto
+description 
+material fabric
+col. 655 
+cargo
+cargo
+col. 075 
+rosa smoke
+rose smoke
+peonie .bordo trim O bag mini
+.easter .easter
+flaps
+pattine
+flaps
+88.   O bag spring 2020
+code OBAGP006 ECSI2
+descrizione pattina O pocket simil pelle 
+texture microintreccio
+materiale simil pelle
+description 
+material faux leather
+col. 017 
+blu navy
+navy blue
+col. 038 
+grafite
+graphite
+texture microintreccio .pattina flap O pocket
+.urban cargo .urban cargo
+code OBAGP006 ECSH3
+descrizione pattina O pocket simil pelle 
+flower effetto traforato
+materiale simil pelle
+description 
+material faux leather
+col. 530 
+rosso/nero
+red/black
+traforata flower .pattina flap O pocket
+.urban marina
+patte flaps   89.
+code OBAGPA06 ECSG7
+descrizione pattina girello O pocket simil 
+pelle stampa marina
+materiale simil pelle
+description 
+material faux leather
+col. 055 
+nero
+black
+marina .pattina girello flap O pocket
+.urban marina
+code OBAGPA06 ECSG8
+descrizione pattina girello O pocket simil 
+pelle stampa microflowers
+materiale simil pelle
+description 
+material faux leather
+col. 038 
+grafite
+graphite
+microflowers .pattina girello flap O pocket
+.urban cargo
+90.   O bag spring 2020
+code OBAGPA06 EVS00
+descrizione pattina girello O pocket eva 
+compound
+materiale eva compound
+description 
+material eva compound
+eva compound .pattina girello flap O pocket
+col. 616 
+ice
+ice
+.urban cargo .easter
+col. 023 
+celeste
+sky blue
+.urban cargo
+col. 615 
+military
+military
+.urban cargo
+col. 655 
+cargo
+cargo
+.urban cargo .easter
+col. 656 
+cassis
+cassis
+.easter
+col. 002 
+amaranto
+amaranth
+.urban cargo
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.easter
+col. 078 
+sabbia
+sand
+.easter
+col. 347 
+cedro
+cedro
+.urban cargo
+col. 371 
+latte
+milk
+.urban marina
+patte flaps   91.
+code OBAGPA06 ECSG9
+descrizione pattina girello O pocket  simil 
+pelle saffiano stampa peonie
+materiale simil pelle
+description 
+material faux leather
+col. 655 
+cargo
+cargo
+col. 075 
+rosa smoke
+rose smoke
+saffiano peonie .pattina flap O pocket
+.easter .easter
+92.   O bag spring 2020
+code OBAGP034 ECSG6
+descrizione pattina O bag glam simil 
+pelle stampa logo all-over
+materiale simil pelle
+description 
+material faux leather
+col. 227 
+bianco/nero
+white/black
+logo all-over .pattina flap O bag glam
+.urban marina
+code OBAGP034 TESDI
+descrizione pattina O bag glam tessuto 
+silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .pattina flap O bag glam
+.urban cargo
+patte flaps   93.
+code OBAGP034 ECSI1
+descrizione pattina O bag glam simil 
+pelle saffiano + borchie iride
+materiale simil pelle
+description 
+material faux leather
+col. 674
+rosa smoke metal
+metal rose smoke
+col. 078 
+sabbia
+metal
+saffiano + borchie iride .pattina flap O bag glam
+.easter .easter
+code OBAGPB34 ECSG1
+descrizione pattina basic O bag glam 
+simil pelle ancora 3d
+materiale simil pelle
+description 
+material faux leather
+col. 371 
+latte
+milk
+col. 055 
+nero
+black
+ancora 3d .pattina basic flap O bag glam
+.urban marina .urban marina
+94.   O bag spring 2020
+code OBAGPB34 ECSI2
+descrizione pattina basic O bag glam 
+simil pelle texture microintreccio
+materiale simil pelle
+description 
+material faux leather
+col. 038 
+grafite
+graphite
+texture microintreccio .pattina basic flap O bag glam
+.urban cargo
+code OBAGPB34 ECSG3
+descrizione pattina basic O bag glam 
+simil pelle pied de poule tricolor
+materiale simil pelle
+description 
+material faux leather
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .pattina basic flap O bag glam
+.urban marina
+patte flaps   95.
+code OBAGPB34 ECSH9
+descrizione pattina basic O bag glam 
+simil pelle bicolor applicazione stelle
+materiale simil pelle
+description 
+material faux leather
+col. 658 
+military/cargo
+military/cargo
+col. 530 
+rosso/nero
+red/black
+col. 623 
+blu navy/ice
+navy blue/ice
+bicolor .pattina basic flap O bag glam
+.urban cargo .urban marina
+.urban cargo
+code OBAGP034 ECSH1
+descrizione pattina O bag glam simil 
+pelle saffiano vichy flower
+materiale simil pelle
+description 
+material faux leather
+col. 656 
+cassis
+cassis
+col. 017 
+blu navy
+navy blue
+saffiano vichy flower .pattina flap O bag glam
+.easter .easter
+96.   O bag spring 2020
+code OBAGPT47 ECSG6
+descrizione pattina con tasca O bag 
+queen simil pelle stampa logo all-over
+materiale simil pelle
+description 
+material faux leather
+col. 273 
+nero su nero
+black su black
+logo all-over .pattina con tasca flap O bag queen
+.urban marina
+code OBAGPT47 ECSH3
+descrizione pattina con tasca O bag 
+queen simil pelle flower effetto traforato
+materiale simil pelle
+description 
+material faux leather
+col. 612 
+blu navy + argento
+navy blue + silver
+flower effetto traforato .pattina con tasca flap O bag queen
+.urban cargo
+patte flaps   97.
+code OBAGPT47 TESDI
+descrizione pattina con tasca O bag 
+queen tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .pattina con tasca flap O bag queen
+.urban cargo
+code OBAGPT47 ECSG9
+descrizione pattina con tasca O bag 
+queen simil pelle saffiano stampa peonie
+materiale simil pelle
+description 
+material faux leather
+col. 075 
+rosa smoke
+rose smoke
+saffiano peonie .pattina flap O bag queen
+.easter
+98.   O bag spring 2020
+code OBAGPT47 ECSH2
+descrizione pattina con tasca O bag 
+queen simil pelle saffiano flower
+materiale simil pelle
+description 
+material faux leather
+col. 657 
+sabbia metal
+metal sand
+saffiano flower .pattina flap O bag queen
+.easter
+code OBAGPT47 ECSI1
+descrizione pattina con tasca O bag 
+queen simil pelle saffiano + borchie iride
+materiale simil pelle
+description 
+material faux leather
+col. 674
+rosa smoke metal
+metal rose smoke
+col. 657 
+sabbia metal
+metal sand
+saffiano + borchie iride .pattina flap O bag queen
+.easter .easter
+patte flaps   99.
+ecopelle saffiano .pattina flap O bag queen
+code OBAGPT47 ECS07
+descrizione pattina con tasca O bag 
+queen  ecopelle saffiano
+materiale ecopelle
+description 
+material faux leather
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 055 
+nero
+black
+.urban marina
+band closure
+chiusura a fascia
+band closure
+102.   O bag spring 2020
+code OBAGC534 ECSG3
+descrizione chiusura a fascia con fibbia 
+O bag glam simil pelle pied de poule 
+tricolor
+materiale simil pelle
+description 
+material faux leather
+col. 499 
+bianco/rosso/nero
+white/red/black
+pied de poule tricolor .chiusura a fascia band closure O bag glam
+.urban marina
+code OBAGC534 ECSG6
+descrizione chiusura a fascia con fibbia 
+O bag glam simil pelle stampa logo all-
+over
+materiale simil pelle
+description 
+material faux leather
+col. 273 
+nero su nero
+black su black
+logo all-over .chiusura a fascia band closure O bag glam
+.urban marina
+chiusura a fascia band closure   103.
+code OBAGC534 ECSI2
+descrizione chiusura a fascia con 
+fibbia O bag glam simil pelle texture 
+microintreccio
+materiale simil pelle
+description 
+material faux leather
+col. 017 
+blu navy
+navy blue
+texture microintreccio .chiusura a fascia band closure O bag glam
+.urban cargo
+code OBAGC534 TESDI
+descrizione chiusura a fascia con fibbia 
+O bag glam tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .chiusura a fascia band closure O bag glam
+.urban cargo
+backpacks
+zaini
+backpacks
+106.   O bag spring 2020
+code OBAGZ503 ECSG6
+descrizione scocca zaino completo con 
+chiusura zip e spallaccio O bag ivy simil 
+pelle stampa logo all-over
+materiale simil pelle
+description 
+material faux leather
+col. 227 
+bianco/nero
+white/black
+logo all-over .zaino completo complete backpack O bag ivy
+.urban marina
+code OBAGZ503 ECSG8
+descrizione scocca zaino completo con 
+chiusura zip e spallaccio O bag ivy simil 
+pelle stampa microflowers
+materiale simil pelle
+description 
+material faux leather
+col. 038 
+grafite
+graphite
+microflowers .zaino completo complete backpack O bag ivy
+.urban cargo
+zaini backpacks   107.
+code OBAGZ503 TESDI
+descrizione scocca zaino completo 
+con chiusura zip e spallaccio O bag ivy 
+tessuto silver camouflage
+materiale tessuto
+description 
+material fabric
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .zaino completo complete backpack O bag ivy
+.urban cargo
+code OBAGZ503 ECSG9
+descrizione scocca zaino completo con 
+chiusura zip e spallaccio O bag ivy simil 
+pelle saffiano stampa peonie
+materiale simil pelle
+description 
+material faux leather
+col. 075 
+rosa smoke
+rose smoke
+saffiano peonie .zaino completo complete backpack O bag ivy
+.easter
+108.   O bag spring 2020
+code OBAGB426 ECSG5
+descrizione scocca completo O bag tote 
+simil pelle stampa logo
+materiale simil pelle
+abbinamenti:
+- obbligatorio SHOUBG00 ECS00 p.99
+- consigliato HLESAD00 ECS00 p.32
+description 
+material faux leather
+components:
+- necessary SHOUBG00 ECS00 p.99
+- suggested HLESAD00 ECS00 p.32
+col. 530 
+rosso/nero
+red/black
+stampa logo .scocca completo complete body O bag tote
+.urban marina
+code OBAGB426 ECSH4
+descrizione scocca completo O bag tote 
+simil pelle geometrica effetto traforato
+materiale simil pelle
+abbinamenti:
+- obbligatorio SHOUBG00 ECS00 p.99
+- consigliato HLESAD00 ECS00 p.32
+description 
+material faux leather
+components:
+- necessary SHOUBG00 ECS00 p.99
+- suggested HLESAD00 ECS00 p.32
+col. 389 
+silver
+silver
+traforata geometrica .scocca completo complete body O bag tote
+.urban cargo
+zaini backpacks   109.
+code SHOUBG00 ECS00
+descrizione tracolla/spallaccio slim 140 
+ecopelle
+col. 055 
+nero
+black
+.urban marina
+col. 076 
+rosso
+red
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo
+ecopelle .tracolla 140 140 shoulder strap 
+110.   O bag spring 2020
+code OBAGB019 EVS00
+descrizione scocca O square eva 
+compound
+materiale eva compound
+description 
+material eva compound
+col. 655 
+cargo
+cargo
+col. 066 
+petrolio
+petroleum
+eva compound .scocca body O square
+.urban cargo .easter .urban cargo
+col. 656 
+cassis
+cassis
+.easter
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter .urban cargo
+.easter.urban marina
+col. 055 
+nero
+black
+col. 347 
+cedro
+cedro
+col. 076 
+rosso
+red
+col. 075 
+rosa smoke
+rose smoke
+.urban marina
+col. 615 
+military
+military
+.urban cargo
+col. 078 
+sabbia
+sand
+.easter
+col. 371 
+latte
+milk
+.urban marina
+zaini backpacks   111.
+ecopelle .manici handles O square
+tessuto gommato .manici handles O square
+code HLESZ817 ECS00
+descrizione manico + spallaccio goccia 
+corto O square ecopelle
+materiale ecopelle
+description 
+material faux leather
+col. 017 
+blu navy
+navy blue
+col. 133 
+grigio chiaro
+light grey
+col. 158 
+vulcano
+volcano
+.urban cargo .easter
+.urban cargo .urban cargo
+col. 055 
+nero
+black
+.urban marina
+col. 092 
+verde scuro
+dark green
+.urban cargo
+code HLESZ817 TES20
+descrizione manico + spallaccio goccia 
+corto O square tessuto gommato
+materiale tessuto gommato
+description 
+material
+col. 009 
+blu
+blue
+.urban cargo
+col. 055 
+nero
+black
+.urban marina
+112.   O bag spring 2020
+code OBAGS019 TES01
+descrizione sacca interna zip O square 
+tessuto canvas
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 054 
+naturale
+natural
+col. 347 
+cedro
+cedro
+.urban cargo .easter
+.urban cargo
+col. 055 
+nero
+black
+canvas .scocca body O square
+cordura .scocca body O square
+.urban marina
+code OBAGS019 TES26
+descrizione sacca interna zip O square 
+tessuto cordura
+col. 054 
+naturale
+natural
+.easter
+col. 055 
+nero
+black
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban cargo .easter
+col. 092 
+verde scuro
+dark green
+.urban cargo
+zaini backpacks   113.
+accessories
+accessori
+accessories
+116.   O bag spring 2020
+code OHUGB003 EVS53
+descrizione O hug portafoglio donna tiny 
+eva compound texture dots
+materiale eva compound
+description 
+material eva compound
+col. 615 
+military
+military
+texture dots .portafoglio donna woman wallet O hug tiny
+.urban marina
+code OHUGI003 PES00
+descrizione O hug interno portafoglio 
+donna tiny pelle
+materiale pelle
+description 
+material leather
+col. 076 
+rosso
+red
+col. 615 
+military
+military
+pelle .portafoglio donna woman wallet O hug tiny
+.urban marina
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.urban marina
+col. 078 
+sabbia
+sand
+.urban marina
+col. 055 
+nero
+black
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban marina
+col. 076 
+rosso
+red
+.urban marina
+col. 078 
+sabbia
+sand
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban marina
+col. 055 
+nero
+black
+.urban marina
+accessori accessories   117.
+code OHUGB004 EVS06
+descrizione O hug portafoglio donna 
+smile eva compound texture greca
+materiale eva compound
+description 
+material eva compound
+col. 615 
+military
+military
+texture greca .portafoglio donna woman wallet O hug smile
+.urban marina
+code OHUGI004 PES00
+descrizione O hug interno portafoglio 
+donna smile pelle
+materiale simil pelle
+description 
+material faux leather
+col. 076 
+rosso
+red
+col. 615 
+military
+military
+smile pelle .portafoglio donna woman wallet O hug smile
+.urban marina
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.urban marina
+col. 078 
+sabbia
+sand
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban marina
+col. 055 
+nero
+black
+.urban marina
+col. 075 
+rosa smoke
+rose smoke
+.urban marina
+col. 078 
+sabbia
+sand
+.urban marina
+col. 076 
+rosso
+red
+.urban marina
+col. 017 
+blu navy
+navy blue
+.urban marina
+col. 055 
+nero
+black
+.urban marina
+118.   O bag spring 2020
+code ACCEO115 MAS58
+descrizione accessorio portachiavi 
+ancora stampa righe
+materiale materiale plastico
+description 
+material plastic material
+col. 227 
+bianco/nero
+white/black
+ancora stampa righe .portachiavi key ring 
+.urban marina
+code ACCEO120 MAS58
+descrizione accessorio portachiavi rosa 
+dei venti stampa righe
+materiale materiale plastico
+description 
+material plastic material
+col. 227 
+bianco/nero
+white/black
+rosa dei venti stampa righe .portachiavi key ring 
+.urban marina
+accessori accessories   119.
+code ACCEP001 ECSH4
+descrizione accessori pochette simil 
+pelle geometrica effetto traforato
+materiale simil pelle
+description 
+material faux leather
+col. 389 
+silver
+silver
+.urban cargo
+code ACCEP001 TESDI
+descrizione accessori pochette tessuto 
+silver camouflage
+materiale simil pelle
+description 
+material faux leather
+col. 612 
+blu navy + argento
+navy blue + silver
+silver camouflage .pochette pochette 
+geometrica effetto traforato .pochette pochette 
+.urban cargo
+watches
+orologi
+watches
+122.   O bag spring 2020
+code OCLKD001 MESG7
+descrizione O clock meccanismo 
+matelassè
+description 
+col. 017 
+blu navy
+navy blue
+col. 038 
+grafite
+graphite
+matelassè .meccanismo dial O clock
+.urban marina .urban marina
+code OCLKD001 MESG9
+descrizione O clock meccanismo metal 
+camouflage
+description 
+col. 017 
+blu navy
+navy blue
+col. 389 
+silver
+silver
+col. 615 
+military
+military
+metal camouflage .meccanismo dial O clock
+.urban marina .urban marina .urban marina
+col. 657 
+sabbia metal
+metal sand
+.urban marina
+orologi watches   123.
+flower mix crystal .meccanismo dial O clock
+code OCLKD001 MESG8
+descrizione O clock meccanismo flower 
+mix crystal
+description 
+col. 656 
+cassis
+cassis
+col. 062 
+oro rosa
+pink gold
+col. 076 
+rosso
+red
+.easter .easter .easter
+code OCLKD001 MESH2
+descrizione O clock meccanismo glitter 
+bicolor
+description 
+col. 661 
+cedro/coral
+cedro/coral
+col. 662 
+cassis/amaranto
+cassis/amaranth
+col. 663 
+amaranto/petrolio
+amaranth/petroleum
+glitter bicolor .meccanismo dial O clock
+.easter .easter .easter
+124.   O bag spring 2020
+code OCLKD001 MESH4
+descrizione O clock meccanismo faded 
+glass
+description 
+col. 023 
+celeste
+sky blue
+col. 347 
+cedro
+cedro
+col. 484 
+coral
+coral
+faded glass .meccanismo dial O clock
+.urban marina .urban marina .urban marina
+code OCLKD001 MESH3
+descrizione O clock meccanismo glitter 
+blow
+description 
+col. 656 
+cassis
+cassis
+col. 616 
+ice
+ice
+glitter blow .meccanismo dial O clock
+.easter .easter
+orologi watches   125.
+code OCLKD001 MESF8
+descrizione O clock meccanismo crystal 
+numbers
+description O clock mechanism crystal 
+numbers
+col. 004 
+argento
+silver
+col. 062 
+oro rosa
+rose gold
+col. 018 
+bordeaux
+bordeaux
+col. 055 
+nero
+black
+crystal numbers .orologi watches O clock
+code OCLKD001 MESG3
+descrizione O clock meccanismo glow 
+numbers
+description O clock mechanism glow 
+numbers
+col. 017 
+blu navy
+blue navy
+col. 018 
+bordeaux
+bordeaux
+col. 055 
+nero
+black
+glow numbers .orologi watches O clock
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+126.   O bag spring 2020
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing .crossing
+code OCLKD001 MESG1
+descrizione O clock meccanismo crystal 
+full sky
+description O clock mechanism crystal 
+full sky
+col. 017 
+blu navy
+blue navy
+col. 055 
+nero
+black
+crystal full sky .orologi watches O clock
+code OCLKD001 MESG5
+descrizione O clock meccanismo words 
+numbers
+description O clock mechanism words 
+numbers
+col. 001 
+acqua
+water
+col. 463 
+blu maya
+blue maya
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+words numbers .orologi watches O clock
+orologi watches   127.
+code OCLKD001 MESG6
+descrizione O clock meccanismo acid 
+numbers
+description O clock mechanism acid 
+numbers
+code OCLKD001 MESE9
+descrizione O clock meccanismo index 
+mirror
+description O clock mechanism index 
+mirror
+col. 008 
+bianco
+white
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+col. 055 
+nero
+black
+col. 262 
+fluo fucsia
+fucsia fluo
+acid numbers .orologi watches O clock
+index mirror .orologi watches O clock
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+128.   O bag spring 2020
+code OCLKD001 MES03
+descrizione O clock meccanismo mirror
+description O clock mirror dial
+col. 002 
+amaranto
+amaranth
+col. 063 
+ottanio
+teal
+col. 068 
+polvere
+powder
+col. 044 
+lime
+lime
+mirror .orologi watches O clock
+.crossing
+.crossing
+.crossing .crossing
+code OCLKD001 MESC4
+descrizione O clock meccanismo metal 
+flower
+description O clock mechanism metal 
+flower
+metal flower .orologi watches O clock
+col. 062 
+oro rosa
+pink gold
+col. 389
+silver
+silver
+.crossing .crossing
+orologi watches   129.
+code OCLKD001 MES06
+descrizione O clock meccanismo tone 
+on tone
+description O clock tone on tone dial
+col. 003 
+arancione
+orange
+col. 013 
+blu capri
+blue capri
+col. 023 
+celeste
+blue
+col. 012 
+blu acqua
+blue water
+col. 025 
+cipria
+powder
+tone on tone .orologi watches O clock
+.crossing
+.crossing
+.crossing .crossing
+.crossing
+col. 036 
+giallo
+yellow
+col. 045 
+magenta
+magenta
+.crossing
+.crossing
+col. 060 
+oliva
+olive
+.crossing
+col. 076 
+rosso
+red
+col. 097 
+violetto
+violet
+.crossing .crossing
+col. 159 
+total black
+total black
+col. 412 
+fluo blu
+blue fluo
+.crossing
+.crossing
+130.   O bag spring 2020
+code OCLKD001 MES08
+descrizione O clock meccanismo disney
+description O clock disney dial
+code OCLKD001 MESF3
+descrizione O clock meccanismo disney 
+mickey crystal
+description O clock disney mickey 
+crystal
+col. 191 
+icona
+icon
+col. 055 
+nero
+black
+col. 194 
+paperoga
+paperoga
+col. 004 
+argento
+silver
+col. 195 
+paperino
+paperino
+disney .orologi watches O clock
+mickey crystal .orologi watches O clock
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+col. 193
+paperone
+paperone
+col. 190
+minnie
+minnie
+col. 414
+topolino
+mickey mouse
+.crossing .crossing .crossing
+orologi watches   131.
+code OCLKD001 MES09
+descrizione O clock meccanismo cristal
+description O clock crystal dial
+col. 025 
+cipria
+powder
+cristal .orologi watches O clock
+.crossing
+col. 080 
+salvia
+sage
+col. 081 
+smeraldo
+emerald
+.crossing .crossing
+code OCLKD001 MES14
+descrizione O clock meccanismo 
+glimmer
+description O clock glimmer dial
+col. 004 
+argento
+silver
+col. 061 
+oro
+gold
+col. 067 
+phard
+phard
+glimmer .orologi watches O clock
+.crossing .crossing .crossing
+132.   O bag spring 2020
+code OCLKD001 MES54
+descrizione O clock meccanismo fluid
+description O clock fluid dial
+col. 076 
+rosso
+red
+fluid .orologi watches O clock
+.crossing
+orologi watches   133.
+code OCLKD001 MES12
+descrizione O clock meccanismo 
+seconds
+description O clock seconds dial
+col. 011 
+blu/nero
+blue/black
+col. 090 
+verde bianco
+green white
+col. 196 
+rosso su bianco
+red on white
+col. 199 
+rosso su grigio
+red on grey
+seconds .orologi watches O clock
+.crossing
+.crossing
+.crossing
+.crossing
+col. 197 
+blu su bianco
+blue on white
+col. 198 
+nero su bianco
+black on white
+.crossing .crossing
+col. 237 
+acqua-nero
+water/black
+col. 340 
+nero/verde
+black/green
+.crossing
+.crossing
+134.   O bag spring 2020
+code OCLKD001 MES86
+descrizione O clock meccanismo nyc 
+lines
+description O clock nyc lines dial
+col. 055 
+nero
+black
+col. 076 
+rosso
+red
+col. 347 
+cedro
+cedro
+nyc lines .orologi watches O clock
+.crossing .crossing .crossing
+code OCLKD001 MES81
+descrizione O clock meccanismo 
+deauville lines
+description O clock deauville lines dial
+col. 017 
+blu navy
+blue navy
+col. 026 
+cobalto
+cobalt
+deauville lines .orologi watches O clock
+.crossing .crossing
+orologi watches   135.
+code OCLKD001 MES87
+descrizione O clock meccanismo nyc 
+flower
+description O clock nyc flower dial
+col. 055 
+nero
+black
+col. 422 
+sangria
+sangria
+nyc flower .orologi watches O clock
+.crossing .crossing
+code OCLKD001 MES88
+descrizione O clock meccanismo nyc 
+jungle
+description O clock nyc jungle dial
+col. 076 
+rosso
+red
+col. 347 
+cedro
+cedro
+nyc jungle .orologi watches O clock
+.crossing .crossing
+136.   O bag spring 2020
+code OCLKD001 MESC2
+descrizione O clock meccanismo shiny 
+crystals
+description O clock shiny crystals dial
+col. 017 
+blu navy
+blue navy
+col. 076 
+rosso
+red
+col. 055 
+nero
+black
+col. 389 
+silver
+silver
+col. 067 
+phard
+phard
+shiny crystals .orologi watches O clock
+.xmas
+.crossing
+.crossing
+.crossing
+.xmas
+code OCLKD001 MESD9
+descrizione O clock meccanismo glossy 
+mirror
+description O clock mechanism glossy 
+mirror
+col. 088 
+turchese
+turquoise
+col. 422 
+sangria
+sangria
+glossy mirror .orologi watches O clock
+.crossing .crossing
+orologi watches   137.
+code OCLKD001 MESD6
+descrizione O clock meccanismo fluo
+description O clock mechanism fluo
+col. 144 
+ginestra
+broom
+col. 484 
+coral
+coral
+fluo .orologi watches O clock
+.crossing .crossing
+code OCLKD001 MESD8
+descrizione O clock meccanismo metal 
+ring
+description O clock metal ring 
+mechanism
+col. 008 
+bianco
+white
+col. 026 
+cobalto
+cobalt
+col. 588 
+orchidea
+orchid
+metal ring .orologi watches O clock
+.crossing .crossing .crossing
+138.   O bag spring 2020
+code OCLKD001 MESF5
+descrizione O clock meccanismo 
+sparkling heart
+description O clock mechanism sparkling 
+hearts
+col. 008 
+bianco
+white
+col. 025 
+cipria
+powder
+col. 076 
+rosso
+red
+sparkling heart .orologi watches O clock
+.crossing .crossing .crossing
+code OCLKD001 MESF6
+descrizione O clock meccanismo shiny 
+hearts
+description O clock mechanism shiny 
+hearts
+col. 004 
+argento
+silver
+shiny hearts .orologi watches O clock
+.crossing
+orologi watches   139.
+active .orologi watches O clock
+code OCLKD001 MESF2
+descrizione O clock meccanismo active
+description O clock mechanism active
+col. 055 
+nero
+black
+col. 137
+bluette
+bluette
+.crossing .crossing
+code OCLKD001 MESE3
+descrizione O clock meccanismo circle 
+soleil
+description O clock mechanism circle 
+soleil
+col. 067 
+phard
+phard
+col. 137
+bluette
+bluette
+col. 615
+military
+military
+.crossing .crossing .crossing
+circle soleil .orologi watches O clock
+140.   O bag spring 2020
+code OCLKD001 MESE6
+descrizione O clock meccanismo groove 
+lux
+description O clock mechanism groove 
+lux
+col. 004 
+argento
+silver
+col. 061
+oro
+gold
+.crossing .crossing
+groove lux .orologi watches O clock
+code OCLKD001 MESE7
+descrizione O clock meccanismo groove 
+soleil
+description O clock mechanism groove 
+soleil
+col. 055 
+nero
+black
+col. 137
+bluette
+bluette
+.crossing .crossing
+groove soleil .orologi watches O clock
+orologi watches   141.
+code OCLKD001 MESB8
+descrizione O clock meccanismo laser 
+spotted
+description O clock mechanism laser 
+spotted
+col. 078 
+sabbia
+sand
+col. 559
+rame
+rame
+laser spotted .meccanismo dial O clock
+.crossing .crossing
+code OCLKD001 MESB9
+descrizione O clock meccanismo laser 
+cocco
+description O clock mechanism laser 
+cocco
+col. 018 
+bordeaux
+bordeaux
+col. 055
+nero
+black
+laser cocco .meccanismo dial O clock
+.crossing .crossing
+142.   O bag spring 2020
+GENER S
+GENER M
+GENER L
+.crossing
+col. 484
+coral
+coral
+code OCLKS007 SIS01
+descrizione O clock cinturino silicone 
+materiale silicone
+abbinamenti meccanismo O clock
+description silicone O clock strap
+material silicone
+components O clock dial
+GENER S GENER S
+GENER S
+GENER M GENER M
+GENER M
+GENER L GENER L
+GENER L
+col. 044 
+lime
+lime
+col. 036 
+giallo
+yellow
+col. 003 
+arancione
+orange
+.crossing .crossing
+.crossing
+GENER S
+GENER M
+GENER L
+col. 128 
+salmone
+salmon
+.crossing
+GENER S
+GENER M
+GENER L
+col. 076 
+rosso
+red
+.crossing
+GENER S
+GENER M
+GENER L
+col. 053 
+narcissus
+narcissus
+.crossing
+GENER S
+GENER M
+col. 077 
+rubino
+ruby
+GENER L
+.crossing
+silicone .cinturino strap O clock  
+orologi watches   143.
+GENER L
+GENER S
+GENER M
+col. 013 
+blu capri
+capri blue
+.crossing
+GENER S
+GENER M
+GENER L
+col. 022 
+carta da zucchero
+azure
+.crossing
+GENER LGENER L
+GENER L GENER L
+GENER SGENER S
+GENER S
+GENER MGENER M
+GENER M
+col. 069 
+porpora
+purple
+col. 045 
+magenta
+magenta
+col. 096 
+viola pastello
+viola pastello
+.crossing.crossing
+.crossing .crossing
+GENER L
+GENER S
+GENER M
+col. 025 
+cipria
+powder pink
+.crossing
+GENER S
+GENER M
+col. 095 
+viola desaturato
+pale violet
+GENER S
+GENER M
+GENER L
+.crossing
+GENER S
+GENER M
+GENER L
+.crossing
+col. 422
+sangria
+sangria
+col. 486
+pink
+pink
+GENER S
+GENER M
+GENER L
+col. 002 
+amaranto
+amaranth
+.crossing
+144.   O bag spring 2020
+GENER S
+GENER M
+col. 088 
+turchese
+turquoise
+GENER S GENER S
+GENER M GENER M
+GENER L
+GENER L
+GENER L
+col. 063 
+ottanio
+teal
+col. 090 
+verde bianco
+white green
+.crossing
+.crossing
+GENER M
+col. 012 
+blu acqua
+aqua blue
+GENER S
+GENER L
+.crossing
+.crossing
+GENER S
+GENER M
+GENER L GENER L GENER L
+col. 015 
+blu iris
+iris blue
+.crossing .crossing .crossing
+GENER S GENER S
+GENER M GENER M
+col. 014 
+blu elettrico
+electric blue
+col. 023
+celeste
+sky blue
+GENER S
+GENER M
+GENER L
+.crossing
+col. 485
+atlantic
+atlantic
+GENER S
+GENER M
+GENER L
+col. 024 
+cioccolato
+chocolate
+.crossing
+GENER S
+GENER M
+col. 060 
+oliva
+olive
+GENER L
+.crossing
+silicone .cinturino strap O clock  
+orologi watches   145.
+code OCLKD101 MES06
+descrizione meccanismo great tone on 
+tone
+description great tone on tone dial
+col. 002 
+amaranto
+amaranth
+col. 044 
+lime
+lime
+col. 063 
+ottanio
+teal
+tone on tone .orologi watches O clock great
+.crossing
+.crossing
+.crossing.crossing
+.crossing
+col. 068 
+polvere
+powder
+col. 183 
+viola
+violet
+.crossing .crossing
+code OCLKD101 MESG1
+descrizione meccanismo great crystal 
+full sky
+description great crystal full sky dial
+col. 017 
+blu navy
+blue navy
+col. 055 
+nero
+black
+crystal full sky .orologi watches O clock great
+146.   O bag spring 2020
+code OCLKD101 MES12
+descrizione meccanismo great seconds
+description great seconds dial
+col. 001 
+acqua
+water
+col. 053 
+narcissus
+narcissus
+col. 003 
+arancione
+orange
+col. 112 
+purple
+purple
+col. 015 
+blu iris
+blue iris
+col. 267 
+fucsia
+fucsia
+seconds .orologi watches O clock great
+.crossing
+.crossing
+.crossing
+.crossing .crossing
+.crossing
+code OCLKD101 MES04
+descrizione meccanismo great soleil
+description great soleil dial
+col. 061 
+oro
+gold
+soleil .orologi watches O clock great
+.crossing
+orologi watches   147.
+code OCLKD101 MES17
+descrizione meccanismo great diamonds
+description great diamonds dial
+col. 067 
+phard
+phard
+col. 131 
+antique green
+antique green
+col. 133 
+grigio chiaro
+light grey
+diamonds .orologi watches O clock great
+.crossing .crossing .crossing
+code OCLKD101 MES76
+descrizione meccanismo great micro 
+fantasia tono su tono
+description great tone on tone micro 
+fantasy dial
+col. 004 
+argento
+silver
+col. 061 
+oro
+gold
+micro fantasia tono su tono .orologi watches O clock great
+.crossing .crossing
+148.   O bag spring 2020
+code OCLKD101 MES22
+descrizione meccanismo great metallo 
+sunlight
+description O clock great sunlight metal 
+dial
+col. 008 
+bianco
+white
+metallo sunlight .orologi watches O clock great
+.crossing
+code OCLKD101 MESD8
+descrizione meccanismo great metal ring
+description great metal ring mechanism
+col. 008 
+bianco
+white
+col. 588 
+orchidea
+orchid
+metal ring .orologi watches O clock great
+.crossing .crossing
+orologi watches   149.
+code OCLKD101 MES34
+descrizione meccanismo great numeri 
+romani
+description great roman numbers dial
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+numeri romani .orologi watches O clock great
+.crossing .crossing
+code OCLKD101 MES35
+descrizione meccanismo great numeri 
+mirror
+description great mirror numbers dial
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+col. 137 
+bluette
+bluette
+numeri mirror .orologi watches O clock great
+.crossing .crossing .crossing
+150.   O bag spring 2020
+code OCLKD101 MES93
+descrizione meccanismo great christmas 
+snowflakes
+description great christmas snowflakes 
+dial
+col. 076 
+rosso
+red
+col. 388 
+gold
+gold
+col. 389 
+silver
+silver
+christmas snowflakes .orologi watches O clock great
+.crossing .crossing .crossing
+code OCLKD102 MES07
+descrizione meccanismo great soleil 
+numeri
+description great soleil numbers dial
+col. 001 
+acqua
+water
+col. 095 
+viola desaturato
+violet desaturated
+col. 108 
+terracotta
+terracotta
+soleil numeri .orologi watches O clock great
+.crossing .crossing .crossing
+orologi watches   151.
+col. 076 
+rosso
+red
+col. 347 
+cedro
+cedro
+.crossing .crossing
+col. 063 
+ottanio
+teal
+.crossing
+col. 422 
+sangria
+sangria
+.crossing
+code OCLKD101 MESA7
+descrizione meccanismo great tone on 
+tone smalto
+description O clock great enamel tone on 
+tone dial
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+col. 025 
+cipria
+powder
+col. 059 
+oceano
+ocean
+col. 060 
+oliva
+olive
+tone on tone smalto .orologi watches O clock great
+.crossing .crossing.crossing
+.crossing .crossing
+152.   O bag spring 2020
+code OCLKD101 MES15
+descrizione meccanismo great christmas
+description great christmas dial
+col. 156 
+roman numbers
+roman numbers
+christmas .orologi watches O clock great
+.crossing
+code OCLKD102 MES16
+descrizione meccanismo great racing
+description great racing dial
+col. 067 
+phard
+phard
+col. 131 
+antique green
+antique green
+col. 133 
+grigio chiaro
+light grey
+racing .orologi watches O clock great
+.crossing .crossing .crossing
+orologi watches   153.
+code OCLKD101 MES16
+descrizione meccanismo great racing
+description great racing dial
+col. 008 
+bianco
+white
+col. 263 
+fluo arancione
+orange fluo
+col. 076 
+rosso
+red
+col. 265 
+fluo corallo
+coral fluo
+col. 261 
+fluo lime
+lime fluo
+col. 266 
+fluo acqua
+water fluo
+racing .orologi watches O clock great
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+code OCLKD104 MES00
+descrizione meccanismo great date 
+generico
+description great date generic dial
+col. 060 
+oliva
+olive
+col. 261 
+fluo lime
+lime fluo
+col. 108 
+terracotta
+terracotta
+col. 263 
+fluo arancione
+orange fluo
+col. 131 
+antique green
+antique green
+col. 264 
+fluo verde
+green fluo
+date generico .orologi watches O clock great
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+154.   O bag spring 2020
+code OCLKD104 MES04
+descrizione meccanismo great date soleil
+description great date soleil dial
+col. 002 
+amaranto
+amaranth
+col. 063 
+ottanio
+teal
+col. 044 
+lime
+lime
+col. 068 
+polvere
+powder
+date soleil .orologi watches O clock great
+.crossing .crossing .crossing
+.crossing
+col. 072 
+rosa
+pink
+col. 183 
+viola
+violet
+.crossing .crossing
+code OCLKD104 MES12
+descrizione meccanismo great date 
+seconds
+description O clock great date seconds 
+dial
+col. 009 
+blu
+blue
+col. 076 
+rosso
+red
+col. 139 
+mela
+apple
+date seconds .orologi watches O clock great
+.crossing .crossing .crossing
+orologi watches   155.
+code OCLKD104 MES92
+descrizione meccanismo great date satin
+description great date satin dial
+col. 497 
+nero/rosso/bianco
+black/red/white
+col. 498 
+nero/giallo/bianco
+black/yellow/white
+col. 499 
+bianco/rosso/nero
+white/red/black
+date satin .orologi watches O clock great
+.crossing .crossing .crossing
+code OCLKD111 MES63
+descrizione meccanismo great day time 
+carbon
+description great day time carbon dial
+col. 009 
+blu
+blue
+col. 036 
+giallo
+yellow
+col. 076 
+rosso
+red
+day time carbon .orologi watches O clock great
+.crossing .crossing .crossing
+156.   O bag spring 2020
+code OCLKD104 MES90
+descrizione meccanismo great date nyc 
+times square
+description great date nyc times square 
+dial
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+date nyc times square .orologi watches O clock great
+.crossing .crossing
+code OCLKD101 MESE9
+descrizione meccanismo great index 
+mirror
+description great index mirror dial
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+.crossing .crossing
+index mirror .orologi watches O clock great
+orologi watches   157.
+code OCLKD110 MES64
+descrizione meccanismo great racing
+description great racing dial
+col. 390 
+rosso su nero
+red on black
+col. 391 
+blu su nero
+blue on black
+racing .orologi watches O clock great
+.crossing .crossing
+circle mother of pearl .orologi watches O clock great
+code OCLKD101 MESE4
+descrizione O clock meccanismo great 
+circle mother of pearl
+description O clock great mechanism 
+circle mother of pearl
+col. 004 
+argento
+silver
+.croissing
+158.   O bag spring 2020
+lagoon .orologi watches O clock great
+code OCLKD104 MES42
+descrizione meccanismo great date 
+lagoon
+description great date dial lagoon
+col. 063 
+ottanio
+teal
+.crossing
+code OCLKD110 MESA6
+descrizione meccanismo great racing  
+ocean race
+description dial great racing  ocean race 
+cobalt
+col. 026 
+cobalto
+cobalt
+col. 076 
+rosso
+red
+ocean race .orologi watches O clock great
+.crossing .crossing
+orologi watches   159.
+code OCLKS107 SIS01
+descrizione O clock cinturino great 
+silicone
+materiale silicone
+abbinamenti meccanismo O clock great
+description silicone O clock great strap
+material silicone
+components O clock great dial
+GENER S
+GENER S
+GENER M
+GENER M
+GENER L
+GENER L
+col. 044 
+lime
+lime
+.crossing
+.crossing
+GENER S
+GENER M
+GENER L
+col. 003 
+arancione
+orange
+.crossing
+col. 128 
+salmone
+salmon
+GENER S
+GENER M
+GENER L
+col. 036 
+giallo
+yellow
+.crossing
+GENER S
+GENER M
+GENER L
+.crossing
+GENER S
+GENER M
+GENER L
+col. 053 
+narcissus
+narcissus
+.crossing
+col. 002 
+amaranto
+amaranth
+GENER S
+GENER M
+GENER L
+col. 076 
+rosso
+red
+.crossing
+GENER S
+GENER M
+GENER L
+.crossing
+col. 484 
+coral
+coral
+silicone .cinturino strap O clock great
+160.   O bag spring 2020
+GENER S
+GENER M
+GENER L
+.crossing
+col. 422 
+sangria
+sangria
+GENER S
+GENER M
+GENER L
+.crossing
+col. 112 
+purple
+purple
+GENER S
+GENER M
+GENER L
+.crossing
+col. 025 
+cipria
+powder pink
+GENER SGENER S GENER S
+GENER MGENER M GENER M
+GENER LGENER L GENER L
+.crossing.crossing .crossing
+col. 096 
+viola pastello
+pastel violet
+col. 095 
+viola desaturato
+pale violet
+col. 022 
+carta da zucchero
+azure
+GENER S
+GENER M
+GENER L
+.crossing
+col. 013 
+blu capri
+capri blue
+GENER S
+GENER M
+GENER L
+.crossing
+col. 045 
+magenta
+magenta
+GENER S
+GENER M
+GENER L
+.crossing
+col. 486 
+pink
+pink
+silicone .cinturino strap O clock great
+GENER S
+GENER M
+GENER L
+.crossing
+col. 015 
+blu iris
+iris blue
+orologi watches   161.
+GENER S
+GENER S
+GENER S
+GENER M
+GENER M
+GENER M
+GENER L
+GENER L
+GENER L
+.crossing.crossing
+col. 060 
+oliva
+olive
+col. 485 
+atlantic
+atlantic
+col. 080 
+salvia
+sage
+GENER S
+GENER M
+GENER L
+.crossing
+col. 012 
+blu acqua
+aqua blue
+GENER S
+GENER M
+GENER L
+.crossing
+col. 088 
+turchese
+turquoise
+GENER SGENER S
+GENER MGENER M
+GENER LGENER L
+.crossing .crossing.crossing
+col. 068 
+polvere
+dusty blue
+col. 063 
+ottanio
+teal
+162.   O bag spring 2020
+code OCLKE013 MAS00
+descrizione O clock shift case classic 
+slim materiale plastico
+description O clock shift case  classic 
+slim plastic
+col. 036
+giallo
+yellow
+col. 060
+oliva
+olive
+col. 063
+ottanio
+ottanio
+classic slim .case case O clock shift
+.crossing .crossing .crossing
+col. 484
+coral
+coral
+col. 422
+sangria
+sangria
+col. 486
+pink
+pink gold
+.crossing .crossing.crossing
+orologi watches   163.
+code OCLKE114 MAS00
+descrizione O clock shift case great 
+round materiale plastico
+description O clock shift case  great 
+round plastic
+col. 008 
+bianco
+white
+col. 050
+melanzana
+aubergine
+col. 025
+cipria
+powder pink
+col. 055
+nero
+black
+col. 036
+giallo
+yellow
+col. 059
+oceano
+ocean
+case great round .case case O clock great shift
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+col. 060 
+oliva
+olive
+col. 422
+sangria
+asngria
+col. 063
+ottanio
+ottanio
+col. 076
+rosso
+red
+.crossing
+.crossing
+.crossing .crossing
+164.   O bag spring 2020
+col. 008 
+bianco
+white
+col. 063 
+ottanio
+teal
+col.484 
+coral
+coral
+col. 059 
+oceano
+ocean
+col. 060 
+oliva
+olive
+col. 055 
+nero
+black
+code OCLKSB01 INS00
+descrizione O clock shift cinturino band 
+materiale iniettato
+abbinamenti case O clock shift - O clock 
+great shift
+description
+components O clock shift - O clock great 
+shift
+band materiale iniettato .cinturino strap O clock shift - O clock great shift
+col. 036
+giallo
+yellow
+col. 025 
+cipria
+powder pink
+col. 076 
+rosso
+red
+col. 422 
+sangria
+sangria
+col. 050 
+melanzana
+aubergine
+.crossing.crossing
+.crossing
+.crossing.crossing
+.crossing
+.crossing
+.crossing .crossing
+.crossing
+.crossing
+orologi watches   165.
+code OCLKDC01 MES06 
+descrizione meccanismo O click shift 
+tone on tone
+description O click shift dial tone on tone
+code OCLKDC01 MES04
+descrizione meccanismo O click shift 
+soleil
+description O click shift dial soleil 
+col. 002 
+amaranto
+amaranth
+col. 072 
+rosa
+pink
+col. 004 
+argento
+silver
+col. 009 
+blu
+blue
+col. 055 
+nero
+black
+col. 061 
+oro
+gold
+col. 043 
+lilla
+lilac
+tone on tone .dial dial O click shift
+soleil .dial dial O click shift
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+166.   O bag spring 2020
+code OCLKDC01 MES09
+descrizione meccanismo O click shift 
+cristal
+description O click shift dial cristal 
+col. 008 
+bianco
+white
+col. 081 
+smeraldo
+emerald
+col. 055 
+nero
+black
+col. 006 
+avorio
+ivory
+col. 137 
+bluette
+bright blue
+col. 077 
+rubino
+ruby
+col. 143 
+neve
+snow
+cristal .dial dial O click shift
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+orologi watches   167.
+code OCLKDC01 MES10
+descrizione meccanismo O click shift 
+glitter 
+description O click shift dial glitter  
+code OCLKDC01 MESD2
+descrizione meccanismo O click shift 
+sunlight tribal 
+description O click shift dial sunlight 
+tribal  
+col. 061 
+oro
+gold
+col. 008 
+bianco
+white
+col. 004 
+argento
+silver
+glitter .dial dial O click shift
+sunlight tribal .dial dial O click shift
+.crossing
+.crossing
+.crossing
+168.   O bag spring 2020
+code OCLKDC01 MESD3
+descrizione meccanismo O click shift 
+sunlight wave 
+description O click shift dial sunlight 
+wave  
+col. 137 
+bluette
+bright blue
+sunlight wave .dial dial O click shift
+.crossing
+orologi watches   169.
+code OCLKEC01 MAS56
+descrizione O click shift case plastica 
+trasparente
+description 
+code OCLKEC01 MAS00
+descrizione case O click shift
+description O click shift case
+col. 023 
+celeste
+sky blue
+col. 008 
+bianco
+white
+col. 061 
+oro
+gold
+col. 055 
+nero
+black
+col. 004 
+argento
+silver
+col. 184 
+trasparente
+transparent
+col. 588 
+orchidea
+orchid
+trasparente .case case O click shift
+trasparente .case case O click shift
+.urban marina
+.crossing
+.crossing
+.crossing .crossing
+.urban marina .urban marina
+170.   O bag spring 2020
+code OCLKSC03 MAS61
+descrizione cinturino O click shift catena 
+effetto corno
+materiale 
+description 
+material 
+col. 183 
+viola
+violet
+col. 671 
+rosa corallo
+pink coral
+col. 184 
+trasparente
+transparent
+col. 672 
+marmo nero
+black marble
+col. 447 
+giallo ambra
+ambre yellow
+col. 673 
+marmo bianco
+white marble
+catena effetto corno .cinturino strap O click shift
+.urban marina
+.urban marina
+.urban marina
+.urban marina
+.urban marina
+.urban marina
+col. 081 
+smeraldo
+emerald
+.urban marina
+orologi watches   171.
+code OCLKSC02 MAS00
+descrizione cinturino bangle O click shift 
+abbinamenti meccanismo O clock great
+GENER M
+GENER S
+GENER M
+GENER S
+GENER M
+GENER S
+GENER M
+GENER S
+GENER M
+GENER S
+GENER M
+GENER S
+GENER M
+GENER S
+GENER L GENER L
+GENER L GENER L GENER L GENER L
+GENER L
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+col. 032 
+fluo giallo 
+fluo yellow
+col. 263 
+arancione
+orange
+col. 262 
+ fluo fucsia
+fluo fuchsia
+col. 638 
+ ciano fluo
+ciano fluo
+col. 017 
+blu navy
+navy blue
+.crossing .crossing
+.crossing .crossing .crossing .crossing
+.crossing
+bangle .cinturino strap O click shift
+172.   O bag spring 2020
+code OCLKSC01 ECS01
+descrizione cinturino O click shift slim 
+doppio ecopelle martellato
+materiale ecopelle
+description O click shift double slim strap 
+textured faux leather
+material faux leather
+col. 133 
+grigio chiaro
+light grey
+col. 055 
+nero
+black
+col. 076 
+rosso
+red
+col. 017 
+blu navy
+navy blue
+ecopelle martellato .cinturino strap O click shift
+.crossing
+.crossing
+.crossing .crossing
+orologi watches   173.
+
+occhiali
+sunglasses
+176.   O bag spring 2020
+code OSUNF101 MAS13
+descrizione O sun flat cateye front lente 
+soft mirror
+materiale 
+description 
+material 
+col. 055 
+nero
+black
+soft mirror .front lente lenses front O sun flat cateye
+.urban marina
+code OSUNF002 INS76
+descrizione O sun flat astine trasparent
+materiale materiale iniettato
+description 
+material injected material
+col. 055 
+nero
+black
+trasparent .astine sticks O sun flat
+.urban marina
+occhiali sunglasses   177.
+code OSUNF101 MAS56
+descrizione O sun flat cateye front lente 
+plastica trasparente
+materiale 
+description 
+material 
+col. 615 
+military
+military
+plastica trasparente .front lente lenses front O sun flat cateye
+code OSUNF002 INS76
+descrizione O sun flat astine trasparent
+materiale materiale iniettato
+description 
+material injected material
+col. 615 
+military
+military
+trasparent .astine sticks O sun flat
+col. 588 
+orchidea
+orchid
+col. 588 
+orchidea
+orchid
+.urban marina .urban marina
+.urban marina .urban marina
+178.   O bag spring 2020
+code OSUNF201 MAS56
+descrizione O sun flat 70’s square front 
+lente plastica trasparente
+materiale 
+description 
+material 
+col. 615 
+military
+military
+plastica trasparente .front lente lenses front O sun flat 70s square
+code OSUNF002 INS76
+descrizione O sun flat astine trasparent
+materiale materiale iniettato
+description 
+material injected material
+col. 615 
+military
+military
+trasparent .astine sticks O sun flat
+col. 347 
+cedro
+cedro
+col. 347 
+cedro
+cedro
+.urban marina .urban marina
+.urban marina .urban marina
+occhiali sunglasses   179.
+code OSUNF201 MAS57
+descrizione O sun flat 70’s square front 
+lente plastica fumè
+materiale 
+description 
+material 
+col. 055 
+nero
+black
+fumè .front lente lenses front O sun flat 70s square
+code OSUNF002 INS76
+descrizione O sun flat astine trasparent
+materiale materiale iniettato
+description 
+material injected material
+col. 055 
+nero
+black
+trasparent .astine sticks O sun flat
+.urban marina
+.urban marina
+180.   O bag spring 2020
+code OSUNF401 MAS13
+descrizione O sun flat straight front lente 
+soft mirror
+materiale 
+description 
+material 
+col. 055 
+nero
+black
+soft mirror .front lente lenses front O sun flat straight
+code OSUNF002 INS68
+descrizione O sun flat astine metal satin
+materiale materiale iniettato
+description 
+material injected material
+col. 055 
+nero
+black
+metal satin .astine sticks O sun flat
+col. 023 
+celeste
+sky blue
+col. 023 
+celeste
+sky blue
+col. 075 
+rosa smoke
+rose smoke
+col. 075 
+rosa smoke
+rose smoke
+.urban marina .urban marina .urban marina
+.urban marina .urban marina .urban marina
+occhiali sunglasses   181.
+code OSUNC002 INS79
+descrizione O sun astine logo all over
+materiale materiale iniettato
+description 
+material injected material
+col. 273 
+nero su nero
+black on black
+logo all over .astine sticks O sun
+.urban marina
+code OSUNC007 MAS56
+descrizione O sun front + lenti plastica 
+trasparente
+materiale 
+description 
+material 
+col. 055 
+nero
+black
+col. 184 
+trasparente
+transparent
+plastica trasparente .front lente lenses front O sun
+.urban marina .urban marina
+col. 582 
+trasparente/nero
+transparent/black
+.urban marina
+182.   O bag spring 2020
+code OSUNF001 MAS13
+descrizione O sun flat front lente soft 
+mirror
+materiale 
+description O sun flat front with soft 
+mirror lens
+material 
+col. 026 
+cobalto
+cobalt
+col. 055 
+nero
+black
+col. 485 
+atlantic
+atlantic
+soft mirror .occhiali sunglasses O sun flat
+.crossing .crossing
+.crossing
+col. 484 
+coral
+coral
+.crossing
+col. 486 
+pink
+pink
+.crossing
+code OSUNF002 INS00
+descrizione O sun flat astine materiale 
+iniettato
+materiale 
+description O sun flat arms injected 
+material
+material 
+col. 026 
+cobalto
+cobalt
+col. 486 
+pink
+pink
+col. 484 
+coral
+coral
+col. 485 
+atlantic
+atlantic
+materiale iniettato .astine sticks O sun flat
+.crossing
+.crossing
+.crossing .crossing
+occhiali sunglasses   183.
+code OSUNS003 INS32
+descrizione O sunshine front iniettato
+materiale 
+description O sunshine arms injected
+material 
+CONSIGLIATO
+OSUNS001
+OSUNS007
+col. 055 
+nero
+black
+iniettato .front front O sunshine
+.crossing
+184.   O bag spring 2020
+code OSUNS001 INS02
+descrizione O sunshine lenti opalino 
+unisex
+materiale 
+description O sunshine lenses opal 
+unisex
+material 
+col. 060 
+oliva
+olive
+col. 066 
+petrolio
+petroleum
+opalino unisex .lenti lenses O sunshine
+.crossing .crossing
+code OSUNS002 INS02
+descrizione O sunshine astine opalino
+materiale 
+description O sunshine arms opal
+material 
+col. 060 
+oliva
+olive
+col. 066 
+petrolio
+petroleum
+opalino .astine sticks O sunshine
+.crossing .crossing
+occhiali sunglasses   185.
+code OSUNS001 INS58
+descrizione O sunshine lenti unisex 
+striato
+materiale 
+description O sunshine unisex lenses 
+striped
+material 
+col. 039 
+grigio
+grey
+col. 137 
+bluette
+bluette
+unisex striato .lenti lenses O sunshine
+.crossing .crossing
+code OSUNS002 INS58
+descrizione O sunshine astine striato
+materiale 
+description O sunshine arms striped
+material 
+col. 039 
+grigio
+grey
+col. 137 
+bluette
+bluette
+striato .astine sticks O sunshine
+.crossing .crossing
+186.   O bag spring 2020
+code OSUNS002 INS00
+descrizione O sunshine astine materiale 
+iniettato
+materiale 
+description O sunshine arms injected 
+material
+material 
+col. 533 
+cedro/blu navy
+cedro/blue navy
+col. 535 
+skyway/grafite
+skyway/graphite
+materiale iniettato .astine sticks O sunshine
+.crossing .crossing
+code OSUNS001 INS00
+descrizione O sunshine lenti unisex
+materiale 
+description O sunshine lenses unisex
+material 
+col. 533 
+cedro/blu navy
+cedro/blue navy
+col. 535 
+skyway/grafite
+skyway/graphite
+unisex .lenti lenses O sunshine
+.crossing .crossing
+occhiali sunglasses   187.
+code OSUNS002 INS00
+descrizione O sunshine astine materiale 
+iniettato
+materiale 
+description O sunshine arms injected 
+material
+material 
+col. 531 
+corallo/vulcano
+coral/volcano
+materiale iniettato .astine sticks O sunshine
+.crossing
+col. 560 
+pink/roccia
+pink/rock
+.crossing
+code OSUNS007 INS00
+descrizione O sunshine lenti cateye 
+cateye
+materiale 
+description O sunshine cateye lenses 
+cateye
+material 
+col. 531 
+corallo/vulcano
+coral/volcano
+col. 560 
+pink/roccia
+pink/rock
+cateye cateye .lenti lenses O sunshine
+.crossing .crossing
+188.   O bag spring 2020
+code OSUNS007 INS02
+descrizione O sunshine lenti cateye 
+opalino cateye
+materiale 
+description O sunshine cateye lenses 
+opal cateye
+material 
+col. 069 
+porpora
+purple
+col. 130 
+azzurro
+light blue
+cateye opalino cateye .lenti lenses O sunshine
+.crossing .crossing
+code OSUNS002 INS02
+descrizione O sunshine astine opalino
+materiale 
+description O sunshine arms opal
+material 
+col. 130 
+azzurro
+light blue
+col. 069 
+porpora
+purple
+opalino .astine sticks O sunshine
+.crossing.crossing
+occhiali sunglasses   189.
+code OSUNS007 INS59
+descrizione O sunshine lenti cateye 
+tartarugato
+materiale 
+description O sunshine cateye lenses 
+tortoise shell
+material 
+col. 075 
+rosa smoke
+pink smoke
+col. 447 
+giallo ambra
+yellow ambra
+cateye tartarugato .lenti lenses O sunshine
+.crossing .crossing
+code OSUNS002 INS59
+descrizione O sunshine astine 
+tartarugato
+materiale 
+description O sunshine arms tortoise 
+shell
+material 
+col. 075 
+rosa smoke
+pink smoke
+col. 447 
+giallo ambra
+yellow ambra
+tartarugato .astine sticks O sunshine
+.crossing .crossing
+190.   O bag spring 2020
+code OSUNC001 INS00
+descrizione O sun lenti generico
+materiale 
+description O sun lenses generic
+material 
+col. 055 
+nero
+black
+lenti generico .lenti lenses O sun
+.crossing
+code OSUNC003 INS00
+descrizione O sun front generico
+materiale 
+description O sun front generic
+material 
+col. 009 
+blu
+blue
+col. 055 
+nero
+black
+front generico .front front O sun
+.crossing .crossing
+occhiali sunglasses   191.
+
+bracciali
+bracelets
+194.   O bag spring 2020
+col. 047 
+marsala
+marsala
+ GENER S
+ GENER M
+.crossing
+col. 018 
+bordeaux
+burgundy
+ GENER S
+ GENER M
+.crossing
+col. 025 
+cipria
+powder pink
+ GENER S
+ GENER M
+.crossing
+O bracelet flower slim .bracciale bracelet
+code OBRCF002 SIS01
+descrizione O bracelet flower slim 
+silicone
+materiale silicone
+description O bracelet flower slim 
+silicone
+material silicone
+ GENER S
+ GENER M
+.crossing
+GENER SGENER S
+GENER MGENER M
+.crossing.crossing
+col. 490 
+giallo
+yellow
+col. 006 
+avorio
+ivory
+col. 144 
+ginestra
+broom
+col. 128 
+salmone
+salmon
+col. 142 
+lampone
+raspberry
+ GENER S
+ GENER M
+.crossing
+col. 044 
+lime
+lime
+GENER S
+GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+col. 002 
+amaranto
+amaranth
+ GENER S
+ GENER M
+.crossing
+bracciali bracelets   195.
+col. 095 
+viola desaturato
+pale violet
+col. 096
+viola pastello
+pastel violet
+ GENER S
+ GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+col. 141 
+blu pastello
+pastel blue
+col. 088 
+turchese
+turquoise
+col. 063 
+ottanio
+teal
+col. 013 
+blu capri
+capri blue
+GENER S
+GENER M
+.crossing
+GENER S
+GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+ GENER S
+ GENER M
+.crossing
+col. 138 
+turchese menta
+turquoise mint
+GENER S
+GENER M
+.crossing
+col. 143
+neve
+snow
+ GENER S
+ GENER M
+.crossing
+col. 012 
+blu acqua
+aqua blue
+GENER S
+GENER M
+.crossing
+col. 090 
+verde bianco
+green white
+ GENER S
+ GENER M
+.crossing
+col. 081 
+smeraldo
+emerald
+ GENER S
+ GENER M
+.crossing
+ GENER S  GENER S
+ GENER M  GENER M
+col. 080 
+salvia
+sage
+col. 089
+verde
+green
+.crossing .crossing
+col. 020 
+bronzo
+bronze
+ GENER S
+ GENER M
+.crossing
+ GENER S
+ GENER M
+col. 038 
+grafite
+graphite
+.crossing
+196.   O bag spring 2020
+O bracelet flower big .bracciale bracelet
+code OBRCF003 SIS01
+descrizione O bracelet flower big silicone
+materiale silicone
+description O bracelet flower big silicone
+material silicone
+GENER SGENER S
+GENER MGENER M
+col. 490 
+giallo
+yellow
+col. 006 
+avorio
+ivory
+.crossing.crossing .crossing
+.crossing
+.crossing
+ GENER S
+ GENER M
+col. 144 
+ginestra
+broom
+ GENER S
+ GENER M
+col. 128 
+salmone
+salmon
+.crossing
+GENER S
+GENER M
+col. 044 
+lime
+lime
+ GENER S
+ GENER M
+col. 142 
+lampone
+raspberry
+.crossing
+GENER S
+GENER M
+col. 002 
+amaranto
+amaranth
+col. 484 
+coral
+coral
+ GENER S
+ GENER M
+.crossing
+.crossing
+ GENER S
+ GENER M
+col. 047 
+marsala
+marsala
+bracciali bracelets   197.
+.crossing
+.crossing
+.crossing
+ GENER S
+ GENER M
+col. 025 
+cipria
+powder pink
+.crossing .crossing
+GENER S
+GENER M
+col. 063 
+ottanio
+teal
+GENER S
+GENER M
+col. 013 
+blu capri
+capri blue
+ GENER S
+ GENER M
+col. 141 
+blu pastello
+pastel blue
+.crossing.crossing
+ GENER S
+ GENER M
+col. 095 
+viola desaturato
+pale violet
+ GENER S
+ GENER M
+col. 096
+viola pastello
+pastel violet
+ GENER S
+ GENER M
+col. 088 
+turchese
+turquoise
+.crossing
+GENER S
+GENER M
+col. 138 
+turchese menta
+turquoise mint
+col. 485
+atlantic
+atlantic
+col. 486 
+pink
+pink
+ GENER S
+ GENER S
+ GENER M
+ GENER M
+.crossing
+.crossing
+col. 143
+neve
+snow
+ GENER S
+ GENER M
+.crossing
+.crossing
+GENER S
+GENER M
+col. 018 
+bordeaux
+burgundy
+.crossing
+ GENER S
+ GENER M
+col. 090 
+verde bianco
+green white
+.crossing
+GENER S
+GENER M
+col. 012 
+blu acqua
+aqua blue
+ GENER S
+ GENER M
+col. 080 
+salvia
+sage
+.crossing
+198.   O bag spring 2020
+.crossing
+ GENER S
+ GENER M
+col. 038 
+grafite
+graphite
+col. 020 
+bronzo
+bronze
+col. 081 
+smeraldo
+emerald
+ GENER S GENER S
+ GENER M GENER M
+.crossing.crossing
+ GENER S
+ GENER M
+col. 089
+verde
+green
+.crossing
+O bracelet flower big .bracciale bracelet
+bracciali bracelets   199.
+GENER S
+GENER M
+col. 076
+rosso
+red
+.crossing
+O bracelet daisy big .bracciale bracelet
+code OBRCD003 SIS00
+descrizione O bracelet daisy big silicone
+materiale silicone
+description O bracelet daisy big silicone
+material silicone
+GENER S
+GENER M
+col. 143  
+neve
+snow
+.crossing
+GENER S
+GENER M
+col. 077 
+rubino
+ruby
+.crossing
+GENER S
+GENER M
+col. 086
+tortora
+dove-grey
+.crossing
+GENER S
+GENER SGENER S
+GENER M
+GENER MGENER M
+col. 044
+lime
+lime
+col. 484
+coral
+coral
+col. 053
+narcisus
+narcisus
+.crossing
+.crossing.crossing
+GENER S
+GENER M
+col. 008 
+bianco
+white
+.crossing
+GENER S
+GENER M
+col. 018  
+bordeaux
+burgundy
+.crossing
+200.   O bag spring 2020
+GENER S
+GENER M
+col. 022
+carta da zucchero
+azure
+.crossing
+GENER S
+GENER M
+col. 097
+violetto
+violet
+.crossing
+GENER S
+GENER M
+col. 141 
+blu pastello
+pastel blue
+.crossing
+GENER S
+GENER M
+col. 025 
+cipria
+powder pink
+.crossing
+GENER S
+GENER M
+col. 063 
+ottanio
+teal
+.crossing
+GENER SGENER S
+GENER S
+GENER S
+GENER MGENER M
+GENER M
+GENER M
+col. 055
+nero
+black
+col. 071
+roccia
+rock
+col. 486
+pink
+pink
+col. 485
+atlantic
+atlantic
+.crossing.crossing
+.crossing
+.crossing
+GENER S
+GENER M
+col. 422 
+sangria
+sangria
+.crossing
+GENER S
+GENER M
+col. 015 
+blu iris
+iris blue
+.crossing
+GENER S
+GENER M
+col. 014
+blu elettrico
+electric blue
+.crossing
+O bracelet daisy big .bracciale bracelet
+bracciali bracelets   201.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+
+

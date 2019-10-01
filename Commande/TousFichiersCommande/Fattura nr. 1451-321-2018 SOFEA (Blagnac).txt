@@ -1,0 +1,213 @@
+2017 RI/OBAG/13487 153974
+ // 
+1
+2
+3
+4
+5
+OBAGB002
+OBAGB001
+OBAGB002
+OBAGB002
+EVS00
+EVS10
+EVS00
+EVS00
+000_SPTRASP
+1G
+      
+VEND.N.I.ART.41 L.427/93 UE  287,20
+     
+0
+     
+ 0,00
+      
+24/07/2018
+      
+ 287,20
+      
+347
+006
+158
+132
+MAGD01/2018/02/12609 24/07/2018 002488 O BAG STORE BLAGNAC 2 ALLEE EMILE ZOLA  
+31700 BLAGNAC  FR
+420222100 18KG 9,18 259,2PZ
+9,18 259,2
+Document
+Document
+Date doc.
+Date doc.
+Client dest.
+Client dest.
+Num. C.de
+Num. C.de
+RECAPITULATIFS
+Récapitulatif catégories douanières
+Catégorie Um poids Poids Um Qté Quantité Valeur
+Récapitulatif TVA
+TVA Imposable Participation Configurer
+Echéances
+Date Montant
+Total
+PZ
+PZ
+PZ
+PZ
+NR  28,00 28,000 1
+1G
+1G
+1G
+1G
+1G
+CORPS O BAG MINI EVA COMPOUND CÈDRE
+CORPS O BAG EVA COMPOUND TEXTURE WAVY IVOIRE
+CORPS O BAG MINI EVA COMPOUND VOLCAN
+CORPS O BAG MINI EVA COMPOUND BISCUIT
+DÉBIT FRAIS DE TRANSPORT 
+****** 25/07/2018 *** 25/07/2018 25/07/2018 label  19
+label FULL SPOT SPA label AUSPIK/2018/02/32310 label 24/07/2018
+Fabriqué e
+Fabriqué e
+Fabriqué e
+Fabriqué e
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+4202221000
+4202221000
+4202221000
+4202221000
+label
+label
+label
+label
+AGED01 AGENTE DIREZIONALE SOCIETA' D01
+1ZV621906876852449FT
+Fattura ESTERO
+P002 BONIFICO CLIENTE
+EUR 287,20
+EUR
+Justificatif
+Cod. Paiem.
+Remise fin. Remise en-t remise cond.
+IBAN
+Agent
+Notes facture
+Total FACTURE
+N.jours
+ Banque
+2018 321 1451 24/07/2018
+VEND.N.I.ART.41 L.427/93 UE  
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Lettre
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P. Iva 44808894489
+Client 1002487
+Pag
+Document
+Document
+MAGD01/2018/02/12609
+///
+24/07/2018label
+label
+Num. C.de
+Num. C.de
+2017-RI-OBAG-13487
+---
+22/06/2018label
+label
+Modèle PièceN. Couleur QTÉ
+Prix
+Remises Montant Cadeaux TVAUm Taille
+UNICA
+UNICA
+UNICA
+UNICA
+ 4
+ 6
+ 4
+ 4
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 57,60
+ 86,40
+ 57,60
+ 57,60
+1
+ 0,00
+ 0,00
+ 0,00
+ 259,20
+ 28,00
+ 259,20
+ 0,00
+ 0,00  259,20
+EUR 287,20
+Totaux
+Remises
+Remise
+Remise En-tête
+Remise financière
+Cadeaux
+Acomptes
+Montants
+Montant brut
+Brut frais
+Montant net de tout 
+Montant net
+Total FACTURE
+label
+N. colis Um Poids brut Poids net
+Transporteurs label
+Date début transpo
+label***
+label Port
+ 
+Out In  - Mag C/O Full Spot  
+Corso Stati Uniti 
+35127 Padova -Italia
+label
+Tot Poids brut Tot Poids net
+KG2  4,590 5,590  11,180  9,180
+KG  11,180  9,180
+AGED01 AGENTE DIREZIONALE SOCIETA' D01
+1ZV621906876852449FT
+Fattura ESTERO
+P002 BONIFICO CLIENTE
+EUR 287,20
+EUR
+Justificatif
+Cod. Paiem.
+Remise fin. Remise en-t remise cond.
+IBAN
+Agent
+Notes facture
+Total FACTURE
+N.jours
+ Banque
+2018 321 1451 24/07/2018
+VEND.N.I.ART.41 L.427/93 UE  
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Lettre
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P. Iva 44808894489
+Client 2002487
+Pag
+Modèle PièceN. Couleur QTÉ
+Prix
+Remises Montant Cadeaux TVAUm Taille
+2

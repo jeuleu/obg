@@ -1,0 +1,416 @@
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P.Iva 44808894489
+2019 S1/OBAG/132 338427
+15
+16
+17
+18
+2
+1
+19
+3
+4
+5
+6
+7
+8
+11
+HLESG000
+HLESG000
+HLESM200
+HLESM200
+HLESX800
+OBAGB004
+OBAGB004
+OBAGB004
+OBAGB004
+OBAGB004
+OBAGB004
+OBAGB004
+OBAGB004
+OBAGB010
+ECS02
+ECS04
+TES03
+TES03
+ECS08
+EVS00
+EVS00
+EVS00
+EVS00
+EVS00
+EVS00
+EVS00
+EVS00
+EVS00
+AGENTE DIREZIONALE SOCIETA' D01
+Proforma da Prebolle
+P002 BONIFICO CLIENTE
+Modèle Cod.pièceN. Couleur
+054
+051
+098
+099
+009
+005
+008
+018
+020
+055
+084
+092
+133
+075
+002488 O BAG STORE BLAGNAC
+Client
+Justificatif
+Cod.paiement
+Remise fin. Remise en-t remise cond.
+IBAN
+Agent
+Document Date doc. Client dest.
+Qté Prix Remises Montant Cadeau
+N° Com
+1
+N. jours
+002487 Pag
+ Banque
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+ANSES LONGUES EN FAUX CUIR SNAKE
+ANSES LONGUES EN FAUX CUIR POMPON
+MICRO-ANSES GOUTTE EN TISSU ŒIL-DE-PERDRIX
+MICRO-ANSES GOUTTE EN TISSU ŒIL-DE-PERDRIX
+ANSES COURTES EXTRA SLIM GOUTTE EN FAUX CUIR VERNIS
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CHIC EVA COMPOUND
+CORPS O CITY EVA COMPOUND
+3926909790
+3926909790
+39269097
+39269097
+3926909790
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+Transporteurs
+Document label N° Com label
+EUR 594,08
+EUR
+Total Facture
+Facture pro forma
+2019 50 1611 26/07/2019
+VEND.N.I.ART.41 L.427/93 UE
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Um 
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+Taille
+ 4,000
+ 3,000
+ 4,000
+ 4,000
+ 3,000
+ 4,000
+ 4,000
+ 2,000
+ 2,000
+ 4,000
+ 2,000
+ 2,000
+ 2,000
+ 3,000
+ 13,330
+ 7,030
+ 12,720
+ 12,720
+ 9,360
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 13,080
+ 53,32
+ 21,09
+ 50,88
+ 50,88
+ 28,08
+ 57,60
+ 57,60
+ 28,80
+ 28,80
+ 57,60
+ 28,80
+ 28,80
+ 28,80
+ 39,24
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P.Iva 44808894489
+2019 S1/OBAG/132 338427
+ // 
+12
+14
+13
+10
+9
+20
+OBAGB010
+OBAGB010
+OBAGB010
+OBAGB032
+OBAGB032
+EVS00
+EVS00
+EVS00
+EVS00
+EVS00
+000_SPTRASP
+ 0,00
+ 0,00
+ 228,89
+05/08/2019
+      
+ 594,08
+      
+Modèle Cod.pièceN. Couleur
+078
+108
+132
+026
+559
+002488 O BAG STORE BLAGNAC
+ 534,08
+ 60,00
+ 762,97
+ 0,00
+ 0,00  534,08
+EUR 594,08
+39269097
+392690979
+420222100
+8
+10
+40
+KG
+KG
+KG
+,76
+1,08
+17,454
+71,24
+71,74
+391,1
+PZ
+PZ
+PZ
+,76
+1,08
+17,454
+71,24
+71,74
+391,1
+Client
+Document
+Document
+Date doc.
+Date doc.
+Client dest.
+Client dest.
+Qté Prix Remises Montant Cadeau
+N° Com
+Récapitulatifs
+Récapitulatifs douaniers
+Catégorie Um poids Poids Um qté Qté Valeur
+Echéances
+Date éch. Montant
+Totaux
+Tot.remises
+Tot. remises
+Tot.remise en-tête
+Tot. remise fin.
+Tot.cadeaux
+Acomptes
+Montants
+Montant brut
+Brut frais
+Montant net de tout 
+Nette tot
+Total Facture
+Total
+Total
+Total
+2002487 Pag
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+ - 
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+PZ
+PZ
+PZ
+PZ
+PZ
+NR  60,00 60,000 1,000
+30
+30
+30
+30
+30
+CORPS O CITY EVA COMPOUND
+CORPS O CITY EVA COMPOUND
+CORPS O CITY EVA COMPOUND
+CORPS O BAG KNIT MINI EVA COMPOUND
+CORPS O BAG KNIT MINI EVA COMPOUND
+DÉBIT FRAIS DE TRANSPORT
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+label
+label
+label
+label
+label
+EUR 594,08
+EUR
+Total Facture
+Facture pro forma
+2019 50 1611 26/07/2019
+VEND.N.I.ART.41 L.427/93 UE
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Um 
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+Taille
+ 4,000
+ 3,000
+ 2,000
+ 2,000
+ 4,000
+ 13,080
+ 13,080
+ 13,080
+ 14,160
+ 14,160
+ 52,32
+ 39,24
+ 26,16
+ 28,32
+ 56,64

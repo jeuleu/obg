@@ -1,0 +1,115 @@
+capsule travel
+fall 2019 collection
+
+ .zaini backpacks
+06 zaini backpack O bag M217
+07 zaini backpack O bag W217
+ .accessori accessories
+10 porta pc pc holder
+11 organizer organizer
+
+scocche
+bodies
+code OBAGZ404M  TES20
+descrizione scocca zaino completo
+O bag M217 tessuto gommato
+materiale tessuto gommato
+description 
+material rubber fabric
+col. 055 
+nero
+black
+col. 026
+cobalto
+cobalt
+col. 615
+military
+military
+col. 018
+bordeaux
+bordeaux
+col. 044
+lime
+lime
+O bag M217 .zaino backpack
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+col. 038
+grafite
+graphite
+06.   O bag   capsule travel fall 2019
+col. 615
+military
+military
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+.capsule travel fall '19
+code OBAGZ405M  TES20
+descrizione scocca zaino completo
+O bag W217 tessuto gommato
+materiale tessuto gommato
+description 
+material rubber fabric
+col. 111 
+ocra
+ocher
+col. 601
+bianco metal
+metal white
+col. 055
+nero
+black
+col. 600
+cipria metal
+metal powder
+O bag W217 .zaino backpack
+col. 018
+bordeaux
+bordeaux
+zaini backpack   07.
+
+accessori
+accessories
+code OBAGA300M  TES20
+descrizione accessorio porta pc
+tessuto gommato
+materiale tessuto gommato
+abbinamenti
+description 
+material rubber fabric
+components
+col. 055 
+nero
+black
+porta PC .accessori accessories
+.capsule Travel fall '19
+10.   O bag   capsule travel fall 2019
+.capsule Travel fall '19
+code OBAGAO00M  TES20
+descrizione accessorio organizer
+tessuto gommato
+materiale tessuto gommato
+abbinamenti
+description 
+material rubber fabric
+components
+col. 055
+nero
+black
+organizer .accessori accessories
+accessori accessories   11.
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+
+

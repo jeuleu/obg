@@ -1,0 +1,283 @@
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P.Iva 44808894489
+2017 RI/OBAG/13487 153974
+5
+3
+1
+2
+4
+7
+12
+8
+9
+10
+11
+13
+6
+OBAGB001
+OBAGB002
+OBAGB002
+OBAGB002
+OBAGB002
+OBAGK700
+OBAGK700
+OBAGK700
+OBAGK700
+OBAGK700
+OBAGK700
+OBAGK700
+OBAGK700
+EVS10
+EVS00
+EVS00
+EVS00
+EVS00
+TESI8
+TESI8
+TESI8
+TESI8
+TESI8
+TESI8
+TESI8
+TESI8
+AGENTE DIREZIONALE SOCIETA' D01
+Proforma da Prebolle
+P002 BONIFICO CLIENTE
+Modèle Cod.pièceN. Couleur
+006
+132
+158
+347
+484
+008
+008
+008
+008
+008
+008
+008
+008
+002488 O BAG STORE BLAGNAC
+Client
+Justificatif
+Cod.paiement
+Remise fin. Remise en-t remise cond.
+label
+Agent
+Document Date doc. Client dest.
+Qté Prix Remises Montant Cadeau
+N° Com
+Récapitulatifs
+1
+N. jours
+002487 Pag
+ Banque
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+IT - ITALIA
+CN - CINA
+CN - CINA
+CN - CINA
+CN - CINA
+CN - CINA
+CN - CINA
+CN - CINA
+CN - CINA
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+Fabriqué en
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+PZ
+CORPS O BAG EVA COMPOUND TEXTURE WAVY
+CORPS O BAG MINI EVA COMPOUND
+CORPS O BAG MINI EVA COMPOUND
+CORPS O BAG MINI EVA COMPOUND
+CORPS O BAG MINI EVA COMPOUND
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+PACKAGING SACHETS EN TISSU TNT
+4202221000
+4202221000
+4202221000
+4202221000
+4202221000
+6307909899
+6307909899
+6307909899
+6307909899
+6307909899
+6307909899
+6307909899
+6307909899
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+label
+Transporteurs
+EUR 323,20
+EUR
+Total Facture
+Facture pro forma
+2018 50 1791 27/06/2018
+VEND.N.I.ART.41 L.427/93 UE
+Année Index N. Date
+Exemption
+Intention
+Échéance
+Um 
+UNICA
+UNICA
+UNICA
+UNICA
+UNICA
+S
+S
+S
+S
+S
+S
+M
+M
+Taille
+ 6,000
+ 4,000
+ 4,000
+ 4,000
+ 4,000
+ 2,000
+ 2,000
+ 2,000
+ 2,000
+ 2,000
+ 2,000
+ 4,000
+ 4,000
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 14,400
+ 0,320
+ 0,320
+ 0,320
+ 0,320
+ 0,320
+ 0,320
+ 0,320
+ 0,320
+ 86,40
+ 57,60
+ 57,60
+ 57,60
+ 57,60
+ 0,64
+ 0,64
+ 0,64
+ 0,64
+ 0,64
+ 0,64
+ 1,28
+ 1,28
+SOFEA  
+10, RUE GASTON PHOEBUS 
+31120 LACROIX-FALGARDE -Francia
+P.Iva 44808894489
+ 0,00
+ 0,00
+ 0,00
+27/06/2018
+      
+ 323,20
+      
+ 323,20
+ 0,00
+ 323,20
+ 0,00
+ 0,00  323,20
+EUR 323,20
+420222100
+630790989
+22
+20
+KG
+KG
+10,42
+6
+316,8
+6,4
+PZ
+PZ
+10,42
+6
+316,8
+6,4
+Client
+Récapitulatifs douaniers
+Catégorie Um poids Poids Um qté Qté Valeur
+Echéances
+Date éch. Montant
+Totaux
+Tot.remises
+Tot. remises
+Tot.remise en-tête
+Tot. remise fin.
+Tot.cadeaux
+Acomptes
+Montants
+Montant brut
+Brut frais
+Montant net de tout 
+Nette tot
+Total Facture
+Total
+Total
+2002487 Pag
+EUR 323,20
+EUR
+Total Facture
+Facture pro forma
+2018 50 1791 27/06/2018
+VEND.N.I.ART.41 L.427/93 UE
+Année Index N. Date
+Exemption
+Intention
+Échéance

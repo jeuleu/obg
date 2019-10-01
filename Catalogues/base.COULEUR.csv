@@ -1,5 +1,6 @@
 000;cotè d’azur blooms .meccanismo dial;.crossing .crossing
 000;nero;col. 086
+000;rosso/bianco;red/white
 000;tortora;turtledove
 001;acqua;aqua
 001;acqua;water
@@ -12,6 +13,7 @@
 005;avio;avio
 006;avorio;avorio
 006;avorio;ivory
+008;bianco;.urban marina
 008;bianco;white
 008;latte;milk
 009;blu navy;blue
@@ -21,6 +23,7 @@
 011;blu - nero;blue - black
 011;blu - nero;blue/black
 011;blu su nero;blue on black
+011;blu/nero;blue/black
 012;blu acqua;acqua
 012;blu acqua;aqua blue
 012;blu acqua;blu water
@@ -41,9 +44,12 @@
 017;blu navy + silver;navy blue + silver
 017;blu navy - argento;navy blue - silver
 017;blu navy+argento;blu navy+argento
+017;blu navy;.urban cargo .easter
 017;blu navy;blu navy
 017;blu navy;blue navy
+017;blu navy;col. 347
 017;blu navy;navy blue
+017;navy;navy
 018;bordeaux + oro;burgundy + gold
 018;bordeaux;bordeaux
 018;bordeaux;burgundy
@@ -51,6 +57,7 @@
 020;bronzo;bronze
 022;carta da zucchero;azure
 023;celeste;azure
+023;celeste;blue
 023;celeste;light blue
 023;celeste;sky blue
 024;cioccolato;chocolate
@@ -58,7 +65,9 @@
 025;cipria;cipria
 025;cipria;face powder
 025;cipria;pink powder
+025;cipria;powder
 025;cipria;powder pink
+025;rosa cipria;powder pink
 026;blu cobalto - argento;cobalt blue - silver
 026;blu cobalto cobalt blue;.deauville
 026;blu cobalto;cobalt blue
@@ -104,6 +113,7 @@
 053;narcisus;narcisus
 054;naturale + oro;natural + gold
 054;naturale bianco;natural
+054;naturale;.easter
 054;naturale;natural
 055;nero  + argento;black + silver
 055;nero + argento;black + silver
@@ -111,6 +121,7 @@
 055;nero + silver;black + silver
 055;nero - argento;black - silver
 055;nero+ argento;nero+ argento
+055;nero;.urban marina
 055;nero;black
 055;vernice nero + oro;patent black + gold
 055;vernice nero;patent black
@@ -127,6 +138,7 @@
 063;ottanio;teal
 066;petrolio;petroil
 066;petrolio;petrol
+066;petrolio;petroleum
 066;petrolio;petroleum blue
 067;phard;blush pink
 067;phard;phard
@@ -150,6 +162,7 @@
 075;rosa smoke;rosa smoke
 075;rosa smoke;rose smoke
 075;rosa smoke;smoke pink
+075;rosa smoke;smoke rose
 076;rosso - argento;red - silver
 076;rosso red;code OHUGI002 ECS70
 076;rosso;red
@@ -157,11 +170,13 @@
 077;rubino;ocean
 077;rubino;rubino
 077;rubino;ruby
+078;rosa smoke + argento;rose smoke + silver
 078;sabbia + argento;sand  + silver
 078;sabbia + argento;sand + silver
 078;sabbia + oro;sand + gold
 078;sabbia - argento;sand - silver
 078;sabbia+argento;sand+argento
+078;sabbia;metal
 078;sabbia;sand
 079;senape;mustard
 080;salvia;sage
@@ -206,8 +221,11 @@
 106;kiwi - polvere;kiwi - dusty blue
 107;salmone - terracotta;salmon - terracotta
 108;terracotta;terracotta
+111;ocra;ocher
+111;ocra;ochre
 111;ocra;ocra
 112;purple;purple
+114;ginestra;broom
 115;salvia - glicine;sage - wisteria
 117;rosa - cielo;pink - sky blue
 118;cielo;sky blue
@@ -347,15 +365,26 @@
 254;bluette/navy;bright blue/navy blue
 258;beige;beige
 261;fluo lime;fluo lime
+261;fluo lime;lime fluo
 261;lime fluo;fluo lime
+262; fluo fucsia;fluo fuchsia
+262;fluo fucsia;fluo fuchsia
+262;fluo fucsia;fucsia fluo
 262;fucsia fluo;fluo fuchsia
+263;arancione;orange
 263;fluo arancione;fluo orange
+263;fluo arancione;orange fluo
 264;fluo verde;fluo green
+264;fluo verde;green fluo
+265;fluo corallo;coral fluo
 265;fluo corallo;fluo coral
 266;fluo acqua;fluo aqua
 266;fluo acqua;fluo water
+266;fluo acqua;water fluo
 267;fucsia;fuchsia
 267;fucsia;fucsia
+273;nero su nero;black on black
+273;nero su nero;black su black
 275;marrone;brown
 302;nocciola+nero;hazel - black
 321;bordeaux - blu;burgundy - blue
@@ -390,6 +419,7 @@
 392;blu su grigio;blue on grey
 408;blu/bianco;blue - white
 408;blu/bianco;blue/white
+411;pied de poule;pied de poule
 412;fluo blu;blue fluo
 412;fluo blu;fluo blue
 413;pluto;pluto
@@ -397,6 +427,7 @@
 414;topolino;topolino
 415;pippo;goofy
 415;pippo;pippo
+421;bianco su nero;white on black
 422;sangria + argento;sangria + silver
 422;sangria - argento;sangria - silver
 422;sangria;asngria
@@ -419,8 +450,10 @@
 444;smeraldo/giallo;emerald - yellow
 444;smeraldo/giallo;emerald/yellow
 447;giallo ambra;amber yellow
+447;giallo ambra;ambre yellow
 447;giallo ambra;giallo ambra
 447;giallo ambra;yellow ambra
+462;arancio fluo;fluo orange
 462;arancio;orange
 463;blu maya;blu maya
 463;blu maya;blue maya
@@ -461,6 +494,7 @@
 490;giallo;yellow
 493;puffo;smurf blue
 494;menta;mint
+494;menta;mint green
 495;arancia;orange
 496;turchese fluo;fluo turquoise
 497;nero/rosso/bianco;black red white
@@ -550,7 +584,9 @@
 598;latte/bamboo;milk/bamboo
 599;pesca;peach
 599;rame;copper
+600;cipria metal;metal powder
 600;cipria metal;pink metal
+601;bianco metal;metal white
 602;viola scuro;dark purple
 602;viola scuro;dark violet
 603;nero/arancio fluo;black/orange fluo
@@ -561,9 +597,11 @@
 608;nero/verde fluo;black/green fluo
 612;blu navy + argento;blue navy + silver
 612;blu navy + argento;blue navy+silver
+612;blu navy + argento;navy blue + silver
 613;cuoio + argento;cuoio + silver
 613;cuoio + argento;leather + silver
 614;imperial blu;imperial blue
+615;military + argento;military + silver
 615;military + oro;military + gold
 615;military;military
 616;ice;ice
@@ -574,8 +612,35 @@
 621;imperial blu/bianco;imperial blue/white
 622;military/phard;military/phard
 623;blu navy/ice;blue navy/ice
+623;blu navy/ice;navy blue/ice
 624;biscotto/sabbia;cookie/sand
 625;nero + gioiello;black + jewel
 626;blu navy + scudetto;blue navy+scudetto
 634;rosso + argento;red + silver
 635;bluette + argento;bluette + silver
+638; ciano fluo;ciano fluo
+638;ciano fluo;ciano fluo
+647;nero/arancione;black/orange
+650;citrus;citrus
+651;poppies;poppies
+652;mix flower;mix flower
+653;latte/fragola;milk/strawberry
+655;cargo;cargo
+656;cassis;cassis
+657;sabbia metal;metal sand
+658;military/cargo;military/cargo
+660;military + argento;military + silver
+661;cedro/coral;cedro/coral
+662;cassis/amaranto;cassis/amaranth
+663;amaranto/petrolio;amaranth/petroleum
+671;rosa corallo;pink coral
+672;marmo nero;black marble
+673;marmo bianco;white marble
+674;rosa smoke metal + argento;metal rose-smoke + silver
+674;rosa smoke metal;metal rose smoke
+674;rosa smoke metal;rose smoke sand
+675;logo all-over;all-over logo
+676;microflowers;microflowers
+677;oriental flowers;oriental flowers
+678;freesia flowers;freesia flowers
+684;nero + argento;black + silver

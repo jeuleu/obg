@@ -1,0 +1,643 @@
+capsule orologi
+summer 2019
+
+ .orologi clocks
+06 meccanismi dials O clock
+09 case classic O clock shift
+10 meccanismi dials O clock great
+11 case great round O clock great shift
+13 cinturino band band strap O clock shift / O clock great shift
+16 cinturino foulard foulard strap O clock shift / O clock great shift
+17 meccanismi dials O click
+18 case O click shift
+19 cinturino bangle bangle strap O click shift
+21 cinturino slim doppio slim double strap O click shift
+23 meccanismi dials O clock time
+19 cinturino active sport active sport strap O clock time
+
+orologi
+watches
+code OCLKD001 MESG5
+descrizione O clock meccanismo words 
+numbers
+materiale 
+abbinamenti O clock - O clock shift
+description 
+material 
+components O clock - O clock shift
+col. 001 
+acqua
+aqua
+col. 463
+blu maya
+maya blue
+col. 008
+bianco
+white
+col. 055
+nero
+black
+words numbers .meccanismo dial O clock
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+code OCLKD001 MESG6
+descrizione O clock meccanismo acid 
+numbers
+materiale 
+abbinamenti O clock - O clock shift
+description 
+material 
+components O clock - O clock shift
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 262
+fluo fucsia
+fluo fuchsia
+acid numbers .meccanismo dial O clock
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+06.   O bag   capsule orologi summer 2019
+code OCLKD001 MESD8
+descrizione O clock meccanismo metal 
+ring
+materiale 
+abbinamenti O clock - O clock shift
+description 
+material 
+components O clock - O clock shift
+code OCLKD001 MESD9
+descrizione O clock meccanismo glossy 
+mirror
+materiale 
+abbinamenti O clock - O clock shift
+description 
+material 
+components O clock - O clock shift
+col. 008 
+bianco
+white
+col. 088 
+turchese
+turquoise
+col. 422 
+sangria
+sangria
+metal ring .meccanismo dial O clock
+glossy mirror .meccanismo dial O clock
+.crossing
+.crossing .crossing
+orologi watches   07.
+code OCLKD001 MESD6
+descrizione O clock meccanismo fluo
+materiale 
+abbinamenti O clock - O clock shift
+description 
+material 
+components O clock - O clock shift
+col. 114 
+ginestra
+broom
+col. 484 
+coral
+coral
+fluo .meccanismo dial O clock
+.crossing .crossing
+08.   O bag   capsule orologi summer 2019
+code OCLKE013 MAS00
+descrizione O clock shift case classic 
+slim materiale plastico
+materiale materiale plastico
+abbinamenti O clock - O clock shift
+description 
+material plastic material
+components O clock - O clock shift
+col. 008 
+bianco
+white
+col. 059
+oceano
+ocean
+col. 036
+giallo
+yellow
+col. 063
+ottanio
+teal
+col. 055
+nero
+black
+col. 422
+sangria
+sangria
+materiale plastico .case classic case classic O clock shift
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+col. 484 
+coral
+coral
+col. 076 
+rosso
+red
+col. 486
+pink
+pink
+col. 060
+oliva
+olive
+.crossing
+.crossing
+.crossing .crossing
+orologi watches   09.
+code OCLKD101 MESD8
+descrizione meccanismo great metal ring
+materiale 
+abbinamenti O clock great - O clock 
+great shift
+description 
+material 
+components O clock great - O clock 
+great shift
+code OCLKD102 MESD7
+descrizione O clock meccanismo great
+soleil fluo numbers
+materiale 
+abbinamenti O clock great - O clock 
+great shift
+description 
+material 
+components O clock great - O clock 
+great shift
+col. 008 
+bianco
+white
+col. 026 
+cobalto
+cobalt
+col. 588 
+orchidea
+orchid
+col. 144 
+ginestra
+broom
+col. 484 
+coral
+coral
+metal ring .meccanismo dial O clock great
+soleil fluo numbers .meccanismo dial O clock great
+.crossing
+.crossing
+.crossing
+.crossing .crossing
+10.   O bag   capsule orologi summer 2019
+code OCLKE114 MAS00
+descrizione O clock shift case great 
+round materiale plastico
+materiale materiale plastico
+abbinamenti O clockgreat  - O clock 
+great shift
+description 
+material plastic material
+components O clock great - O clock 
+great shift
+col. 008 
+bianco
+white
+col. 059
+oceano
+ocean
+col. 036
+giallo
+yellow
+col. 063
+ottanio
+teal
+col. 055
+nero
+black
+col. 422
+sangria
+sangria
+materiale plastico .case grat round case great round O clock great shift
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+col. 484 
+coral
+coral
+col. 076 
+rosso
+red
+col. 486
+pink
+pink
+col. 060
+oliva
+olive
+.crossing
+.crossing
+.crossing .crossing
+orologi watches   11.
+12.  O bag  scapsule beach 2019
+code OCLKSB01 INS27
+descrizione O clock shift cinturino band 
+fantasia fiori
+materiale TPU
+abbinamenti O clock - O clock shift
+description 
+material TPU
+components O clock - O clock shift
+col. 651 
+poppies
+poppies
+col. 652
+mix flower
+mix flower
+fantasia fiori .cinturino band band strap O clock shift / O clock great shift
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+code OCLKSB01 INS75
+descrizione O clock shift cinturino band 
+fantasia frutta
+materiale TPU
+abbinamenti O clock - O clock shift
+description 
+material TPU
+components O clock - O clock shift
+col. 650 
+citrus
+citrus
+fantasia frutta .cinturino band band strap O clock shift / O clock great shift
+.capsule orologi 
+summer 2019
+orologi watches   13.
+col. 008 
+bianco
+white
+col. 063 
+ottanio
+teal
+col. 060 
+oliva
+olive
+code OCLKSB01 INS00
+descrizione O clock shift cinturino band 
+materiale iniettati
+abbinamenti case O clock shift - 
+meccanismo O clock
+description O clock shift band strap 
+injected material
+components O clock shift case - O clock 
+dial
+band .cinturino strap O clock shift / O clock great shift
+col. 036
+giallo
+yellow
+col. 076 
+rosso
+red
+col. 486 
+pink
+pink
+col. 055 
+nero
+black
+.crossing
+.crossing
+col.484 
+coral
+coral
+col. 422 
+sangria
+sangria
+.crossing.crossing.crossing
+.crossing
+col. 059 
+oceano
+ocean
+.crossing.crossing
+.crossing.crossing
+14.   O bag   scapsule beach 2019
+code OCLKSB01 INS74
+descrizione O clock shift cinturino band 
+tasparent satin
+materiale TPU
+abbinamenti O clock - O clock shift
+description 
+material TPU
+components O clock - O clock shift
+col. 023 
+celeste
+sky blue
+col. 486
+pink
+pink
+col. 036
+giallo
+yellow
+col. 184
+trasparente
+transparent
+transparent satin .cinturino band band strap O clock shift / O clock great shift
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+orologi watches   15.
+code OCLKSF01 TESCZ
+descrizione O clock shift cinturino foulard 
+tessuto mix agrumi
+materiale tessuto
+abbinamenti O clock - O clock shift
+description 
+material fabric
+components O clock - O clock shift
+col. 371 
+latte
+milk
+mix agrumi .cinturino foulard foulard strap O clock shift / O clock great shift
+.capsule orologi 
+summer 2019
+code OCLKSF01 TESCV
+descrizione O clock shift cinturino foulard 
+tessuto watercolor lines
+materiale tessuto
+abbinamenti O clock - O clock shift
+description 
+material fabric
+components O clock - O clock shift
+col. 026 
+cobalto
+cobalt
+watercolor lines .cinturino foulard foulard strap O clock shift / O clock great shift
+.capsule orologi 
+summer 2019
+16.   O bag   capsule orologi summer 2019
+code OCLKDC01 MES10
+descrizione meccanismo O click shift 
+glitter
+materiale 
+abbinamenti O click shift
+description 
+material 
+components O click shift
+col. 004 
+argento
+silver
+col. 061
+oro
+gold
+glitter .meccanismo dial O click shift
+.crossing .crossing
+code OCLKDC01 MES04
+descrizione meccanismo O click shift 
+soleil
+materiale 
+abbinamenti O click shift
+description 
+material 
+components O click shift
+col. 004 
+argento
+silver
+col. 072
+rosa
+pink
+col. 009
+blu
+blue
+col. 055
+nero
+black
+soleil .meccanismo dial O click shift
+.crossing
+.crossing
+.crossing .crossing
+orologi watches   17.
+code OCLKEC01 MAS00
+descrizione O click shift case materiale 
+plastico
+materiale materiale plastico
+abbinamenti O click shift
+description 
+material plastic material
+components O click shift
+col. 004 
+argento
+silver
+col. 008
+bianco
+white
+col. 055
+nero
+black
+col. 061
+oro
+gold
+materiale plastico .case case O click shift
+.crossing.crossing .crossing
+.crossing
+code OCLKDC01 MES09
+descrizione meccanismo O click shift 
+cristal
+materiale 
+abbinamenti O click shift
+description 
+material 
+components O click shift
+col. 008 
+bianco
+white
+col. 055
+nero
+black
+col. 137
+bluette
+bright blue
+cristal .meccanismo dial O click shift
+.crossing .crossing .crossing
+18.   O bag   capsule orologi summer 2019
+code OCLKSC02 MAS00
+descrizione cinturino O click shift bangle 
+materiale plastico
+materiale materiale plastico
+abbinamenti O click shift
+description 
+material plastic material
+components O click shift
+col. 032 
+fluo giallo
+fluo yellow
+col. 262
+fluo fucsia
+fluo fuchsia
+bangle .cinturino strap O click shift
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+.crossing .crossing
+.capsule orologi 
+summer 2019
+col. 263 
+fluo arancione
+fluo orange
+col. 638
+ciano fluo
+ciano fluo
+col. 008
+bianco
+white
+col. 055
+nero
+black
+.capsule orologi 
+summer 2019
+gener S
+gener S gener S gener S
+gener S gener S
+gener M
+gener M gener M gener M
+gener M gener M
+gener L
+gener L gener L gener L
+gener L gener L
+orologi watches   19.
+20.  O bag  scapsule beach 2019
+code OCLKSC01 ECSF8
+descrizione cinturino O click shift slim 
+doppio ecopelle fluo
+materiale ecopelle
+abbinamenti O click shift
+description 
+material faux leather
+components O click shift
+code OCLKSC01 ECS01
+descrizione cinturino O click shift slim 
+doppio ecopelle martellato
+materiale ecopelle
+abbinamenti O click shift
+description 
+material faux leather
+components O click shift
+col. 032 
+fluo giallo
+fluo yellow
+col. 055 
+nero
+black
+col. 262
+fluo fucsia
+fluo fuchsia
+col. 263
+fluo arancione
+fluo orange
+slim doppio ecopelle fluo .cinturino strap O click shift
+slim doppio ecopelle martellato .cinturino strap O click shift
+.capsule orologi 
+summer 2019
+.crossing
+.capsule orologi 
+summer 2019
+.capsule orologi 
+summer 2019
+orologi watches   21.
+22.   O bag   capsule orologi summer 2019
+code OCLKDT01 MESF4
+descrizione O clock time meccanismo 
+satin perlato
+materiale 
+abbinamenti O clock time
+description 
+material 
+components O clock time
+code OCLKDT01 MES07
+descrizione O clock time meccanismo 
+numeri
+materiale 
+abbinamenti O clock time
+description 
+material 
+components O clock time
+col. 008 
+bianco
+white
+col. 008 
+bianco
+white
+col. 055 
+nero
+black
+col. 055 
+nero
+black
+satin perlato .meccanismo dial O clock time
+numeri .meccanismo dial O clock time
+.crossing
+.crossing
+.crossing
+.crossing
+orologi watches   23.
+code OCLKST04 MAS39
+descrizione O clock time cinturino active 
+sport elastico
+materiale elastico
+abbinamenti O clock time
+description 
+material elastic
+components O clock time
+col. 008 
+bianco
+white
+col. 463 
+blu maya
+maya blue
+col. 032 
+fluo giallo
+fluo yellow
+col. 055 
+nero
+black
+col. 462 
+arancio fluo
+fluo orange
+active sport elastico .cinturino strap O clock time
+.crossing
+.crossing
+.crossing
+.crossing
+.crossing
+24.   O bag   capsule orologi summer 2019
+O bag Headquarters
+Via L. Galvani, 1
+35011 Campodarsego (PD) - Italy
+T +39 049 8952852
+info@obagservice.com
+www.obag.it
+
