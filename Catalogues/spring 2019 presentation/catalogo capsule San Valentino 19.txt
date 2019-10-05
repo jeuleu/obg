@@ -82,8 +82,8 @@ description
 material faux leather
 components
 col. 055
-nero
-black
+nero + argento
+black + silver
 ecopelle doppia catena .manico lungo long handles
 .capsule
  12. O bag .capsule xmas 18

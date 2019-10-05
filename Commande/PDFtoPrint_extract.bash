@@ -100,7 +100,7 @@ java -jar /c/Users/m312742/Documents/Perso/obg/PDFBox/pdfbox-app-2.0.13.jar Prin
 start excel ../Catalogues/fall\ 2018\ presentation/catalogo\ 2018\ continuativo.PRODUIT.csv
 
 
-# Inconnu; 231 item(s) -> Inconnu
+# Inconnu; 216 item(s) -> Inconnu
 java -jar /c/Users/m312742/Documents/Perso/obg/PDFBox/pdfbox-app-2.0.13.jar PDFSplit -startPage 2 -endPage 2 -outputPrefix PDFextract/extrait1 ../Catalogues/Inconnu
 mv PDFextract/extrait-1.pdf PDFextract/Inconnu
 echo; ls -la PDFextract/Inconnu

@@ -879,7 +879,7 @@ col. 612
 blu navy + argento
 blue navy+silver
 col. 055
-nero  + argento
+nero + argento
 black + silver
 col. 613
 cuoio + argento

@@ -1224,8 +1224,8 @@ handle
 material 
 components 
 col. 055 
-nero+ argento
-nero+ argento
+nero + argento
+nero + argento
 ecopelle .manici e tracolle handles and shoulder straps 
 .havana
 manici e tracolle handles and shoulder strap   35.
