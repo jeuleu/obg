@@ -98,48 +98,67 @@ function chercheAnomalies()
 echo "Creation des bases de synthèse"
 baseProduit=`dirname $0`"/base.PRODUIT.csv"
 
-echo "Fichier : '$baseProduit'"
+echo "Base des produits :"
+echo "-------------------"
 
 cat `dirname $0`/*/*.PRODUIT.csv  | grep -v "^XXX" | sort -t";" -k2 -o ${baseProduit}
 ls -la ${baseProduit}
 wc ${baseProduit}
 
-echo ""
+echo
 baseEAN13=`dirname $0`"/base.EAN13.csv"
 grep "^[38]" ${baseProduit} | sort -t";" -k2 -o ${baseEAN13}
 ls -la ${baseEAN13}
 wc ${baseEAN13}
 
-echo ""
+echo
 baseEAN13uniq=`dirname $0`"/base.EAN13.uniq.csv"
 #cut -d";" -f1-2,4-5,7 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
 cut -d";" -f1,2,4 "${baseEAN13}" | sort -u > "${baseEAN13uniq}"
 ls -la ${baseEAN13uniq}
 wc ${baseEAN13uniq}
 
-echo ""
+echo
+echo
+echo "Codes Valmag :"
+echo "--------------"
+
 baseValmagEAN13=`dirname $0`"/base.ValmagEAN13.csv"
 EXPEAN13=`dirname $0`"/../ValmagEAN13/EXPEAN13.csv"
-echo "Fusion codes Valmag"
 ls -ls ${EXPEAN13}
 
 join -t";" -a1 -1 1 -2 1 <(sort "$baseEAN13uniq") <(grep "^[38]" "${EXPEAN13}" | sort) -e' ' -o 1.1,1.2,2.3,2.4,2.5 > "$baseValmagEAN13"
 ls -la ${baseValmagEAN13}
 wc ${baseValmagEAN13}
 
-echo ""
+echo
+baseValmagEAN13uniq=`dirname $0`"/base.ValmagEAN13.code.uniq.csv"
+cut "${baseValmagEAN13}" -c1-28,33- | cut -d";" -f2-3 | sort -u > "${baseValmagEAN13uniq}"
+ls -la ${baseValmagEAN13uniq}
+wc ${baseValmagEAN13uniq}
+
+
+echo
+echo
+echo "Codes couleur :"
+echo "--------------"
+
 baseCOULEUR=`dirname $0`"/base.COULEUR.csv"
 cat `dirname $0`/*/*COULEUR.csv | sort | uniq > ${baseCOULEUR}
 ls -la ${baseCOULEUR}
 wc ${baseCOULEUR}
 
-echo ""
+echo
+echo
+echo "Contrôles :"
+echo "-----------"
+
 baseDOUBLONS=`dirname $0`"/base.DOUBLONS.csv"
 chercheDoublons "$baseProduit" "$baseDOUBLONS"
 ls -la ${baseDOUBLONS}
 wc ${baseDOUBLONS}
 
-echo ""
+echo
 baseANOMALIES=`dirname $0`"/base.ANOMALIES.csv"
 chercheAnomalies "$baseProduit" "$baseANOMALIES"
 ls -la ${baseANOMALIES}
