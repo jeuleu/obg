@@ -1,0 +1,6 @@
+
+Plusieurs couleurs pour un même code 048
+8050846061194;HLESCE01-ECS07-048;p023-1-03;mattone + argento;brick  + silver;catalogo Spring 19.txt; Manico doppia catena a “t”
+8050846061194;HLESCE01-ECS07-048;p023-1-04;rosa smoke + argento;rosa smoke  + silver;catalogo Spring 19.txt; Manico doppia catena a “t”
+8050846061194;HLESCE01-ECS07-048;p023-1-05;grigio chiaro + argento;grigio chiaro  + silver;catalogo Spring 19.txt; Manico doppia catena a “t”
+

@@ -1,0 +1,9 @@
+# Fichier a renommer en .bashrc et a deplacer a la racine utilisateur
+#
+
+alias diy='cd "/c/Users/m312742/OneDrive Entreprise/AF/AF Makerspaces/3D Models/DIY Models"'
+
+
+alias cauto='cd "/c/Users/m312742/Documents/Perso/obg"; source configAutomatisationFacture.bash_rc'
+
+cauto

@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-source `dirname $0`/../configAutomatisationFacture.bash_rc
+source `dirname $0`/../configAutomatisationFacture.bashrc
 
 pdfBoxFile=$AUTO_HOME/PDFBox/pdfbox-app-2.0.13.jar
 

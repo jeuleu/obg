@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-source `dirname $0`/../configAutomatisationFacture.bash_rc
+source `dirname $0`/../configAutomatisationFacture.bashrc
 
 
 awkFile=`dirname $0`/extractionFacture.awk
