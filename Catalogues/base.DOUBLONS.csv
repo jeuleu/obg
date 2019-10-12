@@ -1,110 +1,116 @@
-6a7
+8a9
 > 8050450210629;OBAGS002-TES01-055;nero;black; sacca interna zip O bag mini
-7a9,10
+9a11,12
 > 8050450210636;OBAGS002-TES01-054;naturale;natural; sacca interna zip O bag mini
 > 8050450210643;OBAGS002-TES01-008;bianco;white; sacca interna zip O bag mini
-16a20
+19a23
 > 8050450212388;HLESFC00-ECS08-018;bordeaux;burgundy; manico con fibbia corto
-20a25
+23a28
 > 8050450212425;HLESFC00-ECS08-183;viola;violet; manico con fibbia corto
-21a27,28
+24a30,31
 > 8050450212456;OBAGB001-EVS00-038;grafite;graphite; scocca O bag EVA
 > 8050450212647;OBAGB002-EVS00-038;grafite;graphite; scocca O bag mini EVA
-30a38
+35a43
 > 8050450214153;OBAGB001-EVS00-024;cioccolato;chocolate; scocca O bag EVA
-33a42
+38a47
 > 8050450215624;OBAGB002-EVS00-076;rosso;red; scocca O bag mini EVA
-47a57
+52a62
 > 8050450217581;OBAGB001-EVS00-075;rosa smoke;rose smoke; scocca O bag EVA
-53a64
+58a69
 > 8050450218342;OBAGB002-EVS00-075;rosa smoke;rose smoke; scocca O bag mini EVA
-62a74
+67a79
 > 8050538590667;OBAGB001-EVS00-050;melanzana;aubergine; scocca O bag EVA
-109a122
+114a127
 > 8050846006447;OBAGB001-EVS00-485;atlantic;atlantic; scocca O bag EVA
-169a183
+174a188
 > 8050846014909;HLESAD00-ECS00-017;blu navy;navy blue; manichetto tubolare ecopelle
-173a188
+178a193
 > 8050846016750;OBAGB002-EVS00-485;atlantic;atlantic; scocca O bag mini EVA
-193a209
+198a214,215
 > 8050846030909;HLESAD01-FAS09-008;bianco;white; manichetto tubolare corto +
-194a211,212
 > 8050846030916;HLESAD01-FAS09-055;nero;black; manichetto tubolare corto +
+200a218
 > 8050846030923;HLESAD01-FAS09-137;bluette;bright blue; manichetto tubolare corto +
-217a236
+222a241
 > 8050846035089;HLESAD00-ECS00-018;bordeaux;burgundy; manichetto tubolare ecopelle
-230a250
+235a255
 > 8050846038905;HLESAD01-FAS09-018;bordeaux;burgundy; manichetto tubolare corto +
-236a257
+241a262
 > 8050846039049;OBAGB001-EVS00-389;silver;silver; scocca O bag EVA
-238a260
+243a265,266
 > 8050846039056;OBAGB001-EVS00-463;blu maya;maya blue; scocca O bag EVA
-239a262,263
 > 8050846039063;OBAGB001-EVS00-540;curry;curry; scocca O bag EVA
+245a269,270
 > 8050846039070;OBAGB001-EVS00-541;verde bosco;green forest; scocca O bag EVA
-241a266,267
 > 8050846039087;OBAGB001-EVS00-559;rame;copper; scocca O bag EVA
+247a273,274
 > 8050846039094;OBAGB002-EVS00-024;cioccolato;chocolate; scocca O bag mini EVA
-243a270
 > 8050846039100;OBAGB002-EVS00-389;silver;silver; scocca O bag mini EVA
-245a273
+250a278,279
 > 8050846039117;OBAGB002-EVS00-463;blu maya;maya blue; scocca O bag mini EVA
-246a275,276
 > 8050846039124;OBAGB002-EVS00-540;curry;curry; scocca O bag mini EVA
+252a282,283
 > 8050846039131;OBAGB002-EVS00-541;verde bosco;green forest; scocca O bag mini EVA
-248a279
 > 8050846039148;OBAGB002-EVS00-559;rame;copper; scocca O bag mini EVA
-324a356,357
+316a348
+> 8050846039827;OBAGB034-EVS00-055;nero;black; scocca O bag glam eva
+318a351
+> 8050846039834;OBAGB034-EVS00-071;roccia;rock; scocca O bag glam eva
+324a358
+> 8050846039865;OBAGB034-EVS00-371;latte;milk; scocca O bag glam eva
+331a366
 > 8050846041271;OBAGS033-TES01-055;nero;black; sacca interna zip O bag
+332a368,369
 > 8050846041288;OBAGS033-TES01-017;blu navy;blue navy; sacca interna zip O bag
-326a360
 > 8050846041295;OBAGS033-TES01-054;naturale;natural; sacca interna zip O bag
-558a593
+565a603
 > 8050846062481;OBAGS034-TES01-008;bianco;white; sacca interna zip O bag glam
-567a603
+574a613
 > 8050846062573;OBAGS046-TES01-008;bianco;white; sacca interna zip O bag
-575a612
+582a622
 > 8050846062658;OBAGS033-TES01-008;bianco;white; sacca interna zip O bag
-657a695,696
+605a646
+> 8050846062887;OBAGB034-EVS00-078;sabbia;sand; scocca O bag glam eva
+674a716,717
 > 8050846063464;OBAGB451-ECS07-055;nero;black; scocca completo O bag
 > 8050846063471;OBAGB451-ECS07-371;latte;milk; scocca completo O bag
-659a699
+676a720
 > 8050846063488;OBAGB451-ECS07-017;blu navy;blue navy; scocca completo O bag
-668a709
+685a730
 > 8050846063570;OBAGB451-ECS07-078;sabbia;sand; scocca completo O bag
-702a744
+721a767
 > 8050846082427;HLESGC19-EVS54-055;nero;black; manico corto + goccia eva
-704a747
+723a770
 > 8050846082441;HLESGC19-EVS54-371;latte;milk; manico corto + goccia eva
-1048a1092
+1095a1143
 > 8051770308508;OBAGB001-EVS00-076;rosso;red; scocca O bag EVA
-1050a1095
+1097a1146
 > 8051770308539;OBAGB001-EVS00-018;bordeaux;burgundy; scocca O bag EVA
-1058a1104
+1105a1155,1156
 > 8051770308683;HLESG000-PES00-055;nero;black; manico lungo pelle
-1059a1106,1107
 > 8051770308690;HLESG000-PES00-084;testa di moro;dark brown; manico lungo pelle
+1107a1159
 > 8051770308706;HLESG000-PES00-054;naturale;natural; manico lungo pelle
-1066a1115,1116
+1113a1166
 > 8051770308805;OBAGS001-TES01-054;naturale;natural; sacca interna zip O bag
+1114a1168,1169
 > 8051770308812;OBAGS001-TES01-008;bianco;white; sacca interna zip O bag
-1068a1119
 > 8051770308829;OBAGS001-TES01-055;nero;black; sacca interna zip O bag
-1138a1190
+1188a1244
 > 8056099178610;OBAGB002-EVS00-050;melanzana;aubergine; scocca O bag mini EVA
-1160a1213
+1210a1267
 > 8056300454861;ACCEN001-MTS01-062;oro rosa;pink gold; accessori collana O bag
-1184a1238
+1234a1292
 > 8058047002022;ACCEO114-MAS00-076;rosso;red; aaccessorio portachiavi
-1199a1254
+1249a1308
 > 8058333587646;OBAGB001-EVS00-002;amaranto;amaranth; scocca O bag EVA
-1200a1256,1257
+1250a1310,1311
 > 8058333587677;OBAGS001-TES01-009;blu;blue; sacca interna zip O bag
 > 8058333587820;OBAGB002-EVS00-002;amaranto;amaranth; scocca O bag mini EVA
-1204a1262,1263
+1254a1316,1317
 > 8058983592007;ACCEN001-MTS01-004;argento;silver; accessori collana O bag
 > 8058983592014;ACCEN001-MTS01-061;oro;gold; accessori collana O bag
-1214a1274
+1264a1328
 > 8058983596074;OBAGB002-EVS00-018;bordeaux;burgundy; scocca O bag mini EVA
-1241a1302
+1291a1356
 > 8058983598504;OBAGS002-TES01-009;blu;blue; sacca interna zip O bag mini

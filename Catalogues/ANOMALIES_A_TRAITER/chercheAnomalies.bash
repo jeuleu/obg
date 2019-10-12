@@ -38,22 +38,21 @@ function chercheDoublonsCouleur()
 	doublonsFile="$2"
 	tmpFile1="tmpFile1.txt"
 	tmpFile2="tmpFile2.txt"
+	tmpFile3="tmpFile3.txt"
 	if [[ -e "$doublonsFile" ]]; then
 		rm "$doublonsFile"
 	fi
 	
-	cut -d ";" -f1,3 "$inputFile" | grep -v "CodeBarre" | sort | cut -d ";" -f1 > "$tmpFile1"
+	cut -d ";" -f1,3 "$baseEAN13uniq" | grep -v "CodeBarre" | sort | cut -d ";" -f1 > "$tmpFile1"
 	sort -u "$tmpFile1" > "$tmpFile2"
 	ll tmpFile*
 	wc tmpFile*
-	
-#	cut -d ";" -f1,3 "$inputFile" | grep -v "CodeBarre" | sort | cut -d ";" -f1 > "$tmpFile1"
-#	cut -d ";" -f1 "$tmpFile1" > "$tmpFile3"
-	
-#	cut -d ";" -f1,4 "$inputFile" | grep -v "CodeBarre" | sort -u  | cut -d ";" -f1 > "$tmpFile2"
-#	cut -d ";" -f1 "$tmpFile2" > "$tmpFile4"
 
-	diff "$tmpFile1" "$tmpFile2" > "$doublonsFile"
+	diff "$tmpFile1" "$tmpFile2"  | grep -v "^[0-9,]*[ad][0-9]*" | cut -d " " -f2- > "$tmpFile3"	
+#	"$doublonsFile"
+
+	join -t";" -1 1 -2 1 <(sort tmpFile3.txt) <(sort "$baseProduit") -e "HJH" -o 1.1,2.2,2.3,2.4,2.5,2.6,2.7
+
 	
 #	rm "$tmpFile1" "$tmpFile2"
 	
@@ -97,6 +96,7 @@ function chercheAnomalies()
 
 
 echo "Creation des bases de synthèse"
+baseEAN13uniq=`dirname $0`"/../base.EAN13.uniq.csv"
 baseProduit=`dirname $0`"/../base.PRODUIT.csv"
 
 

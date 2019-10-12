@@ -67,3 +67,6 @@ function winter2018presentation_catalogowinter18() {
 #	start excel ../Catalogues/Inconnu
 #}
 
+echo "Essai d'impression"
+winter2018presentation_catalogowinter18
+echo "Fin d'impression"
